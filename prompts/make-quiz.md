@@ -1,0 +1,1 @@
+From synthesis/<topic>/ (and the facts file if needed), write 5 OSCE-style cases. Present history and exam first, ask for the DDx, reveal investigations only after. Give an answer key with why / why not. Add 5 short recall questions from the facts file. In the answer key, state whether each source is ai-generated or human-verified.

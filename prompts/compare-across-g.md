@@ -1,0 +1,1 @@
+Read digests/<topic>/ and facts/<topic>/_merged.md only. Write synthesis/<topic>/<topic>.md: a comparison table (symptom character, key exam findings, risk factors, first action) across the diagnoses, plus 3 "how to tell them apart" points. List the sources in built_from. Do not add facts not in the sources. This file needs a second person's approval before merging.

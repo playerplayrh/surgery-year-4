@@ -1,0 +1,1 @@
+Read the note at <path>. If it is under about 400 words, tell me no digest is needed. Otherwise write a digest using templates/digest.md: max 450 words, keep every pearl, every DDx diagnosis with its discriminating feature, and every surgical indication. Include the "Left out" line. Use only facts in the note.
