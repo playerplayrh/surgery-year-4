@@ -44,6 +44,7 @@ facts/<topic>/ one file per batch, plus _merged.md (generated)
 exams/<set>/   exam.md plus images/
 digests/<topic>/   synthesis/<topic>/   textbook-map/<topic>.md
 ward-guide/    survival guides and rotation tips
+textbook/<book>/   full textbook extractions: _manifest.md, chapter files, images/
 scripts/       validate.py, build_facts.py (standard library only)
 tests/         tests for the scripts, invented sample data only
 Survival Guide/  the three survival guides as received

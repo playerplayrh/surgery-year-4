@@ -19,6 +19,11 @@ templates/front-matter.md.
 - Exams: a set must be a General Surgery exam. Subspecialty questions stay out. Keep the
   original numbers of the questions you do file, so gaps are fine. Add the line
   `Omitted (subspecialty): Q31-Q60` under the front-matter of the exam file.
+- **Exception: textbook extractions** (textbook/<book>/) cover the whole book, subspecialty
+  chapters included, so the book is never processed twice. Subspecialty chapters are kept
+  apart: file name `<nn>-subspe-<slug>.md`, topic `subspecialty-<rotation>` (colorectal, neuro,
+  cvt, plastic, uro, ped), never a G topic, and not listed in the INDEX.md topic vocabulary.
+  The rules for the extraction are in the instructions given to the extractor.
 
 ## Privacy (hard rules)
 - Never write or keep **patient** names, HN/AN, birthdates, exact dates, ward/bed numbers,

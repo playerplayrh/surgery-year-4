@@ -1,0 +1,161 @@
+TEXTBOOK EXTRACTION FOR OUR SURGERY REPO (Chula Surgery 1 and 2)
+==================================================================
+
+Hi! This is for our shared surgery study repo. You will use your Claude Code (Max plan) to turn
+the two scanned Chula Surgery textbooks into text and figures inside the repo, so nobody ever
+needs to open the PDFs again.
+
+BEFORE WE START
+- Install Claude Code (or use the Code tab of the Claude desktop app).
+- Have a GitHub account, and send me your GitHub username so I can invite you to the repo.
+- The two PDFs (Chula Surgery 1.pdf, Chula Surgery 2.pdf) are in this Google Drive folder:
+  https://drive.google.com/drive/folders/1SQQviY5qkMazhDZzDUdbWb9nCIcwNKI5?usp=share_link
+
+WHAT TO DO (after I tell you the invitation is sent)
+1. Open Claude Code in any empty folder. Copy everything between the PART 1 lines below and paste
+   it as your first message. Claude will set up GitHub and download the repo with you.
+2. When Part 1 is finished, quit Claude Code and start it again INSIDE the "surgery-year-4"
+   folder it created.
+3. Copy everything between the PART 2 lines and paste it. Do this once per book: first with
+   BOOK = chula-black-1, later in a new session with BOOK = chula-black-2.
+4. Claude will stop and ask you things along the way (the chapter map, installs, pull requests).
+   Answer it. It will never need your password or token in the chat: if it asks, say no.
+
+
+===================== PART 1: COPY FROM THE NEXT LINE =====================
+Set me up for the "Surgery Year 4" study repo.
+
+CONTEXT
+I'm an MDCU Year 4 student. Our group pools surgery study material in a private GitHub repo owned by `playerplayrh`: https://github.com/playerplayrh/surgery-year-4 . I have been invited as a collaborator. You are Claude Code with shell access. Do each step yourself where you can. Only ask me to act when it needs my browser, my GitHub account, or a decision. Go one step at a time and tell me briefly what you did and what is next.
+
+HARD RULES
+- Never ask me to paste a token or password into this chat, and never write credentials into any file. If a login is needed, I type it only into the terminal or browser prompt.
+- Never push to `main`.
+- Ask before installing any software.
+
+STEPS
+1. Check my machine: OS, `git --version`, `python3 --version` (need Python 3.8 or newer; on Windows it may be `python`), and `gh --version` (GitHub CLI). Tell me what is missing. With my OK, install what is missing using the normal tool for my OS (Homebrew on macOS, winget on Windows).
+2. Tell me to accept my collaborator invitation at https://github.com/playerplayrh/surgery-year-4/invitations (or from the invitation email). Wait until I say it is accepted.
+3. Sign me in to GitHub with the browser flow: run `gh auth login` (choose GitHub.com, HTTPS, "Login with a web browser") and then `gh auth setup-git`. Verify with `gh auth status`. Do NOT use a fine-grained token: it does not work for a repo I only collaborate on. If GitHub CLI cannot be installed, the fallback is a classic token with the `repo` scope that I create at github.com/settings/tokens and type only when git asks for a password in the terminal.
+4. Git identity: run `git config --global user.name` and `user.email`. If either is empty, ask me for my name and the email on my GitHub account, then set them. Do not invent values.
+5. Ask me which folder to clone into (suggest my Documents folder), then run `gh repo clone playerplayrh/surgery-year-4`. Confirm `git remote -v` points at that repo and the branch is `main`.
+6. Check the tooling works: inside the repo run `python3 -m unittest discover -s tests` (all tests should pass) and `python3 scripts/validate.py` (should report 0 errors). If either fails, show me the output and stop.
+7. Tell me setup is done, and tell me to quit and restart Claude Code from inside the `surgery-year-4` folder before pasting the next instructions.
+===================== PART 1: END (do not copy this line) =====================
+
+
+===================== PART 2: COPY FROM THE NEXT LINE =====================
+BOOK = chula-black-1          (use chula-black-2 for "Chula Surgery 2")
+PDF  = "Chula Surgery 1.pdf"  (use "Chula Surgery 2.pdf" for book 2; if the file name differs, use the real name)
+
+You are extracting a scanned textbook into this repo (surgery-year-4). Read CLAUDE.md, README.md, INDEX.md and textbook-map/_keys.md first; their rules apply, including the "Exception: textbook extractions" rule in CLAUDE.md. The pages are images, so this is OCR by vision. I have a Max plan: be exhaustive and careful rather than fast. The goal: after you finish, no person or AI agent ever needs to open the PDF again. Everything the book says, shows, or tabulates must be in the repo as text, plus the figures as separate image files with full descriptions.
+
+HARD RULES
+- Never commit the PDF or full-page renders. Only cropped figures go into the repo. Git already ignores sources/**/*.pdf.
+- Never push to main. Use branches and pull requests.
+- Transcribe VERBATIM, in the language printed (Thai stays Thai, English stays English). Do not translate, summarise, shorten, correct, reorder meaning, or add anything from your own knowledge. Never write "..." or "etc." or "similar to above" for text that is on the page.
+- If you cannot read something with certainty, write [unclear: your best reading] or [illegible]. Never guess silently.
+- Extract EVERY chapter, subspecialty chapters included (Colorectal, Neuro, CVT, Plastic, Uro, Ped), so the book is processed only once. Keep subspecialty chapters apart from General Surgery: file name <nn>-subspe-<slug>.md and topic subspecialty-<rotation> (subspecialty-colorectal, subspecialty-neuro, subspecialty-cvt, subspecialty-plastic, subspecialty-uro, subspecialty-ped). General Surgery chapters use a topic from INDEX.md. If you are unsure whether a chapter is General Surgery or a subspecialty, ask me.
+- Patient identifiers: if any figure shows a face, name, HN/AN, date, or ID label, do not store it. Write "[figure withheld: identifiers]" at its place in the text instead.
+- Ask before installing anything.
+
+SETUP
+1. Download the PDF from the Google Drive folder https://drive.google.com/drive/folders/1SQQviY5qkMazhDZzDUdbWb9nCIcwNKI5?usp=share_link (also linked in sources/README.md) and put it at sources/textbooks/<PDF>. Check it opens and tell me its page count.
+2. With my OK, install PyMuPDF (python3 -m pip install pymupdf) and Pillow if needed.
+3. Make a scratch folder OUTSIDE the repo (for example ~/extract-scratch/<BOOK>/) for page renders, crops in progress, and any helper scripts. Nothing from it is committed.
+
+PHASE 1: MAP THE BOOK (one pull request)
+1. Render the table-of-contents pages and every chapter's first page at about 150 dpi and look at them.
+2. Build the chapter map: PDF page ranges, chapter titles exactly as printed, and for each chapter: General Surgery or which subspecialty, and its topic (General Surgery: reuse a topic from INDEX.md, create a new one only if none fits, per CLAUDE.md; subspecialty: subspecialty-<rotation>).
+3. Create textbook/<BOOK>/_manifest.md exactly in this format:
+
+   # Manifest: <book title as printed>
+   Total pages: <N>
+   PDF: sources/textbooks/<PDF> (page numbers below are PDF pages, starting at 1)
+
+   | pages | file | status | figures | notes |
+   | --- | --- | --- | --- | --- |
+   | 1-6 | — | cover-or-toc | 0 | cover, preface, contents |
+   | 7-40 | — | pending | 0 | Ch.1 <title as printed>, General Surgery, topic: <topic> |
+   | 41-75 | — | pending | 0 | Ch.2 <title as printed>, subspecialty: Neuro |
+
+   Status is one of: pending, extracted, blank, cover-or-toc, skipped-other. The rows must cover every page from 1 to N exactly once. Use skipped-other only with my OK, and say why in notes.
+   Also transcribe the table of contents verbatim into textbook/<BOOK>/00-contents.md (same file format as the chapters below, topic: textbook-contents), so agents can navigate.
+4. Show me the chapter map and wait for my OK before Phase 2. Then branch extract/<BOOK>-map, commit, push, open the PR.
+
+PHASE 2: EXTRACT, CHAPTER BY CHAPTER
+One chapter = one file, textbook/<BOOK>/<nn>-<slug>.md (nn = 01, 02 ... in book order; slug = short English kebab-case of the chapter title; subspecialty chapters <nn>-subspe-<slug>.md). Split a chapter over about 40 pages into -part-1, -part-2 files, each covering whole pages.
+
+File format:
+---
+id: <BOOK>-<nn>-<slug>
+type: textbook-extract
+topic: <topic>
+group: cross
+source: textbook
+author: <my GitHub username>
+date: <today YYYY-MM-DD>
+status: ai-generated
+verified_by:
+book: <BOOK>
+pages: <first>-<last>          (PDF pages)
+references: ["<BOOK> pp.<first>-<last>"]
+---
+
+# <Chapter title exactly as printed>
+
+## Contents of this file
+- <each heading in this file> (p.<PDF page>)
+
+<!-- p.<first> (printed <printed page number, if any>) -->
+...verbatim content of that page...
+
+<!-- p.<first+1> (printed ...) -->
+...
+
+Rules for the text:
+- Every PDF page in the range gets exactly one page marker, in order, even if the page is only a figure.
+- Keep the book's heading levels (## for main headings, ### and #### below), lists, numbering, bold and italics.
+- Tables become Markdown tables with every cell transcribed. If a table has merged cells or is too complex for Markdown, transcribe it as the clearest equivalent (nested list, or one table per block) AND also save it as a figure.
+- Flowcharts and algorithms: transcribe as nested lists with arrows (A → B; if X → C), every box and every arrow label, AND save the figure.
+- Drop running headers, footers and page numbers (the printed page number goes in the marker). Keep footnotes at the end of their page block. Keep reference lists.
+- Text that runs across pages is cut at the page marker. Do not move it.
+
+Figures (photos, X-rays, CT, drawings, diagrams, charts, complex tables):
+- Render the page at 300 dpi in the scratch folder, find the figure's bounding box by looking, crop it, view the crop, and adjust until it contains the whole figure with its labels and nothing else.
+- Save it to textbook/<BOOK>/images/<BOOK>-p<page, 3 digits>-<k>.<ext> (k = 1, 2 ... in reading order on that page). Use JPG (quality about 85) for photos and scans, PNG for line drawings. Longest side at most 1600 px. Aim for under 400 KB per image.
+- Put it in the text where it appears on the page, followed immediately by this block. Every line is required:
+
+![<short label, e.g. Figure 3.2 CT abdomen>](images/<file name>)
+
+> **Caption (verbatim):** <the printed caption, or "none">
+> **Text in image (verbatim):** <every label, arrow text, axis title, legend, or "none">
+> **Description:** <what the image shows, for a reader who cannot see it: type of image, view or plane, structures, labelled parts, arrows and what they point to, chart axes, values and trend. Describe only what is visible or stated in the book. Do not diagnose beyond what the book says.>
+> **Identifiers in image:** none
+
+Work loop for each chapter (resume from the manifest if a session restarts):
+1. Create branch extract/<BOOK>-<nn>-<slug>.
+2. Work in batches of about 5 pages: render each page at 200-300 dpi. If text is small or dense, also look at zoomed crops (halves or quarters of the page) before transcribing. Write each page into the file as soon as it is done.
+3. Verification pass for each page, right after writing it: compare the page image with your text line by line. Check specifically every number, unit, dose, and percentage; every negation (ไม่, not, no, never); every drug and disease name; and table cell alignment. Fix what differs.
+4. Crop and describe the figures for those pages.
+5. When the chapter is done, update its manifest row: file name, status extracted, number of figures, notes.
+6. Self-check (write a small checker script in the scratch folder and run it every time):
+   - page markers in the file run through every page of 'pages' exactly once, in order;
+   - every image link points to an existing file, named for the page it sits under;
+   - every figure has all four block lines, and "Identifiers in image" says none;
+   - every file in images/ is used by some chapter file;
+   - the manifest rows cover 1..N exactly once, and its figure counts match the files.
+   Also run python3 scripts/validate.py (must report 0 errors).
+7. Spot check: re-open 3 random pages of the chapter (5 if it is over 40 pages), compare them with the text once more, and report to me any fixes.
+8. Add or update a row in INDEX.md under a "## Textbooks" section (add the section if missing): | <BOOK> | <file> | pages | topic | status |.
+9. Commit (check with git status that no PDF or page render is staged), push the branch, open a PR. Tell me the PR link and the chapter's page and figure counts. Merge only when the validate check is green.
+10. After every chapter, check du -sh textbook/. If the images of both books together pass 800 MB, stop and tell me before going on.
+
+PHASE 3: FINISH
+- When no page is "pending", run all checks over the whole book and tell me: pages extracted, figures saved, figures withheld, total image size, and every [unclear] or [illegible] left, with page numbers.
+- Never mark anything human-verified. A second person verifies later.
+
+If my usage limit is near, finish the current page, update the file and manifest, commit locally, and tell me where to resume.
+
+Start with SETUP step 1.
+===================== PART 2: END (do not copy this line) =====================

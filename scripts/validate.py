@@ -501,12 +501,18 @@ def scan_identifiers(root, rep):
 
 
 def flag_images(root, rep):
+    textbook_images = 0
     for p in sorted(root.rglob("*")):
-        if ".git" in p.relative_to(root).parts:
+        rel = p.relative_to(root)
+        if ".git" in rel.parts or not p.is_file() or p.suffix.lower() not in IMAGE_EXTS:
             continue
-        if p.is_file() and p.suffix.lower() in IMAGE_EXTS:
-            rep.warn(p.relative_to(root).as_posix(),
-                     "image: check by eye for faces, names, labels, ID bands, HN/AN, dates")
+        if rel.parts[0] == "textbook":
+            textbook_images += 1  # one summary line instead of thousands of warnings
+            continue
+        rep.warn(rel.as_posix(), "image: check by eye for faces, names, labels, ID bands, HN/AN, dates")
+    if textbook_images:
+        rep.note("textbook/", f"{textbook_images} textbook figures; the extractor attests 'Identifiers in "
+                              "image: none' for each. Spot-check some by eye")
 
 
 def git(root, *args):
