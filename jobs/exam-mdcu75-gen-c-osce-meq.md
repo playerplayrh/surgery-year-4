@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1rPtrb7Cwz8NF0o8UKuSZfeFbcXcR9O4u
 source: "Drive: Surgery Group/job-files/exam-mdcu75-gen-c-osce-meq/paper - AC OSCE+MEQ Surgery MDCU75 Rotate C.docx"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu75-gen-c-osce-meq/key - Solution AC OSCE+MEQ Surgery MDCU75 Rotate C By JOB MDCU76.pdf"]
 output: exams/mdcu75-gen-c-osce/exam.md, exams/mdcu75-gen-c-meq/exam.md
-checkpoint: OSCE Q1-10 done (OSCE complete), next MEQ Q1
+checkpoint: OSCE done; MEQ Q1-6 done, next MEQ Q7
 updated: 2026-10-12
 ---
 
