@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1MJIWusspVbdFlxjraz1A9k9JR6J-dEVv
 source: "Drive: Surgery Group/job-files/exam-mdcu76-gen-c-mcq/paper - [Rotate C MDCU76] AC general surgery.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu76-gen-c-mcq/key - Solution by Academic team [Rotate C MDCU76] AC general surgery.pdf"]
 output: exams/mdcu76-gen-c-mcq/exam.md
-checkpoint: Q1-38 done, next Q39
+checkpoint: Q1-51 done, next Q52
 updated: 2026-10-12
 ---
 

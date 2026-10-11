@@ -488,3 +488,149 @@ C. Dumping syndrome
 **Answer:** C
 **Explanation:** key: fluid loss from hyperosmolarity in the jejunum.
 **Guideline / source:** not stated
+
+## Q39 (original no. 39)
+Patients will develop Short bowel syndrome after small bowel resection, ifthe remaining bowel isshorter than….
+
+A. 360 c
+B. 300 cm
+C. 200 cm
+D. 100 cm
+E. 60 cm
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q40 (original no. 40)
+What are the Borders of femoral hernia
+
+A. Inguinal ligament, Lacunar ligament, Femoral vein
+B. Inguinal ligament, Femoral vein, Femoral artery
+
+**Answer:** A
+**Explanation:** the key pastes an anteroposterior view of the groin anatomy.
+**Guideline / source:** not stated
+
+## Q41 (original no. 41)
+45 y/o female with 2 cm breast cancer, no clinical nodes or metastasis. Wishes to conserve her breast. What is the most appropriate treatment?
+
+A. Wide excision + SLNB
+B. Mastectomy + SLNB
+C. Mastectomy + ALND
+
+**Answer:** A
+**Explanation:** key: T2N0M0; no contraindication to BCT + RT, and SLNB is done as well.
+**Guideline / source:** not stated
+
+## Q42 (original no. 42)
+What is the most appropriate management in a patient with Irreducible Hernia which is painful,and tender, and having a fever?
+
+A. Attempt reduction in clinic
+B. Observe + antibiotics
+C. Groin explore, bowel resection, hernia repair
+
+**Answer:** C
+**Explanation:** key: fever as well → suspect strangulated.
+**Guideline / source:** not stated
+
+## Q43 (original no. 43)
+Patient S/P peptic ulcer, After surgery which involves upper abdomen incision, hernia protrudes at that incision site, what is the most likely diagnosis?
+
+A. Umbilical hernia
+B. Incisional hernia
+C. Sliding hernia
+
+**Answer:** B
+**Explanation:** key: from an abdominal wall defect at the incision site.
+**Guideline / source:** not stated
+
+## Q44 (original no. 44)
+20 y/o male and a abdominal pain at RLQ, undergo appendectomy, เจอว่าไส้ติ่งปกติต้องหาอะไรต่อ
+
+A. Meckel's diverticulitis
+B. Cecal diverticulitis
+
+**Answer:** A
+**Explanation:** key: the age group fits. The key pastes a Thai passage on negative appendectomy.
+**Guideline / source:** not stated
+
+## Q45 (original no. 45)
+Patient with Pain at epigastrium, radiate to back and shoulder, board like rigidity.Which one is the most likely diagnosis?
+
+A. Perforated duodenal ulcer
+B. Acute pancreatitis
+C. Aortic aneurysm
+
+**Answer:** A
+**Explanation:** key: guarding, pain spreading to back and shoulder, sudden pain. B: unless severe with hemorrhage there should be no guarding, as the pancreas is a retroperitoneal organ. C: would show other signs, such as hypotension (handwriting partly [unclear]).
+**Guideline / source:** not stated
+
+## Q46 (original no. 46)
+Which patient may undergo elective AAA repair surgery?
+
+A. 55 years old patient with aneurysm, size of 4 cm
+B. 5.0 cm Aneurysm with pain and tachycardia
+C. 70 year, Male, 6.0 cm aneurysm, no symptom
+D. 80 year, Female, 5.0 cm aneurysm, no symptom
+
+**Answer:** C
+**Explanation:** key: B → emergency; repair at AAA size > 5.5 cm in male, > 5.2 cm in female.
+**Guideline / source:** not stated
+
+## Q47 (original no. 47)
+Intravascular volume ของผู้ชายหนัก70 kg
+
+A. 1.0 - 2.5 L
+B. 2.5 - 3.5 L
+C. 3.5 - 5.0 L
+D. 5.0 - 7.5 L
+E. 7.5 - 10 L
+
+**Answer:** B
+**Explanation:** key: intravascular = 5% BW = 5/100 × 70 = 3.5 L. Pasted chart: total body water 60% BW (intracellular 40%, interstitial 15%, intravascular 5%).
+**Guideline / source:** not stated
+
+## Q48 (original no. 48)
+What is the most important Proinflammatory cytokine after accident
+
+A. IL4
+B. IL10
+C. IL13
+D. IL1 TNF-alpha IFN-gamma
+
+**Answer:** D
+**Explanation:** the key pastes a table of cytokines, their main cellular sources, effects and overall effect (pro- or anti-inflammatory).
+**Guideline / source:** not stated
+
+## Q49 (original no. 49)
+Patient presents with Severe abdominal pain, mild tender, no guarding, irregular radial pulse, what isthe most likely diagnosis?
+
+A. Acute mesenteric ischemia
+B. Small bowel obstruction
+
+**Answer:** A
+**Explanation:** key: arrhythmia, which can cause emboli.
+**Guideline / source:** not stated
+
+## Q50 (original no. 50)
+Patient undergoes the ultrasound which reveals Thickened Gallbladder without stone, what isthe most likely diagnosis?
+
+A. Choledocholithiasis
+B. stoneless cholecystitis
+C. CA Gallbladder
+
+**Answer:** B
+**Explanation:** key: a thickened gallbladder is a sign of cholecystitis; choledocholithiasis = gallstone in CBD.
+**Guideline / source:** not stated
+
+## Q51 (original no. 51)
+What are the Cholesterol stone composition?
+
+A. Cholesterol, Lecithin, Bile acid
+B. Cholesterol, Bile acid, Calcium
+C. Cholesterol, Bile acid, Bilirubin
+
+**Answer:** A
+**Explanation:** the key pastes the equilibrium phase diagram of biliary lipids (cholesterol, phosphatidylcholine, bile salt) and notes phosphatidylcholine is the major component of lecithin.
+**Guideline / source:** not stated
