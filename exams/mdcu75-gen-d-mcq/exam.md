@@ -279,3 +279,123 @@ B. Gender
 **Answer:** B
 **Explanation:** not stated. Same topic as Q12.
 **Guideline / source:** not stated
+
+## Q21 (original no. 21)
+ไม่ให้ liver transplant ใคร
+
+A. 2 yo biliary atresia
+B. 22 yo drug induced cirrhosis
+C. 33 yo hepatitis c cirrhosis
+D. 44 yo male alcoholic cirrhosis
+E. 55 yo NASH
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q22 (original no. 22)
+เอาตับเก่าออก เอาตับใหม่ใส่เข้าไปที่เดิม เรียกว่าอะไร
+
+A. Orthotopic transplant
+B. Heterotopic transplant
+
+**Answer:** A
+**Explanation:** not stated. Same question as Q27.
+**Guideline / source:** not stated
+
+## Q23 (original no. 23)
+38 yo male with isolated liver laceration and intraabdominal bleeding from blunt injury, BP 90/60, HR 110 what is the most common acid base status/cause in this patient?
+
+A. Metabolic acidosis/ ketoacidosis
+B. Metabolic acidosis/ lactic acidosis
+C. Metabolic alkalosis/ volume loss
+D. Respiratory acidosis/ hypoventilation
+E. Respiratory alkalosis/ hyperventilation
+
+**Answer:** B
+**Explanation:** not stated. Same question as Q6 and Q30.
+**Guideline / source:** not stated
+
+## Q24 (original no. 24)
+50 yo mass 3 month เวลายืน protruded เวลานอน reduced มี surgical scar จาก total hysterectomy ให้ทำ valsava maneuver มี 3 cm mass ออกมาที่ตำแหน่ง scar เป็น hernia แบบไหน
+
+**Answer:** incisional hernia (key: "Ans Incisional hernia")
+**Explanation:** no choices are recalled.
+**Guideline / source:** not stated
+
+## Q25 (original no. 25)
+U/D DM, renal insuf รักษา ulcer ที่ lt. foot มา 3 อาทิตย์เป็น dry, no granulation จากนั้นมาด้วย pulsatile mass at left epigastrium to umbilical area. What investigation?
+
+A. colonoscopy
+B. CT
+C. CTA
+D. thallium scan
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q26 (original no. 26)
+Which of the following is true about laparoscopic surgery
+
+A. Preoperative preparation is not as rigorous in lap as in open surgery
+B. Lower risk of DVT than open surgery
+C. NG tube and foley catheter are unnessessary
+D. Abodomen should be prepared and draped for potential laparotomy
+E. Spinal anesthesia is sufficient and reduce use of GA
+
+**Answer:** B
+**Explanation:** the key marks B with a light tick and marks A, C, D and E wrong; it puts a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q27 (original no. 27)
+Liver transplantation, the native liver is removed and replaced with donor's liver, this procedure is called?
+
+A. Orthotropic transplant
+B. Heterotropic transplant
+C. Allogenic transplant
+D. Xenographic transplant
+E. Free graft transplant
+
+**Answer:** A
+**Explanation:** not stated. Same question as Q22.
+**Guideline / source:** not stated
+
+## Q28 (original no. 28)
+ผู้ป่วยมาด้วย painless progressive jaundice ถามว่าไม่น่าจะเกิดจากข้อใด
+
+A. CA head of pancreas
+B. CA porta hepatis
+C. CA 1st part of duodenum
+D. CA ampulla
+E. CA distal bile duct
+
+**Answer:** C
+**Explanation:** key: periampullary cancer; B น่าจะหมายถึง perihilar CCA; on C, "1st" is overwritten "2nd" (the 2nd part of the duodenum would be periampullary). Same question as Q35.
+**Guideline / source:** not stated
+
+## Q29 (original no. 29)
+A 38 obese female, presents with retro sternal burning pain, epigastric discomfort, repeated regurgitation. Worse after eating spicy, fatty foods and by bending forwards. Occasionally respiratory infection
+
+A. Achalasia cardia
+B. Pharyngeal diversum
+C. Cancer of esophagus
+D. Diffuse esophageal spasm
+E. GERD
+
+**Answer:** E
+**Explanation:** key: occasional respiratory infection is from aspiration.
+**Guideline / source:** not stated
+
+## Q30 (original no. 30)
+A 39 male intraabdominal bleeding BP 90/60 mmHg PR 110/min,what is most likely acid-base status/cause
+
+A. Met.acido/ketoacidosis
+B. Met.acido/lactic acidosis
+C. Met.alkalo/volume depletion
+D. Resp.alkalo/hypervent
+E. Resp.acido/hypovent
+
+**Answer:** B
+**Explanation:** not stated. Same question as Q6 and Q23.
+**Guideline / source:** not stated
