@@ -358,6 +358,17 @@ class Exams(RepoCase):
         self.write("exams/set-a/exam.md", EXAM.replace("exam_set: set-a", "exam_set: set-b"))
         self.assertFails("must equal the folder name")
 
+    def test_recalled_paper_may_have_fewer_options(self):
+        short = EXAM.replace("B. Beta\nC. Gamma\nD. Delta\n", "C. Gamma\n")
+        self.write("exams/set-a/exam.md", short)
+        self.assertIn("allowed because the paper is recalled", self.assertPasses())
+        self.write("exams/set-a/exam.md", short.replace("source: exam-recall", "source: mixed"))
+        self.assertFails("needs at least 4 options")
+        none = EXAM.replace("A. Alpha\nB. Beta\nC. Gamma\nD. Delta\n", "").replace(
+            "**Answer:** C\n**Explanation:** Invented reasoning.", "**Answer:** invented free text\n**Explanation:** Invented reasoning.")
+        self.write("exams/set-a/exam.md", none)
+        self.assertPasses()
+
     def test_answer_source_student_key_allowed(self):
         self.write("exams/set-a/exam.md", EXAM.replace("answer_source: recalled", "answer_source: student-key"))
         self.assertPasses()
