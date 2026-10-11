@@ -103,3 +103,66 @@ most likely diagnosis: not written in the key
 2. Surgical treatment of skin cancer. (1) Primary excision (wide excision): ตัดเอาเนื้อดีรอบ ๆ ออกไปด้วย; basal cell carcinoma = ขอบ 0.5 cm + f/u ไม่ต้องเลาะ LN; squamous cell carcinoma = ขอบ 1 cm; malignant melanoma = แล้วแต่ deepest invading malignant melanocyte. (2) Moh's micrographic surgery: ใช้เมื่อต้องการสงวน tissue ex. หน้า; ตัดทีละ MM + ดู frozen section เดี๋ยวนั้น ทำไปเรื่อย ๆ; high cure rate; เสียเวลา ราคาแพง ต้องใช้เฉพาะทาง
 **Explanation:** not stated
 **Guideline / source:** not stated
+
+## Q7 (original no. 7)
+ภาพ ultrasound gall stone โง่ๆอันนึง
+1. จงบรรยาย
+2. Dx
+3. Tx
+
+**Answer:**
+1. distended gallbladder; thickened gallbladder wall; pericholecystic fluid; hyperechoic mass with posterior acoustic shadow
+2. not written in the key
+3. Treatment of gallstone. Asymptomatic: ไม่ควรผ่าตัด เพราะ risk จากการผ่าตัดสูงกว่า risk ที่จะเกิด symptomatic gallstone (2% / year); ยกเว้น ใหญ่กว่า 2 cm, cirrhosis, DM, porcelain gallbladder, risk of CA, จะผ่าอย่างอื่นอยู่แล้ว → cholecystectomy; นอกนั้นใช้ expectant management (watchful waiting). Symptomatic: surgical cholecystectomy
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q8 (original no. 8)
+ภาพ gangrene ที่นิ้วก้อยกับด้านในเท้าข้างขวา แล้วให้ตาราง blood flow ของเส้นเลือดที่เท้ามา
+1. จงบรรยาย
+2. Dx และ location (น่าจะหมายถึงเส้นเลือดไหน)
+3. -
+
+**Answer:** not answered in the key (the key crosses this question out)
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q9 (original no. 9)
+ให้ภาพมาสาม view PA, Water, Panoramic เห็น mandible ramus หัก
+1. แต่ละภาพชื่อ view อะไร
+2. Dx
+3. Tx
+
+**Answer:**
+1. PA mandible; Water's view; Panoramic (pictures pasted)
+2. not written in the key
+3. ORIF = open reduction with plate and screws & internal fixation + MMF = maxillomandibular fixation
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q10 (original no. 10)
+คุณป้ามาด้วยปวดหลัง ให้คลิปตรวจร่างกายมาเป็นคุณป้านั่งอยู่บนเก้าอี้แล้วงอเข้าขึ้น ยกเข่าซ้ายได้ ต้านได้ ยกเข่าขวาได้แต่ต้านแรงไม่ได้
+1. ตรวจกล้ามเนื้ออะไร
+2. ให้ grade ทั้งสองข้าง
+
+**Answer:**
+1. iliopsoas muscle
+2. ซ้าย grade V / ขวา grade III
+**Explanation:** the key pastes handwritten notes on motor power grading (0 to 5) and reflexes, and charts of root values for key movements.
+**Guideline / source:** not stated
+
+## Q11 (original no. 11)
+ให้ภาพเคาะ brachioradialis reflex
+1. ถาม muscle
+2. ถาม nerve root
+
+**Answer:**
+1. brachioradialis muscle
+2. C6
+**Explanation:** the key pastes a "Clinical reflexes" summary (Achilles S1, S2; patellar L2-L4; biceps and brachioradialis C5, C6; triceps C6, C7, C8; cremasteric L1, L2; anal wink S3, S4; reflex grading 0 to 4+). The key adds extra charts (dermatomes and myotomes, breast imaging by age, axillary node scores) and says they were not in the exam: (อันนี้ไม่มีให้ในข้อสอบ เอามาแปะให้ในแอคเฉยๆ).
+**Guideline / source:** not stated
+
+## Flagged for checking
+- Q3: the stem says the mass and nodes suggest cancer, but the key gives no "most likely diagnosis". What is the expected answer?
+- Q4: the key's plan says "NPO + TPN + decompression". Is TPN (rather than IV fluids) what was meant?
+- Q11: the key's answer is C6, and its pasted summary says "biceps and brachioradialis reflexes = C5, C6". Which root does the exam expect?
