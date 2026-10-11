@@ -19,8 +19,8 @@ answer_source: student-key
 
 Source: "AC MCQs GenSx (Rotation A MDCU76)", questions recalled by students; the numbers are the
 paper's own. The paper numbers two different questions "9"; the second is kept below under its own
-heading ("Second question numbered 9") so that no number is changed. Number 51 has no options
-lettered differently; number 58 has no choices.
+heading ("Second question numbered 9") so that no number is changed. Q41 is a picture with no
+stem text; Q58 has no choices.
 Stems and choices are as students recalled them, in their own words. Choices the paper does not
 list are not added.
 Answers: "Keyบ้านๆ AC GenSx 76 Rotate A", a student's annotated copy that circles the chosen choice
