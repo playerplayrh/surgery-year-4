@@ -187,3 +187,170 @@ B. Smooth muscle
 **Answer:** A
 **Explanation:** key: keyword GIST.
 **Guideline / source:** not stated
+
+## Q14 (original no. 14)
+โจทย์ compensated chornic HBV cirrhosis มี ascites, albumin 2.1 ให้ total bilirubin, มี jaundice, esophageal variceal bleeding ( เป็น Child pugh B) ให้เลือกข้อที่น่าจะทำในคนนี้
+
+A. Diuresis
+B. Antiviral
+C. Albumin IV
+D. Paracentesis
+E. Liver transplant
+F. Interferon treatment
+
+**Answer:** A, C and D (the key shades all three; B, E and F marked ✗)
+**Explanation:** not stated beyond the marks.
+**Guideline / source:** not stated
+
+## Q15 (original no. 15)
+Rectal cancer + prostate metastasis
+
+A. ตัดทั้ง rectal and prostate ในครั้งเดียว
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q16 (original no. 16)
+Indirect inguinal hernia
+
+A. Invagination ชน ปลายนิ้ว
+B. Invagination ชนข้างนิ้ว
+C. Occlusion test positive
+D. Cant get above mass
+
+**Answer:** A, C and D (the key shades all three)
+**Explanation:** key: a note under C is [unclear]. Compare Q12.
+**Guideline / source:** not stated
+
+## Q17 (original no. 17)
+Female, 60 yo. Achalasia, failed balloon dilation
+
+A. Modified Heller with fundoplication
+B. Nelson
+C. Botulinum
+D. Peroral endoscopic myometry (POEM)
+E. Esophagectomy
+
+**Answer:** D
+**Explanation:** key: POEM has the least risk; Heller (lap myotomy) is also reasonable; botulinum is palliative (handwriting very small, partly [unclear]). The key corrects "myometry" to "myotomy".
+**Guideline / source:** not stated
+
+## Q18 (original no. 18)
+Ultrasound เจอ solid mass at liver, CT w/ contrast เจอ peripheral nodular enhancement ใน arterial phase และ progressive peripheral enhancement with centripetal fill -in porto venous phase
+
+A. Hemangioma
+B. HCC
+C. FNH
+
+**Answer:** A
+**Explanation:** key highlights "centripetal fill-in".
+**Guideline / source:** not stated
+
+## Q19 (original no. 19)
+ได้ blood ใน OR, 6 hr post op Osat 90% fever
+
+A. Anaphylaxis
+B. Blood transfusion related sepsis
+C. Pulmonary embolism
+D. Pulmonary edema
+
+**Answer:** B
+**Explanation:** key: anaphylaxis would come sooner.
+**Guideline / source:** not stated
+
+## Q20 (original no. 20)
+Pringles maneuver กดเส้นเลือดอะไร
+
+A. Common hepatic artery
+B. Comm on hepatic vein
+C. Portal pedicle
+
+**Answer:** C
+**Explanation:** key: compresses the portal triad (artery, vein, bile duct).
+**Guideline / source:** not stated
+
+## Q21 (original no. 21)
+เคร่งศาสนา ห้ามรับเลือด
+
+A. ให้ crystalloid+colliod
+B. Autologous blood transfusion
+
+**Answer:** A
+**Explanation:** key: a note beside A and B is [unclear].
+**Guideline / source:** not stated
+
+## Q22 (original no. 22)
+รถชน lacerated liver, hemoperitoneum ได้ ringer 3000 ได้
+
+A. Check hct, ส่ง CT
+B. Or laparo stop bleed
+C. FFP + Vit K
+D. Packed red cell + FFP
+E. Packed red cell +
+
+**Answer:** D
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q23 (original no. 23)
+ให้รูป calcifying chronic pancreatitis ถามindicationในการผ่า
+
+A. Intractable pain
+B. Calcifying
+C. Exocrine insuf
+
+**Answer:** A
+**Explanation:** key: intractable pain, or suspected CA.
+**Guideline / source:** not stated
+
+## Q24 (original no. 24)
+เบาหวาน gangrene foot จับpulseที่ femoral artery ไม่ได้ dorsalis pedis +,…. + ไม่มีเหงื่อ ไม่มีขน shine skin ถามว่าแผลที่เท้าเกิดจากอะไร
+
+A. Diabetic neuropathy
+B. Aortoiliac occlusion
+
+**Answer:** B
+**Explanation:** key: signs of chronic arterial insufficiency.
+**Guideline / source:** not stated
+
+## Q25 (original no. 25)
+ปวดท้อง กินอาหาร/กิน antacidsดีขึ้นนิดหน่อย ทำไงต่อ
+
+A. Upgrade PPI
+B. EGD
+
+**Answer:** A
+**Explanation:** key: if GERD → PPI for 8 weeks, and EGD only if not better; EGD if there is a red flag, e.g. age > 50 (handwriting very small, partly [unclear]).
+**Guideline / source:** not stated
+
+## Q26 (original no. 26)
+Reducible hernia แต่เป็นเบาหวาน
+
+A. Elective + กลับไปคุมน้ำตาลก่อน
+
+**Answer:** A
+**Explanation:** only one choice is recalled; key: elective, no rush.
+**Guideline / source:** not stated
+
+## Q27 (original no. 27)
+ให้นมบุตรเป็น mastitis
+
+A. Ultrasound and mammogram
+B. NSAIDS
+C. Antibiotics
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q28 (original no. 28)
+คนไข้เครียดคิดจะ fasting for few days
+
+A. Increase gluconeogenesis
+B. Increase ketogenesis
+C. Decrease proteolysis
+
+**Answer:** B
+**Explanation:** key: increased gluconeogenesis is the response to injury. Compare Q34.
+**Guideline / source:** not stated
