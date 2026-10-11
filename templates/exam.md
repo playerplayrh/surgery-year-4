@@ -24,7 +24,11 @@ Rules for exams:
 - Immutable after merge: set code, year, rotation, original question number, and the stem.
   Only the answer, explanation, and guideline may be corrected later.
 - Questions written by a friend (not recalled) must be case-based with formal English stems and choices.
+- Recalled papers (source: exam-recall): keep only the choices the source gives, never invent the
+  rest; a blank choice in the source is written "D. (not recalled)". A question recalled without
+  choices may have a free-text answer.
 - Quality checks: no hints in the stem, the correct choice is not longer than the others,
   and the guideline is named when one applies.
-- Only General Surgery questions. Leave subspecialty questions out.
+- Only General Surgery questions. Leave subspecialty questions out (except per-cohort General Sx
+  rotation papers, which are filed whole: see CLAUDE.md "Scope").
 -->

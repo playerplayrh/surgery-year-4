@@ -32,7 +32,7 @@ ALLOWED = {
     "source": {"bedside", "textbook", "lecture", "exam-recall", "senior-summary",
                "survival-guide", "mixed", "unknown"},
     "status": {"ai-generated", "human-verified"},
-    "answer_source": {"official", "recalled", "ai-derived"},
+    "answer_source": {"official", "recalled", "ai-derived", "student-key"},
     "exam_format": {"mcq", "meq", "osce"},
 }
 KNOWN_KEYS = {"id", "type", "topic", "group", "source", "author", "date", "status", "verified_by",
@@ -449,12 +449,18 @@ def check_exams(root, recs, rep):
                 rep.warn(rel, f"{tag}: no 'Guideline / source' line (write 'not stated' if none)")
             if fmt == "mcq":
                 opts = q["options"]
+                # recalled papers often keep only some choices; never invent the rest
+                recalled = fm.get("source") == "exam-recall"
                 if len(opts) < 4:
-                    rep.error(rel, f"{tag}: needs at least 4 options (found {len(opts)})")
+                    msg = f"{tag}: needs at least 4 options (found {len(opts)})"
+                    if recalled:
+                        rep.warn(rel, msg + "; allowed because the paper is recalled")
+                    else:
+                        rep.error(rel, msg)
                 m = re.match(r"^\(?([A-H])\b", q["labels"].get("answer", ""))
                 if m and m.group(1) not in opts:
                     rep.error(rel, f"{tag}: answer {m.group(1)} is not one of the options")
-                elif q["labels"].get("answer") and not m:
+                elif q["labels"].get("answer") and not m and not (recalled and not opts):
                     rep.error(rel, f"{tag}: answer must start with an option letter")
                 elif m and len(opts) >= 2:
                     right = len(opts[m.group(1)])
