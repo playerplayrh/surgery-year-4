@@ -368,6 +368,11 @@ class Exams(RepoCase):
             "**Answer:** C\n**Explanation:** Invented reasoning.", "**Answer:** invented free text\n**Explanation:** Invented reasoning.")
         self.write("exams/set-a/exam.md", none)
         self.assertPasses()
+        unmarked = EXAM.replace("**Answer:** C\n", "**Answer:** not marked in the key\n")
+        self.write("exams/set-a/exam.md", unmarked)
+        self.assertPasses()
+        self.write("exams/set-a/exam.md", unmarked.replace("source: exam-recall", "source: mixed"))
+        self.assertFails("answer must start with an option letter")
 
     def test_answer_source_student_key_allowed(self):
         self.write("exams/set-a/exam.md", EXAM.replace("answer_source: recalled", "answer_source: student-key"))

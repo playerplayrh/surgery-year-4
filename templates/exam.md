@@ -26,7 +26,8 @@ Rules for exams:
 - Questions written by a friend (not recalled) must be case-based with formal English stems and choices.
 - Recalled papers (source: exam-recall): keep only the choices the source gives, never invent the
   rest; a blank choice in the source is written "D. (not recalled)". A question recalled without
-  choices may have a free-text answer.
+  choices may have a free-text answer, and when the key gives no answer, write e.g.
+  "**Answer:** not marked in the key" (never guess one).
 - Quality checks: no hints in the stem, the correct choice is not longer than the others,
   and the guideline is named when one applies.
 - Only General Surgery questions. Leave subspecialty questions out (except per-cohort General Sx

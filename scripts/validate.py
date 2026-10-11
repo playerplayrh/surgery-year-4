@@ -460,7 +460,8 @@ def check_exams(root, recs, rep):
                 m = re.match(r"^\(?([A-H])\b", q["labels"].get("answer", ""))
                 if m and m.group(1) not in opts:
                     rep.error(rel, f"{tag}: answer {m.group(1)} is not one of the options")
-                elif q["labels"].get("answer") and not m and not (recalled and not opts):
+                elif (q["labels"].get("answer") and not m
+                      and not (recalled and (not opts or q["labels"]["answer"].startswith("not ")))):
                     rep.error(rel, f"{tag}: answer must start with an option letter")
                 elif m and len(opts) >= 2:
                     right = len(opts[m.group(1)])
