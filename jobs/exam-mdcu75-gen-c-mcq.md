@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1KAaNA5S-zZMjeJNFxpBxTTzn0fliw_Yy
 source: "Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/paper - AC MCQ GEN Sx MDCU75 Rotate C.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/key - Key AC MCQ GEN Sx MDCU75 Rotate C.pdf"]
 output: exams/mdcu75-gen-c-mcq/exam.md
-checkpoint: started; files read, nothing written yet
+checkpoint: Q1-10 done, next Q11
 updated: 2026-10-12
 ---
 
