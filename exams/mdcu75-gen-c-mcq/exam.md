@@ -519,3 +519,169 @@ E. neoadjuvant chemotherapy and wide excision
 **Answer:** B
 **Explanation:** key: clinical node negative.
 **Guideline / source:** not stated
+
+## Q42 (original no. 42)
+57 y female confusion, abdominal pain, shaking chill BT 38.8 RR 22 PR 111 BP 100/60
+Abd x-ray show air in biliary tree. What is most diagnosis?
+
+A. acute cholangitis
+B. acute pancreatitis
+C. acute gangrenous cholecystitis
+D. peptic ulcer perforation
+E. gangrenous appendicitis
+
+**Answer:** C
+**Explanation:** key: emphysematous cholecystitis. Compare Q28 and Q32.
+**Guideline / source:** not stated
+
+## Q43 (original no. 43)
+A 55-year-old man bike rider, smoking a few cigarettes, social drinking
+2x2 red painful oozing shallow ulcer, hyper pigmentation at his ankle
+
+A. Arterial insufficiency
+B. Venous insufficiency
+C. Peripheral neuropathy
+D. (not recalled)
+
+**Answer:** B
+**Explanation:** the key pastes an "Arterial vs. venous" ulcer comparison chart.
+**Guideline / source:** not stated
+
+## Q44 (original no. 44)
+ผู้หญิงใช้ oral contraceptive pill นั่งเครื่องกลับจาก usa มีอาการขาบวม ปวด อะไรเป็น most sensitive diagnostic tool?
+
+A. trendelenburg test
+B. perthes test
+C. doppler ultrasound
+D. duplex ultrasound
+E. magnetic resonance venography
+
+**Answer:** D
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q45 (original no. 45)
+อะไรเป็น most common indication ของ splenectomy
+
+A. splenic cyst
+B. hypersplenism
+C. immune thrombocytopenic purpura
+D. traumatic injury
+E. lymphoma
+
+**Answer:** D
+**Explanation:** not stated. Same topic as Q22.
+**Guideline / source:** not stated
+
+## Q46 (original no. 46)
+ก่อนหน้านี้ reducible hernia มานาน ........ เดือน/ปี ไปเตะฟุตบอล กลับมาเลยเป็น irreducible hernia ถาม management ต่อ
+
+**Answer:** not answered in the key (the key crosses this question out)
+**Explanation:** no choices are recalled. Compare Q27.
+**Guideline / source:** not stated
+
+## Q47 (original no. 47)
+กินเหล้าเยอะ ปวด ร้าวไปหลัง เคยเป็นมาก่อนหลายครั้ง เคยได้รับการรักษาแล้วหาย ครั้งนี้เป็นใหม่ amylase 1000
+
+A. acute pancreatitis
+B. chronic pancreatitis
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q48 (original no. 48)
+A 18-year-old boy came to ER with colicky pain, fever, migration to RLQ. After investigation, acute appendicitis was diagnosed. ทำ Laparoscopic appendectomy เปิดมาปรากฏ normal appendix แต่เจอ sock-like out-pouching seen on the distal ileum with red and fibrin coated. What is the etiology of this pouch?
+
+A. A persistent of vitelline duct
+B. excessive traction on the intestinal during childbirth
+C. A mutation of C-mec gene
+D. Weakening of intestinal muscular layer
+E. Increase intraluminal pressure
+
+**Answer:** A
+**Explanation:** key: Meckel's diverticulum.
+**Guideline / source:** not stated
+
+## Q49 (original no. 49)
+A 33-year-old man present with reducible right groin mass. Physical examination show one testis is not in the left scrotal sac. What is the appropriate management?
+
+A. Bilateral pelvis and groin exploration
+B. Ultrasound both pelvis and groin
+C. MRI lower abdomen
+D. CT lower abdomen
+E. X-ray pelvis and groin
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q50 (original no. 50)
+These managements enhances recovery after surgery except
+
+A. Discuss and educate patients conditions
+B. Assess nutritional status and optimize nutrition
+C. Normalize blood pressure and glucose level
+D. Prophylactic antibiotics
+E. Universal wound drain use and extended IV fluid administration
+
+**Answer:** E
+**Explanation:** key: ไม่เป็นไปตาม ERAS.
+**Guideline / source:** ERAS (named in the key)
+
+## Q51 (original no. 51)
+Which carcinogen and cancer correlation is false?
+
+A. Cervical cancer - HPV
+B. Hepatoma - HCV
+C. Lymphoma - EBV
+D. Gastric cancer – H. pyroli
+E. Cholangiocarcinoma - Schistosoma maekongi
+
+**Answer:** E
+**Explanation:** key: Schistosoma crossed out and replaced with O. viverrini.
+**Guideline / source:** not stated
+
+## Q52 (original no. 52)
+Which is contraindication for BCS? (Breast conserving surgery)
+
+A. Previous implant
+B. inflammatory breast cancer
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q53 (original no. 53)
+70 yr old man มาทำ Elective right herniorhaphy, U/D HT, DLP, มี coronary stent
+อะไรที่ต้องหยุด?
+
+A. Aspirin
+B. Bronchodilator
+C. Calcium channel blocker
+D. Propanolol
+E. All of above
+
+**Answer:** E
+**Explanation:** the key marks E with a light tick (not its usual X) and puts a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q54 (original no. 54)
+60-year-old man, progressive jaundice for 1 month, itching, acholic stool, loss of appetite, weight loss 8 kg in 2 months, Physical exam: Gall bladder palpable, no tenderness
+What is the diagnosis?
+
+A. Choledocholithiasis
+B. Periampulary malignant neoplasm
+C. Viral hepatitis
+D. Cholangiocarcinoma
+E. Gall stone (มนจแต่กกgallstone)
+
+**Answer:** B
+**Explanation:** key: Courvoisier's law; A and E marked wrong.
+**Guideline / source:** not stated
+
+## Flagged for checking
+- Q28, Q32 and Q42 all show air in the biliary tree. The key answers acute gangrenous (emphysematous) cholecystitis each time, even for Q32 and Q42, where fever with chills, RUQ pain and confusion are given and acute cholangitis is a choice. Is that right?
+- Q37: the key marks two choices (A and D). Which single answer does the exam expect?
+- Q33 and Q53: the key marks its answer only lightly and adds a question mark. Are these answers right?
+- Q53: the key's answer is "All of above" for a patient with a coronary stent. Should aspirin really be stopped?
