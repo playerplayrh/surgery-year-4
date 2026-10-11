@@ -616,3 +616,271 @@ C. นนลด 10%ใน3เดือน
 **Answer:** C
 **Explanation:** the key pastes a Thai nutrition screening and assessment flowchart.
 **Guideline / source:** not stated
+
+## Q52 (original no. 52)
+DM,on ยา ASA gr 5จะ elective hernia
+
+A. หยุด 7 วัน
+B. ไม่ต้องหยุด
+C. Bridgingด้วย
+
+**Answer:** A
+**Explanation:** key: ASA gr 5 = 325 mg.
+**Guideline / source:** not stated
+
+## Q53 (original no. 53)
+ข้อไหนไม่ช่วยใน post op recovery.
+
+A. Epidural anesthesia
+B. รีบเอาNGออก
+C. O2 supplement
+D. Non-opoid
+E. Post op gum chewing
+
+**Answer:** C
+**Explanation:** key: A ✓ less pain → active; B ✓ fewer complications of prolonged NG; C only in certain cases (the incidence of hypoxemia has dropped a lot); D ✓; E (±) ✓ helps bowel function return faster, supported by several papers but not yet a standard (handwriting partly [unclear]).
+**Guideline / source:** not stated
+
+## Q54 (original no. 54)
+MIS ไม่ใช่
+
+A. Recoveryเร็ว
+B. เจ็บแผลน้อย
+C. ดมยาสั้นกว่า
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q55 (original no. 55)
+ผญอายุ 28 กินยาคุม 10 ปี rapid wash out
+
+A. Hepatic adenoma
+B. FNH
+C. HCC
+
+**Answer:** A
+**Explanation:** key: hepatic adenoma and HCC share the imaging pattern (arterial enhancement, rapid washout); they are told apart by history: with cirrhosis or a history of HBV, think of HCC.
+**Guideline / source:** not stated
+
+## Q56 (original no. 56)
+Chronic HCV, liver parenchyma normal , rapid wash out
+
+A. HCC
+B. FNH
+C. Hepatic adenoma
+
+**Answer:** not marked in the key
+**Explanation:** key: chronic HCV favours HCC; normal parenchyma favours hepatic adenoma; imaging cannot tell them apart; and with chronic HCV the liver is unlikely to be normal.
+**Guideline / source:** not stated
+
+## Q57 (original no. 57)
+ผู้ป่วย เหลือง anemia ปวดท้อง at epigastrium radiate to back. กิน anti inflammatory drug and acetaminophen แล้ว ดีขึ้น. คลำได้ก้อน irregular border at epigastrium
+
+A. CA head of pancreas
+B. Gastric adenocarcinoma
+C. gastric GIST
+
+**Answer:** A
+**Explanation:** key: maybe already inflamed; pain to the back = retroperitoneal structure; B and C would not cause jaundice.
+**Guideline / source:** not stated
+
+## Q58 (original no. 58)
+Esophagel variesจากcollateral อะไร
+
+**Answer:** left gastric - esophageal vein (key)
+**Explanation:** no choices are recalled.
+**Guideline / source:** not stated
+
+## Q59 (original no. 59)
+ส่องกล้องเจอsubepithelial tumor
+
+A. Biopsy
+B. CT
+C. Endoscopic ultrasound
+
+**Answer:** A
+**Explanation:** key: GIST → biopsy and immunostain CD117 / c-KIT.
+**Guideline / source:** not stated
+
+## Q60 (original no. 60)
+New onset DM. perineal dermatitis. DVT. diagnosis?
+
+A. Insulinoma
+B. VIPoma
+C. Glucagonoma
+D. Gastrinoma
+E. Pancreatic adenocarcinoma
+
+**Answer:** C
+**Explanation:** key: necrolytic migratory "edema" (as written); glucagon ↑ → glucose ↑ → glucose intolerance and DM. The key marks this question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q61 (original no. 61)
+Esophageal cancer (SCC). T2N0M0. Treatment
+
+A. Esophagectomy
+B. Definite chemotherapy
+
+**Answer:** A
+**Explanation:** key: in a healthy / fit patient.
+**Guideline / source:** not stated
+
+## Q62 (original no. 62)
+หญิงท้อง 20 สัปดาห์ มีไข้ ปวดท้อง migrate tender rlq leukocytosis n/v+anorexiaทำไร
+
+A. US
+B. MRI
+C. CT
+D. Lap dx+- appendectomy
+
+**Answer:** A
+**Explanation:** key: highly suspicious → operate first (ผ่าก่อน); in pregnancy open surgery is preferred, so "Lap" in D is crossed out. The key pastes a table on acute appendicitis in the young, the elderly and in pregnancy.
+**Guideline / source:** not stated
+
+## Q63 (original no. 63)
+แก่ๆ reducible herniaนัดมาผ่า
+
+A. Hernirhapphy mesh
+B. Herniorhapphy tissue repair
+
+**Answer:** A
+**Explanation:** key: at present a tension-free operation (Lichtenstein) is preferred.
+**Guideline / source:** not stated
+
+## Q64 (original no. 64)
+เกิน6ชมเคยผ่าไส้ติ่ง ปวดท้อง prไม่เจออึ ไม่ตด
+
+A. Conservative
+B. Emer lap
+C. Abdominal series
+
+**Answer:** C
+**Explanation:** key: acute abdomen; abdominal series for diagnosis. The key pastes a Thai passage on adhesive small bowel obstruction (most partial obstructions settle with conservative treatment; CT for closed-loop obstruction or strangulation; operate if no improvement within about 48 hours).
+**Guideline / source:** not stated
+
+## Q65 (original no. 65)
+ปกติreducible herniaแต่อยู่ๆก่ไม่reduce มีปวดท้อง เป็นไข้
+
+A. Emer hernio
+B. Elective hernio
+
+**Answer:** A
+**Explanation:** key: strangulation (and obstruction) → must operate; if only incarcerated → try sedative + manual reduction; if it goes back, follow up at OPD; if still not reduced after 6 hours → emergency lap.
+**Guideline / source:** not stated
+
+## Q66 (original no. 66)
+อายุ 28 คลำก้อนที่นม รสว่าcystic lesion
+
+A. US
+B. US+mammogram
+C. Mammogram
+
+**Answer:** A
+**Explanation:** key: US for age < 35; US + mammogram for age > 35.
+**Guideline / source:** not stated
+
+## Q67 (original no. 67)
+เพิ่งผ่าตัดมาดูระดับของ
+
+A. Proteolysis
+B. Gluconeogenesis
+C. Ketogenesis
+D. Cytokine
+
+**Answer:** not answered in the key (the key crosses this question out)
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q68 (original no. 68)
+อายุ55 CT เจอ?? Saccular aneurysm? ปวดหลัง เจอ pulsatile mass
+
+A. Elective Open repair
+B. Endo vascular repair ถ้าขนาดใหญ่ขึ้น
+C. ติดตามขนาด ใหญ่ขึ้นให้ผ่า
+
+**Answer:** A
+**Explanation:** key: saccular (not fusiform) and symptomatic, so it should be repaired anyway, without waiting for it to grow.
+**Guideline / source:** not stated
+
+## Q69 (original no. 69)
+Lung cancer 6 hr spinal cord compression
+
+A. Emergency radiotherapy
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q70 (original no. 70)
+upper gi bl ดูมีcirrhosis อีก 2 ชม bleedใหม่ เกิดจาก
+
+A. Eso varies
+B. PU
+C. DU
+D. Boerhaave
+
+**Answer:** A
+**Explanation:** key: Boerhaave and Mallory-Weiss tear come from severe vomiting.
+**Guideline / source:** not stated
+
+## Q71 (original no. 71)
+ปวดLLQ imagingเจอ sigmoid diverticulitis เจอหลายdiveticulum มีabscess? 4 cm ทำไรต่อ
+
+A. Sigmoidectomy with primary anastomosis
+B. Sigmoidectomy with hartmann procedure
+C. Antibiotics
+
+**Answer:** C
+**Explanation:** key: with or without an abscess, no operation; a large abscess (> 4 cm) may be sent for PCD; open surgery only when there is perforation / peritonitis. A and B crossed out.
+**Guideline / source:** not stated
+
+## Q72 (original no. 72)
+which is not the benefit of pancreatic transplant…
+
+A. improve carbohydrate and fat absorption
+B. can do pancreatic and kidney transplant simultaneously
+C. treat diabetes that does not respond to insulin
+
+**Answer:** A
+**Explanation:** key: the pancreas is transplanted for endocrine function; B is common because DM type 1 patients often end with ESRD, so the kidney transplant is a chance to treat the DM 1 with a pancreas at the same time.
+**Guideline / source:** not stated
+
+## Q73 (original no. 73)
+ผู้ป่วยแขนบวมข้าวซ้ายหลัง mastectomy ไป (ให้รูปมา)
+
+A. Lymphedema
+B. Lymphangitis
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q74 (original no. 74)
+Patients on warfarin, presented with car accident and expanding epidural hemorrhage. What to do preop?
+
+A. Platelete
+B. FFP
+C. VitK
+D. Stop warfarin and bridge with heparin
+E. Change to aspirin
+
+**Answer:** B
+**Explanation:** key: warfarin is anti-vitamin K (factors 2, 7, 9, 10); emergency; C and D are too slow. Same topic as Q44.
+**Guideline / source:** not stated
+
+## Q75 (original no. 75)
+ข้อไหนทำถูกต้อง
+
+A. ล้างมือ เปลี่ยนถุงมือ+alc ล้างมือ
+B. ล้างมือ ไม่ใช้ถุงมือ ล้างมือ
+
+**Answer:** not answered in the key (the key ends at Q74)
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Flagged for checking
+- Q9 (the first one), Q19, Q20 and Q56: the key marks no answer. What are the expected answers?
+- Q32: the stem says "most unlikely", but the key changes it to "most likely" and circles wound infection. Which way was the real question asked?
+- Q39: the stem says hyperparathyroid, and the key reads it as hyperthyroid. Which is right?
+- Q62: the key marks US but also says to operate first if highly suspicious. Which is the expected answer?
