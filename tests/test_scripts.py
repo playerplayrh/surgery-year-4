@@ -358,6 +358,12 @@ class Exams(RepoCase):
         self.write("exams/set-a/exam.md", EXAM.replace("exam_set: set-a", "exam_set: set-b"))
         self.assertFails("must equal the folder name")
 
+    def test_answer_source_student_key_allowed(self):
+        self.write("exams/set-a/exam.md", EXAM.replace("answer_source: recalled", "answer_source: student-key"))
+        self.assertPasses()
+        self.write("exams/set-a/exam.md", EXAM.replace("answer_source: recalled", "answer_source: guessed"))
+        self.assertFails("answer_source")
+
     def test_osce_and_meq_formats(self):
         osce = front(id="exam-seto-001", type="exam", topic="", group="cross", source="exam-recall",
                      exam_set="set-o", exam_format="osce", exam_year="2026", exam_rotation="G1",
