@@ -495,3 +495,124 @@ E. Viral profile
 **Answer:** B
 **Explanation:** key: hepatic or post-hepatic jaundice?; CT for obstruction; tumor markers if a cancer is obstructing; viral profile for hepatitis. Biopsy of a liver cancer is done only to plan treatment, not to diagnose (risk of tumor seeding / bleeding); for a periampullary CA that will be resected, biopsy is not needed (handwriting partly [unclear]). The key pastes liver mass biopsy slides.
 **Guideline / source:** not stated
+
+## Q41 (original no. 41)
+[picture in the paper: a red, swollen skin lesion; the recalled question has no stem text]
+
+A. Gram pos rod
+B. Gram pos cocci
+C. Gram neg rod
+D. Gram neg cocci
+E. ตอบได้หลายข้อ
+
+**Answer:** E
+**Explanation:** key: B ✓ enterococcus; C ✓ E. coli. The key pastes a table of anaerobic and aerobic organisms isolated (Bacteroides, E. coli, coagulase-negative staphylococci, Enterococcus, S. aureus, MRSA, Klebsiella, among others).
+**Guideline / source:** not stated
+
+## Q42 (original no. 42)
+RUQ pain, no jaundice wbc 26,000 ua normal. Air in gallbladder wall
+
+A. Emer cholecystectomy
+B. IV abx + elective cholecystectomy
+C. Emer cholecystostomy
+D. Elective cholecystostomy
+
+**Answer:** B
+**Explanation:** key: grade II. Pasted slides on acute cholecystitis grading (grade III severe with organ dysfunction; grade II moderate: WBC > 18,000/mm3, palpable tender RUQ mass, duration > 72 h, marked local inflammation including emphysematous cholecystitis) and treatment of grade II (antibiotics and supportive care → early or delayed LC, or GB drainage).
+**Guideline / source:** not stated
+
+## Q43 (original no. 43)
+เดิน 200 เมตรปวดน่อง dorsalis pedis 1+
+
+A. CT angiography
+B. Endovascular treatment
+
+**Answer:** A
+**Explanation:** key: claudication; CTA 1st, as imaging to map the vessels before any revascularization (Thai notes, partly [unclear]).
+**Guideline / source:** not stated
+
+## Q44 (original no. 44)
+Expanding epidural hematoma ใช้ยา warfarinอยู่
+
+A. VitK
+B. FFP
+C. Bridging heparin
+D. ผ่าเลยแล้วให้ heparin หลังผ่า
+
+**Answer:** B
+**Explanation:** key: urgent ("ด่วน!"); vitamin K is too slow, the liver has to make new factors; FFP gives the factors directly, so surgery can go ahead. Same topic as Q74.
+**Guideline / source:** not stated
+
+## Q45 (original no. 45)
+เรียงลำดับถูก
+
+A. Vasocon plt aggregation cog
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q46 (original no. 46)
+ต้องให้tetanus Ig
+
+A. ไม่เคยได้toxoid+แก้วแตกตำขา
+B. ไม่เคยได้toxoid+abrasion dorsum foot
+
+**Answer:** A
+**Explanation:** the key pastes a tetanus immunisation table (clean wound vs tetanus-prone wound, by immunisation status; human tetanus immunoglobulin for a tetanus-prone wound when not immunised or status unknown).
+**Guideline / source:** not stated
+
+## Q47 (original no. 47)
+Adenomatous polypเจอ advice ทำอะไรสำคัญสุด
+
+A. ตรวจgene family
+B. Discuss
+C. Psychotherapy เพราะผู้ป่วยเป็นมะเร็ง?
+
+**Answer:** A
+**Explanation:** key: FAP.
+**Guideline / source:** not stated
+
+## Q48 (original no. 48)
+Loss gastric content
+
+A. 0.9%
+B. Ringer lactate
+C. DN/2
+
+**Answer:** A
+**Explanation:** key: NaCl.
+**Guideline / source:** not stated
+
+## Q49 (original no. 49)
+Pale, rim enhance 10 cm , mix-solid,cystic
+
+A. Liver abscess
+B. Tumor bleedในก้อน
+
+**Answer:** A
+**Explanation:** key pastes a liver abscess slide: organisms E. coli, B. fragilis (Asia: Klebsiella; SBE: Streptococcus, Staphylococcus; HIV: Candida); CT: low attenuation complex hypodense mass with peripheral or rim enhancement.
+**Guideline / source:** not stated
+
+## Q50 (original no. 50)
+อันไหนบอกseverity ของ acute pan ไม่ได้
+
+A. Amylase
+B. WBC count
+C. Glucose
+D. Hypocalcemia
+
+**Answer:** A
+**Explanation:** the key pastes Ranson's prognostic criteria, the BISAP score and the Atlanta criteria for acute pancreatitis.
+**Guideline / source:** Ranson's criteria; BISAP; Atlanta criteria (pasted in the key)
+
+## Q51 (original no. 51)
+ข้อไหนคือmalnutrition
+
+A. Glucose<90
+B. นน<50kg
+C. นนลด 10%ใน3เดือน
+
+**Answer:** C
+**Explanation:** the key pastes a Thai nutrition screening and assessment flowchart.
+**Guideline / source:** not stated

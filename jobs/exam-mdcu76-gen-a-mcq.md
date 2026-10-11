@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1FhopKACCmLRszbSgfqwlRJSZPgfEk93u
 source: "Drive: Surgery Group/job-files/exam-mdcu76-gen-a-mcq/paper - AC GenSx rotate A MDCU76.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu76-gen-a-mcq/key - Keyบ้านๆ AC GenSx 76 Rotate A.docx"]
 output: exams/mdcu76-gen-a-mcq/exam.md
-checkpoint: Q1-40 done, next Q41
+checkpoint: Q1-51 done, next Q52
 updated: 2026-10-12
 ---
 
