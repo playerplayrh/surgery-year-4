@@ -75,6 +75,53 @@ guide Yr. 4); the `group` tag in a file is the G the author actually saw.
 | ward-prung78-001 | cross | unknown | playerplayrh | ai-generated |
 | ward-vchakarn77-001 | cross | unknown | playerplayrh | ai-generated |
 
+## Textbooks
+
+| book | file | pages | topic | status |
+| --- | --- | --- | --- | --- |
+| chula-black-1 | textbook/chula-black-1/00-contents.md | 12-14 | textbook-contents | ai-generated |
+| chula-black-1 | textbook/chula-black-1/01-systemic-response-to-injury.md | 45-86 | systemic-response-to-injury | ai-generated |
+| chula-black-1 | textbook/chula-black-1/02-wound-healing-and-wound-care.md | 87-108 | wound-healing | ai-generated |
+| chula-black-1 | textbook/chula-black-1/03-hemostasis-bleeding-transfusion-part-1.md | 109-136 | hemostasis-transfusion | ai-generated |
+| chula-black-1 | textbook/chula-black-1/03-hemostasis-bleeding-transfusion-part-2.md | 137-164 | hemostasis-transfusion | ai-generated |
+| chula-black-1 | textbook/chula-black-1/04-fluid-and-electrolyte-management.md | 165-208 | fluid-electrolyte | ai-generated |
+| chula-black-1 | textbook/chula-black-1/05-surgical-infection.md | 209-233 | surgical-infection | ai-generated |
+| chula-black-1 | textbook/chula-black-1/06-thyroid-and-parathyroid.md | 237-262 | thyroid-parathyroid | ai-generated |
+| chula-black-1 | textbook/chula-black-1/07-breast-part-1.md | 263-300 | breast | ai-generated |
+| chula-black-1 | textbook/chula-black-1/07-breast-part-2.md | 301-338 | breast | ai-generated |
+| chula-black-1 | textbook/chula-black-1/07-breast-part-3.md | 339-376 | breast | ai-generated |
+| chula-black-1 | textbook/chula-black-1/08-small-intestine.md | 377-400 | small-intestine | ai-generated |
+| chula-black-1 | textbook/chula-black-1/09-vermiform-appendix.md | 401-422 | appendix | ai-generated |
+| chula-black-1 | textbook/chula-black-1/10-lower-gi-hemorrhage.md | 423-442 | lower-gi-bleeding | ai-generated |
+| chula-black-1 | textbook/chula-black-1/11-liver.md | 443-480 | liver | ai-generated |
+| chula-black-1 | textbook/chula-black-1/12-subspe-colorectal-cancer.md | 481-502 | subspecialty-colorectal | ai-generated |
+| chula-black-1 | textbook/chula-black-1/13-spleen.md | 503-526 | spleen | ai-generated |
+| chula-black-1 | textbook/chula-black-1/14-abdominal-wall-hernia.md | 527-562 | hernia | ai-generated |
+| chula-black-1 | textbook/chula-black-1/15-liver-mass-approach.md | 563-576 | liver | ai-generated |
+| chula-black-1 | textbook/chula-black-1/16-arterial-disease-part-1.md | 577-600 | vascular | ai-generated |
+| chula-black-1 | textbook/chula-black-1/16-arterial-disease-part-2.md | 601-624 | vascular | ai-generated |
+| chula-black-1 | textbook/chula-black-1/17-venous-thromboembolism.md | 625-640 | vascular | ai-generated |
+| chula-black-1 | textbook/chula-black-1/18-chronic-venous-disease.md | 641-660 | vascular | ai-generated |
+| chula-black-1 | textbook/chula-black-1/19-surgical-management-breast-cancer-part-1.md | 661-686 | breast | ai-generated |
+| chula-black-1 | textbook/chula-black-1/19-surgical-management-breast-cancer-part-2.md | 687-712 | breast | ai-generated |
+| chula-black-1 | textbook/chula-black-1/20-bites-and-stings.md | 713-726 | bites-stings | ai-generated |
+| chula-black-1 | textbook/chula-black-1/21-vascular-injury-part-1.md | 727-756 | vascular | ai-generated |
+| chula-black-1 | textbook/chula-black-1/21-vascular-injury-part-2.md | 757-785 | vascular | ai-generated |
+| chula-black-1 | textbook/chula-black-1/22-subspe-basic-pediatric-surgery.md | 789-810 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/23-subspe-head-and-neck-lesions.md | 811-820 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/24-subspe-diaphragm-and-lungs.md | 821-832 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/25-subspe-neonatal-intestinal-obstruction.md | 833-864 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/26-subspe-intestinal-atresia-stenosis.md | 865-884 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/27-subspe-necrotizing-enterocolitis.md | 885-902 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/28-subspe-hirschsprung-disease.md | 903-920 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/29-subspe-anorectal-malformations.md | 921-940 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/30-subspe-pediatric-gi-surgery.md | 941-970 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/31-subspe-biliary-diseases.md | 971-996 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/32-subspe-umbilical-abdominal-wall-defects.md | 997-1010 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/33-subspe-inguinal-scrotal-problems.md | 1011-1024 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/34-subspe-pediatric-surgical-oncology.md | 1025-1044 | subspecialty-ped | ai-generated |
+| chula-black-1 | textbook/chula-black-1/35-subspe-pediatric-trauma.md | 1045-1056 | subspecialty-ped | ai-generated |
+
 ## Yellow-form tracker (Docq)
 
 One yellow form per G in the year of the guides (4 forms; the 2nd adds a Holistic report, the 4th
