@@ -94,3 +94,71 @@ OSCE ทำแผล
 **Checklist:** not stated (no key for the OSCE part)
 **Explanation:** not stated
 **Guideline / source:** WHO hand hygiene (named in the stem)
+
+## Q6 (original no. 6)
+OSCE COLO จัดท่า PR (อาจารย์จี้แรงมาก)
+สถานการณ์คนไข้ฝรั่งพูดไทยได้ painless bleeding per rectum ให้แสดงการตรวจร่างกายแบบที่ OPD
+(ขึ้นเตียงจัดผ้า เรียกคนที่3 จำลองส่องไฟ)
+แต่ให้มา PR หุ่น
+(ใส่ถุงมือ KY แค่ไหน แง้มตูด ดูตูด ให้เบ่ง สอดนิ้ว คลำดูอะไรบ้าง ขมิบก่อนออก ดูอึ อึเป็นเลือดปนขี้ แล้วจะ procto อยู่มั้ย)
+Procto ไปเห็นตามรูปในกระดาษนี้ -> dx อะไร (thrombosed internal hemorrhoid แทบทุกหัว)
+
+**Station type:** examination
+**Checklist:** from the recaller's notes in the stem: ขึ้นเตียงจัดผ้า; เรียกคนที่3; จำลองส่องไฟ; ใส่ถุงมือ; KY; แง้มตูด ดูตูด; ให้เบ่ง; สอดนิ้ว; คลำ; ขมิบก่อนออก; ดูอึ. Dx of the proctoscopy picture: thrombosed internal hemorrhoid (recaller's note). The recaller says the examiner was very strict on positioning (อาจารย์จี้แรงมาก).
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q7 (original no. 7)
+OSCE เย็บแผล
+- จงแสดงการฉีดยาชา
+(มี syringe เดียว เข็ม 24 18 ขวด lidocaine with/without มีหมด ให้ดูดลมแทนแทงขวดจริง ไปฉีดลมใส่แผล)
+- จงแสดงการเย็บ simple 2 เข็ม ผูกปมแบบ surgical technique with instrument
+(แนวแผลคือวางจากใกล้ไปไกลตัว ไม่เหมือนซ้ายขวาแบบที่เราเรียน!! มีเข็มใหญ่อยู่เป็น 3/8 มั้ง ขนาดซัก3-0 แต่แอบลื่นสุดๆ holder ก้คือบ้งสุด ของอีกวงคือพังเอามือเย็บเลยหมอ เนื้อแผลคือหนึบกว่าที่เนื้อปลอมในกล่อง แผลไม่ค่อยแหกมาก) ส่วนใหญ่เย็บไม่ทันกัน
+
+**Station type:** suturing
+**Checklist:** not stated (no key for the OSCE part)
+**Explanation:** the recaller warns that the wound lay pointing away from the candidate (not left-right as practised) and that most candidates ran out of time.
+**Guideline / source:** not stated
+
+## Q8 (original no. 8)
+OSCE DRE ดู prostate
+หุ่นฝึกคลำ prostate ที่เสีย sphincter tone ไปนานแล้ว ตั้งอยู่บนโต๊ะ มีถุงมือ KY ให้ตรวจเองหมดเลย
+ให้บรรยายสิ่งที่เจอ 8 คะแนน
+คิดว่า dx อะไร 2 คะแนน
+(เจอเป็นแข็งๆ ขรุขระนิดนึง เจอว่าโตเยอะที่ apex ล่างสุด ห่างจาก sphincter ซักเซนกว่า ขนาดซัก 3 * ยาว 4 cm มั้ง)
+
+**Station type:** examination
+**Checklist:** from the recaller's note in the stem (what they felt): แข็งๆ ขรุขระนิดนึง; โตเยอะที่ apex ล่างสุด; ห่างจาก sphincter ซักเซนกว่า; ขนาดซัก 3 * ยาว 4 cm. Dx: not stated.
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q9 (original no. 9)
+OSCE ซักประวัติ GenSx
+ป้า 55 y อ้วกเลือด จนสลบ 1 h PTA ให้ซักญาติ(แสดงโดยพี่เลขา) แล้วให้หันมาบอกอาจารย์ว่าจะส่ง investigate อะไรบ้าง
+ป้าอ้วก 1 กระโถนแดงล้วนไม่มี coffee ground ไม่มีมูก ไม่เคยอ้วกแบบนี้มาก่อน อ้วกครั้งนั้นสลบดมยาดมแปปๆก้กลับมาโอเค ไม่มีอ้วกอีกระหว่างทาง ไม่ได้ใช้ยา ไม่มีโรคประจำตัวอะไร ไม่ใช่ยาลูกกลอน ไม่กินเหล้าสูบบุหรี่
+
+**Station type:** history
+**Checklist:** the recaller lists the answers the simulated relative gave (in the stem). Investigations: not stated (no key for the OSCE part).
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q10 (original no. 10)
+OSCE สายๆ
+มีอุปกรณ์ A. Chest tube, B. NG tube, C. proctoscope
+7.1 บอกชื่อ
+7.2 บอก indication ของแต่ละอันมา 2 ข้อ
+
+**Station type:** instrument identification
+**Checklist:** not stated (no key for the OSCE part)
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q11 (original no. 11)
+OSCE CVT
+คนไข้กินน้ำยาล้างห้องน้ำมา 30 min PTA vital sign ค่อนข้างปกติ HR ไม่ขึ้น RR12 BP ไม่สูง
+เป็นแพทย์ที่ ER จะสั่งอะไรบ้าง
+
+**Station type:** other
+**Checklist:** not stated (no key for the OSCE part)
+**Explanation:** not stated
+**Guideline / source:** not stated
