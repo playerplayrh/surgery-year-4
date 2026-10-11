@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/13G7IlfIDFKQUuQ8FHgpLcEeIQBV8-b__
 source: "Drive: Surgery Group/job-files/exam-mdcu76-gen-d-mcq/paper - Ac GEN sx rotate D MDCU76.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu76-gen-d-mcq/key - Keyบ้านๆ Ac Gen Sx 76 Rotate D.docx"]
 output: exams/mdcu76-gen-d-mcq/exam.md
-checkpoint: started; files read, nothing written yet
+checkpoint: Q1-13 done, next Q14
 updated: 2026-10-12
 ---
 
