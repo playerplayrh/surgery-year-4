@@ -12,6 +12,8 @@ rotations (Colorectal, Neuro, CVT, Plastic, Uro, Ped) are left out for now.
   OSCE each have a template.
 - Ward life: ward-guide/ holds survival guides and tips (daily routine, on-call, OR cases
   worth seeing, exam advice). Staff names are kept.
+- Extraction queue: run `/jobs` in Claude Code (dashboard: `python3 scripts/jobs.py dashboard`).
+- No GitHub? Send material through the Google Drive inbox: docs/drive-inbox-guide.txt.
 - Rules: see CLAUDE.md. No **patient** identifiers, ever, including in raw/.
 - Status: ai-generated means unchecked. human-verified means a second person checked it.
 - Limits: the automatic checks catch skipped content and obvious identifiers, not wrong

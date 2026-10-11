@@ -1,0 +1,24 @@
+---
+id: exam-mdcu75-gen-c-mcq
+title: MDCU75 rotate C · General Sx · MCQ
+kind: exam
+scope: gen
+priority: 1
+status: on-hold
+owner:
+pages: 7
+scan_pages: 0
+files: "https://drive.google.com/drive/folders/1KAaNA5S-zZMjeJNFxpBxTTzn0fliw_Yy"
+source: "Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/paper - AC MCQ GEN Sx MDCU75 Rotate C.pdf"
+key_sources: ["Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/key - Key AC MCQ GEN Sx MDCU75 Rotate C.pdf"]
+output: exams/mdcu75-gen-c-mcq/exam.md
+checkpoint:
+updated: 2026-10-12
+---
+
+## Notes
+none
+
+## Log
+- 2026-10-11 created from the inbox inventory (extraction on hold)
+- 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu75-gen-c-mcq/ (unzipped; see its READ ME)

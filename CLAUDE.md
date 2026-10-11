@@ -95,6 +95,38 @@ templates/front-matter.md.
 - Facts notes and exams need no digest.
 - Do not open the PDFs in sources/ unless asked (they are on Drive, not in git).
 
+## Drive inbox (contributors without GitHub)
+- Friends without GitHub upload to the Google Drive folder "Surgery Group/inbox"; the guide they
+  follow is docs/drive-inbox-guide.txt. Someone with repo access runs `/inbox`
+  (.claude/commands/inbox.md) to process it.
+- Author for these files is `drive-<name>`; their originals go to `raw/drive-<name>/`.
+- A file with a patient identifier is never processed: move it to `needs-fix/` with a note that
+  says which line and what kind of identifier, without copying the identifier.
+- Claude reaches Drive only through rclone (remote saved in .claude/drive.local.json).
+- Never delete files in Drive; only move them (inbox -> done or needs-fix).
+- `job-files/` and `sources/` in Drive hold the extraction sources (see "Big jobs"); /inbox
+  never touches them.
+- `repo-copy/` in Drive is a read-only mirror made by scripts/drive_sync.py. Never edit it by hand.
+
+## Big jobs (extraction queue)
+- Long work (exam papers, exam banks, textbooks) is split into jobs, one file each in jobs/.
+  The queue and its rules are run with `/jobs` (.claude/commands/jobs.md) and
+  scripts/jobs.py. The dashboard is jobs/dashboard.html (generated, not committed).
+- Each exam/bank job's files are in Drive `Surgery Group/job-files/<id>/` (link in the job's
+  `files` field); keys used by many jobs are in `job-files/_shared-keys/`. The original zips are
+  kept in `Surgery Group/sources/AC-original-zips/`. These PDFs never go into git, and nobody
+  edits job-files/ by hand.
+- One job per branch `job/<id>`. Save in small steps: after every page or every 5 questions,
+  write the output, update the job's `checkpoint`, commit and push. A session that runs out
+  must lose at most one step.
+- To resume, read the checkpoint and Log, re-check the last saved item against the source, then
+  continue. Never restart a job from scratch if its branch exists.
+- Only the owner (playerplayrh) moves a job off `on-hold`. Anyone may pick any `todo` job in
+  any order; priority (1 = first) is a suggestion.
+- Exam decisions (2026-10-11): subspecialty papers are extracted but kept apart from General
+  Surgery; per-cohort papers before the big AC bank; answer keys written by students or the
+  academic team use answer_source `student-key`; set codes look like `mdcu76-gen-c-mcq`.
+
 ## Terms
 - AC = past exam (the owner does not remember what the letters stand for).
 
