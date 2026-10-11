@@ -26,5 +26,6 @@ Rules for exams:
 - Questions written by a friend (not recalled) must be case-based with formal English stems and choices.
 - Quality checks: no hints in the stem, the correct choice is not longer than the others,
   and the guideline is named when one applies.
-- Only General Surgery questions. Leave subspecialty questions out.
+- Only General Surgery questions. Leave subspecialty questions out (except per-cohort General Sx
+  rotation papers, which are filed whole: see CLAUDE.md "Scope").
 -->

@@ -19,6 +19,8 @@ templates/front-matter.md.
 - Exams: a set must be a General Surgery exam. Subspecialty questions stay out. Keep the
   original numbers of the questions you do file, so gaps are fine. Add the line
   `Omitted (subspecialty): Q31-Q60` under the front-matter of the exam file.
+  Exception (owner, 2026-10-12): a per-cohort General Sx rotation paper (e.g. mdcu76-gen-a-*)
+  is filed whole, subspecialty-topic questions included, because G students sit all of it.
 - **Exception: textbook extractions** (textbook/<book>/) cover the whole book, subspecialty
   chapters included, so the book is never processed twice. Subspecialty chapters are kept
   apart: file name `<nn>-subspe-<slug>.md`, topic `subspecialty-<rotation>` (colorectal, neuro,
@@ -126,6 +128,9 @@ templates/front-matter.md.
 - Exam decisions (2026-10-11): subspecialty papers are extracted but kept apart from General
   Surgery; per-cohort papers before the big AC bank; answer keys written by students or the
   academic team use answer_source `student-key`; set codes look like `mdcu76-gen-c-mcq`.
+- Exam decisions (2026-10-12): an OSCE-MEQ paper is filed as two sets, `<cohort>-gen-<r>-osce`
+  and `<cohort>-gen-<r>-meq`, each keeping its original numbers. When the paper gives no year,
+  exam_year is taken from the paper's file date and that is said under the front-matter.
 
 ## Terms
 - AC = past exam (the owner does not remember what the letters stand for).

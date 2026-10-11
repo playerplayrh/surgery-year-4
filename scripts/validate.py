@@ -32,7 +32,7 @@ ALLOWED = {
     "source": {"bedside", "textbook", "lecture", "exam-recall", "senior-summary",
                "survival-guide", "mixed", "unknown"},
     "status": {"ai-generated", "human-verified"},
-    "answer_source": {"official", "recalled", "ai-derived"},
+    "answer_source": {"official", "recalled", "ai-derived", "student-key"},
     "exam_format": {"mcq", "meq", "osce"},
 }
 KNOWN_KEYS = {"id", "type", "topic", "group", "source", "author", "date", "status", "verified_by",
