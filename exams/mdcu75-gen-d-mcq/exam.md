@@ -152,3 +152,130 @@ E. HPV - penile cancer
 **Answer:** A
 **Explanation:** key: cholangiocarcinoma crossed out and replaced with HCC.
 **Guideline / source:** not stated
+
+## Q11 (original no. 11)
+Which is not a component of end of life care?
+
+A. Euthanasia
+B. Beriefment …
+C. Spiritual care
+D. Palliation of symptoms
+E. Living will
+
+**Answer:** A
+**Explanation:** the key stars this question. Same topic as Q18.
+**Guideline / source:** not stated
+
+## Q12 (original no. 12)
+All of the following parameters indicate severity of pancreatitis EXCEPT…
+
+A. Blood urea nitrogen
+B. Body temperature
+C. Pleural effusion
+D. Mental status
+E. Gender
+
+**Answer:** E
+**Explanation:** key: A to D bracketed as BISAP; body temperature = SIRS. Same topic as Q20.
+**Guideline / source:** BISAP (named in the key)
+
+## Q13 (original no. 13)
+The most direct connection between spleen and stomach is via which artery?
+
+A. Short gastric
+B. Celiac axis
+C. Left gastric
+D. Left gastroepiploic
+E. Splenic
+
+**Answer:** A
+**Explanation:** not stated. Same question as Q7.
+**Guideline / source:** not stated
+
+## Q14 (original no. 14)
+39 year old man, after exploratory laparotomy to correct abdominal blunt injury, there are persistent drainage of small bowel content of small midline defect. Failure of enterocutaneous fistula with treatment and use total parenteral nutrition and antisecretory drug due to all of the followings except
+
+A. Luminal obstruction of fistula
+B. Previous RT
+C. Long fistula tract more than 3 cm
+D. Retained foreign bodies in fistula
+E. Epithelization of fistula
+
+**Answer:** C
+**Explanation:** key: factors promoting failure of enterocutaneous fistula closure: H high output (> 500 mL/d); I infection/inflammation; S short tract (< 2 cm); F foreign body; R radiation; I immunocompromised host; E epithelialization; N neoplasm; D distal obstruction. The key marks this question จำ (memorise). Same question as Q34.
+**Guideline / source:** not stated
+
+## Q15 (original no. 15)
+90 year old male admit CCU due to acute myocardial infarction underwent percutaneous coronary balloon ไรซักอย่าง, HT, old CVA with hemiplegia, bed ridden 5 year. มี on and off mass right groin ทำไรต่อ
+
+A. Urgent rt open herniorrhaphy
+B. Urgent rt laparoscopic herniorrhaphy
+C. Elective rt open herniorrhapy in this admission
+D. Elective rt laparoscopic herniorrhapy after 6 months
+E. conservative follow and watchful follow up
+
+**Answer:** E
+**Explanation:** key: on and off mass = reducible hernia; มี comorbidity เยอะ; A, B and C marked wrong.
+**Guideline / source:** not stated
+
+## Q16 (original no. 16)
+IIH หมอ informed consent open ,สิทธิครอบคลุมแค่open ถ้าจะ lap ต้องจ่ายตังเพิ่ม ,หมอให้ข้อมูลครบ
+
+A. Autonomy
+B. beneficent
+C. justice,allocation
+D. reponsibility,duty
+E. ถูกทุกข้อ
+
+**Answer:** E
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q17 (original no. 17)
+ม้ามแตก ทำ emergency explore lap, ตัดม้าม มี hematoma ที่ head of pancreas
+
+A. ไม่ต้องทำอะไร
+B. ใส่ Jackson-Pratt drain
+C. ใส่ Penrose drain
+D. ใส่ Redivac drain
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** the key pastes a picture of a Jackson-Pratt drain: "Less traumatic, common use in abdomen". The key puts a question mark beside this question.
+**Guideline / source:** not stated
+
+## Q18 (original no. 18)
+อันไหนไม่ใช่ aim of palliative care
+
+A. Euthanasia
+B. Living will
+C. Spiritual support
+D. Relieving symptoms สักอย่าง
+E. Bereavement support
+
+**Answer:** A
+**Explanation:** the key stars this question. Same topic as Q11.
+**Guideline / source:** not stated
+
+## Q19 (original no. 19)
+Abdominal sepsis ไปล้างท้องมา นอน ICU ตอนนี้ stable NPO ให้ 5%DN/2 75 cc/h แต่ hyperglycemia แม้ให้ sliding scale insulin ถามว่าอะไรทำให้น้ำตาลยังสูง
+
+A. Paradoxical hypoglycemia จาก starvation
+B. Stress hyperglycemia
+C. Cortisol -> paradoxical hypoglycemia แล้ว overcompensate
+D. Critically ill เลย regulate gluconeogenesis ไม่ดี เลย hyperglycemia
+E. Paradoxical hypoglycemia จากอะไรซักอย่าง
+
+**Answer:** not marked in the key
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q20 (original no. 20)
+อะไรไม่บอก severity of pancreatitis
+
+A. BUN
+B. Gender
+
+**Answer:** B
+**Explanation:** not stated. Same topic as Q12.
+**Guideline / source:** not stated
