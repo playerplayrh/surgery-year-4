@@ -4,15 +4,15 @@ title: MDCU75 rotate C · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 1
-status: todo
-owner:
+status: in-progress
+owner: playerplayrh
 pages: 7
 scan_pages: 0
 files: "https://drive.google.com/drive/folders/1KAaNA5S-zZMjeJNFxpBxTTzn0fliw_Yy"
 source: "Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/paper - AC MCQ GEN Sx MDCU75 Rotate C.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/key - Key AC MCQ GEN Sx MDCU75 Rotate C.pdf"]
 output: exams/mdcu75-gen-c-mcq/exam.md
-checkpoint:
+checkpoint: started; files read, nothing written yet
 updated: 2026-10-12
 ---
 
@@ -23,3 +23,4 @@ none
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu75-gen-c-mcq/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
+- 2026-10-12 start (playerplayrh): recalled paper, 54 of 100 questions; key marks the chosen option with an X
