@@ -526,3 +526,182 @@ E. Copper
 **Answer:** not marked in the key (the key circles the question and writes "ใส่หมด")
 **Explanation:** key: B to E are trace elements. The key pastes a TPN slide: for expected NPO > 7 days or malnutrition; contains dextrose, fat, protein, electrolytes, vitamins, trace elements = daily requirement; hyperosmolar → central line.
 **Guideline / source:** not stated
+
+## Q44 (original no. 44)
+Short bowel syndrome (<200 cm) Post -op day 5 ผายลมได้ ให้สารอาหารผ่านอะไร
+
+A. Enteral ผ่าน NG
+B. TPN
+C. Vitamin+oral food
+
+**Answer:** B
+**Explanation:** key: enteral feeding cannot be absorbed and causes diarrhea, and dumping syndrome as well. The key pastes contraindications to enteral nutrition (short bowel syndrome boxed).
+**Guideline / source:** not stated
+
+## Q45 (original no. 45)
+ยายปวดท้อง Lt. iliac fossa
+
+A. Sigmoidal diverticulitis
+
+**Answer:** A
+**Explanation:** only one choice is recalled; key: LLQ.
+**Guideline / source:** not stated
+
+## Q46 (original no. 46)
+Which one is the advantage of MIS
+
+A. Improve visualization
+B. Shorter learning curve
+C. Shorter duration
+
+**Answer:** A
+**Explanation:** key: the camera sees more clearly than the eye, with zoom; B is wrong, a new skill has to be learned.
+**Guideline / source:** not stated
+
+## Q47 (original no. 47)
+ulcer management
+
+A. พันขา
+B. Debride+ABX
+C. Compressive dressing
+
+**Answer:** not marked in the key (the key circles the question number)
+**Explanation:** key: venous? DM? arterial?; A and C are for venous ulcer; B for NF or a DM foot with dead tissue. The key pastes a table comparing venous, arterial, neuropathic diabetic and pressure ulcers.
+**Guideline / source:** not stated
+
+## Q48 (original no. 48)
+ขามี6P มีnumb ไม่มีmotorหาย ถามappropriate management
+
+A. CT angiography
+B. Embolectomy
+
+**Answer:** A
+**Explanation:** key: (acute?) limb ischemia; PAD, Rutherford classification class IIa. Compare Q35.
+**Guideline / source:** Rutherford classification (named in the key)
+
+## Q49 (original no. 49)
+กิน atb ครบ course สงสัย C. difficile colitis ถามว่าส่ง diag อะไรเร็วสุด
+
+A. Proctoscopy
+B. Titer for C. diff toxin
+C. Stool culture
+D. Hemoculture
+
+**Answer:** B
+**Explanation:** key: like an Ag strip test.
+**Guideline / source:** not stated
+
+## Q50 (original no. 50)
+Cather-related ถามเกิดจากเชื้ออะไร
+
+A. GP cocci
+B. GP bacilli
+C. GN coccobacilli
+D. GN bacilli
+E. mixed GN bacilli with GN bacilli (ช้อยเขียนงี้จริงๆ)
+
+**Answer:** A
+**Explanation:** key: Staphylococcus epidermidis is the most common.
+**Guideline / source:** not stated
+
+## Q51 (original no. 51)
+เจาะให้สารอาหารทาง Peripheral หายป่วยเตรียมd/cแล้ว แต่อยู่ๆมีไข้ตรงที่เจาะบวมแดง เกิดจากอะไร
+
+A. Thrombophlebitis
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q52 (original no. 52)
+(คล้ายข้อสอบเก่า ) ผู้ชายได้ไตจากภรรยา ผู้ชายกรุ๊ป O ภรรยากรุ๊ปA 2weeks ago ตอนนี้เจอว่าไตสีเข้ม ฉี่ไม่ออก normal level of tacrolimus doppler USG เห็น normal renal artery and renal vein ถามว่าเกิดจากกลไกอะไร
+
+A. T cell-mediated rejection
+B. Ab-mediated rejection
+C. Hyperacute rejection
+
+**Answer:** A
+**Explanation:** key: "incompatible?" written over the blood groups; T cell-mediated: vessels not affected, and the timing fits; Ab-mediated affects the microcirculation; hyperacute happens within minutes to hours, and ABO mismatch usually causes that. The key pastes a "Clinical rejection" slide (acute rejection: recognition of foreign tissue as nonself, usually between 5 days and 3 months after transplantation, diffuse interstitial infiltrate of CD4, CD8 T cells and macrophages).
+**Guideline / source:** not stated
+
+## Q53 (original no. 53)
+Liver transplant ไม่จำเป็นต้องตรวจอะไรก่อน
+
+A. HLA
+B. ABO
+C. Rh
+D. Psychosocial
+E. Cardiopulmonary
+
+**Answer:** A
+**Explanation:** key: cardiopulmonary = fit for surgery (note on psychosocial [unclear]). The key pastes a liver transplantation slide: allocate by same blood group, no need for HLA typing and crossmatch (immune privileged organ).
+**Guideline / source:** not stated
+
+## Q54 (original no. 54)
+ผชมี acute perianal pain 2 days PTA PEเจอก้อน fluctuate in Lt. anus ถามmanagement
+
+A. Excisional biopsy
+B. Incision and drainage
+
+**Answer:** B
+**Explanation:** key: perianal abscess.
+**Guideline / source:** not stated
+
+## Q55 (original no. 55)
+Patient's right หมายถึง
+
+A. Right to sue the doctor
+B. Right to receive standard treatment from Thai constitution
+C. Right to know exact cost before treatment
+D. Right to have universal coverage
+
+**Answer:** B
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q56 (original no. 56)
+Cardinal sign ส่งตรวจอะไร
+
+A. Acute abd
+B. CT
+
+**Answer:** A
+**Explanation:** key: cardinal signs of gut obstruction: (1) obstipation, (2) nausea and vomiting, (3) colicky pain, (4) abdominal distension.
+**Guideline / source:** not stated
+
+## Q57 (original no. 57)
+ให้อาการGraves diseaseมา, TSH ต่ำ ถามimaging
+[after choice 1 the paper lists, unnumbered: "Thyroidd….." and "Calcitonin"]
+
+A. Thyroid scan
+
+**Answer:** A
+**Explanation:** key: + I-131 ablation; diffuse enlargement.
+**Guideline / source:** not stated
+
+## Unnumbered questions at the end of the paper
+(These four have no number in the paper. They are kept here unchanged, outside the numbered list.)
+
+Most common complication of Meckel diverticulum
+1. gut (small bowel?) obstruction
+2.GI bleed
+3.diverticulitis
+Answer (key): the key circles both 1 and 2, writing "ผู้ใหญ่" (adults) by 1, "เด็ก" (children) by 2 and "Age?" above. It cites Chula Surgery, small bowel chapter: Meckel's diverticulum is usually asymptomatic; symptoms occur in 4-6%, mostly bleeding, obstruction and diverticulitis; in children bleeding is most common and becomes less common with age, in adults obstruction is most common.
+
+… y/o female with Yellow Serous nipple discharge ถามส่งอะไรดี
+Mammogram U/S
+Answer (key): circles the question and underlines "Mammogram U/S".
+
+คนอ้วน
+Bariaa… surgery
+Answer (key): "Barratic Surgery" (as written).
+
+รูปแผล NF ถามเชื้อ
+C. Perfringen
+Answer (key): not marked.
+
+## Flagged for checking
+- Q2, Q38, Q43 and Q47: the key marks no answer. What are the expected answers?
+- Q8, Q12, Q14 and Q16: the key marks more than one choice. Which single answer does the exam expect?
+- Q52: the recipient is group O and the donor group A, and the key notes "incompatible?" but answers T cell-mediated rejection. Is that right?
+- Meckel diverticulum (unnumbered): the key marks both obstruction and GI bleed, depending on age. Which does the exam expect?
