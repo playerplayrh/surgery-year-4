@@ -634,3 +634,244 @@ C. Cholesterol, Bile acid, Bilirubin
 **Answer:** A
 **Explanation:** the key pastes the equilibrium phase diagram of biliary lipids (cholesterol, phosphatidylcholine, bile salt) and notes phosphatidylcholine is the major component of lecithin.
 **Guideline / source:** not stated
+
+## Q52 (original no. 52)
+Which option will not help prevent or reduce postoperative morbidity
+
+A. Neoadjuvant chemoradiation
+B. Patient education
+C. Early ambulation
+D. Laparoscopy
+
+**Answer:** A
+**Explanation:** key: B, C and D ticked; early ambulation reduces pulmonary complications.
+**Guideline / source:** not stated
+
+## Q53 (original no. 53)
+Imaging results of Patient working in Saudi Arabia, shows liver cyst, what is the most likely diagnosis?
+
+A. Hydatid cyst
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q54 (original no. 54)
+ป้องกันDVT ขณะผ่าตัด
+
+A. Sequential leg compression
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q55 (original no. 55)
+What is the best option for preventing surgical site infection
+
+A. Costly technology
+B. Novel technology
+C. Meticulous surgical technique
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q56 (original no. 56)
+ผ่าตัดเสร็จแล้วไข้ขึ้นแผลบวม แดง ทำอะไร
+
+A. Wound dressing with antibiotic ointments
+B. IV broad spectrum antibiotics
+C. desuture and open the wound up
+
+**Answer:** C
+**Explanation:** key: resuscitate → antibiotic (broad spectrum first, narrow down once the organism is identified) → source control, which matters most; B is right but source control is still needed; C is thought most correct. The key adds that it depends on the context of the real question.
+**Guideline / source:** not stated
+
+## Q57 (original no. 57)
+20 y/o woman with breast mass, benign features, pain during menstruation, what is the most likely diagnosis?
+
+A. Fibroadenoma
+B. Phyllodes
+C. Ductal carcinoma
+
+**Answer:** A
+**Explanation:** key pastes "Benign tumors" from First Aid USMLE Step 1: fibroadenoma, most common in females < 35 years old, small, well-defined, mobile; increase in size and tenderness with estrogen (e.g. pregnancy, prior to menstruation); risk of cancer is usually not increased.
+**Guideline / source:** First Aid for the USMLE Step 1 (cited in the key)
+
+## Q58 (original no. 58)
+45 y/o woman with breast mass, first visit,what is the most appropriate initialinvestigation
+
+A. Ultrasound
+B. Mammogram
+C. Core needle biopsy
+
+**Answer:** B
+**Explanation:** key: ultrasound for age < 35, dense breast mass; mammogram for age ≥ 35 years.
+**Guideline / source:** not stated
+
+## Q59 (original no. 59)
+Patient suffers from Dysphagia both solid and liquid, regurgitate undigested food, weight loss, what is the most appropriate initialinvestigation?
+
+A. Barium swallowing
+B. Esophagogastroscopy
+C. CT scan
+
+**Answer:** A
+**Explanation:** key: barium swallow is 1st line for achalasia; esophagogastroscopy → CA esophagus.
+**Guideline / source:** not stated
+
+## Q60 (original no. 60)
+โดนก้างปลาตำคอ พอคีบออกแล้ว Odynophagia, มีsubcutaneous emphysema
+
+A. Perforated esophagus
+B. Tracheoesophageal fistula
+C. Perforated trachea
+
+**Answer:** A
+**Explanation:** key: odynophagia = กลืนเจ็บ; subcutaneous emphysema → esophageal perforation.
+**Guideline / source:** not stated
+
+## Q61 (original no. 61)
+บริษัทยาให้เงินหมอวิจัย"ยาใหม่" และให้เงินเดินทางไปสัมมนา "ยาใหม่" ที่ต่างประเทศ หมอจะทำยังไงให้ไม่ผิดจริยธรรม
+
+A. Traveling fees should be less than 10,000 Baht
+B. Declare conflict of interest at meeting
+C. Drug company should only fund research, not traveling
+D. Not attend meeting, assign someone else to talk about "new drugs"
+
+**Answer:** B
+**Explanation:** key: B, and it should be stated in the paper as well; A and D ไม่จำเป็น; C: travel costs are acceptable (✓), holiday costs are not (✗).
+**Guideline / source:** not stated
+
+## Q62 (original no. 62)
+Patient with 3 cm tears inesophagus, only inner lining, after hematemesis, what isthe most likely diagnosis?
+
+A. Boerhaave's syndrome
+B. Mallory-Weiss syndrome
+C. Barrett'ssyndrome
+D. ชื่อยากๆ syndrome
+
+**Answer:** B
+**Explanation:** key: Mallory-Weiss = mucosal tear by the same mechanism as Boerhaave's (perforation from raised intraesophageal pressure); Barrett's comes from chronic GERD, lining thick and red, risk of adenoCA.
+**Guideline / source:** not stated
+
+## Q63 (original no. 63)
+ให้รูปx ray ตับอ่อนมา มีcalcification ถามว่าที่ปวดใต้ลิ้นปี่ร้าวไปหลังครั้งนี้เกิดจากอะไร
+
+A. Ductal hypertension
+B. Acute on top chronic?
+C. Neural involvement
+D. Bacterial
+
+**Answer:** A
+**Explanation:** key: calcification = chronic pancreatitis; pain in chronic pancreatitis comes from ductal hypertension, inflammation → neural remodeling, or complications; B and D marked wrong. The key pastes an abdominal x-ray with pancreatic calcification (the recalled paper has no picture).
+**Guideline / source:** not stated
+
+## Q64 (original no. 64)
+Which one is Not complication of acute pancreatitis
+
+A. Necrosis
+B. Abscess
+C. Pseudocyst
+D. Pseudoaneurysm
+E. Mump
+
+**Answer:** E
+**Explanation:** key: A to C ticked; pseudoaneurysm is a vascular complication; mumps can cause acute pancreatitis, not the other way round.
+**Guideline / source:** not stated
+
+## Q65 (original no. 65)
+Patient with CA head of pancreas, size of 2 cm, what isthe most appropriate treatment?
+
+A. Whipple's operation
+B. ERCP
+C. MRCP
+D. Pancreaticojejunostomy
+
+**Answer:** A
+**Explanation:** key: surgery is the only curative treatment.
+**Guideline / source:** not stated
+
+## Q66 (original no. 66)
+What is the Gas used to create pneumoperitoneum in laparoscopic surgery
+
+A. Air
+B. Hydrogen
+C. Carbon dioxide
+D. Nitrous oxide
+
+**Answer:** C
+**Explanation:** key: CO2 does not ignite, is colourless, dissolves easily and in a normal person washes out through the respiratory system; take care in patients with heart or lung disease.
+**Guideline / source:** not stated
+
+## Q67 (original no. 67)
+What are the Physiological effect of pneumoperitoneum in laparoscopic surgery
+
+A. Venous return, Cardiac output, Systemic vascular resistance
+
+**Answer:** A
+**Explanation:** only one choice is recalled; key: venous return ↓, cardiac output ↓, systemic vascular resistance ↑.
+**Guideline / source:** not stated
+
+## Q68 (original no. 68)
+What Electrolyte affects osmolarity the most ตรงแอค
+
+A. Sodium
+B. Potassium
+C. Chloride
+D. Bicar
+E. Glucose
+
+**Answer:** A
+**Explanation:** key: serum osmolality = (2 × Na) + (Glu/18) + (BUN/2.8); B and D marked wrong.
+**Guideline / source:** not stated
+
+## Q69 (original no. 69)
+Patient with Thyroid nodule at left lobe, FNA reveals follicular neoplasm, what is the appropriate next step?
+
+A. Core needle biopsy
+B. Left lobectomy
+C. Left lobectomy with isthmectomy
+D. Subtotal thyroidectomy
+E. Total thyroidectomy
+
+**Answer:** B
+**Explanation:** key: follicular neoplasm = Bethesda IV; lobectomy to get tissue for biopsy; A, D and E marked wrong.
+**Guideline / source:** Bethesda system (named in the key)
+
+## Q70 (original no. 70)
+What are the state Metabolism after accident
+
+A. Catabolic state from proinflammatory cytokines, adrenaline and cortisol
+B. Hypoglycemia from tissue consumption
+C. Decreased lipolysis, gluconeogenesis and glycogenolysis
+D. Lactic acidosis from impaired Cori cycle
+
+**Answer:** A
+**Explanation:** key: B should be stress hyperglycemia; in C, "decreased" should be increased; in D, "impaired" is crossed out.
+**Guideline / source:** not stated
+
+## Q71 (original no. 71)
+History of C-section, colicky pain, PR mucous but no stool, obstipation, what is the most likely diagnosis?
+
+A. Small bowel adhesion
+B. Colonic obstruction
+
+**Answer:** A
+**Explanation:** key: most common causes of small bowel obstruction are adhesion and hernia; of colonic obstruction, CA colon. Cardinal signs: colicky pain, N/V, obstipation, abdominal distension.
+**Guideline / source:** not stated
+
+## Q72 (original no. 72)
+How is GIST diagnosed?
+
+A. Endoscopic biopsy
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Flagged for checking
+- Q10: the stem says type 2 DM, but the key's answer (simultaneous pancreas and kidney transplant) is the type 1 DM answer, and it doubts this for type 2. What is expected for type 2 DM?
+- Q25: the key answers insulin with a sliding scale for a glucose of 140 in a non-diabetic patient, and also ticks B, C and D. Is that right?
+- Q34: the key is unsure; it marks "stop heparin, give FFP" and notes protamine sulfate. What is the expected answer?
+- Q35: the key marks B but also boxes D, and says the real question needs checking.
