@@ -465,3 +465,147 @@ class BuildFacts(RepoCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+@unittest.skipUnless(shutil.which("rclone"), "rclone not installed")
+class DriveSync(unittest.TestCase):
+    def setUp(self):
+        self.tmp = Path(tempfile.mkdtemp(prefix="drive-test-"))
+        self.src = self.tmp / "repo"
+        for rel, text in {"README.md": "invented", "notes/a.md": "invented",
+                          ".git/HEAD": "x", "sources/textbooks/book.pdf": "x"}.items():
+            (self.src / rel).parent.mkdir(parents=True, exist_ok=True)
+            (self.src / rel).write_text(text, encoding="utf-8")
+
+    def tearDown(self):
+        shutil.rmtree(self.tmp, ignore_errors=True)
+
+    def sync(self, dest, *extra):
+        return subprocess.run([sys.executable, str(SCRIPTS / "drive_sync.py"), "--src", str(self.src),
+                               "--dest", str(dest), *extra], capture_output=True, text=True)
+
+    def test_refuses_wrong_folder_name(self):
+        r = self.sync(self.tmp / "My Drive")
+        self.assertNotEqual(r.returncode, 0)
+        r = self.sync("remote:Surgery Group")
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("repo-copy", r.stderr)
+
+    def test_copies_without_git_and_pdfs_and_mirrors_deletions(self):
+        dest = self.tmp / "Surgery Group" / "repo-copy"
+        self.assertEqual(self.sync(dest).returncode, 0)
+        self.assertTrue((dest / "notes/a.md").is_file())
+        self.assertFalse((dest / ".git").exists())
+        self.assertFalse((dest / "sources/textbooks/book.pdf").exists())
+        (self.src / "notes/a.md").unlink()
+        self.sync(dest)
+        self.assertFalse((dest / "notes/a.md").exists())
+
+    def test_dry_run_changes_nothing(self):
+        dest = self.tmp / "repo-copy"
+        self.assertEqual(self.sync(dest, "--dry-run").returncode, 0)
+        self.assertFalse((dest / "README.md").exists())
+
+
+JOB = """---
+id: {id}
+title: Invented paper {id}
+kind: exam
+scope: gen
+priority: {prio}
+status: {status}
+owner:
+pages: 10
+scan_pages: 2
+source: invented
+key_sources: []
+output: exams/{id}/exam.md
+checkpoint:
+updated: 2026-10-11
+---
+
+## Log
+- 2026-10-11 created
+"""
+
+
+class Jobs(unittest.TestCase):
+    """The queue must survive a session that stops half-way: progress lives on job/<id> branches."""
+
+    def setUp(self):
+        self.tmp = Path(tempfile.mkdtemp(prefix="jobs-test-"))
+        self.origin, self.repo = self.tmp / "origin.git", self.tmp / "repo"
+        subprocess.run(["git", "init", "-q", "--bare", "-b", "main", str(self.origin)], check=True)
+        subprocess.run(["git", "clone", "-q", str(self.origin), str(self.repo)], check=True, capture_output=True)
+        (self.repo / "jobs").mkdir()
+        for jid, prio, status in [("a-first", 1, "todo"), ("b-second", 2, "todo"), ("c-held", 1, "on-hold")]:
+            (self.repo / "jobs" / f"{jid}.md").write_text(JOB.format(id=jid, prio=prio, status=status), encoding="utf-8")
+        self.git("add", "-A"); self.git("commit", "-q", "-m", "jobs"); self.git("push", "-q", "-u", "origin", "main")
+
+    def tearDown(self):
+        shutil.rmtree(self.tmp, ignore_errors=True)
+
+    def git(self, *args):
+        return subprocess.run(["git", "-C", str(self.repo), "-c", "user.name=t", "-c", "user.email=t@example.invalid", *args],
+                              check=True, capture_output=True, text=True)
+
+    def jobs(self, *args):
+        r = subprocess.run([sys.executable, str(SCRIPTS / "jobs.py"), "--root", str(self.repo), *args],
+                           capture_output=True, text=True)
+        return r.returncode, r.stdout + r.stderr
+
+    def row(self, out, jid):
+        return next(line for line in out.splitlines() if jid in line and not line.startswith("dashboard"))
+
+    def test_next_suggests_by_priority_and_skips_on_hold(self):
+        code, out = self.jobs("next", "--no-fetch")
+        self.assertEqual(code, 0, out)
+        self.assertLess(out.index("a-first"), out.index("b-second"))
+        self.assertNotIn("c-held", out)
+
+    def test_progress_on_a_job_branch_shows_on_the_dashboard(self):
+        self.git("switch", "-q", "-c", "job/a-first")
+        self.assertEqual(self.jobs("set", "a-first", "status=in-progress", "owner=ploy", "checkpoint=p.1-4 done, next Q9")[0], 0)
+        self.git("commit", "-q", "-am", "checkpoint"); self.git("push", "-q", "-u", "origin", "job/a-first")
+        self.git("switch", "-q", "main")
+        code, out = self.jobs("dashboard")
+        self.assertEqual(code, 0, out)
+        row = self.row(out, "a-first")
+        self.assertIn("in-progress", row); self.assertIn("ploy", row); self.assertIn("p.1-4 done, next Q9", row)
+        self.assertTrue((self.repo / "jobs" / "dashboard.html").is_file())
+
+    def test_handover_keeps_the_bookmark(self):
+        self.git("switch", "-q", "-c", "job/b-second")
+        self.jobs("set", "b-second", "status=todo", "owner=ton", "checkpoint=p.1-6 done, next Q13")
+        self.jobs("log", "b-second", "stopped: usage limit, 4 pages left")
+        self.git("commit", "-q", "-am", "stop"); self.git("push", "-q", "-u", "origin", "job/b-second")
+        self.git("switch", "-q", "main")
+        out = self.jobs("dashboard")[1]
+        self.assertIn("p.1-6 done, next Q13", self.row(out, "b-second"))
+        log = subprocess.run(["git", "-C", str(self.repo), "show", "origin/job/b-second:jobs/b-second.md"],
+                             capture_output=True, text=True).stdout
+        self.assertIn("stopped: usage limit, 4 pages left", log)
+
+    def test_done_on_branch_is_review_until_merged(self):
+        self.git("switch", "-q", "-c", "job/a-first")
+        self.jobs("set", "a-first", "status=done")
+        self.git("commit", "-q", "-am", "done"); self.git("push", "-q", "-u", "origin", "job/a-first")
+        self.git("switch", "-q", "main")
+        self.assertIn("review", self.row(self.jobs("dashboard")[1], "a-first"))
+        self.git("merge", "-q", "job/a-first"); self.git("push", "-q", "origin", "main")
+        self.assertIn("done", self.row(self.jobs("dashboard")[1], "a-first"))
+
+    def test_dashboard_links_each_jobs_drive_folder(self):
+        self.jobs("set", "a-first", "files=https://drive.google.com/drive/folders/invented123")
+        self.jobs("set", "b-second", "files=javascript:alert(1)")
+        self.jobs("dashboard", "--no-fetch")
+        page = (self.repo / "jobs" / "dashboard.html").read_text(encoding="utf-8")
+        self.assertIn('href="https://drive.google.com/drive/folders/invented123"', page)
+        self.assertNotIn("javascript:", page)
+        fm = (self.repo / "jobs" / "a-first.md").read_text(encoding="utf-8")
+        self.assertIn('files: "https://drive.google.com/drive/folders/invented123"', fm)
+
+    def test_set_rejects_bad_values(self):
+        self.assertNotEqual(self.jobs("set", "a-first", "status=finished")[0], 0)
+        self.assertNotEqual(self.jobs("set", "a-first", "priority=0")[0], 0)
+        self.assertNotEqual(self.jobs("set", "nope", "status=todo")[0], 0)

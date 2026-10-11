@@ -1,0 +1,34 @@
+HOW TO SEND MATERIAL TO OUR SURGERY STUDY REPO (no GitHub needed)
+===================================================================
+
+You only need the shared Google Drive folder "Surgery Group".
+
+1. REMOVE PATIENT DETAILS FIRST
+   No patient names, HN/AN, birth dates, exact dates, ward/bed numbers, phone numbers,
+   and no photos showing faces, name labels or ID bands.
+   Names of attendings and residents are fine.
+   (Use age and sex only, e.g. "60s F", and the week of rotation, e.g. "W2".)
+
+2. WRITE ONE LINE AT THE TOP saying what it is, for example:
+     G3 · bedside facts · cholecystitis
+     G1 · case · RUQ pain with jaundice
+     Exam recall · 2026 Gen MCQ · answers recalled (not official)
+
+3. UPLOAD IT TO THE FOLDER "inbox"
+   Name the file:   G3 - cholecystitis - YourName.txt
+   Accepted: a Google Doc, .txt, .docx, .pdf, or a clear photo of your notes.
+   Messy notes are fine. Thai or English, as you like. Nothing is rewritten in your words.
+
+4. CHECK BACK LATER
+   - Moved to "done"       = it is in the repo now. Thank you!
+   - Moved to "needs-fix"  = read the "NEEDS FIX" note next to your file, fix it, and
+                             upload it to "inbox" again.
+
+TO STUDY
+   The folder "repo-copy" is a read-only copy of everything in the repo. Download the chapters or
+   notes you need and upload them to a Project on claude.ai, then ask Claude to explain or quiz
+   you. Everything is marked "ai-generated" (unchecked) until a second person verifies it.
+
+TO VERIFY SOMETHING
+   If you checked a file against the textbook or an attending, tell the group admin which file and
+   what you checked. Your name is added as the verifier.
