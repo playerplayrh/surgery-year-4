@@ -389,3 +389,109 @@ D. 3-5cc/kg/hr
 **Answer:** B
 **Explanation:** key: 0.5-1 ml/kg/hr = 25-50 ml/hr.
 **Guideline / source:** not stated
+
+## Q32 (original no. 32)
+post op fever day 5. remove urinary catheter on day 2, start your oral diet day 3, ambulate ได้ day 4. Which is the most unlikely cause
+
+A. Atelectasis
+B. UTI
+C. Wound infection
+D. DVT
+E. Thrombophlebitis
+
+**Answer:** C
+**Explanation:** key: the key scribbles over "un" in "unlikely" and circles C, so it answers the most likely cause; atelectasis is crossed; UTI: catheter already removed?; DVT: ambulating, so probably ruled out.
+**Guideline / source:** not stated
+
+## Q33 (original no. 33)
+Patient hematemesis จาก esophageal varice. Resus กับ sclerotherapy ไปแล้ว. ตอนนี้ bleed อีกรอบ. ให้ทำอะไร.
+
+A. Band ligation
+B. TIPS
+C. portocaval shunt
+D. Distal splenorenal shunt
+
+**Answer:** A
+**Explanation:** key: sclerotherapy = injecting a sclerosing agent into the varix; TIPS = transjugular intrahepatic portosystemic shunt. The key pastes a variceal bleeding management flowchart.
+**Guideline / source:** not stated
+
+## Q34 (original no. 34)
+ผ่านมมาป็นมะเร็ง ละมีจำทำ skin flap ข้อไหนช่วยป้องกันDVT
+
+A. Early ambulation+IV hydration
+B. sequential compression device
+C. ไม่ต้องให้อะไรเพราะผู้ป่วยไม่มี risk of DVT
+
+**Answer:** A
+**Explanation:** key: cancer can cause paraneoplastic DVT; the most common cause of flap failure is venous thrombosis; B is used in bleeding but does not help venous thrombosis of the flap (Thai note, partly [unclear]); C is wrong. The key says this came from a senior in plastic surgery.
+**Guideline / source:** not stated
+
+## Q35 (original no. 35)
+กลืนอาหารไม่ลงทั้งsolid liquid ทำbariumเจอproximal dilate+taperingทำไรต่อ
+
+A. EUS
+B. Biopsy
+C. Eso manometry
+D. ไม่มีEGD
+
+**Answer:** C
+**Explanation:** key: DDx achalasia vs pseudoachalasia; EUS → GIST, staging a tumor; manometry is the gold standard for achalasia but cannot exclude pseudoachalasia; EGD would separate achalasia from pseudoachalasia; the ideal order is 1st EGD, 2nd manometry, but the recalled choices have no EGD.
+**Guideline / source:** not stated
+
+## Q36 (original no. 36)
+พึ่ง open herniorraphy ไป. Post op day 5. ตอนนี้ไข้ 38C. ผิว บวม แดง tender. เจ็บแบบแสบ ๆ (?) เป็นอะไร
+
+A. Mesh infection
+B. Cutaneous nerve injury
+C. Granuloma
+
+**Answer:** A
+**Explanation:** key: nerve injury would not give fever or redness, more a numb pain; granuloma would not be swollen and red (Thai notes, partly [unclear]).
+**Guideline / source:** not stated
+
+## Q37 (original no. 37)
+มีmetasไปตับจะตัดแต่remnantไม่พอ จะทำอะไรก่อนตัด
+
+A. TACE
+B. PVE
+C. Hep v embolize /occlusion?
+
+**Answer:** A
+**Explanation:** key: the remnant liver is not enough; 1st TACE → PVE. The key pastes the "Malignant liver tumor" slide (resectable needs adequate liver remnant / liver function; unresectable: XRT, TOCE, chemotherapy, relieve jaundice).
+**Guideline / source:** not stated
+
+## Q38 (original no. 38)
+Low tsh+cold nodule
+
+A. Thyroid cancer
+B. Thyroid adenoma
+C. Toxic adenoma goiter
+
+**Answer:** not answered in the key (the key crosses this question out; it repeats Q17)
+**Explanation:** not stated. Compare Q17.
+**Guideline / source:** not stated
+
+## Q39 (original no. 39)
+Hyperparathyroid ข้อไหนไม่ทำให้เกิด
+
+A. Plummer
+B. Grave
+C. Hashimoto
+D. Medullary thyroid carcinoma
+
+**Answer:** D
+**Explanation:** key: corrects the stem to hyperthyroid ("ข้อไหนไม่ทำให้เกิด hyperthyroidism"); Plummer ✓, Graves ✓; Hashimoto is mostly diffuse and hypothyroid but can be hyperthyroid early; medullary thyroid carcinoma does not accumulate radioiodine but secretes calcitonin. Pasted slides: common causes of hyperthyroidism (Graves' disease, toxic adenoma, toxic multinodular goiter / Plummer's disease) and Hashimoto's thyroiditis.
+**Guideline / source:** not stated
+
+## Q40 (original no. 40)
+ข้อไหนไม่มีปยกับคนไข้ มาด้วยเหลืองขึ้น+ epigastrium discomfort
+
+A. CT
+B. Biopsy
+C. CA19-9,PSA,…
+D. Colonoscope
+E. Viral profile
+
+**Answer:** B
+**Explanation:** key: hepatic or post-hepatic jaundice?; CT for obstruction; tumor markers if a cancer is obstructing; viral profile for hepatitis. Biopsy of a liver cancer is done only to plan treatment, not to diagnose (risk of tumor seeding / bleeding); for a periampullary CA that will be resected, biopsy is not needed (handwriting partly [unclear]). The key pastes liver mass biopsy slides.
+**Guideline / source:** not stated
