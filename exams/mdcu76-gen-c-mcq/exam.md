@@ -320,3 +320,171 @@ E. Important and involved from birth to death
 **Answer:** A
 **Explanation:** not stated beyond the mark.
 **Guideline / source:** not stated
+
+## Q25 (original no. 25)
+Patient presents with multiple perforation at small and large bowel, primary treatment was done, At postoperative day 4, even though patient is stillin NPO, but his glucose level is 140, he's clinically stable, no underlying diabetes, what isthe most appropriate management? (ผู้รู้บอกข้อสอบห่วย) (เหมือนมันเป็น 2 ข้อรวมกันอยู่นะ)
+
+A. TPN
+B. Continue NPO + DNS/2
+C. Per oral feeding iftolerable
+D. NG tube feed
+E. Insulin + sliding glucose
+
+**Answer:** E
+**Explanation:** key: stress hyperglycemia → insulin + sliding glucose. The key also ticks B, C and D.
+**Guideline / source:** not stated
+
+## Q26 (original no. 26)
+60 years old woman presents with symptoms of pancreatitis due to gallstone. Which factor implies that her condition of pancreatitis issevere?
+(Ranson not provided in the real exam )
+[the recalled paper pastes Ranson's criteria here; the note says it was not given in the real exam]
+
+A. Glucose 180
+B. Her age
+C. LDH 150
+D. WBC count 19,000
+E. AST 60
+
+**Answer:** D
+**Explanation:** key: Ranson's criteria for acute gallstone pancreatitis at admission: age > 70 y, WBC > 18,000/mm3, blood glucose > 220 mg/dL, serum LDH > 400 IU/L, serum AST > 250 U/dL.
+**Guideline / source:** Ranson's criteria
+
+## Q27 (original no. 27)
+Patient presents with Painless jaundice, enlarged gallbladder, which one isunlikely diagnosis (Hint :Courversier's law)
+
+A. Cholecocholithasis
+B. CA 2nd part duodenum
+C. CCA distal CBD
+D. CA head of pancreas
+E. CA ampulla of Vater
+
+**Answer:** A
+**Explanation:** key: periampullary CA = CA 2nd part of duodenum, CCA distal CBD, CA head of pancreas, CA ampulla of Vater (B to E ticked).
+**Guideline / source:** Courvoisier's law (hint in the recalled stem)
+
+## Q28 (original no. 28)
+Patient undergoes the EGD, which reveals Gastric epithelium at esophagus, physician suspects CA, therefore, the biopsy was performed. What is most likely pathological diagnosis?
+
+A. AdenoCA
+B. Squamous CA
+C. MALT lymphoma
+D. GIST
+
+**Answer:** A
+**Explanation:** key: Barrett esophagus is pre-malignant for adenoCA.
+**Guideline / source:** not stated
+
+## Q29 (original no. 29)
+Patient presents with Enlarged gastric mass, Biopsy reveals the lesion as MALT with atypical lymphocyte, what is the most likely infection?
+
+A. Fungus
+B. EBV
+C. TB
+D. H.pylori
+
+**Answer:** D
+**Explanation:** key: chronic atrophic gastritis → H. pylori.
+**Guideline / source:** not stated
+
+## Q30 (original no. 30)
+Patient is scheduled for mitral valve repair, but he isallergic to penicillin. What isthe most appropriate alternative in this procedure?
+
+A. Cefazolin
+B. Vancomycin
+C. Imipenem
+D. FQ สักตัว
+E. AG สักตัว
+
+**Answer:** A
+**Explanation:** key: cephalexin / clindamycin / azithromycin. Pasted table (single dose 30-60 minutes before procedure): allergic to penicillin, oral: cephalexin 2 g or clindamycin 600 mg or clarithromycin 500 mg; allergic to penicillin and unable to take oral: cefazolin or ceftriaxone 1 g IM or IV, or clindamycin 600 mg IM or IV.
+**Guideline / source:** table pasted in the key (source not named)
+
+## Q31 (original no. 31)
+Patient presents with Leg pain, edema after a long flight, what isthe most appropriate initial management?
+
+A. CT angiography
+B. Diagnostic angiography
+C. Ascending venogram
+D. Duplex ultrasound
+
+**Answer:** D
+**Explanation:** key: สงสัย DVT → duplex / Doppler US.
+**Guideline / source:** not stated
+
+## Q32 (original no. 32)
+Patient suffers from Leg pain after walking for 80 meters, this condition continues for 3 months, and relieved by resting, he has a history of AF. What isthe most likely diagnosis?
+
+A. Arterial embolism
+B. Arterial thrombosis
+C. Aorto-iliac occlusion
+
+**Answer:** C
+**Explanation:** key: intermittent claudication → chronic arterial insufficiency (aortoiliac, femoropopliteal, peroneotibial). A and B → acute limb ischemia: 6P (pain, pallor, pulselessness, poikilothermia, paralysis, paresthesia).
+**Guideline / source:** not stated
+
+## Q33 (original no. 33)
+Patient who had undergone hernia repair 20 years ago, is presenting with mass at the groin, non tender, and reducible, what isthe most appropriate management?
+
+A. Observe, no need for surgery
+B. Laparoscopic Hernioplasty TAPP/TEP
+C. Open hernioplasty, Darning technique
+D. Open hernioplasty, native tissue
+
+**Answer:** B
+**Explanation:** key: surgery is the treatment of choice for hernia if there is no contraindication; in recurrent hernia TEP/TAPP is recommended over open. The key pastes a groin hernia management flowchart.
+**Guideline / source:** not stated
+
+## Q34 (original no. 34)
+DVT patient who received heparin for 2 days, suffers from a fall,and develops epidural hematoma, which requires surgery, what is a most appropriate management?
+
+A. ให้aspirin รอ 3 วันแล้วผ่า
+B. ให้heparin dose 50% for balance
+C. หยุดheparin, ให้FFP แล้วผ่าเลย
+D. หยุดheparin, ให้Plt แล้วผ่าเลย
+
+**Answer:** C
+**Explanation:** key: bleeding, so heparin must be stopped; the key adds that it is not sure and thinks C is the best of the choices, and writes "heparin + protamine sulfate".
+**Guideline / source:** not stated
+
+## Q35 (original no. 35)
+คนไข้ไส้ติ่งอักเสบมา หมอให้ทางเลือกว่าจะ conservative หรือจะผ่า คนไข้เลือก conservative แล้วสุดท้ายแตกจนต้องผ่าตัดใหญ่หมอคนนี้พลาดเรื่องอะไร
+
+A. Autonomy & Confidentiality
+B. Beneficence & Nonmaleficence
+C. Justice & Resource allocation
+D. Patient's competency (หมอไม่ผิด)
+
+**Answer:** B (the key also draws a box around D)
+**Explanation:** key: ตาม guideline conservative ได้, but the clinical picture must be good first and the patient must be followed up; the key asks whether the doctor gave conservative treatment and then failed to follow up, and says it needs to see the real question again. The key pastes the WSES algorithm for suspected acute appendicitis.
+**Guideline / source:** WSES algorithm for suspected acute appendicitis (pasted in the key)
+
+## Q36 (original no. 36)
+What isthe most appropriate Initialmanagement of hematemesis with melena
+
+A. NG decompression
+B. IV fluid resuscitation
+C. Somatostatin analogue
+
+**Answer:** B
+**Explanation:** the key pastes a passage on acute management of upper GI bleeding.
+**Guideline / source:** not stated
+
+## Q37 (original no. 37)
+Patient presents with Obstipation, N/V, colicky pain, what is the most likely diagnosis?
+
+A. Closed loop obstruction
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q38 (original no. 38)
+Infant who undergone jejunostomy presents with Diarrhea, lightheadedness after being fed with milk and dairy product what isthe most likely syndrome inthis patient?
+
+A. Afferent loop syndrome
+B. Efferent loop syndrome
+C. Dumping syndrome
+
+**Answer:** C
+**Explanation:** key: fluid loss from hyperosmolarity in the jejunum.
+**Guideline / source:** not stated
