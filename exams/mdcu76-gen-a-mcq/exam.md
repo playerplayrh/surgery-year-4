@@ -264,3 +264,128 @@ C. cefazolin given 1 hour prior to athroplasty
 **Answer:** not marked in the key (the key brackets all three as correct, "ถูกทุกข้อ", with a question mark)
 **Explanation:** key: B is OK if MRSA is suspected. Prophylaxis: appendectomy ceftriaxone + metronidazole or cefoxitin; colorectal ceftriaxone + metronidazole; biliary tract cefazolin or ciprofloxacin; vascular graft cloxacillin. The key pastes a table of antimicrobial prophylaxis by surgical procedure.
 **Guideline / source:** not stated
+
+## Q21 (original no. 21)
+SIADH อะไรผิดปกติ
+
+A. Na
+B. K
+C. Mg
+
+**Answer:** A
+**Explanation:** key: ADH ↑. Pasted slide: SIADH (syndrome of inappropriate ADH secretion) is the most common cause of euvolemic hyponatremia; persistent intake of free water at serum osmolalities lower than the usual threshold for thirst; common causes pulmonary disease, CNS disease.
+**Guideline / source:** not stated
+
+## Q22 (original no. 22)
+Liver transplantต้องทำอะไร
+
+A. Cross matching
+B. HLA
+C. ABO
+
+**Answer:** C
+**Explanation:** key pastes a slide: liver allocation by same blood group, no need for HLA typing and crossmatch (immune privileged organ); allocation policy patient based (sickest first) and center based.
+**Guideline / source:** not stated
+
+## Q23 (original no. 23)
+เปลี่ยนตับ
+
+A. Orthotopic
+B. Allograft
+C. Autograft
+
+**Answer:** A
+**Explanation:** key: orthotopic = put in the original place. Pasted slide: orthotopic liver transplantation; living vs cadaveric, split vs reduced size vs whole graft; most common indications: pediatric biliary atresia; adult cirrhosis caused by HCV, HBV, alcohol, HCC (Milan criteria), FHF.
+**Guideline / source:** not stated
+
+## Q24 (original no. 24)
+Arrhythmia + VF
+
+A. Hyperkalemia
+B. Hypokalemia
+C. HypoMg
+
+**Answer:** A
+**Explanation:** key: hypokalemia gives ↓T, ↓ST, U wave. Pasted slide on hyperkalemia (K > 5.5 mEq/L): causes; EKG change ↑T, ↑QRS, ↓P, ↑PR, sine wave → VF, cardiac arrest.
+**Guideline / source:** not stated
+
+## Q25 (original no. 25)
+นมมีmicrocal axilla LNคลำไม่ได้
+
+A. Masectomy ALND
+B. Masectomy sentinel
+C. BCS sentinel
+
+**Answer:** B
+**Explanation:** key: probably meaning widespread microcalcification (Thai note, partly [unclear]); pastes NCCN Version 3.2024 contraindications to breast-conserving therapy. Compare Q18.
+**Guideline / source:** NCCN Guidelines Version 3.2024, Invasive Breast Cancer (pasted in the key)
+
+## Q26 (original no. 26)
+ทำให้เกิดcancer ข้อไหนผิด
+
+A. Hep A-HCC
+B. EBV-burkitt
+C. HPV-penis
+D. O.viver-cholang
+E. H.pylori-gastric adeno
+
+**Answer:** A
+**Explanation:** key: HCC is from hepatitis B, C; EBV → Hodgkin, Burkitt (non-Hodgkin), nasopharyngeal CA; H. pylori → gastric adenoCA, gastric MALT lymphoma; B to E ticked.
+**Guideline / source:** not stated
+
+## Q27 (original no. 27)
+Patient w obstructive jaundice symptoms. Imaging มี mass at hepatic hilum, dilated hepatic duct มี peritoneal nodules. What is used to relieve his symptoms
+
+A. PTBD
+B. ERCP + stent
+
+**Answer:** B
+**Explanation:** key: CA stage 4?; PTBD = percutaneous transhepatic biliary drainage; ERCP + stent is more common and recommended. The key highlights this question.
+**Guideline / source:** not stated
+
+## Q28 (original no. 28)
+คนไข้ติดHBVไม่ควรทำอะไร
+
+A. Observe ไม่เข้าผ่า
+B. ใส่ goggle
+C. ใส่apron
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q29 (original no. 29)
+Patient มี small bowel obstruction symptoms.มี X ray มาให้ (มีขาว ๆ ที่ RLQ) ผู้ป่วยเป็นอะไร
+
+A. Midgut volvulus
+B. Gallstone ileus
+C. Acute cholangitis
+D. Acute cholecystitis
+
+**Answer:** B
+**Explanation:** key: probably a gallstone that has dropped to the IC valve (Thai note).
+**Guideline / source:** not stated
+
+## Q30 (original no. 30)
+Who is not contraindicated for solid organ donation.
+
+A. HIV infection
+B. Malignant melanoma
+C. Persistent hypertension
+D. Creutzfeldt-Jakob disease
+
+**Answer:** C
+**Explanation:** key: A, B and D are absolute contraindications; CJD is a neurocognitive disease due to prion. Pasted list: absolute "CHUMP" (CJD, active HIV, uncontrolled infection, metastatic or non-curable malignant disease, past malignancy with transmission risk such as melanoma); not contraindications "LIP-HEAD" (localised tumours, treated infections, past malignancy with long cancer-free interval, hypertension, elderly, acute renal failure, diabetes mellitus).
+**Guideline / source:** not stated
+
+## Q31 (original no. 31)
+คาดหวังปัสสาวะ นน 50 กก
+
+A. 20-25 cc/hr
+B. 30-50cc/hr
+C. 2-3cc/kg/hr
+D. 3-5cc/kg/hr
+
+**Answer:** B
+**Explanation:** key: 0.5-1 ml/kg/hr = 25-50 ml/hr.
+**Guideline / source:** not stated
