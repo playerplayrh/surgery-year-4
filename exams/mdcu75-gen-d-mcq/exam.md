@@ -399,3 +399,87 @@ E. Resp.acido/hypovent
 **Answer:** B
 **Explanation:** not stated. Same question as Q6 and Q23.
 **Guideline / source:** not stated
+
+## Q31 (original no. 31)
+มี Rt. Breast mass เป็น invasive ductal carcinoma PE แล้ว no axillary lymphadenopathy ได้ไปทำ wide resection with sentinel lymph node biopsy พบว่า sentinel lymph node positive 2/3 ถามว่าต้องทำอะไรต่อ
+
+A. Axillary lymph node dissection
+B. Rt. mastectomy
+C. Intraoperative radiotherapy
+D. Postoperative radiotherapy
+E. Postoperative …
+
+**Answer:** D
+**Explanation:** key: A wrong (only if SLN +ve ≥ 3). The key pastes a "postoperative radiation" table (BCS: LN+ or LN0 → WBRT ± SCF; MRM: LN+ → PMRT (chest wall + SCF); LN0 with T > 5 cm or T4 or + margin → consider chest wall RT) labelled NCCN 2020.
+**Guideline / source:** NCCN 2020 (named in the key's table)
+
+## Q32 (original no. 32)
+28 yo, female, left clear yellowish nipple discharge for 3 weeks -> investigation?
+
+A. Breast USG
+B. Digital MMG
+C. Breast CT
+D. Breast MRI
+E. Ductogram
+
+**Answer:** A
+**Explanation:** key: R/O breast mass.
+**Guideline / source:** not stated
+
+## Q33 (original no. 33)
+39-year-old man with 6-month history of non-bloody diarrhea, 5 kg weight loss and fever. Today he presents with small bowel obstruction. มี small bowel inflammation 3 segments with fat-wrapping at jejunum and ileum. ทั้ง 3 segments ไม่ติดกัน (มี skip lesion)
+Most likely diagnosis?
+
+A. Enteric TB
+B. Crohn's disease
+C. Adhesion band
+D. Spontaneous Bacterial Peritonitis
+E. NEC
+
+**Answer:** B
+**Explanation:** the key pastes an "Inflammatory bowel diseases" table comparing Crohn disease and ulcerative colitis, and marks this question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q34 (original no. 34)
+39 yo female done exploratory laparoscopy to correct blunt abdominal injyry, then develop drainage between small bowel content and (something) (เป็น fistula อ่ะ). The failure of enterocutaneous fistula to heal on conservative treatment by TPN and antisecretory drugs is due to all of the following, except…
+
+A. Luminal obstruction distal to fistula
+B. Long fistula tract > 3cm
+C. Epithelialization of fistula
+D. Retained foreign body in fistula tract
+E. Previous RT over lower abdomen
+
+**Answer:** B
+**Explanation:** not stated. Same question as Q14.
+**Guideline / source:** not stated
+
+## Q35 (original no. 35)
+A male had progressive painless jaundice, dark yellow urine, pale stool, weight loss 5 kg. Which is not a possible cause?
+
+A. Carcinoma of porta hepatis
+B. CA ampulla
+C. CA 1st part duodenum
+D. CA head of pancreas
+E. CA distal CBD
+
+**Answer:** C
+**Explanation:** key: อยู่ก่อน ampulla of Vater. Same question as Q28.
+**Guideline / source:** not stated
+
+## Q36 (original no. 36)
+55 yo patient presents with chronic cough for 2 months. His workup showed large upper lung mass. His biopsy confirmed malignancy. He is about to start chemotherapy. Today he presents with shortness of breath, swelling of face, neck, and arm. What is the initial management of this condition? (large upper lung mass and multiple small nodules)
+
+A. urgent pulmonary resection
+B. Corticosteroid to reduce edema
+C. Diuretics to reduce volume
+D. Immediate IV chemotherapy
+E. Palliative radiotherapy
+
+**Answer:** E
+**Explanation:** key: large upper lung mass = peripheral lesion → น่าจะ NSCLC; swelling of face, neck and arm = SVC syndrome → T4; multiple small nodules → M1 → stage IV NSCLC; A wrong (metastasis). The key pastes slides "Palliative RT, advanced NSCLC" (bone met., brain met., SVC syndromes, hemoptysis, airway obstruction; aim to reduce suffering symptoms and improve quality of life) and an NSCLC treatment-by-stage chart. The key marks this question "!!".
+**Guideline / source:** not stated
+
+## Flagged for checking
+- Q9 and Q19: the key marks no answer. What are the expected answers?
+- Q26: the key's answer (laparoscopic surgery has a lower risk of DVT than open surgery) is marked lightly with a question mark, and D (prepare and drape for potential laparotomy) is marked wrong. Which is true?
+- Q31: the key chooses postoperative radiotherapy for 2 positive sentinel nodes after wide excision. Is that the expected answer?
