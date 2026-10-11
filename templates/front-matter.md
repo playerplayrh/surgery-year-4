@@ -22,7 +22,7 @@ exam_set:                          # exams only: set code, same as the folder na
 exam_format:                       # exams only: mcq | meq | osce
 exam_year:                         # exams only: e.g. 2026
 exam_rotation:                     # exams only: e.g. G3 or "General Sx"
-answer_source:                     # exams only: official | recalled | ai-derived
+answer_source:                     # exams only: official | recalled | ai-derived | student-key (a key written by students or the academic team)
 valid_year:                        # ward-guide, and anything from senior-summary or survival-guide: the year it was written for (4 digits, or unknown if the source does not say)
 ---
 ```
