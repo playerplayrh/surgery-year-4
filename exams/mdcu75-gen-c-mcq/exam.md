@@ -261,3 +261,127 @@ D. ผ่าแล้วให้ตอนดมยาสลบในOR
 **Answer:** C
 **Explanation:** not stated
 **Guideline / source:** not stated
+
+## Q21 (original no. 21)
+A 38-year-old woman is concerned about breast cancer, her mom and 2 sisters have CA breast before 50 y.o. What is true according to prevention of breast cancer?
+
+A. mastectomy is offered if มีลูกเสร็จแล้ว
+B. her family should do genetic test after genetic counseling
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q22 (original no. 22)
+อะไรคือ most common indication of splenectomy?
+
+A. trauma injury
+B. hyperslenism
+
+**Answer:** A
+**Explanation:** the key pastes a textbook passage "Indications for splenectomy" with the line on trauma highlighted, and marks this question จำ (memorise). Same topic as Q45.
+**Guideline / source:** textbook passage pasted in the key (book not named)
+
+## Q23 (original no. 23)
+A 17-year-old man, known case hemophilia A, come to ER with rectus sheath hematoma. What is the appropritate management?
+
+A. bed rest, cold pack, platelet
+B. bed rest, cold pack, cryoprecipitate
+C. cryoprecipitate, set OR for hematoma evacuation
+D. platelet, set OR for hematotma evacuation
+E. (not recalled)
+
+**Answer:** C
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q24 (original no. 24)
+ผช 55 ปี chronic smoker มาด้วย 4 months of progressive epigastric discomfort, postprandial abdominal heaviness, early satiety. PE: mildly pale, thin man, palpable firm epigastrium mass with positive splashing sound ถาม cause of symptoms
+
+A. Pancreatic pseudocyst
+B. Hypertrophic pyloric stenosis
+C. Transverse colon cancer
+D. Gastric cancer
+E. Annular pancreas
+
+**Answer:** D
+**Explanation:** the key pastes a Thai text on symptoms of gastric cancer from chulacancer.net.
+**Guideline / source:** http://www.chulacancer.net/uploads/articles_attc/1595387134.pdf (cited in the key)
+
+## Q25 (original no. 25)
+Which patient should refer to liver transplant?
+
+A. 65 yo male HCV with Child A cirrhosis
+B. 60 yo female HBV with Child A cirrhosis
+C. 55 yo female Child A cryptogenic cirrhosis
+D. 55 yo male heavy drinker with Child C cirrhosis
+E. 50 yo female HBV-cirrhosis with 3-cm HCC
+
+**Answer:** E
+**Explanation:** the key pastes the Milan criteria (Mazzaferro et al, 1996) and the UCSF criteria (Yao et al, 2001).
+**Guideline / source:** Milan criteria; UCSF criteria (named in the key)
+
+## Q26 (original no. 26)
+Patient มี underlying เป็น DLP, DM, atrial fibrillation, Leriche syndrome มี acute severe abdominal pain PR 110/min ตรวจท้องเจอ hypoactive bowel sound, no guarding, no rebound tenderness ถามว่าเป็นอะไร
+
+A. Ruptured appendicitis
+B. Ruptured AAA
+C. Peptic ulcer perforation
+D. Acute mesenteric ischemia
+E. (not recalled)
+
+**Answer:** D
+**Explanation:** key: Leriche syndrome = aortoiliac occlusive disease; pain out of proportion.
+**Guideline / source:** not stated
+
+## Q27 (original no. 27)
+A 40-year-old man came to OPD complaint of irreducible mass at scrotum which normally can be reduced. The mass starts to protude when he plays football. BP 110/70 mmHg, PR 90/min ฟังแล้ว hyperactive bowel sound … What is the diagnosis?
+
+A. Incarcerated hernia
+B. Strangulated hernia
+C. (not recalled)
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** key: หรือตอบ obstructed hernia ก็ได้.
+**Guideline / source:** not stated
+
+## Q28 (original no. 28)
+Epigastric pain พบ air in biliary tree vital sign ปกติ มีแค่ hypotension ต่ำๆ จง dx โรคนี้
+
+A. Acute pancreatitis
+B. Chronic pancreatitis
+C. Acute gangrenous cholecystitis
+D. Acute cholangitis
+E. Gangrenous appendicitis
+
+**Answer:** C
+**Explanation:** key: pneumobilia: gallstone ileus, emphysematous cholecystitis, oriental cholangiohepatitis (recurrent pyogenic cholangitis). A short Thai note above C is [unclear]. Compare Q32 and Q42.
+**Guideline / source:** not stated
+
+## Q29 (original no. 29)
+Jaundice with 2-cm mass at head of pancreas, EUS with biopsy reveal atypical cells. What is the most appropriate management?
+
+A. Cholestyramine
+B. Chemo
+C. Radiation
+D. Pancreatoduodenectomy
+E. ERCP with stent
+
+**Answer:** D
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q30 (original no. 30)
+Car accident with bleeding BT 35 RR 22 PR 110 BP 90/60 pH 7.0 What is false?
+
+A. Surgical repair of bleeding
+B. Hypothermia is essential to reduce metabolic rate
+C. bicarbonate to correct acidosis
+D. Prepare to correct coagulopathy
+E. Prepare to give PRC
+
+**Answer:** B
+**Explanation:** key: class III hemorrhage, hemorrhagic shock; B wrong because ต้อง warm ร่างกาย เพื่อแก้ coagulopathy; C ticked (pH < 7.2); A, D and E ticked. The key pastes a "Bloody vicious cycle" diagram.
+**Guideline / source:** not stated
