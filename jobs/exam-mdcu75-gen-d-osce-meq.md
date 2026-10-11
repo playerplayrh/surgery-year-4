@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1iBH4UFQ04H-L9nLfrY5XAJjKrGpPNvlQ
 source: "Drive: Surgery Group/job-files/exam-mdcu75-gen-d-osce-meq/paper - AC OSCE+MEQ Sx MDCU75 Rotate D.docx"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu75-gen-d-osce-meq/key - Solution AC OSCE+MEQ Sx MDCU75 Rotate D by PAOPAO MDCU76 .pdf"]
 output: exams/mdcu75-gen-d-osce/exam.md, exams/mdcu75-gen-d-meq/exam.md
-checkpoint: started; files read, nothing written yet
+checkpoint: OSCE Q1-5 done, next OSCE Q6
 updated: 2026-10-12
 ---
 
