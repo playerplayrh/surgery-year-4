@@ -26,7 +26,7 @@ written by the student academic team (student-key), not an official key. Explana
 the key's reasoning.
 exam_year 2023 is taken from the paper's file date (September 2023); the paper does not state the year.
 The rotation letter (C) is not mapped to a G.
-The paper's heading (as written): General Surgery Rotate C MCQ 5/7/23 MDCU76, 100 items 150 minutes
+The paper's heading (as written, exam date left out): General Surgery Rotate C MCQ MDCU76, 100 items 150 minutes
 ออกใหม่ ตรงแอคน้อยมาก. 72 questions are recalled. The key is by "Dr.KP, Tan, Tae, Lilly, and Academic
 team MDCU76". Its picture for paper Q20 (an ERCP image) is not copied here.
 
