@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1iAjqWGz-7PCG5_Qb5rIpyJAmVzLrUoV_
 source: "Drive: Surgery Group/job-files/exam-mdcu76-gen-a-osce-meq/paper - OSCE MEQ surgery rotate A MDCU76.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu76-gen-a-osce-meq/key - Key OSCE MEQ 76 rotate A .pdf"]
 output: exams/mdcu76-gen-a-osce/exam.md, exams/mdcu76-gen-a-meq/exam.md
-checkpoint: started; files read, nothing written yet
+checkpoint: OSCE Q1-5 done, next OSCE Q6
 updated: 2026-10-12
 ---
 
