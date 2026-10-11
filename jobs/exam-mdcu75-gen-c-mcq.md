@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1KAaNA5S-zZMjeJNFxpBxTTzn0fliw_Yy
 source: "Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/paper - AC MCQ GEN Sx MDCU75 Rotate C.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu75-gen-c-mcq/key - Key AC MCQ GEN Sx MDCU75 Rotate C.pdf"]
 output: exams/mdcu75-gen-c-mcq/exam.md
-checkpoint: Q1-30 done, next Q31
+checkpoint: Q1-41 done, next Q42
 updated: 2026-10-12
 ---
 

@@ -385,3 +385,137 @@ E. Prepare to give PRC
 **Answer:** B
 **Explanation:** key: class III hemorrhage, hemorrhagic shock; B wrong because ต้อง warm ร่างกาย เพื่อแก้ coagulopathy; C ticked (pH < 7.2); A, D and E ticked. The key pastes a "Bloody vicious cycle" diagram.
 **Guideline / source:** not stated
+
+## Q31 (original no. 31)
+Female patient periumbilical pain ย้ายมา RLQ มี LMP 3 weeks ago มีไข้ 38 ถาม most important lab
+
+A. CBC
+B. Grouping and matching
+C. Urinalysis
+D. Urine pregnancy test
+E. Coagulogram
+
+**Answer:** D
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q32 (original no. 32)
+A confused female presents with Fever with chill 38.8C RUQ pain, X-ray seen air in biliary tree
+
+A. acute gangrenous cholecystitis
+B. acute cholangitis
+C. peptic ulcer perforated
+
+**Answer:** A
+**Explanation:** not stated. Compare Q28 and Q42.
+**Guideline / source:** not stated
+
+## Q33 (original no. 33)
+ผู้หญิงเป็น small bowel obstruction No decompression, Resuscitate แล้ว 3 วัน พบว่ามี bowel tympany และยังไม่ตด ข้อไหนคือ next best intervention?
+
+A. Enteral ทาง NG tube
+B. Jejunostomy tube
+C. Parenteral
+D. D5 in 1/2 normal saline with 40 meq k 5 ml/hr
+E. Insulin drip
+
+**Answer:** C
+**Explanation:** the key marks C with a light tick (not its usual X) and puts a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q34 (original no. 34)
+ผู้ป่วยชายมาด้วย progessive dysphagia มา 6 weeks เวลากลืนจะรู้สึกเหมือนอะไรติดตรงอก ตอนแรกยังพอกินของแข็งได้แต่ตอนนี้ต้องกินอาหารเหลว น้ำหนักลด 7 กิโลใน 2 เดือน physical examination a male with normal vital sigh, no abnormal abdominal sign. Most likely diagnosis?
+
+A. Achalasia
+B. Thyoma
+C. Esophageal cancer
+
+**Answer:** C
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q35 (original no. 35)
+5 days post-operative lipoma removal. The patient comes back to clinic with complaint of purulent discharge from excision site. อะไรเป็นตัวการ?
+
+A. Mixed negative aerobes and anaerobes
+B. Negative aerobes bacilli
+C. Positive aerobes bacilli
+D. Positive anaerobes bacilli
+E. Positive aerobes coci
+
+**Answer:** E
+**Explanation:** key: S. aureus.
+**Guideline / source:** not stated
+
+## Q36 (original no. 36)
+โดนรังสีไรซักอย่าง เป็น leukemia
+
+A. Physical carcinogen
+B. Chemical carcinogen
+C. Biogical carcinogen
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** the key pastes a slide "Factors effect cell cycle" (physical, chemical and biological carcinogens).
+**Guideline / source:** not stated
+
+## Q37 (original no. 37)
+Ruptured appendicitis มีหนอง ให้ Abx ไง
+
+A. 3rd gen cephalosporin 1 ชม ก่อนผ่าตัด
+B. 1st gen cephalosporin 1 ชมก่อนผ่าตัด
+C. Continuous 1st gen 3 วัน
+D. Continuous 3rd gen 3 วันหลังผ่าตัด
+E. Continuous 3rd gen 14 วันหลังผ่าตัด
+
+**Answer:** A and D (the key marks both)
+**Explanation:** key: D "3-7 days"; postoperative antibiotics is required in complicated appendicitis for 3-7 days.
+**Guideline / source:** not stated
+
+## Q38 (original no. 38)
+ผู้หญิงกินยานอนหลับ 20 เม็ด ถูกส่งมาที่ ER ทาง ER ได้ช่วยไว้ คุณแม่บอกว่าลูกเป็นซึมเศร้า อยากตายเพราะเครียดจากงาน ถามว่าที่ ER ทำตรงกับ ethics ข้อไหน?
+
+A. Autonomy
+B. Beneficient
+C. Social justice
+D. patient's confidentiality
+E. professional competence
+
+**Answer:** B
+**Explanation:** key: safe life first.
+**Guideline / source:** not stated
+
+## Q39 (original no. 39)
+ผู้หญิงท้อง 16 wk มีอาการเหมือน appendicitis แต่ u/s ไม่พบ ควรทำอะไรต่อ
+
+A. Repeat ultrasound
+B. CT abdomen
+C. MRI
+
+**Answer:** C
+**Explanation:** not stated. Same topic as Q8.
+**Guideline / source:** not stated
+
+## Q40 (original no. 40)
+Esophagus 1.5 cm, confined in muscle
+
+A. Esophagectomy
+B. Neoadjuvant + esophagectomy
+
+**Answer:** B
+**Explanation:** key: resectable. Compare Q17.
+**Guideline / source:** not stated
+
+## Q41 (original no. 41)
+44 y, female, 3 cm right breast mass and no axillary lymphadenopathy. imaging no other lesion and no suspicious lymph node. Proven เป็น invasive ductal carcinoma. ทำอะไรดี?
+
+A. wide excision and intraoperative radiotherapy
+B. wide excision and sentinel lymph node biopsy
+C. right mastectomy and axillary lymph node disection
+D. right mastectomy and immediate reconstruction
+E. neoadjuvant chemotherapy and wide excision
+
+**Answer:** B
+**Explanation:** key: clinical node negative.
+**Guideline / source:** not stated
