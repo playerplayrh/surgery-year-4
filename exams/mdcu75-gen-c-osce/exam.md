@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu75-gen-c-osce
 exam_format: osce
-exam_year: 2023
+exam_year: 2022
 exam_rotation: General Sx rotate C
 answer_source: student-key
 ---
@@ -22,7 +22,7 @@ Answers: "Solution ... By JOB MDCU76", a student's key (student-key), not an off
 Stems are as students recalled them, in their own words.
 The paper has no question numbers. The stations are numbered here in the order they appear in the
 paper; those numbers are not the exam's own.
-exam_year 2023 is an estimate (the year before MDCU76's 2024 paper); the paper does not state the year.
+exam_year 2022 is taken from the paper's file date (October 2022); the paper does not state the year.
 The rotation letter (C) is not mapped to a G.
 
 The paper opens with this list of stations (as written): เย็บให้ดูหน่อย / ไหมนี้ใช้กับอะไร / ซักคนไข้ CA breast /
@@ -92,5 +92,72 @@ Risk factors: early menarche, late menopause, มีลูกตอนอาย�
 
 **Station type:** suturing
 **Checklist:** not stated in the key
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q6 (original no. 6)
+จงบอกชื่อของแต่ละอย่าง + วิธีการใช้ของ
+- Deaver retractor
+- curve mayo scissor/ Metzenbaum
+- Kocher clamp
+- Volkman curette/ volkman spoon/ bone curette/ double ended curette
+- Babcock clamp
+
+**Station type:** instrument identification
+**Checklist:** from the student key:
+Kocher: tooth forceps; จับ bone / fascia / tissue เหนียวๆ; เป็น traumatic clamp
+Deaver retractor: ปากยาว; ดึงถ่าง visceral organ ในช่องท้อง
+Babcock: จับ tubular structure - bowel, fallopian tube, appendix
+Mayo scissors: ปากกับด้ามยาวพอกัน; curved = ใช้ตัด tissue ใหญ่ เหนียว ex. fascia; straight = ใช้ตัดไหม
+Metzenbaum scissors: ปากเล็กกว่าด้าม (delicate); ใช้ตัด tissue ชิ้นเล็ก
+Volkmann curette: scrape away and remove fibrous tissue and other debris from bone
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q7 (original no. 7)
+ให้ล้างมือด้วยแอลกอฮอล์โดยให้พูดอธิบายไปด้วย
+เสร็จแล้วให้ใส่ถุงมือ sterile ให้ดู
+
+**Station type:** sterile gloving
+**Checklist:** from the student key: hand washing follows the pasted chart "Hand Hygiene Technique with Alcohol-Based Formulation" (duration of the entire procedure 20-30 seconds; steps 1a to 8). Sterile gloving: not stated in the key.
+**Explanation:** not stated
+**Guideline / source:** chart in the key: Hand Hygiene Technique with Alcohol-Based Formulation (source of the chart not stated)
+
+## Q8 (original no. 8)
+ตรวจร่างกาย
+ให้ตรวจร่างกายคนไข้ชาย อายุ … ปี มาด้วยปวดท้องด้านขวาล่าง เป็นเวลา 6 ชั่วโมง
+BP, BT, PR, RR WNL หมด (จำไม่ได้)
+
+**Station type:** examination
+**Checklist:** not stated in the key
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q9 (original no. 9)
+ให้ของมา 3 อย่าง
+- ICD tube
+- NG tube
+- Proctoscope
+ถามว่าคืออะไรบ้าง/ ตัวอย่างวิธีการใช้อย่างละ 2 วิธี
+
+**Station type:** instrument identification
+**Checklist:** from the student key:
+ICD tube: drain ลม หนอง เลือด: pleural effusion, hemothorax, pneumothorax, empyema thoracis
+NG tube: feeding ในผู้ป่วย malnutrition; ประเมิน upper GI bleeding; gastric / intestinal decompression
+Proctoscope: วินิจฉัย lesion ในทวารหนัก ex. anal fissure, hemorrhoid; ใช้ระหว่างผ่าตัดเพื่อหา anal fistula tract; take tissue sample for biopsy
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q10 (original no. 10)
+Foley วางอยู่บนโต๊ะ
+1. นี่คืออะไร ขนาดเท่าไหร่ (ดูข้างหลอด)
+2. อธิบายวิธีการใช้งาน
+3. จงยกตัวอย่างผู้ป่วยที่ต้องใช้งานอุปกรณ์นี้
+
+**Station type:** instrument identification
+**Checklist:** from the student key:
+3. drain urine ออก เช่นใน acute urinary retention; คำนวณ urine output เช่นในผู้ป่วย burn
+The key pastes "Table 1: Indications for Foley Catheter Use". Appropriate: acute urinary retention or bladder outlet obstruction; to accurately measure urine output in critically ill patients; perioperative use for selected procedures; open sacral or perineal wounds in incontinent patients; patient requiring prolonged immobilization (eg, pelvic fractures); improved comfort for end-of-life care. Inappropriate: for incontinence, as a substitute for patient care; to obtain urine for testing or culture in patients who voluntarily void.
+1 and 2: not stated in the key
 **Explanation:** not stated
 **Guideline / source:** not stated
