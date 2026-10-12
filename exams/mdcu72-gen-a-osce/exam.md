@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu72-gen-a-osce
 exam_format: osce
-exam_year: 2022
+exam_year: 2020
 exam_rotation: General Sx rotate A
 answer_source: recalled
 ---
@@ -23,7 +23,7 @@ The paper opens with the students' comments: "-OSCE ตรงแอคประ�
 Stations 1-9 are listed on page 1. Page 3 has a slide labelled "OSCE11" (a 3-way Foley catheter) with the
 students' handwritten answers; it is kept as Q11, its own number, although it looks like the same station as Q6.
 The MEQ part of this paper is in exams/mdcu72-gen-a-meq.
-exam_year 2022 is taken from the paper's file date (April 2022, the Drive file date; the PDF has no date of its own, so this may be a later upload); the paper does not state the year.
+exam_year 2020 follows the MDCU72 A MCQ paper's own PDF date (March 2020); this paper's PDF has no date of its own and its Drive copy is dated April 2022. The paper does not state the year.
 The rotation (A) is not mapped to a G.
 Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only.
 

@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu72-gen-a-meq
 exam_format: meq
-exam_year: 2022
+exam_year: 2020
 exam_rotation: General Sx rotate A
 answer_source: recalled
 ---
@@ -23,7 +23,7 @@ marked as the students' own. Small handwriting that could not be read with confi
 The paper opens with the students' comments: "-OSCE ตรงแอคประมาณครึ่งนึง / -MEQ ตรงประมาณ 90-100% / -เพราะว่าสอบต่อกันสองอย่าง + ตรงแอคมากๆ + สอบเสร็จหยุดยาวเลยคำถามไม่ครบนิดนึงนะ".
 The slides for MEQ5 and MEQ9 have their numbers circled in red in the paper; the paper does not say why.
 The OSCE part of this paper is in exams/mdcu72-gen-a-osce.
-exam_year 2022 is taken from the paper's file date (April 2022, the Drive file date; the PDF has no date of its own, so this may be a later upload); the paper does not state the year.
+exam_year 2020 follows the MDCU72 A MCQ paper's own PDF date (March 2020); this paper's PDF has no date of its own and its Drive copy is dated April 2022. The paper does not state the year.
 The rotation (A) is not mapped to a G.
 Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: MEQ4 and MEQ5 (they show faces) and the students' handwritten answer for MEQ12.
 
