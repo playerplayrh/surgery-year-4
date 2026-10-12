@@ -21,7 +21,6 @@ Source: "MEQ Surgery Rotate A MDCU70", MEQ paper, recalled by students; the numb
 No answer key was found. Some answers are written in grey after the questions in the paper; those are kept as
 the answer and marked as the students' own. Everything else is "not given in the source".
 The paper says "ข้อสอบ 14 ข้อ ให้เวลาข้อละ 3 นาที" (14 questions, 3 minutes each).
-none shows a face, name or label.
 exam_year 2018 is taken from the paper's file date (May 2018, the PDF's own creation date); the paper does not state the year.
 The rotation (A) is not mapped to a G.
 Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: the Q12 drawing, because it prints the name of the sign that the question asks for.
