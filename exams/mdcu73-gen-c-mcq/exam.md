@@ -860,3 +860,172 @@ E. Intrahepatic cholangiocarcinoma
 **Answer:** B
 **Explanation:** not stated beyond the mark.
 **Guideline / source:** not stated
+
+## Q83 (original no. 83)
+A 65-year old patient had a colectomy 4 years ago for colon cancer. During a follow up, a CT scan accidentally shows multiple nodules in the liver. What is the most likely diagnosis?
+
+A. Hepatocellular carcinoma
+B. Synchronous liver metastases
+C. Metachronous liver metastases
+D. Cirrhosis
+E. (not recalled)
+
+**Answer:** C
+**Explanation:** key: metachronous = appears after curative treatment; synchronous = appears during the primary tumor.
+**Guideline / source:** not stated
+
+## Q84 (original no. 84)
+A CT scan found hypervascular mass in the liver. No symptom. ถาม Tx?
+
+A. Surgery
+B. Venous embolization
+C. Arterial embolization
+D. Radiotherapy
+E. Intravenous high dose chemotherapy
+
+**Answer:** A and C (the key crosses both)
+**Explanation:** key: surgery = gold standard, liver resection; arterial embolization is also acceptable; B, D and E marked wrong. The key puts a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q86 (original no. 86)
+CA colon with liver metastasis ส่ง marker อะไร
+
+A. CA19-9
+B. CEA
+C. AFP
+D. C-kit
+E. CA 125
+
+**Answer:** B
+**Explanation:** key: CA19-9 is the tumor marker of CCA; AFP is used in HCC detection; C-kit for GIST; CA 125 for CA ovary. The key pastes a CEA clinical applications slide.
+**Guideline / source:** not stated
+
+## Q87 (original no. 87)
+Which of the following is not the risk factor of cholangiocarcinoma?
+
+A. Primary sclerosing cholangitis
+B. Choledochal cyst
+C. Thorotrast
+D. Hepatolithiasis
+E. Caffeine
+
+**Answer:** E
+**Explanation:** key: A to D ticked; the key pastes a table of risk factors for intrahepatic cholangiocarcinoma and marks the question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q88 (original no. 88)
+ข้อใดเป็น primary prevention ของ cancer
+
+A. Annual mammogram
+B. Total mastectomy in BRCA gene positive
+C. Polypectomy
+D. PSA screening
+E. (not recalled)
+
+**Answer:** not marked in the key
+**Explanation:** key: primary prevention = risk factor reduction, less exposure to carcinogen; A, C and D are secondary prevention, B tertiary (all marked wrong).
+**Guideline / source:** not stated
+
+## Q89 (original no. 89)
+Which of the following is not a known risk factor and cancer relation?
+
+A. (not recalled)
+B. HAV - Hepatocellular carcinoma
+C. H pylori - Gastric cancer
+D. EBV - Burkitt's lymphoma
+E. HPV - Penile squamous papilloma
+
+**Answer:** B
+**Explanation:** key: HCC goes with HBV, HCV; C to E ticked.
+**Guideline / source:** not stated
+
+## Q93 (original no. 93)
+A patient who has rheumatic heart disease presents with abdominal pain. PE - no distention, local tenderness, no mass. V/S irregular pulse. Diagnosis?
+
+A. Acute mesenteric ischemia
+B. Abdominal aortic aneurysms
+C. Small bowel perforate
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** key: valvular heart disease; PDx bowel ischemia from embolism.
+**Guideline / source:** not stated
+
+## Q94 (original no. 94)
+What is the most common complication of Meckel's diverticulum?
+
+A. GI bleed
+B. Perforate
+C. Carcinoma
+D. Diverticulitis
+E. Intestinal obstruction
+
+**Answer:** A and E (the key crosses both)
+**Explanation:** key: GI bleed in pediatric patients, intestinal obstruction in adults; the key pastes a passage on Meckel's diverticulum presentations and marks the question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q95 (original no. 95)
+71ปี หญิงไทยใจงาม มาด้วย n/v colicky abdominal pain 2 day PE: abdominal distention hyperactive bowel sound ส่งอะไรดีคะคุณ
+
+A. US whole abdomen
+B. Acute abdomen series
+C. CT whole abdomen
+D. Small bowel through
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** key: Dx small bowel obstruction.
+**Guideline / source:** not stated
+
+## Q97 (original no. 97)
+Allorecognition
+
+A. CD4+
+B. CD8+
+C. T-reg
+D. NK Cell
+E. Neutrophil
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q98 (original no. 98)
+Incorrect about transplantation
+
+A. Liver > orthograft
+B. Skin graft from other part of the body > isograft
+C. Kidney > heterograft
+D. Other species > xenograft
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** key: skin from another part of the body = autograft; isograft = graft from a genetically identical twin; A = orthotopic transplantation; C = heterotopic transplantation.
+**Guideline / source:** not stated
+
+## Q99 (original no. 99)
+Incorrect about transplantation
+
+A. Transplant does not rejection if from twin
+B. Hyperacute rejection caused by T-cell mediated
+C. (not recalled)
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** key: A true for identical twins; hyperacute rejection is caused by preformed antibody.
+**Guideline / source:** not stated
+
+## Unnumbered questions
+(This question is labelled "XX" in the paper. It is kept here unchanged, outside the numbered list.)
+
+XX. Urethral catheterization ต้องใช้อะไร
+A. 2% lidocaine gel / B. Xylocaine spray / C. Ointment อะไรสักอย่าง / D. General anesthesia / E. Epidural block
+Key: A.
+
+## Flagged for checking
+- Q1, Q84 and Q94: the key marks two choices. Which single answer does the exam expect?
+- Q23 and Q88: the key marks no answer.
+- Q42, Q43, Q67 and Q77: the key marks its answer only with a slash and a question mark. Are these right?
+- Q72: the key marks Na as the major intracellular electrolyte. Is that right?
