@@ -25,3 +25,4 @@ none
 - 2026-10-12 released by owner playerplayrh (status todo)
 - 2026-10-12 start (playerplayrh): split into two sets, mdcu76-gen-a-osce and mdcu76-gen-a-meq (owner decision 2026-10-12)
 - 2026-10-12 done: exams/mdcu76-gen-a-osce (Q1-12) and exams/mdcu76-gen-a-meq (Q1-10), student-key, all questions kept; unreadable handwriting marked [unclear]; 2 items flagged for checking
+- 2026-10-12 added 1 checked picture

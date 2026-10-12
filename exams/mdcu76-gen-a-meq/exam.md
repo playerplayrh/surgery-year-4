@@ -23,6 +23,7 @@ recaller's, not the examiner's. Answers come from a student's handwritten notes 
 paper (student-key), not an official key. Handwriting that could not be read is marked [unclear].
 exam_year 2024 is taken from the paper's file date (March 2024); the paper does not state the year.
 The rotation letter (A) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: pictures that only the key pastes (not in the exam).
 
 ## Q1 (original no. 1)
 (ซ้ำ ac) ให้รูปเด็กขี้สีซีด
@@ -132,6 +133,7 @@ b. heals by itself, so keep the wound moist, e.g. Bactigras, then cover with gau
 a. อธิบายลักษณะแผล
 b. Diag
 c. การตรวจร่างกายเพิ่มเติม
+![feet with a dark lesion on a toe](images/mdcu76-gen-a-meq-q09-1.jpg)
 
 **Answer:**
 a. sharp, irregular, necrotic? base ulcer on hypopigmented skin @ plantar side of great toe; no granulation; black (necrotic) (partly [unclear])

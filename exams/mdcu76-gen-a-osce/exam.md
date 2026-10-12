@@ -23,6 +23,7 @@ recaller's, not the examiner's. Answers come from a student's handwritten notes 
 paper (student-key), not an official key. Handwriting that could not be read is marked [unclear].
 exam_year 2024 is taken from the paper's file date (March 2024); the paper does not state the year.
 The rotation letter (A) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: pictures that only the key pastes (not in the exam).
 
 ## Q1 (original no. 1)
 เย็บแผล simple/vertical mattress เย็บอย่างละ stitch
