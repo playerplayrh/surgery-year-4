@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1q2eLtanh9rxCzSC4DxpUyJF-gGbuz_Es
 source: "Drive: Surgery Group/job-files/exam-mdcu74-gen-a-mcq/paper - AC MCQ General Surgery MDCU 74 Rotation A.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu74-gen-a-mcq/key - Key AC MCQ GEN Sx MDCU74 Rotate A.pdf"]
 output: exams/mdcu74-gen-a-mcq/exam.md
-checkpoint: started
+checkpoint: numbered Q1-Q100 (12) done, next unnumbered questions (page 2 onwards)
 updated: 2026-10-12
 ---
 
