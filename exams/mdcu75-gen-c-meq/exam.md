@@ -26,6 +26,7 @@ The paper says: 13 ข้อ ข้อละ 3 นาที ภาพบนจ�
 Only 11 questions are recalled.
 exam_year 2022 is taken from the paper's file date (October 2022); the paper does not state the year.
 The rotation letter (C) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: a face photo (bedsore question), a screenshot with handwritten answers, and reference pictures the students pasted that were not in the exam.
 
 ## Q1 (original no. 1)
 [ภาพ anal condyloma acuminata]

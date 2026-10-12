@@ -24,16 +24,17 @@ The paper has no question numbers. The stations are numbered here in the order t
 paper; those numbers are not the exam's own.
 exam_year 2022 is taken from the paper's file date (October 2022); the paper does not state the year.
 The rotation letter (C) is not mapped to a G.
-
 The paper opens with this list of stations (as written): เย็บให้ดูหน่อย / ไหมนี้ใช้กับอะไร / ซักคนไข้ CA breast /
 ซัก BPH เขียนตอบ / ล้างมือ +ใส่ถุงมือ / อุปกรณ์ผ่าตัด / อุปกรณ์ (สายๆทั้งหลาย) / Foley / Penile SCC / ตรวจร่างกาย /
 Pneumothorax / TNM CA colon. The BPH and pneumothorax stations are not described further in the paper.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only.
 
 ## Q1 (original no. 1)
 ผู้ป่วยชายแก่มาด้วยก้อนแบบนี้ที่อวัยวะเพศ เป็นมา1เดือน ไม่เจ็บ (รูปเดียวกับในสไลด์เรียน)
 [picture of the penile mass]
 1. diagnosis
 2. treatment
+![penile mass](images/mdcu75-gen-c-osce-q01-1.jpg)
 
 **Station type:** other
 **Checklist:** from the student key:

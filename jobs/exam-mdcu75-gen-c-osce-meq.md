@@ -25,3 +25,4 @@ none
 - 2026-10-12 released by owner playerplayrh (status todo)
 - 2026-10-12 start (playerplayrh): split into mdcu75-gen-c-osce and mdcu75-gen-c-meq; paper has no question numbers, numbered in order of appearance
 - 2026-10-12 done: exams/mdcu75-gen-c-osce (Q1-10) and exams/mdcu75-gen-c-meq (Q1-11), student-key (JOB MDCU76); no numbers in paper, numbered in order; year 2022 from file date; 3 items flagged
+- 2026-10-12 added 1 checked picture; face, answer screenshot and pasted reference pictures left out
