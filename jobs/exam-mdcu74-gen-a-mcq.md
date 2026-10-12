@@ -4,7 +4,7 @@ title: MDCU74 rotate A · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 2
-status: on-hold
+status: todo
 owner:
 pages: 6
 scan_pages: 0
@@ -22,3 +22,4 @@ none
 ## Log
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu74-gen-a-mcq/ (unzipped; see its READ ME)
+- 2026-10-12 released by owner playerplayrh (status todo)
