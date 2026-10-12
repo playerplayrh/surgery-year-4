@@ -4,15 +4,15 @@ title: MDCU74 rotate A · General Sx · OSCE
 kind: exam
 scope: gen
 priority: 2
-status: todo
-owner:
+status: done
+owner: playerplayrh
 pages: 8
 scan_pages: 0
 files: "https://drive.google.com/drive/folders/1wP-airY8RTi-XwCNjoZfgFIY13LUQ2HW"
 source: "Drive: Surgery Group/job-files/exam-mdcu74-gen-a-osce/paper - AC OSCE Surgery MDCU 74 Rotation A.pdf"
 key_sources: []
-output: exams/mdcu74-gen-a-osce/exam.md
-checkpoint:
+output: exams/mdcu74-gen-a-osce/exam.md, exams/mdcu74-gen-a-meq/exam.md
+checkpoint: "all done: OSCE 1-14, SEQ 1,3-8,10,11 + 2 unnumbered"
 updated: 2026-10-12
 ---
 
@@ -23,3 +23,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu74-gen-a-osce/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
+- 2026-10-12 done: exams/mdcu74-gen-a-osce (1-14) and -meq (SEQ, 2 unnumbered kept apart); no key, answer_source recalled
