@@ -24,6 +24,7 @@ Station numbers 7, 8 and 11 are not in the paper.
 The MEQ part of this paper is in exams/mdcu70-gen-2-meq.
 exam_year 2018 is taken from the paper's file date (March 2018, the PDF's own creation date); the paper does not state the year.
 The rotation (2) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only.
 
 ## Q1 (original no. 1)
 ใส่ถุงมือ ฉีดยา เย็บ vertical matress1strip + ผูกด้วยเครื่องมือ
@@ -53,6 +54,7 @@ The rotation (2) is not mapped to a G.
 ## Q4 (original no. 4)
 เรื่องx-ray Ba enema ให้อ่านฟิล์ม
 [picture in the paper: a barium enema film of the colon]
+![barium enema film](images/mdcu70-gen-2-osce-q04-1.jpg)
 
 **Station type:** imaging interpretation
 **Checklist:** not given in the source
@@ -88,6 +90,7 @@ B. diagnosis
 ## Q10 (original no. 10)
 ผู้ชายมีแผลที่อวัยวะเพศมา 3 เดือน ไม่เจ็บแผล จงวินิจฉัย management
 [picture in the paper, placed just below this station: a large ulcerated, fungating growth on the penis]
+![ulcerated growth on the penis](images/mdcu70-gen-2-osce-q10-1.jpg)
 
 **Station type:** written station
 **Checklist:** not given in the source

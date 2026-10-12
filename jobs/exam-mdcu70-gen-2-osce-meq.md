@@ -24,3 +24,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu70-gen-2-osce-meq/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
 - 2026-10-12 split into mdcu70-gen-2-osce and mdcu70-gen-2-meq; no key; headings say Rotate D, file name R2
+- 2026-10-12 added 3 checked pictures (images/); 3 left out (chat screenshot, wristband, answer screenshot)

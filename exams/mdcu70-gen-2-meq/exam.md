@@ -21,10 +21,10 @@ Source: "OSCE&MEQ surgery R2 MDCU70", MEQ part ("MEQ surgery Rotate D MDCU70"), 
 No answer key was found. Where the paper itself gives an answer ("ตอบ ...") it is kept as the answer, not in the
 stem; everything else is "not given in the source". The file name says R2 but both headings in the paper say "Rotate D MDCU70"; the rotation is kept as 2 from the job and file name.
 Numbered questions are 1, 9, 10, 11, 12, 14. Six more are labelled "xx" and kept at the end under their own heading.
-Pictures are described in words only; none of them is copied into this repo.
 The OSCE part of this paper is in exams/mdcu70-gen-2-osce.
 exam_year 2018 is taken from the paper's file date (March 2018, the PDF's own creation date); the paper does not state the year.
 The rotation (2) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: a chat screenshot (Q10), a photo where the patient wears a hospital wristband (umbilical hernia xx), and a phone screenshot that prints the answer (last xx).
 
 ## Q1 (original no. 1)
 ยืนขายก๋วยเตี๋ยว รูป hyperpigment เหนือข้อเท้าขวา น่าจะ chronic venous insuff ถาม
@@ -101,6 +101,7 @@ B. management
 
 xx. ชื่ออะไร มีหน้าที่ และหลักการทำงาน ใช้ในการผ่าตัดอะไรบ้าง
 [picture in the paper: a closed suction drain with a squeeze bulb, tubing and a perforated drain, from a supplier's website]
+![closed suction drain](images/mdcu70-gen-2-meq-q00-1.jpg)
 
 xx. หญิง 30 ปี เจ็บก้นมา 2 วัน รูปนี้ถามว่าเป็นไร manage ยังไง
 [picture in the paper: a phone screenshot of a review-site image whose title names the diagnosis and lists the clinical features and treatment]
