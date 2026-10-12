@@ -392,3 +392,263 @@ E. Acute mesenteric ischemia
 **Answer:** B
 **Explanation:** key: hypotension suggests massive hemorrhage; generalized tenderness with guarding = peritonitis; PDx ruptured AAA.
 **Guideline / source:** not stated
+
+## Q42 (original no. 42)
+Acute appendicitis แล้ว rupture เป็น หลังผ่า appendectomy แล้วจะวาง drain อะไร
+
+A. Redivac drain
+B. Penrose drain
+C. Gauze drain
+D. Four wing drain
+E. Red rubber drain
+
+**Answer:** B
+**Explanation:** key: Redivac = closed active drain; Penrose = open passive drain. The key marks B with a slash (not its usual X) and a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q43 (original no. 43)
+Which of the following can cause inaccurate oxygen saturation?
+
+A. Hyperventilation
+B. Thalassemia
+C. Hyperbilirubinemia
+D. Nail polish
+E. Hyperbaric oxygen therapy
+
+**Answer:** A
+**Explanation:** the key marks A with a slash (not its usual X) and a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q45 (original no. 45)
+Which of the following can be assessed by central venous catheter?
+
+A. Intravascular fluid level
+B. Right ventricular function
+C. Left ventricular function
+D. Relation between right ventricular function and intravascular fluid level
+E. Relation between left ventricular function and intravascular fluid level
+
+**Answer:** D
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q46 (original no. 46)
+A 80-year old man with a history of heavy smoking has leg pain when walking for xx feets and is relieved by rest. What is the most likely diagnosis?
+
+A. Aorto-iliac occlusion
+B. Deep vein thrombosis
+C. (not recalled)
+D. Arterial embolism
+E. Lymphadenitis obliterans
+
+**Answer:** A
+**Explanation:** key: vascular claudication.
+**Guideline / source:** not stated
+
+## Q47 (original no. 47)
+An anesthesiologist wants to insert an arterial catheter to the radial artery. Which test should be performed?
+
+A. Allen test
+B. Brodie-Trendelenburg test
+C. Raynaud's test
+D. Phalen test
+E. Tinel test
+
+**Answer:** A
+**Explanation:** key: Brodie-Trendelenburg = chronic venous insufficiency; Raynaud's = Raynaud's phenomenon; Phalen and Tinel = carpal tunnel syndrome.
+**Guideline / source:** not stated
+
+## Q48 (original no. 48)
+An old woman got a rose thorn in her left forearm while gardening. She has a history of MRM with total axillary lymph node dissection. Physical examination shows tenderness, swelling, redness and warmth at forearm, arm to axilla. What is the diagnosis?
+
+A. Lymphangitis
+B. (not recalled)
+C. Cellulitis
+D. Erysipelas
+E. Filariasis
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q49 (original no. 49)
+An old man presents with leg swelling and pain. PE – tensel eg. He had a history of chronic alcohol drinking. 3 day ago he was bitten by a mosquito and developed symptoms. What is the likely diagnosis?
+
+A. Cellulitis
+B. Erysipelas
+C. Deep vein thrombosis
+D. Lymphatic obstruction
+E. (not recalled)
+
+**Answer:** D
+**Explanation:** key: lymphatic filariasis.
+**Guideline / source:** not stated
+
+## Q51 (original no. 51)
+A 20-year-old man presents with anterior neck mass which can move when tongue protrudes. What is the diagnosis?
+
+A. Lipoma
+B. Thyroid cancer
+C. Branchial cleft cyst
+D. Cystic hygroma
+E. Thyroglossal duct cyst
+
+**Answer:** E
+**Explanation:** key: movable midline neck mass; branchial cleft cyst is a lateral neck mass.
+**Guideline / source:** not stated
+
+## Q52 (original no. 52)
+Neck mass โตขึ้นใน 2 weeks, hoarseness PE: firm to hard mass, fixed at left anterior, bilateral cervical lymphadenopathy ถามว่าเป็น CA ชนิดไหน
+
+A. Anaplastic thyroid carcinoma
+B. Papillary thyroid carcinoma
+C. Medullary thyroid carcinoma
+D. Follicular thyroid carcinoma
+E. Lymphoma
+
+**Answer:** A
+**Explanation:** key: rapid growing; the key pastes an anaplastic thyroid carcinoma summary (highly aggressive undifferentiated thyroid neoplasm, 7th decade, rapidly enlarging neck mass) and marks the question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q53 (original no. 53)
+A 46-year-old-female, swelling neck, lost 3 kg weight in 3 months even though she increased appetite, hot even in an air conditioned room. Eyeball is enlarged, protruded with lid retraction. What is diagnosis?
+
+A. simple goiter
+B. multinodular goiter
+C. Graves' disease
+D. Hashimoto thyroiditis
+E. Toxic adenoma
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q54 (original no. 54)
+Thyroid function test ของข้อที่แล้ว
+
+A. high T3, high T4, low TSH
+B. low T3, low T4, high TSH
+C. high T3, high T4, high TSH
+D. low T3, high T4, low TSH
+E. high T3, low T4, low TSH
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q55 (original no. 55)
+An opera singer cannot reach high pitch sound after thyroidectomy, which nerve is injured?
+
+A. Inferior laryngeal nerve
+B. Internal branch of superior laryngeal nerve
+C. External branch of superior laryngeal nerve
+D. Vagus nerve
+E. Recurrent laryngeal nerve
+
+**Answer:** C
+**Explanation:** key: the internal branch is an afferent nerve.
+**Guideline / source:** not stated
+
+## Q56 (original no. 56)
+Female with blood-stained yellowish discharge. Not associate with pumping or menstruation cycle PE: no pain, no mass, no ทุกอย่าง but yellowish discharge seen when pressed on lateral part of areola. What is the most likely diagnosis?
+
+A. Fibrocystic change
+B. Intraductal papilloma
+C. Duct ectasia
+D. Invasive ductal carcinoma
+E. Acute suppurative mastitis
+
+**Answer:** B
+**Explanation:** key: serosanguinous discharge; fibrocystic change is painful and cyclic; duct ectasia and mastitis are painful.
+**Guideline / source:** not stated
+
+## Q57 (original no. 57)
+A female with 2-months breastfeeding presents with nipple pain. Physical examination - swelling, redness and 2 cm of erythema skin near the nipple, enlarged lymph node. What is the most likely diagnosis?
+
+A. Mastitis
+B. Puerperal abscess
+C. Inflammatory breast cancer
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** key: inflammatory breast cancer needs redness > 1/3.
+**Guideline / source:** not stated
+
+## Q58 (original no. 58)
+A 28 year-old woman found breast mass, she doesn't have a history of hormone use and has no children. What is further appropriate investigation?
+
+A. Mammogram
+B. Ultrasound
+C. MRI
+D. CT
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** the key boxes the age.
+**Guideline / source:** not stated
+
+## Q59 (original no. 59)
+CA Breast with axillary LN positive ถาม Tx
+
+A. Chemotherapy
+B. MRM c ALND
+C. MRM c SNB
+D. BCT
+E. BCT c radiotherapy
+
+**Answer:** B
+**Explanation:** key: D and E marked wrong.
+**Guideline / source:** not stated
+
+## Q60 (original no. 60)
+During an annual screening, a 44-year old woman was found to have multiple microcalcification in her breast. What is further management?
+
+A. Fine needle aspiration
+B. Ultrasound guided fine needle aspiration
+C. Stereotactic core needle biopsy
+D. (not recalled)
+E. Wide excision
+
+**Answer:** C
+**Explanation:** the key pastes a schematic approach to nonpalpable breast lesions (microcalcifications → stereotactic CNB) and marks the question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q61 (original no. 61)
+Which of the following is an appropriate antibiotics used?
+
+A. Piperacillin for BCT
+B. Vancomycin for lipoma excision
+C. Metronidazole for colonoscopy
+D. Clindamycin for herniorrhaphy
+E. Cefazolin for hepatectomy
+
+**Answer:** E
+**Explanation:** key: for A, B and D use cefazolin or give none; C wrong.
+**Guideline / source:** not stated
+
+## Q63 (original no. 63)
+A 45-year-female patient s/p MRM, vacuum dressing removed after 3 days post op, discharged, returned with red swelling tenderness around wound, what is the most common pathogen?
+
+A. Aerobic gram positive cocci
+B. Aerobic gram negative cocci
+C. Aerobic gram negative bacilli
+D. Anaerobic gram negative bacilli
+E. Mixed aerobic ... and anaerobic ...
+
+**Answer:** A
+**Explanation:** key: S. aureus, which colonizes the skin and drain tube.
+**Guideline / source:** not stated
+
+## Q64 (original no. 64)
+Which method can be used to prevent disease transmission between the doctor and the patient?
+
+A. Wash hand
+B. Gown and glasses
+C. (not recalled)
+D. (not recalled)
+E. Face mask
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
