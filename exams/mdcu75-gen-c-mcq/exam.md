@@ -1,0 +1,687 @@
+---
+id: exam-mdcu75-gen-c-mcq
+type: exam
+topic:
+group: cross
+source: exam-recall
+author: playerplayrh
+date: 2026-10-12
+status: ai-generated
+verified_by:
+raw:
+references: []
+exam_set: mdcu75-gen-c-mcq
+exam_format: mcq
+exam_year: 2022
+exam_rotation: General Sx rotate C
+answer_source: student-key
+---
+
+Source: "AC GEN Sx MDCU75 Rotate C". The paper says: 100 ข้อ 120 min, เช้าวันพุธ of อาทิตย์สุดท้ายของ GenSx.
+Only 54 questions are recalled; the numbers are the paper's own.
+Stems and choices are as students recalled them, in their own words. Choices the paper leaves
+blank are written "(not recalled)"; choices the paper does not list at all are not added.
+Answers: "Key AC MCQ GEN Sx MDCU75 Rotate C", a student's annotated copy that marks the chosen
+choice with an X (student-key), not an official key. The key's handwritten notes are given under
+Explanation, partly [unclear] where hard to read.
+exam_year 2022 is taken from the paper's file date (September 2022); the paper does not state the year.
+The rotation letter (C) is not mapped to a G.
+
+## Q1 (original no. 1)
+post op day2 ไม่ได้เป็นDM เจาะblood glucoseได้300 ข้อไหนอธิบายภาวะ hyperglycemia
+
+A. IL1-CRH-ACTH-cortisol-glucagon-gluconeogenesis-insulin resistance
+B. IL-10-CRH-ACTH-cortisol-glucagon-hyperglycemia
+
+**Answer:** A
+**Explanation:** the key marks B wrong (IL-10 underlined).
+**Guideline / source:** not stated
+
+## Q2 (original no. 2)
+A 50 female patient ทำ gastrectomy, 2 month later มา follow up, blood smear found hypochromic macrocytic anemia. What is the most likely cause of anemia?
+
+A. B1 def.
+B. B12 def
+C. vit D def
+D. calcium def
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** key: due to intrinsic factor deficiency.
+**Guideline / source:** not stated
+
+## Q3 (original no. 3)
+What is the meachanism of cyclosporin?
+
+A. inhibit t cell
+B. inhibit b cell
+C. inhibit complement
+D. inhibit innate immunity
+E. เพิ่มcortisol
+
+**Answer:** A
+**Explanation:** key: calcineurin inhibitor.
+**Guideline / source:** not stated
+
+## Q4 (original no. 4)
+GERD ไม่มี complication อะไร
+
+A. Barrett's esophagus
+B. Esophagitis
+C. CA esophagus
+D. Gastroesophageal hernia
+
+**Answer:** D
+**Explanation:** the key ticks A, B and C as complications.
+**Guideline / source:** not stated
+
+## Q5 (original no. 5)
+ใส่ Cath มา 3 wks มีไข้ เกิดจากอะไร
+
+A. Cathether-related infection
+
+**Answer:** A
+**Explanation:** only one choice is recalled.
+**Guideline / source:** not stated
+
+## Q6 (original no. 6)
+65 year old man, history of hepatitis B. Admit to hospital due to esophageal variceal. What is the most appropriate medication to minimize and stop bleed?
+
+A. vit k & non-selective beta blocker
+B. vit k & calcium channel blocker
+C. factor__ & empiric antibiotics
+D. desmopressin & somatostatin anglog
+E. factorVI & protamine sulfate
+
+**Answer:** D
+**Explanation:** key: variceal bleeding management.
+**Guideline / source:** not stated
+
+## Q7 (original no. 7)
+เป็นcirrhosis, u/s ได้ anechoic 1 ก้อน
+
+**Answer:** liver cyst (the recaller wrote "ตอบ liver cyst"; the key ticks it)
+**Explanation:** no choices are recalled.
+**Guideline / source:** not stated
+
+## Q8 (original no. 8)
+คนท้องสงสัย appendicitis เเต่ u/s ไม่เจอ ต้องทำอะไรต่อ
+
+**Answer:** MRI (key)
+**Explanation:** no choices are recalled.
+**Guideline / source:** not stated
+
+## Q9 (original no. 9)
+U/S ได้ multiple hypoechoic lesions in liver อะไรคือ mostly likely cause
+
+A. Colon cancer
+B. Ovary cancer
+C. Gastric cancer
+
+**Answer:** A
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q10 (original no. 10)
+Patient ไม่ได้เป็น cirrhosis ถาม Minimum liver remnant enough for resection
+
+A. 90%
+B. 70%
+C. 50%
+D. 25%
+E. 10%
+
+**Answer:** D
+**Explanation:** the key pastes a slide "Liver mass approach": malignant liver tumor, resectable needs adequate liver remnant / liver function, patient fitness, complete tumor removal (except neuroendocrine tumor), no extrahepatic spread; unresectable: XRT, TOCE, chemotherapy, relieve jaundice. The key marks this question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q11 (original no. 11)
+คนไข้มีประวัติคล้ายๆ AAA คนไหนที่ follow up ได้
+
+A. 55 ปี ตอนแรกเจอ 4.5 cm, 1 ปีต่อมา 5 cm
+B. 55 ปี เจอ 5 cm ?
+C. (not recalled)
+D. Emboli ลงขา
+E. Asymptom 5 cm อายุ 70 asymptomatic, accidental finding
+
+**Answer:** A
+**Explanation:** key: A "< 1 cm/yr"; B "ผู้หญิงตัดที่ 5 cm"; D marked wrong.
+**Guideline / source:** not stated
+
+## Q12 (original no. 12)
+ผ่าไส้ติ่ง 5 ปีก่อน มาด้วย abdominal colicky pain, n/v, obstipation 2 วัน, management อันไหนไม่ถูก
+
+A. Foley ดู urine output
+B. Antibiotics ถ้าสงสัย bowel ischemia
+C. Colloid resuscitation is required to maintain intravascular volume
+D. ถ้ามี localized guarding, tenderness เมื่อไหร่ทำlaparotomy เลย
+E. NG insertion and decompression
+
+**Answer:** C
+**Explanation:** key: non-virgin abdomen, small bowel obstruction; "colloid" corrected to crystalloid; A, B, D and E ticked as correct management.
+**Guideline / source:** not stated
+
+## Q13 (original no. 13)
+Groin mass, ที่ผ่านมาดันกลับได้มาตลอด ...ปี เมื่อวานเบ่งขี้แล้วก้อนโผล่มา รอบนี้ดันกลับไม่ได้ BT 38oC Abdomen: soft, not tender, hypoactive bowel sound. ถาม Dx?
+
+A. Incarcerated hernia
+B. Strangulated hernia
+C. Lymph...???
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** the key puts a question mark beside this question.
+**Guideline / source:** not stated
+
+## Q14 (original no. 14)
+least possible complication of parenteral nutrition?
+
+A. cholestasis
+B. catheter-related complication ไม่ก้ infection
+C. aspiration
+D. (not recalled)
+E. refeeding syndrome
+
+**Answer:** C
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q15 (original no. 15)
+เป็นปี 4 แต่ assigned to assist HIV +ve จะทำยังไง
+
+A. wear waterproof gown, double gloves, goggles
+B. observe and help with document
+C. tell the supervisor that you arent comfortable and ask to be 4th assistant
+D. exchange with friend
+E. take a sick leave
+
+**Answer:** A
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q16 (original no. 16)
+Fever with LLQ pain and tenderness 1 week. CT abdomen reveals thickened sigmoid with diverticulim and percicolonic fat stranding, and 4cm abscess extended from paracolic gutter to pelvic cavity. U/D HT well controlled. Broad spectrum antibiotics started. Most appropriate management?
+
+A. Emergency lap colonec + drain
+B. Emergency lap sigmoidec + drain
+C. NPO + percutaneous drain
+D. NPO + อะไรไม่รู้
+
+**Answer:** D
+**Explanation:** key: Dx diverticular abscess; D completed as "NPO + ATB + observe". The key's small notes on management by abscess size and site are mostly [unclear]. The key marks this question จำ, ยาก (memorise, hard).
+**Guideline / source:** not stated
+
+## Q17 (original no. 17)
+Mid thoracic esophageal tumor 1.5 cm biopsy ได้ squaremous cell carcinoma, no lymphadenopathy, no liver and lung metastasis
+
+A. Esophagectomy
+B. Definitive chemoradiation
+C. Chemotherapy as a contunuum of care
+D. Chemoradiation then esophagectomy
+E. Esophageal stent
+
+**Answer:** D
+**Explanation:** key on B: definitive chemoradiation is indicated in SCC of esophagus if the patient denies surgery, has comorbidity, or the CA is at the cervical part.
+**Guideline / source:** not stated
+
+## Q18 (original no. 18)
+คนอายุ 38 คนไหนต้องได้ tetanus Ig
+
+A. คนท้องมา antenatal clinic toxoid 12 ปีที่แล้ว
+B. อุบัติเหตุจราจร unconscious unknown history
+C. Dog bite wound last toxoid 4 years
+D. Abrasion last toxoid 10 years
+E. Excision อะไรสักอย่างจำไม่ได้ of epidermal cyst
+
+**Answer:** B
+**Explanation:** key: C wrong (< 5 yr); D wrong (minor wound); E wrong (minor wound). The key pastes "Table 1: Guide to tetanus prophylaxis in wound management".
+**Guideline / source:** guide to tetanus prophylaxis in wound management (table pasted in the key; source not stated)
+
+## Q19 (original no. 19)
+ใครควรได้รับ tetanus immunoglobulin
+
+A. คนท้องมาฝากครรภ์ที่ antenatal clinic เฉยๆ
+B. Motorcycle accident unconscious
+C. cat bite ฉีดวัคซีนเมื่อ4ปีที่แล้ว
+D. อะไรไม่รู้ที่ดูแผลไม่ได้สกปรกมาก ได้รับวัคซีน10ปีที่แล้ว
+
+**Answer:** B
+**Explanation:** not stated (same topic as Q18, recalled twice)
+**Guideline / source:** not stated
+
+## Q20 (original no. 20)
+ต้อง transfusion แต่ขัดกับความเชื่อ ต้องทำอะไรต่อ
+
+A. ผ่าเลยไม่ต้องtransfusion
+B. เรียก risk management department มาประเมิน
+C. คุยแล้วหา alternatives product
+D. ผ่าแล้วให้ตอนดมยาสลบในOR
+
+**Answer:** C
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q21 (original no. 21)
+A 38-year-old woman is concerned about breast cancer, her mom and 2 sisters have CA breast before 50 y.o. What is true according to prevention of breast cancer?
+
+A. mastectomy is offered if มีลูกเสร็จแล้ว
+B. her family should do genetic test after genetic counseling
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q22 (original no. 22)
+อะไรคือ most common indication of splenectomy?
+
+A. trauma injury
+B. hyperslenism
+
+**Answer:** A
+**Explanation:** the key pastes a textbook passage "Indications for splenectomy" with the line on trauma highlighted, and marks this question จำ (memorise). Same topic as Q45.
+**Guideline / source:** textbook passage pasted in the key (book not named)
+
+## Q23 (original no. 23)
+A 17-year-old man, known case hemophilia A, come to ER with rectus sheath hematoma. What is the appropritate management?
+
+A. bed rest, cold pack, platelet
+B. bed rest, cold pack, cryoprecipitate
+C. cryoprecipitate, set OR for hematoma evacuation
+D. platelet, set OR for hematotma evacuation
+E. (not recalled)
+
+**Answer:** C
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q24 (original no. 24)
+ผช 55 ปี chronic smoker มาด้วย 4 months of progressive epigastric discomfort, postprandial abdominal heaviness, early satiety. PE: mildly pale, thin man, palpable firm epigastrium mass with positive splashing sound ถาม cause of symptoms
+
+A. Pancreatic pseudocyst
+B. Hypertrophic pyloric stenosis
+C. Transverse colon cancer
+D. Gastric cancer
+E. Annular pancreas
+
+**Answer:** D
+**Explanation:** the key pastes a Thai text on symptoms of gastric cancer from chulacancer.net.
+**Guideline / source:** http://www.chulacancer.net/uploads/articles_attc/1595387134.pdf (cited in the key)
+
+## Q25 (original no. 25)
+Which patient should refer to liver transplant?
+
+A. 65 yo male HCV with Child A cirrhosis
+B. 60 yo female HBV with Child A cirrhosis
+C. 55 yo female Child A cryptogenic cirrhosis
+D. 55 yo male heavy drinker with Child C cirrhosis
+E. 50 yo female HBV-cirrhosis with 3-cm HCC
+
+**Answer:** E
+**Explanation:** the key pastes the Milan criteria (Mazzaferro et al, 1996) and the UCSF criteria (Yao et al, 2001).
+**Guideline / source:** Milan criteria; UCSF criteria (named in the key)
+
+## Q26 (original no. 26)
+Patient มี underlying เป็น DLP, DM, atrial fibrillation, Leriche syndrome มี acute severe abdominal pain PR 110/min ตรวจท้องเจอ hypoactive bowel sound, no guarding, no rebound tenderness ถามว่าเป็นอะไร
+
+A. Ruptured appendicitis
+B. Ruptured AAA
+C. Peptic ulcer perforation
+D. Acute mesenteric ischemia
+E. (not recalled)
+
+**Answer:** D
+**Explanation:** key: Leriche syndrome = aortoiliac occlusive disease; pain out of proportion.
+**Guideline / source:** not stated
+
+## Q27 (original no. 27)
+A 40-year-old man came to OPD complaint of irreducible mass at scrotum which normally can be reduced. The mass starts to protude when he plays football. BP 110/70 mmHg, PR 90/min ฟังแล้ว hyperactive bowel sound … What is the diagnosis?
+
+A. Incarcerated hernia
+B. Strangulated hernia
+C. (not recalled)
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** key: หรือตอบ obstructed hernia ก็ได้.
+**Guideline / source:** not stated
+
+## Q28 (original no. 28)
+Epigastric pain พบ air in biliary tree vital sign ปกติ มีแค่ hypotension ต่ำๆ จง dx โรคนี้
+
+A. Acute pancreatitis
+B. Chronic pancreatitis
+C. Acute gangrenous cholecystitis
+D. Acute cholangitis
+E. Gangrenous appendicitis
+
+**Answer:** C
+**Explanation:** key: pneumobilia: gallstone ileus, emphysematous cholecystitis, oriental cholangiohepatitis (recurrent pyogenic cholangitis). A short Thai note above C is [unclear]. Compare Q32 and Q42.
+**Guideline / source:** not stated
+
+## Q29 (original no. 29)
+Jaundice with 2-cm mass at head of pancreas, EUS with biopsy reveal atypical cells. What is the most appropriate management?
+
+A. Cholestyramine
+B. Chemo
+C. Radiation
+D. Pancreatoduodenectomy
+E. ERCP with stent
+
+**Answer:** D
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q30 (original no. 30)
+Car accident with bleeding BT 35 RR 22 PR 110 BP 90/60 pH 7.0 What is false?
+
+A. Surgical repair of bleeding
+B. Hypothermia is essential to reduce metabolic rate
+C. bicarbonate to correct acidosis
+D. Prepare to correct coagulopathy
+E. Prepare to give PRC
+
+**Answer:** B
+**Explanation:** key: class III hemorrhage, hemorrhagic shock; B wrong because ต้อง warm ร่างกาย เพื่อแก้ coagulopathy; C ticked (pH < 7.2); A, D and E ticked. The key pastes a "Bloody vicious cycle" diagram.
+**Guideline / source:** not stated
+
+## Q31 (original no. 31)
+Female patient periumbilical pain ย้ายมา RLQ มี LMP 3 weeks ago มีไข้ 38 ถาม most important lab
+
+A. CBC
+B. Grouping and matching
+C. Urinalysis
+D. Urine pregnancy test
+E. Coagulogram
+
+**Answer:** D
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q32 (original no. 32)
+A confused female presents with Fever with chill 38.8C RUQ pain, X-ray seen air in biliary tree
+
+A. acute gangrenous cholecystitis
+B. acute cholangitis
+C. peptic ulcer perforated
+
+**Answer:** A
+**Explanation:** not stated. Compare Q28 and Q42.
+**Guideline / source:** not stated
+
+## Q33 (original no. 33)
+ผู้หญิงเป็น small bowel obstruction No decompression, Resuscitate แล้ว 3 วัน พบว่ามี bowel tympany และยังไม่ตด ข้อไหนคือ next best intervention?
+
+A. Enteral ทาง NG tube
+B. Jejunostomy tube
+C. Parenteral
+D. D5 in 1/2 normal saline with 40 meq k 5 ml/hr
+E. Insulin drip
+
+**Answer:** C
+**Explanation:** the key marks C with a light tick (not its usual X) and puts a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q34 (original no. 34)
+ผู้ป่วยชายมาด้วย progessive dysphagia มา 6 weeks เวลากลืนจะรู้สึกเหมือนอะไรติดตรงอก ตอนแรกยังพอกินของแข็งได้แต่ตอนนี้ต้องกินอาหารเหลว น้ำหนักลด 7 กิโลใน 2 เดือน physical examination a male with normal vital sigh, no abnormal abdominal sign. Most likely diagnosis?
+
+A. Achalasia
+B. Thyoma
+C. Esophageal cancer
+
+**Answer:** C
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q35 (original no. 35)
+5 days post-operative lipoma removal. The patient comes back to clinic with complaint of purulent discharge from excision site. อะไรเป็นตัวการ?
+
+A. Mixed negative aerobes and anaerobes
+B. Negative aerobes bacilli
+C. Positive aerobes bacilli
+D. Positive anaerobes bacilli
+E. Positive aerobes coci
+
+**Answer:** E
+**Explanation:** key: S. aureus.
+**Guideline / source:** not stated
+
+## Q36 (original no. 36)
+โดนรังสีไรซักอย่าง เป็น leukemia
+
+A. Physical carcinogen
+B. Chemical carcinogen
+C. Biogical carcinogen
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** the key pastes a slide "Factors effect cell cycle" (physical, chemical and biological carcinogens).
+**Guideline / source:** not stated
+
+## Q37 (original no. 37)
+Ruptured appendicitis มีหนอง ให้ Abx ไง
+
+A. 3rd gen cephalosporin 1 ชม ก่อนผ่าตัด
+B. 1st gen cephalosporin 1 ชมก่อนผ่าตัด
+C. Continuous 1st gen 3 วัน
+D. Continuous 3rd gen 3 วันหลังผ่าตัด
+E. Continuous 3rd gen 14 วันหลังผ่าตัด
+
+**Answer:** A and D (the key marks both)
+**Explanation:** key: D "3-7 days"; postoperative antibiotics is required in complicated appendicitis for 3-7 days.
+**Guideline / source:** not stated
+
+## Q38 (original no. 38)
+ผู้หญิงกินยานอนหลับ 20 เม็ด ถูกส่งมาที่ ER ทาง ER ได้ช่วยไว้ คุณแม่บอกว่าลูกเป็นซึมเศร้า อยากตายเพราะเครียดจากงาน ถามว่าที่ ER ทำตรงกับ ethics ข้อไหน?
+
+A. Autonomy
+B. Beneficient
+C. Social justice
+D. patient's confidentiality
+E. professional competence
+
+**Answer:** B
+**Explanation:** key: safe life first.
+**Guideline / source:** not stated
+
+## Q39 (original no. 39)
+ผู้หญิงท้อง 16 wk มีอาการเหมือน appendicitis แต่ u/s ไม่พบ ควรทำอะไรต่อ
+
+A. Repeat ultrasound
+B. CT abdomen
+C. MRI
+
+**Answer:** C
+**Explanation:** not stated. Same topic as Q8.
+**Guideline / source:** not stated
+
+## Q40 (original no. 40)
+Esophagus 1.5 cm, confined in muscle
+
+A. Esophagectomy
+B. Neoadjuvant + esophagectomy
+
+**Answer:** B
+**Explanation:** key: resectable. Compare Q17.
+**Guideline / source:** not stated
+
+## Q41 (original no. 41)
+44 y, female, 3 cm right breast mass and no axillary lymphadenopathy. imaging no other lesion and no suspicious lymph node. Proven เป็น invasive ductal carcinoma. ทำอะไรดี?
+
+A. wide excision and intraoperative radiotherapy
+B. wide excision and sentinel lymph node biopsy
+C. right mastectomy and axillary lymph node disection
+D. right mastectomy and immediate reconstruction
+E. neoadjuvant chemotherapy and wide excision
+
+**Answer:** B
+**Explanation:** key: clinical node negative.
+**Guideline / source:** not stated
+
+## Q42 (original no. 42)
+57 y female confusion, abdominal pain, shaking chill BT 38.8 RR 22 PR 111 BP 100/60
+Abd x-ray show air in biliary tree. What is most diagnosis?
+
+A. acute cholangitis
+B. acute pancreatitis
+C. acute gangrenous cholecystitis
+D. peptic ulcer perforation
+E. gangrenous appendicitis
+
+**Answer:** C
+**Explanation:** key: emphysematous cholecystitis. Compare Q28 and Q32.
+**Guideline / source:** not stated
+
+## Q43 (original no. 43)
+A 55-year-old man bike rider, smoking a few cigarettes, social drinking
+2x2 red painful oozing shallow ulcer, hyper pigmentation at his ankle
+
+A. Arterial insufficiency
+B. Venous insufficiency
+C. Peripheral neuropathy
+D. (not recalled)
+
+**Answer:** B
+**Explanation:** the key pastes an "Arterial vs. venous" ulcer comparison chart.
+**Guideline / source:** not stated
+
+## Q44 (original no. 44)
+ผู้หญิงใช้ oral contraceptive pill นั่งเครื่องกลับจาก usa มีอาการขาบวม ปวด อะไรเป็น most sensitive diagnostic tool?
+
+A. trendelenburg test
+B. perthes test
+C. doppler ultrasound
+D. duplex ultrasound
+E. magnetic resonance venography
+
+**Answer:** D
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q45 (original no. 45)
+อะไรเป็น most common indication ของ splenectomy
+
+A. splenic cyst
+B. hypersplenism
+C. immune thrombocytopenic purpura
+D. traumatic injury
+E. lymphoma
+
+**Answer:** D
+**Explanation:** not stated. Same topic as Q22.
+**Guideline / source:** not stated
+
+## Q46 (original no. 46)
+ก่อนหน้านี้ reducible hernia มานาน ........ เดือน/ปี ไปเตะฟุตบอล กลับมาเลยเป็น irreducible hernia ถาม management ต่อ
+
+**Answer:** not answered in the key (the key crosses this question out)
+**Explanation:** no choices are recalled. Compare Q27.
+**Guideline / source:** not stated
+
+## Q47 (original no. 47)
+กินเหล้าเยอะ ปวด ร้าวไปหลัง เคยเป็นมาก่อนหลายครั้ง เคยได้รับการรักษาแล้วหาย ครั้งนี้เป็นใหม่ amylase 1000
+
+A. acute pancreatitis
+B. chronic pancreatitis
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q48 (original no. 48)
+A 18-year-old boy came to ER with colicky pain, fever, migration to RLQ. After investigation, acute appendicitis was diagnosed. ทำ Laparoscopic appendectomy เปิดมาปรากฏ normal appendix แต่เจอ sock-like out-pouching seen on the distal ileum with red and fibrin coated. What is the etiology of this pouch?
+
+A. A persistent of vitelline duct
+B. excessive traction on the intestinal during childbirth
+C. A mutation of C-mec gene
+D. Weakening of intestinal muscular layer
+E. Increase intraluminal pressure
+
+**Answer:** A
+**Explanation:** key: Meckel's diverticulum.
+**Guideline / source:** not stated
+
+## Q49 (original no. 49)
+A 33-year-old man present with reducible right groin mass. Physical examination show one testis is not in the left scrotal sac. What is the appropriate management?
+
+A. Bilateral pelvis and groin exploration
+B. Ultrasound both pelvis and groin
+C. MRI lower abdomen
+D. CT lower abdomen
+E. X-ray pelvis and groin
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q50 (original no. 50)
+These managements enhances recovery after surgery except
+
+A. Discuss and educate patients conditions
+B. Assess nutritional status and optimize nutrition
+C. Normalize blood pressure and glucose level
+D. Prophylactic antibiotics
+E. Universal wound drain use and extended IV fluid administration
+
+**Answer:** E
+**Explanation:** key: ไม่เป็นไปตาม ERAS.
+**Guideline / source:** ERAS (named in the key)
+
+## Q51 (original no. 51)
+Which carcinogen and cancer correlation is false?
+
+A. Cervical cancer - HPV
+B. Hepatoma - HCV
+C. Lymphoma - EBV
+D. Gastric cancer – H. pyroli
+E. Cholangiocarcinoma - Schistosoma maekongi
+
+**Answer:** E
+**Explanation:** key: Schistosoma crossed out and replaced with O. viverrini.
+**Guideline / source:** not stated
+
+## Q52 (original no. 52)
+Which is contraindication for BCS? (Breast conserving surgery)
+
+A. Previous implant
+B. inflammatory breast cancer
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q53 (original no. 53)
+70 yr old man มาทำ Elective right herniorhaphy, U/D HT, DLP, มี coronary stent
+อะไรที่ต้องหยุด?
+
+A. Aspirin
+B. Bronchodilator
+C. Calcium channel blocker
+D. Propanolol
+E. All of above
+
+**Answer:** E
+**Explanation:** the key marks E with a light tick (not its usual X) and puts a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q54 (original no. 54)
+60-year-old man, progressive jaundice for 1 month, itching, acholic stool, loss of appetite, weight loss 8 kg in 2 months, Physical exam: Gall bladder palpable, no tenderness
+What is the diagnosis?
+
+A. Choledocholithiasis
+B. Periampulary malignant neoplasm
+C. Viral hepatitis
+D. Cholangiocarcinoma
+E. Gall stone (มนจแต่กกgallstone)
+
+**Answer:** B
+**Explanation:** key: Courvoisier's law; A and E marked wrong.
+**Guideline / source:** not stated
+
+## Flagged for checking
+- Q28, Q32 and Q42 all show air in the biliary tree. The key answers acute gangrenous (emphysematous) cholecystitis each time, even for Q32 and Q42, where fever with chills, RUQ pain and confusion are given and acute cholangitis is a choice. Is that right?
+- Q37: the key marks two choices (A and D). Which single answer does the exam expect?
+- Q33 and Q53: the key marks its answer only lightly and adds a question mark. Are these answers right?
+- Q53: the key's answer is "All of above" for a patient with a coronary stent. Should aspirin really be stopped?
