@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu70-gen-1-meq
 exam_format: meq
-exam_year: 2022
+exam_year: 2017
 exam_rotation: General Sx rotate 1
 answer_source: recalled
 ---
@@ -21,7 +21,7 @@ Source: "MEQ Surgery by MDCU 70 rotate 1", MEQ part, recalled by students; the n
 No answer key was found for this paper; answers appear only where the paper itself gives one,
 everything else is "not given in the source". Only four numbered questions are recalled (1, 5, 12,
 14), plus one labelled "xx", which is kept at the end under its own heading.
-exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
+exam_year 2017 is taken from the PDF's own creation date (October 2017); the Drive copy is dated April 2022. The paper does not state the year.
 The rotation (1) is not mapped to a G.
 
 ## Q1 (original no. 1)
