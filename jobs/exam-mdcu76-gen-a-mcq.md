@@ -25,3 +25,4 @@ none
 - 2026-10-12 released by owner playerplayrh (status todo)
 - 2026-10-12 start (playerplayrh): recalled paper Q1-75 (two questions numbered 9; Q41 picture only); key = circled answers on the PDF copy (the .docx has only machine-read text)
 - 2026-10-12 done: exams/mdcu76-gen-a-mcq Q1-75 + second Q9 (kept unnumbered), student-key; key pages checked by eye; 4 unanswered, 3 crossed out or missing; flagged
+- 2026-10-12 added 1 checked picture

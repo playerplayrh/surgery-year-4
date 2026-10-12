@@ -29,6 +29,7 @@ only machine-read text of the handwriting. The key's handwritten notes are given
 Explanation, partly [unclear] where hard to read.
 exam_year 2024 is taken from the paper's file date (January 2024); the paper does not state the year.
 The rotation letter (A) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only.
 
 ## Q1 (original no. 1)
 เคยผ่าคลอด low midline scar เป็น transverse line เจอ ก้อน defect 3 cm lateral rectus abdominis โป่งออกมาแนว longitudinal ตอนไอ
@@ -498,6 +499,7 @@ E. Viral profile
 
 ## Q41 (original no. 41)
 [picture in the paper: a red, swollen skin lesion; the recalled question has no stem text]
+![red swollen skin lesion](images/mdcu76-gen-a-mcq-q41-1.jpg)
 
 A. Gram pos rod
 B. Gram pos cocci
