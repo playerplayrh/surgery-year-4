@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu73-gen-c-mcq
 exam_format: mcq
-exam_year: 2022
+exam_year: 2020
 exam_rotation: General Sx rotate C
 answer_source: student-key
 ---
@@ -23,7 +23,7 @@ Answers: "Key AC MCQ GEN Sx MDCU73 Rotate C", a student's annotated copy that cr
 choice (student-key), not an official key. The paper skips many numbers (e.g. Q15-Q17); gaps are
 kept. Stems were read from the key's page images. Choices the
 paper leaves blank are written "(not recalled)"; choices it does not list are not added.
-exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
+exam_year 2020 is the PDF's own creation date (October 2020); the Drive copy is dated April 2022 and the paper does not state the year.
 The rotation (C) is not mapped to a G.
 
 ## Q1 (original no. 1)
