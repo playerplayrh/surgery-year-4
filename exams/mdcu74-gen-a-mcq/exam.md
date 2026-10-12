@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu74-gen-a-mcq
 exam_format: mcq
-exam_year: 2022
+exam_year: 2021
 exam_rotation: General Sx rotate A
 answer_source: student-key
 ---
@@ -23,7 +23,7 @@ number and are kept, in paper order, under "Unnumbered questions" at the end.
 Answers: "Key AC MCQ GEN Sx MDCU74 Rotate A", a student's annotated copy that crosses the chosen
 choice (student-key), not an official key. A longer annotated copy of the same key is in Drive
 (job-files/key-unmatched-key-ac-mcq-gen-sx-mdcu74-pdf); it was not needed.
-exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
+exam_year 2021 follows the MDCU74 PDFs' own creation dates (September-November 2021); the Drive copies are dated April 2022 and the paper does not state the year.
 The rotation letter (A) is not mapped to a G.
 
 ## Q1 (original no. 1)
