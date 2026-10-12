@@ -20,7 +20,8 @@ answer_source: student-key
 Source: "AC73 GEN Sx Rotate C", all questions, recalled by students; the numbers are the paper's own unless said otherwise.
 The paper says: MCQs 100 ข้อ 3 ชั่วโมง ข้อสอบแยกบทให้ สอบที่ห้องพาหุรัด สอบเสร็จออกก่อนได้.
 Answers: "Key AC MCQ GEN Sx MDCU73 Rotate C", a student's annotated copy that crosses the chosen
-choice (student-key), not an official key. Stems were read from the key's page images. Choices the
+choice (student-key), not an official key. The paper skips many numbers (e.g. Q15-Q17); gaps are
+kept. Stems were read from the key's page images. Choices the
 paper leaves blank are written "(not recalled)"; choices it does not list are not added.
 exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
 The rotation (C) is not mapped to a G.
@@ -140,4 +141,134 @@ E. best palliative care
 
 **Answer:** E
 **Explanation:** key: unresectable due to severe comorbidity.
+**Guideline / source:** not stated
+
+## Q10 (original no. 10)
+คนไข้มาด้วย reducible mass at incisional site ที่ periumbilical area with history of abdominal surgery. Diagnosis?
+
+A. Umbilical hernia
+B. Incisional hernia
+C. Direct inguinal hernia
+D. Indirect inguinal hernia
+E. Ritcher hernia
+
+**Answer:** B
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q11 (original no. 11)
+คนไข้ dx Indirect Inguinal hernia. A mass can be reduced by pressing on some areas. What is this area?
+
+A. McBurney point
+B. inguinal canal
+C. superficial inguinal ring
+D. deep inguinal ring
+E. (not recalled)
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q12 (original no. 12)
+A 41-year-old man with reducible groin mass for 2 years, now it became irreducible. PE a mass at groin area. Otherwise is unremarkable, V/S stable, no pain, no redness. What is an appropriate management?
+
+A. Manual reduction with emergency herniorrhaphy
+B. Manual reduction with urgent herniorrhaphy
+C. NG tube + Foley catheter with emergency herniorrhaphy
+D. Exploratory laparotomy
+E. IV ATB and observe
+
+**Answer:** B
+**Explanation:** key: incarcerated hernia; emergency = within 6 hr, urgent = within 6-24 hr.
+**Guideline / source:** not stated
+
+## Q13 (original no. 13)
+Female present with intermittent nausea and vomiting, right swelling groin mass below right inguinal ligament for 2 weeks. What is the most likely diagnosis?
+
+A. Right hydrocele
+B. Right direct inguinal hernia
+C. Right femoral hernia
+D. Right Pantaloon hernia
+E. Right varicose vein
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q14 (original no. 14)
+A 44-year-male post left inguinal hernia repair with synthetic mesh. What's the most common complication this morning?
+
+A. Bleeding
+B. Wound infection
+C. Urinary retention
+D. Mesh displacement
+E. Seroma
+
+**Answer:** A
+**Explanation:** the key pastes a passage on postoperative complications of hernia repair (seroma/hematoma formation, urinary retention, neuralgia, testicular pain and swelling, mesh infection, recurrence).
+**Guideline / source:** not stated
+
+## Q18 (original no. 18)
+คนไข้มาด้วย hematemesis มีประวัติดื่มเหล้ากับเป็นโรคตับ. What is an initial management?
+
+A. IV somatostatin
+B. Band ligation
+C. (not recalled)
+D. (not recalled)
+E. Esophagogastroduodenoscopy
+
+**Answer:** A
+**Explanation:** key: variceal bleeding.
+**Guideline / source:** not stated
+
+## Q19 (original no. 19)
+คนไข้มาด้วย hematemesis มีประวัติดื่มเหล้ากับเป็นโรคตับ. What is the definite treatment?
+
+A. Band ligation
+B. Sclerotherapy
+C. Transjugular intrahepatic portosystemic shunt
+D. Portocaval shunt
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** the key pastes an acute variceal hemorrhage management summary.
+**Guideline / source:** not stated
+
+## Q20 (original no. 20)
+Right sided heart failure ทำให้ portal hypertension แบบใด
+
+A. intrahepatic, post-sinusoidal
+B. prehepatic, cavernous transformation
+C. intrahepatic presinusoidal
+D. post-hepatic / extra-hepatic
+E. only one side hepatic???
+
+**Answer:** D
+**Explanation:** the key pastes a chart of post-hepatic, intrahepatic and pre-hepatic causes of portal hypertension.
+**Guideline / source:** not stated
+
+## Q21 (original no. 21)
+Gastrectomy complication
+
+A. Pernicious anemia
+B. Hemolytic anemia
+C. (not recalled)
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** key: deficit of intrinsic factor secreted by parietal cells.
+**Guideline / source:** not stated
+
+## Q22 (original no. 22)
+A 40-year-old male, smoking, กิน ibuprofen, epigastric pain radiates to back on and off especially at night. Today 2 hr pta passes dark red and black stool, vomiting. Dx
+
+A. GERD
+B. gastric ulcer
+C. duodenal ulcer
+D. acute pancreatitis
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** key: melena; gastric ulcer relates to weak mucosal barrier; duodenal ulcer (marked wrong) relates to acid hypersecretion.
 **Guideline / source:** not stated
