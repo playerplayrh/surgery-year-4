@@ -272,3 +272,123 @@ E. (not recalled)
 **Answer:** B
 **Explanation:** key: melena; gastric ulcer relates to weak mucosal barrier; duodenal ulcer (marked wrong) relates to acid hypersecretion.
 **Guideline / source:** not stated
+
+## Q23 (original no. 23)
+ชาย 44 ปี แข็งแรงดี ทำงานหนัก กินยาแก้ปวดเป็นบางครั้ง sudden epigastrium pain , abdominal examination : absent bowel sound, hypertympanic on percussion at ........
+
+A. Acute pancreatitis
+B. GERD
+C. peptic ulcer
+D. Colonic perforation
+E. Complicated small bowel obstruction
+
+**Answer:** not marked in the key
+**Explanation:** key: air; probably peptic ulcer perforation (the key puts a question mark beside the question).
+**Guideline / source:** not stated
+
+## Q27 (original no. 27)
+Which of the following is the correct sequence of blood clotting?
+1. Vascular constriction
+2. Platelet aggregation
+3. Coagulation
+
+A. 1-2-3
+B. (not recalled)
+C. (not recalled)
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** A
+**Explanation:** the numbered items are part of the stem.
+**Guideline / source:** not stated
+
+## Q28 (original no. 28)
+During blood transfusion, A patient developed fever, chills, and tachycardia. What is not an appropriate management?
+
+A. Slow rate of transfusion
+B. Intravenous furosemide
+C. Give oxygen
+D. Give normal saline
+E. Recheck and notify blood bank
+
+**Answer:** A
+**Explanation:** key: AHTR (acute hemolytic transfusion reaction); B to E ticked. Pasted management: stop transfusion, report to the transfusion unit, send blood unit and new blood sample, IV fluid to prevent renal failure.
+**Guideline / source:** not stated
+
+## Q29 (original no. 29)
+A 54-year old female patient with a history of valvular heart surgery who is now taking warfarin has scheduled for surgery. What should be done?
+
+A. Stop warfarin 5 days prior to operation
+B. Switch warfarin to aspirin and stop 7 days prior to operation
+C. Switch warfarin to low-molecular-weight heparin and stop 1 night prior to operation
+D. Continue warfarin to the operation day and give patient Vit K
+E. Continue warfarin to the operation day and give patient platelets
+
+**Answer:** C
+**Explanation:** key: bridging; with A and B a clot may form; E wrong. The key marks this question จำ (memorise).
+**Guideline / source:** not stated
+
+## Q30 (original no. 30)
+A 50-year-old male with obstructive jaundice ทำ ERCP ต้องให้อะไรเพื่อป้องกัน bleed
+
+A. cryoprecipitate
+B. vit K
+C. FFP
+D. plt conc
+E. no need for drug administration
+
+**Answer:** B
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q33 (original no. 33)
+LC เจอ pigmented stone ถามว่าอะไรทำให้เกิด
+
+A. Thalassemia
+B. Pregnancy
+C. Gilbert's syndrome
+D. OCP
+E. Hypercholesterolemia
+
+**Answer:** A
+**Explanation:** key: hemolytic disease; hypercholesterolemia gives cholesterol gallstone.
+**Guideline / source:** not stated
+
+## Q34 (original no. 34)
+A 64-year-old patient is in the CCU after 2 days of cardiac surgery for triple vessel disease? She has right upper abdominal pain and body temp 39.0 C. Ultrasound findings are suspected for acute cholecystitis? What is the most appropriate management?
+
+A. Repeat ultrasound
+B. Open cholecystectomy
+C. Laparoscopic cholecystectomy
+D. Endoscopic retrograde cholangiopancreatography
+E. Percutaneous Transhepatic Biliary Drainage
+
+**Answer:** E
+**Explanation:** key: unfit for surgery; PTBD + antibiotic.
+**Guideline / source:** not stated
+
+## Q37 (original no. 37)
+A 75-year-old woman presents to the emergency room with 2 times of rectal bleeding 2 hours prior to the hospital. She has no abdominal pain, dizziness and anxiety. She has no underlying disease and doesn't take any medication. Vital sign shows Body temp 37 C, RR 16/min, HR 96/min and BP 100/60 mmHg. Abdominal examination finds no distended and tenderness but PR shows blood in rectum. What is an appropriate initial management?
+
+A. Nasogastric intubation
+B. Foley catheter
+C. 2 bolus peripheral cannulation
+D. Central catheter
+E. Consult for colonoscopy
+
+**Answer:** A
+**Explanation:** key: to R/O UGIB even with stable vital signs; colonoscopy only after excluding UGIB.
+**Guideline / source:** not stated
+
+## Q38 (original no. 38)
+A 45-year-old man presents with rapid onset epigastric pain 1 hour prior to hospital. Vital sign - normal BT, normal RR, mild tachycardia, hypotension. Abdominal examination: no distention, generalized tenderness with guarding. expansile and pulsatile mass. What is the likely diagnosis?
+
+A. Aortic dissection type B
+B. Ruptured AAA
+C. Peptic ulcer perforate
+D. Ruptured pancreatic pseudocyst
+E. Acute mesenteric ischemia
+
+**Answer:** B
+**Explanation:** key: hypotension suggests massive hemorrhage; generalized tenderness with guarding = peritonitis; PDx ruptured AAA.
+**Guideline / source:** not stated
