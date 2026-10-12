@@ -4,8 +4,8 @@ title: MDCU70 rotate 1 · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 3
-status: todo
-owner:
+status: in-progress
+owner: playerplayrh
 pages: 11
 scan_pages: 0
 files: "https://drive.google.com/drive/folders/1Hv7I3d6IZZboGRQs31e93cV2pHqTpewi"

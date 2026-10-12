@@ -500,17 +500,12 @@ Second question numbered 62 (page 4): 62.ผู้ป่วยมีอากา
 2. emergency herniorrhapy
 3. emergency open laparotomy
 
-## Qecond question numbered 34 (page 5): 34. Bariatric surgery indication (original no. econd question numbered 34 (page 5): 34. Bariatric surgery indication)
-
+Second question numbered 34 (page 5): 34. Bariatric surgery indication
 A. มีหน้าท้อง มีต้นขาใหญ่
 B. ลดน้ำหนักประกวดนางงาม
 C. (not recalled)
 D. BMI 38 นอนอยู่บ้านเฉยๆ
 E. BMI 36 OSA on BIPAP
-
-**Answer:** not given in the source
-**Explanation:** not stated
-**Guideline / source:** not stated
 
 ## Unnumbered questions
 (No number in the paper; kept here unchanged, in the paper's order. No answers are given.)
@@ -519,24 +514,16 @@ E. BMI 36 OSA on BIPAP
 1. Total body water increase
 2. Lean body mass increase
 
-## Qpage 3, labelled "xx.") Which is false regarding pancreatic arterial supply (original no. page 3, labelled "xx.") Which is false regarding pancreatic arterial supply)
+(page 3, labelled "xx.") Which is false regarding pancreatic arterial supply
 1. posterior superior pancreaticoduodenal artery from SMA
 2. Pringle maneuver is clamping the hepatic pedicle
 3. (not recalled)
 4. (not recalled)
 5. (not recalled)
 
-**Answer:** not given in the source
-**Explanation:** not stated
-**Guideline / source:** not stated
-
-## Qpage 4, after Q39) What is incorrect about Thromboangiitis obliterans? (original no. page 4, after Q39) What is incorrect about Thromboangiitis obliterans?)
+(page 4, after Q39) What is incorrect about Thromboangiitis obliterans?
 1. Is also known as Buerger's disease
 2. Is associated with smoking
 3. Involves the lesion in tunica intima
 4. targets both small to medium sized artery and vein
 5. Rarely manifests as thretening limb ischemia
-
-**Answer:** not given in the source
-**Explanation:** not stated
-**Guideline / source:** not stated
