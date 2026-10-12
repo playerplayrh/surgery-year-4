@@ -24,3 +24,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu70-gen-1-meq/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
 - 2026-10-12 done: exams/mdcu70-gen-1-meq; no key, answer_source recalled
+- 2026-10-12 added 2 checked pictures

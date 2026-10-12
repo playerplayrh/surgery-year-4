@@ -23,6 +23,7 @@ everything else is "not given in the source". Only four numbered questions are r
 14), plus one labelled "xx", which is kept at the end under its own heading.
 exam_year 2017 is taken from the PDF's own creation date (October 2017); the Drive copy is dated April 2022. The paper does not state the year.
 The rotation (1) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only.
 
 ## Q1 (original no. 1)
 ให้รูป Thromboangiitis obliterans ถามวินิจฉัย+รักษา
@@ -34,6 +35,7 @@ The rotation (1) is not mapped to a G.
 ## Q5 (original no. 5)
 จงให้การวินิจฉัย บอกชื่อเชื้อก่อโรคที่พบบ่อยที่สุด และวิธีการรักษา
 [picture in the paper: a finger with a swollen, pus-filled lesion beside the nail]
+![finger with a pus-filled lesion beside the nail](images/mdcu70-gen-1-meq-q05-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -51,6 +53,7 @@ gastroschisis dx , management
 [picture in the paper: an abdominal x-ray of an infant]
 1.) dx
 2.) management
+![abdominal x-ray of an infant](images/mdcu70-gen-1-meq-q14-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
