@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu74-gen-c-mcq
 exam_format: mcq
-exam_year: 2025
+exam_year: 2022
 exam_rotation: General Sx rotate C
 answer_source: student-key
 ---
@@ -21,7 +21,7 @@ Source: "Ac Gen Sx 74 Rotate C", all questions, recalled by students; the number
 Answers: "Key AC MCQ GEN Sx MDCU74 Rotate C", a student's annotated copy that crosses the chosen
 choice (student-key), not an official key. Stems were read from the key's page images because the
 paper's Thai text layer is garbled. Choices the paper does not list are not added.
-exam_year 2025 is taken from the paper's file date (November 2025); the paper does not state the year.
+exam_year 2022 follows the other MDCU74 papers (file dates April 2022); this paper's own file is dated November 2025 (re-saved, later than its key), and the paper does not state the year.
 The rotation (C) is not mapped to a G.
 
 ## Q1 (original no. 1)
