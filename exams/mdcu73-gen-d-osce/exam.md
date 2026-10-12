@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu73-gen-d-osce
 exam_format: osce
-exam_year: 2022
+exam_year: 2020
 exam_rotation: General Sx rotate D
 answer_source: recalled
 ---
@@ -22,7 +22,7 @@ No answer key was found for this paper. Answers appear only where the recalled p
 one; everything else is "not given in the source".
 The paper's single SEQ question is labelled "X", not numbered, so it is kept at the end under its
 own heading (there is no separate MEQ set for this paper).
-exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year,
+exam_year 2020 follows the MDCU73 C paper's own creation date (October 2020); this paper's Drive copy is dated April 2022 and the paper does not state the year.
 and the file may have been saved later than the exam.
 The rotation letter (D) is not mapped to a G.
 
