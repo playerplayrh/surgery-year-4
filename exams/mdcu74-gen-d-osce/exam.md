@@ -22,6 +22,7 @@ paper's own. No answer key was found for this paper. Answers appear only where t
 itself gives one; everything else is "not given in the source".
 exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
 The rotation letter (D) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only.
 
 ## Q1 (original no. 1)
 PR หุ่น prostate แข็งๆอัน wood like บรรยาย+วินิจฉัย
@@ -114,6 +115,7 @@ Indication lipoma excision
 ## Q12 (original no. 12)
 ให้รูปนี้ถามว่าคืออะไร +ให้ ostomy bag ถามว่าคืออะไร ใช้ทำอะไร
 [picture in the paper: a stoma on the abdominal wall]
+![stoma on the abdominal wall](images/mdcu74-gen-d-osce-q12-1.jpg)
 
 **Station type:** instrument identification
 **Checklist:** not given in the source

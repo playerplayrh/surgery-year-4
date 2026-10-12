@@ -22,6 +22,7 @@ paper's own. No answer key was found for this paper. Answers appear only where t
 itself gives one; everything else is "not given in the source".
 exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
 The rotation letter (D) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: the Q2 drawing, because its labels are the answer.
 
 ## Q1 (original no. 1)
 ให้ film duodenal atresia มา ถาม dx กับสาเหตุที่พบมากสุด
@@ -41,6 +42,7 @@ The rotation letter (D) is not mapped to a G.
 ## Q3 (original no. 3)
 ให้ประวัติคนไข้หลังผ่าตัดไส้ติ่งมา 6 เดือน การตรวจชุดนี้เรียกว่า? อ่านผลฟิลม์? Dx? สาเหตุที่พบได้บ่อยที่สุด? Management?
 [picture in the paper: an upright abdominal X-ray with dilated bowel loops and air-fluid levels]
+![upright abdominal x-ray](images/mdcu74-gen-d-meq-q03-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -63,6 +65,7 @@ Describe lesion? Dx? Management? (Malignant melanoma)
 ## Q6 (original no. 6)
 Describe lesion? Dx? Physical examination เพิ่มเติม?
 [picture in the paper: a foot with an ulcer on the side of the great toe]
+![foot with an ulcer beside the great toe](images/mdcu74-gen-d-meq-q06-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
