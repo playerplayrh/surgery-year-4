@@ -21,15 +21,17 @@ Source: "MEQ Surgery Rotate A MDCU70", MEQ paper, recalled by students; the numb
 No answer key was found. Some answers are written in grey after the questions in the paper; those are kept as
 the answer and marked as the students' own. Everything else is "not given in the source".
 The paper says "ข้อสอบ 14 ข้อ ให้เวลาข้อละ 3 นาที" (14 questions, 3 minutes each).
-Pictures are described in words only; none shows a face, name or label.
+none shows a face, name or label.
 exam_year 2018 is taken from the paper's file date (May 2018, the PDF's own creation date); the paper does not state the year.
 The rotation (A) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: the Q12 drawing, because it prints the name of the sign that the question asks for.
 
 ## Q1 (original no. 1)
 ภาพการวัด ABI
 [picture in the paper: drawing of ankle-brachial index measurement with cuffs on the arm and ankle and an ultrasound probe]
 - อธิบายวิธีการวัด
 - แปลผลอย่างไร
+![drawing of ankle-brachial index measurement](images/mdcu70-gen-a-meq-q01-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -92,6 +94,7 @@ Ultrasound: Acute cholecystitis
 [picture in the paper: a swollen red lower leg and foot with dark discoloured patches]
 - Diagnosis
 - จงสั่งการรักษา
+![swollen red lower leg and foot](images/mdcu70-gen-a-meq-q08-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -102,6 +105,7 @@ Ultrasound: Acute cholecystitis
 [picture in the paper: a smooth bulge under the skin of the back near the shoulder]
 - Diagnosis
 - ชื่อการรักษา
+![bulge under the skin of the back](images/mdcu70-gen-a-meq-q09-1.jpg)
 
 **Answer:** treatment name: Lipoma excision (as written in grey in the paper by the students; not an official key); diagnosis not given in the source
 **Explanation:** not stated
@@ -121,6 +125,7 @@ Ultrasound: Acute cholecystitis
 [pictures in the paper: a panoramic jaw x-ray and a frontal skull x-ray, each with red arrows at the mandible]
 - Diagnosis
 - Definite treatment
+![jaw and skull x-rays with arrows](images/mdcu70-gen-a-meq-q11-1.jpg)
 
 **Answer:** Diagnosis: Mandibular fracture at?? (site left unfinished in the paper); Definite treatment: Open reduction and internal fixation (as written in grey in the paper by the students; not an official key)
 **Explanation:** not stated
