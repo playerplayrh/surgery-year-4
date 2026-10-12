@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1UqvSTRTmPaWkIhKHN81VN979StTdUjgA
 source: "Drive: Surgery Group/job-files/exam-mdcu73-gen-c-mcq/paper - AC73 GEN Sx Rotate C.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu73-gen-c-mcq/key - Key AC MCQ GEN Sx MDCU73 Rotate C.pdf"]
 output: exams/mdcu73-gen-c-mcq/exam.md
-checkpoint: key p.1-10 done (to Q64), next Q65
+checkpoint: key p.1-13 done (to Q82), next Q83
 updated: 2026-10-12
 ---
 

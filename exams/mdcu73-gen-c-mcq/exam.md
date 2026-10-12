@@ -652,3 +652,211 @@ E. Face mask
 **Answer:** A
 **Explanation:** not stated beyond the mark.
 **Guideline / source:** not stated
+
+## Q65 (original no. 65)
+What is the process that the surgeon called to stop an operation, then recheck the patient identity, the indication and the procedure?
+
+A. Check in
+B. Check out
+C. Time in
+D. Time out
+E. (not recalled)
+
+**Answer:** D
+**Explanation:** the key pastes the WHO Surgical Safety Checklist.
+**Guideline / source:** not stated
+
+## Q66 (original no. 66)
+เจอ appendicitis ปวดมา 12 hrs เป็น HIV pos. ถามว่าต้องทำยังไง (จำ choiceไม่ค่อยได้แต่ประมาณนี้)
+
+A. observe and IV ATB
+B. waiting for laparoscopic appendectomy
+C. ให้ junior resident มาผ่า with universal precaution because it is his/her duty
+D. ให้ expert surgeon มาผ่า open appendectomy
+E. refer to special hospital for infectious disease เช่น รพ.บำราศนราดูร
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q67 (original no. 67)
+Who should receive tetanus immunoglobulin? (TT = Tetanus toxoid)
+
+A. Mr.A a 20 year old man, cat bite, last TT since primary school
+B. Mr.B, knife stab, last TT 5 years ago
+C. Mr.C, squirrel bite, last TT 10 years ago
+D. Mr.D, abrasion wound, last TT 10 years ago
+E. Mr.E
+
+**Answer:** A
+**Explanation:** the key marks A with a slash (not its usual X), puts a question mark beside the question and pastes a guide to tetanus prophylaxis in wound management.
+**Guideline / source:** not stated
+
+## Q68 (original no. 68)
+จะผ่าตัดถุงน้ำดี ข้อใดเหมาะสมที่สุด
+
+A. advice LC to the patient because it is gold standard
+B. talk to the patient about LC and alternative Tx, cost, risk benefit and let the patient choose
+C. talk to the patient about LC and alternative Tx and let the patient choose
+D. talk to the spouse for...
+E. talk to the spouse for...
+
+**Answer:** B
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q69 (original no. 69)
+ให้ข้อมูลคนไข้เกี่ยวกับข้อดีของ LC แล้วให้เลือกกับ open เป็น..?
+
+A. Autonomy
+B. Beneficence
+C. Non-maleficence
+D. Justice
+E. Conflict of interest
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q70 (original no. 70)
+Which one is false according to early recovery after surgery (ERAS)?
+
+A. NG tube should not be retained
+B. oral diet as soon as possible
+C. chewing gum to decrease bowel ileus
+D. (not recalled)
+E. routine rectal suppository to increase bowel movement
+
+**Answer:** C
+**Explanation:** the key puts a question mark beside E and pastes an ERAS pre-, intra- and post-operative elements diagram.
+**Guideline / source:** not stated
+
+## Q71 (original no. 71)
+What is the maintenance fluid of a female 70 kg S/P operation day 0, assuming that there is no abnormal fluid loss?
+
+A. 5%DN/2 rate 100ml/hr
+B. 5%DN/2 rate 80ml/hr
+C. 5%DN/2 rate 80ml/hr + KCl
+D. (not recalled)
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** key: no KCl needed yet on the first day.
+**Guideline / source:** not stated
+
+## Q72 (original no. 72)
+Which electrolyte is the major component of intracellular fluid?
+
+A. Na
+B. K
+C. Cl
+D. HCO3-
+E. Ca
+
+**Answer:** A
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q73 (original no. 73)
+Sepsis ABG ได้ ph 7.2 ; O2 80; CO2 55; HCO3 15 คนไข้เป็นภาวะอะไร
+
+A. Metabolic acidosis
+B. Respiratory acidosis
+C. Respiratory alkalosis
+D. Metabolic acidosis + Respiratory acidosis
+E. Metabolic acidosis + Respiratory alkalosis
+
+**Answer:** D
+**Explanation:** key: expected PCO2 = 1.5 × HCO3 + 8 ± 2 = 22.5 + 8 ± 2 = 30.5 ± 2.
+**Guideline / source:** not stated
+
+## Q74 (original no. 74)
+Which of the following cannot be used to treat hyperkalemia?
+
+A. NaHCO3 IV + insulin + glucose
+B. Beta-agonist inhale
+C. Hyperventilation
+D. Loop diuretic
+E. Dialysis in ESRD patient
+
+**Answer:** C
+**Explanation:** the key pastes hyperkalemia treatment: correct causes; calcium IV to stabilize heart muscle if K > 6.5 or EKG change; shift K into cells (beta-2 agonist inhale, NaHCO3 IV, glucose + insulin IV); K excretion (cation exchange resins, furosemide, dialysis in renal failure).
+**Guideline / source:** not stated
+
+## Q75 (original no. 75)
+Which of the following is not the response to trauma?
+
+A. Lipolysis
+B. Gluconeogenesis
+C. Hypoglycemia
+D. Proteolysis
+E. Glycolysis
+
+**Answer:** C
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
+
+## Q76 (original no. 76)
+Which of the following is not the complication of TPN?
+
+A. Catheter related infection
+B. Catheter related complication
+C. Hyperglycemia
+D. Refeeding syndrome
+E. Osmotic diarrhea
+
+**Answer:** E
+**Explanation:** key: osmotic diarrhea appears with enteral formula; A to D ticked.
+**Guideline / source:** not stated
+
+## Q77 (original no. 77)
+Who strongly needs nutritional support?
+
+A. ผ่า open cholecystectomy
+B. ผ่า Esophageal cancer
+C. ผ่า Hepatectomy
+D. ผ่า Thyroid
+E. (not recalled)
+
+**Answer:** B
+**Explanation:** the key marks B with a slash (not its usual X) and a question mark beside the question.
+**Guideline / source:** not stated
+
+## Q80 (original no. 80)
+A 50-year-old male Hx. of appendectomy 3 years ago. Presents with colicky abdominal pain, nausea and vomiting. Absent of stool and flatus today. Vital signs are stable. Mild abdominal distension and Grid-iron scar seen at abdominal wall. Acute abdominal series has been done. Which of the following findings does not belong to this patient?
+
+A. Dilated small bowel mid abdomen
+B. Multiple air-fluid level along the small bowel
+C. Absent or reduced air in rectum
+D. Different air-fluid level heights in the same loop of bowel
+E. Distended haustration and fluid-filled loops
+
+**Answer:** E
+**Explanation:** key: PDx small bowel obstruction due to adhesion band (grid-iron scar = McBurney's incision); distended haustration = large bowel obstruction; A to D ticked.
+**Guideline / source:** not stated
+
+## Q81 (original no. 81)
+Which of the following is true?
+
+A. Imagination line between duodenum and aorta separates right and left hepatic.
+B. (not recalled)
+C. Foramen of Winslow is the connection of preperitoneal and retroperitoneal cavity.
+D. Hepatoduodenal ligament contains hepatic artery and portal vein.
+E. Ligamentum teres hepatis is the obliteration of the umbilical artery.
+
+**Answer:** D
+**Explanation:** key: enclosing the portal triad; A wrong (falciform ligament); C wrong (greater sac and lesser sac); E wrong (left umbilical vein).
+**Guideline / source:** not stated
+
+## Q82 (original no. 82)
+A 49-year-old male was found to have anechoic mass during checkup. He has a history of HBV for 10 years. What is the most likely diagnosis?
+
+A. Hepatocellular carcinoma
+B. Liver cyst
+C. Hemangioma
+D. Liver abscess
+E. Intrahepatic cholangiocarcinoma
+
+**Answer:** B
+**Explanation:** not stated beyond the mark.
+**Guideline / source:** not stated
