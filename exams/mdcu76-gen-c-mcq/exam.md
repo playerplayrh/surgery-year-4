@@ -28,7 +28,8 @@ exam_year 2023 is taken from the paper's file date (September 2023); the paper d
 The rotation letter (C) is not mapped to a G.
 The paper's heading (as written, exam date left out): General Surgery Rotate C MCQ MDCU76, 100 items 150 minutes
 ออกใหม่ ตรงแอคน้อยมาก. 72 questions are recalled. The key is by "Dr.KP, Tan, Tae, Lilly, and Academic
-team MDCU76". The paper's pictures (a CT scan in Q11, an ERCP image in Q20, a Ranson's criteria table in Q26) are not copied here.
+team MDCU76".
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: the Ranson's criteria table in Q26, which the students pasted and the real exam did not give; a small code in the corner of the ERCP image was cropped off.
 
 ## Q1 (original no. 1)
 18 year-old man undergo FNA, the result shows medullary thyroid carcinoma. What should be screened?
@@ -156,6 +157,7 @@ E. Pancreas transplant, and kidney transplant inthe same operation
 ## Q11 (original no. 11)
 Patient presents with Dilated intrahepatic bile duct, mass at hepatic hilum, what Tumor marker would probably rise in this patient?
 [picture in the paper: an axial CT scan of the upper abdomen]
+![axial CT scan of the upper abdomen](images/mdcu76-gen-c-mcq-q11-1.jpg)
 
 A. CEA
 B. CA 19-9
@@ -265,6 +267,7 @@ E. TPN
 ## Q20 (original no. 20)
 18 year old female presents with intermittent jaundice. Her ERCP shows as follows, what is the most likely diagnosis?
 [picture in the paper: an ERCP image]
+![ERCP image](images/mdcu76-gen-c-mcq-q20-1.jpg)
 
 A. Choledochal cyst**
 B. Mirizzi syndrome
