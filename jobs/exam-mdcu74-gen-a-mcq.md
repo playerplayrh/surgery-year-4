@@ -4,7 +4,7 @@ title: MDCU74 rotate A · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 2
-status: in-progress
+status: done
 owner: playerplayrh
 pages: 6
 scan_pages: 0
@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1q2eLtanh9rxCzSC4DxpUyJF-gGbuz_Es
 source: "Drive: Surgery Group/job-files/exam-mdcu74-gen-a-mcq/paper - AC MCQ General Surgery MDCU 74 Rotation A.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu74-gen-a-mcq/key - Key AC MCQ GEN Sx MDCU74 Rotate A.pdf"]
 output: exams/mdcu74-gen-a-mcq/exam.md
-checkpoint: numbered Q1-Q100 (12) done, next unnumbered questions (page 2 onwards)
+checkpoint: "all done: 12 numbered + 39 unnumbered"
 updated: 2026-10-12
 ---
 
@@ -23,3 +23,4 @@ none
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu74-gen-a-mcq/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
+- 2026-10-12 done: exams/mdcu74-gen-a-mcq (12 numbered, 39 unnumbered kept apart), student-key; unmatched MDCU74 key = longer copy of this key
