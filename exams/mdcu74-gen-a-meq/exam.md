@@ -19,18 +19,20 @@ answer_source: recalled
 
 Source: "AC OSCE Surgery MDCU 74 Rotation A", Short Essay Questions, recalled by students; the numbers are the paper's own unless said otherwise.
 No answer key was found for this paper; answers appear only where the paper itself gives one,
-everything else is "not given in the source". Pictures in the paper are described in words, not copied.
+everything else is "not given in the source".
 Thai wording was read from the page images (the text layer drops a vowel).
 exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
 The rotation (A) is not mapped to a G.
 The paper skips SEQ number 2. Its question "10." has parts 9.1 and 9.2, and "11." has parts 10.1 and
 10.2; they are kept as written. Two questions at the end have no number and are kept under their
 own heading.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only. Left out: Q7 and the unnumbered face-injury question (they show faces).
 
 ## Q1 (original no. 1)
 [picture in the paper: toes with purple-blue discoloration (a stock photo)]
 1.1 บรรยายความผิดปกติ
 1.2 วินิจฉัย
+![toes with purple-blue discoloration](images/mdcu74-gen-a-meq-q01-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -42,6 +44,7 @@ own heading.
 3.1 วินิจฉัย
 3.2 การรักษา
 3.3 ปัจจัยเสี่ยงที่ทำให้เกิดภาวะนี้
+![drawing of a groin swelling](images/mdcu74-gen-a-meq-q03-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -53,6 +56,7 @@ own heading.
 4.2 บรรยายความผิดปกติ
 4.3 วินิจฉัย
 4.4 จะส่งตรวจอะไรต่อไป
+![two mammogram views](images/mdcu74-gen-a-meq-q04-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -73,6 +77,7 @@ own heading.
 6.1 บรรยายความผิดปกติ
 6.2 วินิจฉัย
 6.3 ให้การรักษา
+![chest x-ray](images/mdcu74-gen-a-meq-q06-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -91,6 +96,7 @@ own heading.
 [picture in the paper: an infant's genitalia with a penlight held against the scrotum]
 8.1 วินิจฉัย
 8.2 คำแนะนำในการรักษา
+![infant genitalia with a penlight](images/mdcu74-gen-a-meq-q08-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -110,6 +116,7 @@ own heading.
 [picture in the paper: a barium enema in an infant]
 10.1 การรักษาเบื้องต้น
 10.2 การรักษาเฉพาะ
+![barium enema in an infant](images/mdcu74-gen-a-meq-q11-1.jpg)
 
 **Answer:** not given in the source
 **Explanation:** not stated
@@ -120,6 +127,7 @@ own heading.
 
 ผู้ป่วยเด็กมาด้วยลักษณะดังรูป ควรต้องได้รับการแก้ไขที่อายุเท่าใดและเพราะอะไร
 [picture in the paper: an open mouth showing a cleft in the palate]
+![open mouth with a cleft palate](images/mdcu74-gen-a-meq-q00-1.jpg)
 Answer: not given in the source.
 
 ผู้ป่วยได้รับบาดเจ็บถูกฟันบริเวณใบหน้าดังรูป โครงสร้างใดจะได้รับบาดเจ็บบ้าง
