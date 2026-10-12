@@ -25,6 +25,7 @@ students' handwritten answers; it is kept as Q11, its own number, although it lo
 The MEQ part of this paper is in exams/mdcu72-gen-a-meq.
 exam_year 2022 is taken from the paper's file date (April 2022, the Drive file date; the PDF has no date of its own, so this may be a later upload); the paper does not state the year.
 The rotation (A) is not mapped to a G.
+Pictures with no face, name, label or ID band were checked by eye and are kept in images/ under their question; the others are described in words only.
 
 ## Q1 (original no. 1)
 จงซักประวัติผู้ป่วยมาด้วยก้อนในตับให้ครอบคลุม มีอาจารย์นั่งติ๊กว่าเราซักประเด็นนี้ยัง คนไข้จำลองจะซักแล้วได้ negative ทั้งหมด แต่ซักไปเรื่อยๆจนหมดเวลา
@@ -92,6 +93,7 @@ three-way foley catheter + indication
 
 ## Q9 (original no. 9)
 ถามเรื่องด้ายกับการใช้ตามนี้เลย
+![pasted suture question with photos of five suture packets](images/mdcu72-gen-a-osce-q09-1.jpg)
 
 [picture in the paper, pasted by the students to show the question: a printed question numbered "6." reading "ภาพต่อไปนี้แสดงขั้นตอนการเย็บลำไส้และการเย็บปิดบาดแผล โดยใช้ไหม __(6.1)__ ในการเย็บต่อลำไส้ หลังจากนั้น (จำไม่ได้ว่ามาทางนี้ได้ไง แต่ตอบ (6.2) catgut + perineum เหมือนจะให้รูปเย็บ perineum มาอีกรูป) ต่อไปจะเย็บชั้นกล้ามเนื้อ เมื่อเสร็จแล้วจะใช้ (ไหมสีแดง) __(6.3)__ เย็บเชื่อมสองข้าง สุดท้ายทำการเย็บปิดแผลที่ผิวหนังด้วย __(6.4)__"; with a photo of a sutured bowel, two drawings of a layered wound closure, photos of five suture packets labelled A-E, and an empty table with the columns ตัวอักษร, ชื่อสามัญ, ชื่อการค้า, Mono/multifilament, Absorbable/non-absorbable, โครงสร้างที่ใช้]
 
@@ -105,6 +107,7 @@ OSCE11
 [picture in the paper: a three-way Foley catheter]
 - 11.1 ชื่ออุปกรณ์
 - 11.2 Specific indication
+![three-way Foley catheter](images/mdcu72-gen-a-osce-q11-1.jpg)
 
 **Station type:** instruments and devices
 **Checklist:** 11.1: 3-way foley catheter; 11.2: Continuous Bladder irrigation (After clot removed) (handwritten in the paper by the students; not an official key)

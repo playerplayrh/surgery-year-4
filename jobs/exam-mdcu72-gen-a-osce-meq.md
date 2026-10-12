@@ -24,3 +24,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu72-gen-a-osce-meq/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
 - 2026-10-12 split into mdcu72-gen-a-osce (stations 1-9, 11) and mdcu72-gen-a-meq (Q1-12); no key, students' handwritten answers kept as recalled
+- 2026-10-12 added 11 checked pictures; MEQ4/MEQ5 faces left out
