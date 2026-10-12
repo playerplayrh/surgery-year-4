@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu74-gen-a-meq
 exam_format: meq
-exam_year: 2022
+exam_year: 2021
 exam_rotation: General Sx rotate A
 answer_source: recalled
 ---
@@ -21,7 +21,7 @@ Source: "AC OSCE Surgery MDCU 74 Rotation A", Short Essay Questions, recalled by
 No answer key was found for this paper; answers appear only where the paper itself gives one,
 everything else is "not given in the source".
 Thai wording was read from the page images (the text layer drops a vowel).
-exam_year 2022 is taken from the paper's file date (April 2022); the paper does not state the year.
+exam_year 2021 follows the MDCU74 PDFs' own creation dates (September-November 2021); the Drive copies are dated April 2022 and the paper does not state the year.
 The rotation (A) is not mapped to a G.
 The paper skips SEQ number 2. Its question "10." has parts 9.1 and 9.2, and "11." has parts 10.1 and
 10.2; they are kept as written. Two questions at the end have no number and are kept under their
