@@ -4,15 +4,15 @@ title: MDCU70 rotate 2 · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 3
-status: todo
-owner:
+status: done
+owner: playerplayrh
 pages: 7
 scan_pages: 0
 files: "https://drive.google.com/drive/folders/17rDqBARexss-t7nymITrirsUs4J7HUhi"
 source: "Drive: Surgery Group/job-files/exam-mdcu70-gen-2-mcq/paper - Copy of GEN Sur MCQ Rotate2 MDCU70.pdf"
 key_sources: []
 output: exams/mdcu70-gen-2-mcq/exam.md
-checkpoint:
+checkpoint: "all done: 50 questions + 3 xx"
 updated: 2026-10-12
 ---
 
@@ -23,3 +23,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu70-gen-2-mcq/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
+- 2026-10-12 extracted 50 recalled questions and 3 xx; no key (Q98, Q100 answers written in the paper); year 2017 from the PDF's creation date
