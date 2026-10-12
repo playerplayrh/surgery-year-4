@@ -623,24 +623,14 @@ A. HLA typing
 B. ABO
 C. Rh
 
-## Qx. Hernia ชนิดไหน โอกาสเกิด strangulation มากสุด ? (original no. x. Hernia ชนิดไหน โอกาสเกิด strangulation มากสุด ?)
-
+xx. Hernia ชนิดไหน โอกาสเกิด strangulation มากสุด ?
 A. Femoral hernia
 B. Umbilical hernia
 C. Inguinal hernia
 
-**Answer:** not given in the source
-**Explanation:** not stated
-**Guideline / source:** not stated
-
-## Qx. Which one is “extra-anatomic” bypass? (original no. x. Which one is “extra-anatomic” bypass?)
-
+xx. Which one is “extra-anatomic” bypass?
 A. femoro-femoral bypass
 B. aortobifemoral bypass
 C. femoropopliteal bypass
 D. femoro-posterior tibial bypass
 E. femoro -dorsalis pedis bypass
-
-**Answer:** not given in the source
-**Explanation:** not stated
-**Guideline / source:** not stated
