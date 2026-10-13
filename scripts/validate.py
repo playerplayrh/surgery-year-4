@@ -497,6 +497,11 @@ def check_exams(root, recs, rep):
                     rep.warn(rel, f"image '{p.name}' should be named {set_code}-q<nn>-<k>.<ext>")
 
 
+def in_exam_map(code):
+    """Subspecialty MCQ papers stay apart; General Sx and every OSCE/MEQ paper are in scope."""
+    return not re.search(r"-subspe-.*mcq", code or "")
+
+
 TAG_ASKS = {"diagnosis", "investigation", "management", "complication", "basic-science", "other"}
 TAG_LINE = re.compile(r"^[-*]\s*Q(\d+)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*$")
 
@@ -515,7 +520,8 @@ def check_exam_tags(root, recs, rep):
     """Topic tags for the exam topic map live outside the exam files, so exams stay untouched."""
     tag_dir = root / "exam-map" / "tags"
     known = load_topics(root) or set()
-    exams = {rec.fm.get("exam_set"): rec for rec in recs if rec.type == "exam" and rec.fm.get("exam_set")}
+    exams = {rec.fm.get("exam_set"): rec for rec in recs if rec.type == "exam" and rec.fm.get("exam_set")
+             and in_exam_map(rec.fm.get("exam_set"))}
     untagged = []
     for code, rec in sorted(exams.items()):
         nums = {q["num"] for q in parse_exam(rec.body)}
@@ -545,7 +551,9 @@ def check_exam_tags(root, recs, rep):
                           + ", ".join(f"Q{q}" for q in missing[:15]) + (" ..." if len(missing) > 15 else ""))
     for f in sorted(tag_dir.glob("*.md")) if tag_dir.is_dir() else []:
         if f.stem not in exams and not f.name.startswith("_"):
-            rep.error(f.relative_to(root).as_posix(), f"no exam '{f.stem}' in exams/ for these tags")
+            why = ("subspecialty MCQ papers are kept apart and not tagged" if not in_exam_map(f.stem)
+                   else f"no exam '{f.stem}' in exams/ for these tags")
+            rep.error(f.relative_to(root).as_posix(), why)
     if untagged:
         rep.note("exam-map/tags/", f"{len(untagged)} exam(s) have no topic tags yet (run /tag-exams): "
                                    + ", ".join(untagged[:8]) + (" ..." if len(untagged) > 8 else ""))

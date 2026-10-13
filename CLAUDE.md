@@ -16,11 +16,16 @@ templates/front-matter.md.
   subspecialty parts word-for-word in an "Out of scope for now (subspecialty)" section of the
   same file, with their [L..] tags. Do not drop them, do not summarise them, do not file them
   under a topic.
-- Exams: a set must be a General Surgery exam. Subspecialty questions stay out. Keep the
-  original numbers of the questions you do file, so gaps are fine. Add the line
-  `Omitted (subspecialty): Q31-Q60` under the front-matter of the exam file.
-  Exception (owner, 2026-10-12): a per-cohort General Sx rotation paper (e.g. mdcu76-gen-a-*)
-  is filed whole, subspecialty-topic questions included, because G students sit all of it.
+- **Exams are the exception to the scope rule (owner, 2026-10-13):**
+  - Everything in a General Sx paper (`-gen-`) is General Surgery, even questions that look
+    like a subspecialty (e.g. intussusception, hemorrhoids, burns). File the paper whole, never
+    omit a question, and tag those questions with ordinary topics under an organ system.
+  - OSCE and MEQ are held at the end of the whole surgery rotation, after the subspecialty
+    rotations, so their content is General Surgery and subspecialty combined. Every OSCE and MEQ
+    paper (subspecialty OSCE/MEQ papers included) is in scope and filed whole when extracted,
+    but they are **low priority for now** (priority 7): General Sx MCQ papers come first.
+  - Only subspecialty MCQ papers (`-subspe-...-mcq`) are still kept apart from General Surgery.
+  - Keep original question numbers; never renumber.
 - **Exception: textbook extractions** (textbook/<book>/) cover the whole book, subspecialty
   chapters included, so the book is never processed twice. Subspecialty chapters are kept
   apart: file name `<nn>-subspe-<slug>.md`, topic `subspecialty-<rotation>` (colorectal, neuro,
@@ -135,8 +140,9 @@ templates/front-matter.md.
   continue. Never restart a job from scratch if its branch exists.
 - Only the owner (playerplayrh) moves a job off `on-hold`. Anyone may pick any `todo` job in
   any order; priority (1 = first) is a suggestion.
-- Exam decisions (2026-10-11): subspecialty papers are extracted but kept apart from General
-  Surgery; per-cohort papers before the big AC bank; answer keys written by students or the
+- Exam decisions (2026-10-11, updated 2026-10-13): subspecialty MCQ papers are extracted but kept
+  apart from General Surgery; General Sx papers are in scope in full; OSCE/MEQ papers combine General
+  Surgery and subspecialty content and are in scope but low priority for now (see Scope); per-cohort papers before the big AC bank; answer keys written by students or the
   academic team use answer_source `student-key`; set codes look like `mdcu76-gen-c-mcq`.
 - Exam decisions (2026-10-12): an OSCE-MEQ paper is filed as two sets, `<cohort>-gen-<r>-osce`
   and `<cohort>-gen-<r>-meq`, each keeping its original numbers. When the paper gives no year,
