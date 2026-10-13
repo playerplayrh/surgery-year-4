@@ -21,8 +21,7 @@ Source: "AC MCQ General Sx Rotate 1 MDCU 69", recalled by students; the numbers 
 kept. No answer key was found and the paper marks no answers, so every answer is "not given in the source".
 Choices the paper numbers 1-5 or 1)-5), or letters in lower case, are written A-E in order; elsewhere the letters are
 the paper's. A choice letter the paper leaves blank is "(not recalled)". Questions recalled with fewer choices keep
-only the choices given. Stray marks the paper prints after some choices (a trailing " or *) are kept as printed;
-they are not treated as answer marks. Spelling and wording are the paper's.
+only the choices given. A stray " the paper prints after some choices is kept as printed; it is not treated as an answer mark. Spelling and wording are the paper's.
 exam_year 2016 is the PDF's own creation date (August 2016); the paper does not state the year.
 The rotation (1) is not mapped to a G.
 The paper has no pictures.
@@ -213,6 +212,67 @@ A. ให้ balance salt for replacement ใน small bowel fistula
 B. Gastric loss ให้ balance salt
 C. มี HCO3 wasting ใน pancreatic fistula
 D. Gastric loss ให้ hypochloride fluid
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q17 (original no. 17)
+เป็นhypothyroid มาถามว่าระดับT4. TSHเป็นไง
+
+A. T4สูง TSHสูง
+B. T4ต่ำ TSHต่ำ
+C. T4ต่ำ TSHสูง
+D. T4ปกติTSHต่ำ
+E. T4ต่ำ TSHปกติ"
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q18 (original no. 18)
+คนอายุ60ปี ทำ bilateral inguanal repair มีกิน aspirin อยู่ข้อใดผิด
+
+A. กิน aspirin ต่อเนื่องจนถึงวันผ่าเลย
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q25 (original no. 25)
+ผู้หญิงอายุ 44 ปี เมื่อวานผ่า rt hepatectomy เพื่อตัดเอาhepatomaออก ผ่าตัดเรียบร้อยดี ไม่มีต้องให้เลือด วันนี้มี BT38C RR20/min HR90bpm BP120/80mmHg ทำยังไงต่อ
+
+A. Hemo culure, urine culture, sputum culure
+B. Addministration of 3rd gen cephalosporin
+C. CT upper abdomen
+D. Pain control and breathing exercise by incentive spirometry
+E. exploration wound to exclude wound infection
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q27 (original no. 27)
+what it not the risk factor of adenocarcinoma of pancreas
+
+A. Smoking
+B. BRCA2
+C. Lynch syndrome
+D. DM
+E. FAP
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q29 (original no. 29)
+อาการของ pancreatitis
+
+A. Acute resporatory distresss synd
+B. Hypercalemia
+C. Ascites
+D. Pleural effusion
+E. Hcc
 
 **Answer:** not given in the source
 **Explanation:** not stated
