@@ -676,6 +676,71 @@ E. left thyroid lobectomy
 **Explanation:** not stated
 **Guideline / source:** not stated
 
+## Q70 (original no. 70)
+Surgery is the preferred treatment for the following patients with thyrotoxicosis except
+
+A. a patient with multinodular goiter
+B. a patient with severe grave's opthalmopathy
+C. a pregnant mother who is inadequatly controlled with medication
+D. a patient with airway compression
+E. a patient with suspicious nodule by cytology
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q75 (original no. 75)
+มีเคสผ่า open cholecystectomy ของผู้ป่วย HBV นสพ.ควรทำอย่างไร
+
+A. เข้าร่วมเคส with restricted universal precaution
+B. เข้าร่วมเคสถ้าหากมีภูมิของHBV
+C. ถามเพื่อนว่ามีใครอยากเข้าแทนไหม
+D. ถามพี่เรสสิเด้นว่าไม่เข้าได้ไหม
+E. ถามstaffให้ช่วยเช็คviral loadคนไข้ให้หน่อย
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q77 (original no. 77)
+what is false about hepatic artery
+
+A. It supplies the same amount of blood as portovenous system
+B. It usually arise from left gastric artery
+C. It autoregulates as the portovenous system
+D. It supplies most of the blood to hepatic metastasis
+E. It branches to right gastroepiploic a. And splenic a.
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q80 (original no. 80)
+ชายอายุ 50 ปี มา check-up ครั้งแรก ultrasound เจอ anechoic, round 1 cm liver mass มีประวัติ chronic HBV infection มา 10 ปี provisional diagnosis คืออะไร
+
+A. hepatic adenoma
+B. hemangioma
+C. HCC
+D. hepatic cyst
+E. hepatic cholangiocarcinoma
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q83 (original no. 83)
+Which of the following is true regarding renal transplantation?
+
+A. Reasonable option for all ESRD patients
+B. Improving quality of life
+C. HIV positive is contraindication
+D. Polycystic kidney disease should be excluded from patient list
+E. Living donor provides liver graft for renal transplantation
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
 ## Repeated question numbers
 (These numbers appear a second time in the paper with a different question; the second copies are kept here
 unchanged, so no number is changed. No answers are given.)

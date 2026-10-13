@@ -12,7 +12,7 @@ files: "https://drive.google.com/drive/folders/1DYFFizZbe22GPuMsvMvMrWNEdk0thGby
 source: "Drive: Surgery Group/job-files/exam-mdcu69-gen-1-mcq/paper - Copy of AC MCQ General Sx Rotate 1 MDCU 69.pdf"
 key_sources: []
 output: exams/mdcu69-gen-1-mcq/exam.md
-checkpoint: p.1-13 done to Q69, next Q70
+checkpoint: p.1-15 done to Q83, next Q86
 updated: 2026-10-13
 ---
 
