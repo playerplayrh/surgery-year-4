@@ -4,15 +4,15 @@ title: MDCU72 rotate A · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 3
-status: todo
-owner:
+status: done
+owner: playerplayrh
 pages: 5
 scan_pages: 0
 files: "https://drive.google.com/drive/folders/1dW4c8_GcxHYoJ0L3NrCrTund01pQ_TKX"
 source: "Drive: Surgery Group/job-files/exam-mdcu72-gen-a-mcq/paper - AC72A MCQ general surgery.pdf"
 key_sources: []
 output: exams/mdcu72-gen-a-mcq/exam.md
-checkpoint:
+checkpoint: "all done: 42 numbered + 2 repeated + 3 unnumbered"
 updated: 2026-10-12
 ---
 
@@ -23,3 +23,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu72-gen-a-mcq/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
+- 2026-10-12 extracted 42 numbered questions (paper order), 2 repeated numbers and 3 unnumbered kept apart; no key; year 2020 from the PDF's creation date
