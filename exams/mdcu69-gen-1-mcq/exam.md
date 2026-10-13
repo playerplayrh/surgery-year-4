@@ -89,3 +89,68 @@ E. Mammogram and us
 **Answer:** not given in the source
 **Explanation:** not stated
 **Guideline / source:** not stated
+
+## Q6 (original no. 6)
+เกี่ยวกับ "Catabolism" stage ข้อใด Not occur
+
+A. Lean body mass increase
+B. Total body water increase
+C. Lipolysis increase
+D. (not recalled)
+E. Proteolysis and loss of negative N increase
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q7 (original no. 7)
+อะไรช่วยให้แผลหายดีขึ้น
+
+A. Vit a
+B. Vit c
+C. Vit e
+D. Zn
+E. ไม่มีข้อใดถูก
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q8 (original no. 8)
+Need post op parenteral nutritional supplement
+
+A. 20 yo woman appendectomy due to acute appendicitis
+B. 30 yo man necrosectomy due to necrotizing pancreatitis
+C. 50 yo man right herniorrhaphy due to incarcerated indirect inguinal hernia
+D. 60 yo woman cholecystectomy due to gangrene cholecystitis
+E. 70 man open aaa raphy due to aaa
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q9 (original no. 9)
+Which of the following is the least likely potential complication of enteral nutrition.
+
+A. Osteoporosis and cholestasis
+B. Hypernatremia and hyperglycemia
+C. Constipation and diarrhea
+D. Aspiration and Refeeding syndrome
+E. Nausea and clot nogglig"
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q10 (original no. 10)
+ข้อใดไม่ใช้ในการวัด Nutritional status
+
+A. BMI & weight change
+B. Albumin & prealbumin
+C. Lymphocyte count & CRP
+D. Biceps skin fold & ESR
+E. Serum transferrin & waist circumference
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
