@@ -15,6 +15,12 @@ under the system it belongs to, or add a new `###` system heading.
 - `acute-cholangitis`
 - `gallstone-disease`
 - `periampullary-tumor`
+- `liver-abscess` — pyogenic and amoebic liver abscess, hydatid cyst
+- `portal-hypertension` — cirrhosis, Child-Pugh, esophageal and gastric varices
+- `acute-pancreatitis`
+- `chronic-pancreatitis`
+- `pancreatic-endocrine-tumor` — insulinoma and other pancreatic neuroendocrine tumors
+- `spleen` — splenectomy, splenic disease
 
 ### Esophagus and stomach
 - `dysphagia`
@@ -22,6 +28,12 @@ under the system it belongs to, or add a new `###` system heading.
 - `gastric-cancer`
 - `gist`
 - `caustic-ingestion`
+- `achalasia`
+- `gerd` — reflux, Barrett's esophagus, peptic stricture
+- `esophageal-perforation` — Boerhaave syndrome, iatrogenic perforation
+- `peptic-ulcer-disease` — H. pylori, ulcer complications, gastric outlet obstruction
+- `stomach-anatomy-physiology` — gastric blood supply, acid secretion, post-gastrectomy states
+- `bariatric-surgery`
 
 ### Abdomen, bowel and hernia
 - `abdominal-pain` — approach to abdominal pain
@@ -29,34 +41,69 @@ under the system it belongs to, or add a new `###` system heading.
 - `intestinal-obstruction`
 - `acute-appendicitis` — includes the signs
 - `hernia` — adult hernia, hernia signs
+- `peritonitis` — perforated viscus, pneumoperitoneum, intra-abdominal sepsis
+- `small-intestine` — Meckel's diverticulum, short bowel syndrome, small bowel tumors and bleeding
+- `mesenteric-ischemia`
 
 ### Breast
 - `breast-mass`
 - `breast-discharge`
 - `breast-cancer`
 - `breast-imaging` — mammogram, breast ultrasound
+- `breast-infection` — mastitis, breast abscess
 
 ### Thyroid and neck
 - `thyroid-mass`
 - `neck-mass`
+- `thyroid-cancer`
+- `hyperthyroidism` — Graves' disease, toxic goiter, surgery for thyrotoxicosis
+- `parathyroid` — hyperparathyroidism, calcium disorders
 
 ### Vascular
 - `peripheral-arterial-disease` — includes approach to claudication
 - `abdominal-aortic-aneurysm`
 - `venous-insufficiency` — varicose veins
+- `venous-thromboembolism` — DVT, PE, VTE prophylaxis
+- `acute-limb-ischemia`
+- `diabetic-foot`
+- `vascular-injury`
 
 ### Skin and soft tissue
 - `necrotizing-fasciitis`
 - `soft-tissue-infection`
+- `skin-and-subcutaneous-lesions` — lipoma, sebaceous cyst and other lumps of the skin
 
 ### Surgical physiology and critical care
 - `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
+- `fluid-electrolyte` — fluid therapy, electrolyte and acid-base disorders
+- `shock` — hemorrhagic and other shock, resuscitation
+- `hemostasis-transfusion` — coagulation, bleeding disorders, transfusion and its reactions
+- `surgical-infection` — surgical site infection, antibiotic prophylaxis, tetanus, sepsis
+- `wound-healing`
 
 ### Perioperative care and basic skills
 - `perioperative-care` — pre-op and post-op complications, when to operate and when not
-- `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
 - `basic-surgical-skills` — scrubbing, sterile gloves, suturing, knot tying, local anaesthetic, dressings, suture removal, drains
 - `surgical-instruments` — instrument identification for OSCE
+
+### Principles of surgery
+- `surgical-oncology` — carcinogens, cancer prevention, adjuvant and palliative treatment, oncologic emergencies
+- `minimally-invasive-surgery` — laparoscopy, indications and contraindications, pneumoperitoneum
+- `organ-transplantation` — donors, contraindications, rejection, immunology
+- `surgical-ethics` — consent, professionalism, patient safety, infection risk to staff
+
+### Trauma
+- `trauma` — initial assessment, abdominal and chest trauma, damage control
+- `bites-and-stings`
+
+### Subspecialty (out of scope for now)
+Only for subspecialty-topic questions inside General Surgery papers that are filed whole. Never a G topic.
+- `subspecialty-ped`
+- `subspecialty-uro`
+- `subspecialty-colorectal`
+- `subspecialty-cvt`
+- `subspecialty-neuro`
+- `subspecialty-plastic`
 
 ## Notes
 
