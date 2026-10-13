@@ -33,6 +33,7 @@ under the system it belongs to, or add a new `###` system heading.
 - `esophageal-perforation` — Boerhaave syndrome, iatrogenic perforation
 - `peptic-ulcer-disease` — H. pylori, ulcer complications, gastric outlet obstruction
 - `stomach-anatomy-physiology` — gastric blood supply, acid secretion, post-gastrectomy states
+- `upper-gi-bleeding` — non-variceal upper GI bleeding, Mallory-Weiss tear, Dieulafoy lesion
 - `bariatric-surgery`
 
 ### Abdomen, bowel and hernia
