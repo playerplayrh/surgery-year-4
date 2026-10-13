@@ -277,3 +277,69 @@ E. Hcc
 **Answer:** not given in the source
 **Explanation:** not stated
 **Guideline / source:** not stated
+
+## Q30 (original no. 30)
+ข้อใดไม่ใช่ complication ของ pancreatitis
+
+A. Pseudocyst
+B. Retroperitoneal hematoma
+C. Tetany
+D. Abscess formation
+E. All of above
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q33 (original no. 33)
+Which of the following is not the risk factor of gastric adenocarcinoma
+
+A. H. Pylori
+B. Smoking
+C. Pernicious anemia
+D. Linitis plastica
+E. Chronic atrophic gastritis
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q34 (original no. 34)
+ข้อใดเป็น indication ในการ bariatic surgery
+
+A. BMI 36 (มากกว่า 35) มี obstuctive sleep apnea (มี complication)
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q35 (original no. 35)
+ข้อใดไม่ใช่ metabolic complication ของ bariatic surgery
+
+(no choices recalled)
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q36 (original no. 36)
+20yrs old female มาทำ endoscopic esophageal dilatation จาก corrosive esophageal stricture 2hr ต่อมามี chest discomfort difficult breathing HR normal Pulse 100 bpm RR 24/min dyspnea what is your diagnosis
+
+A. MI
+B. PE
+C. esophageal perforation
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q37 (original no. 37)
+most common complication of esophagectomy
+
+A. laryngeal nerve injury
+B. peritonitis
+C. massive bleeding
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
