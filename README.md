@@ -5,7 +5,7 @@ G, so together we cover all four. **Scope: General Surgery (G1-G4) only.** Subsp
 rotations (Colorectal, Neuro, CVT, Plastic, Uro, Ped) are left out for now.
 
 - Add: paste your material (any messy form) into your Claude with the prompt in
-  prompts/convert-notes.md and say your G. Review the result, then open a PR.
+  prompts/convert-notes.md. Review the result, then open a PR.
 - Read: start from synthesis/, digests/, and facts/<topic>/_merged.md.
   Open raw notes only when needed.
 - Exams: one folder per set in exams/. Original question numbers never change. MCQ, MEQ and
@@ -19,7 +19,11 @@ rotations (Colorectal, Neuro, CVT, Plastic, Uro, Ped) are left out for now.
 - Limits: the automatic checks catch skipped content and obvious identifiers, not wrong
   meaning. Verify against the textbook or your attending before relying on anything.
 
-## What each G covers (year-stamped, check your own year)
+## Rotation guide: what each G is like (year-stamped, check your own year)
+
+This table is about the rotations themselves (where you will be and what you will see). The
+content is not organised by G: the Gs overlap a lot, so topics are grouped by organ system in
+INDEX.md, and the exam topic map (`python3 scripts/exam_map.py`) uses the same grouping.
 
 Taken from the Survival guide Yr. 4 (main source) and P'Prung's review (MDCU 78) in
 `Survival Guide/`. The two guides disagree in places and rotations change every year, so

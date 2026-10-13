@@ -10,12 +10,12 @@ You only need the shared Google Drive folder "Surgery Group".
    (Use age and sex only, e.g. "60s F", and the week of rotation, e.g. "W2".)
 
 2. WRITE ONE LINE AT THE TOP saying what it is, for example:
-     G3 · bedside facts · cholecystitis
-     G1 · case · RUQ pain with jaundice
+     bedside facts · cholecystitis
+     case · RUQ pain with jaundice
      Exam recall · 2026 Gen MCQ · answers recalled (not official)
 
 3. UPLOAD IT TO THE FOLDER "inbox"
-   Name the file:   G3 - cholecystitis - YourName.txt
+   Name the file:   cholecystitis - YourName.txt
    Accepted: a Google Doc, .txt, .docx, .pdf, or a clear photo of your notes.
    Messy notes are fine. Thai or English, as you like. Nothing is rewritten in your words.
 

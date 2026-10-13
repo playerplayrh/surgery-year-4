@@ -1,48 +1,58 @@
 # Index
 
 Whoever adds a file adds a row here. Topics below are the controlled vocabulary: reuse one
-before creating a new one. The G headings show where each topic is usually met (Survival
-guide Yr. 4); the `group` tag in a file is the G the author actually saw.
+before creating a new one. Topics are grouped by organ system, never by G (the Gs overlap a lot).
+The headings are also the sections of the exam topic map (scripts/exam_map.py), so put a new topic
+under the system it belongs to, or add a new `###` system heading.
 
 ## Topics
 
-### G1: liver
+### Hepatobiliary and pancreas
 - `liver-mass` — approach to liver mass; HCC, liver metastasis, cholangiocarcinoma; segments, CT appearance
 - `ruq-pain` — approach to right upper quadrant pain
-- `jaundice` — approach to jaundice (also met in G3)
-
-### G2: vascular, thyroid
-- `peripheral-arterial-disease` — includes approach to claudication
-- `abdominal-aortic-aneurysm`
-- `venous-insufficiency` — varicose veins
-- `thyroid-mass`
-- `neck-mass`
-
-### G3: biliary, pancreas, spleen, stomach, esophagus
-- `abdominal-pain` — approach to abdominal pain
-- `abdominal-mass`
-- `dysphagia`
-- `intestinal-obstruction`
+- `jaundice` — approach to jaundice
 - `acute-cholecystitis`
 - `acute-cholangitis`
 - `gallstone-disease`
 - `periampullary-tumor`
-- `gastric-cancer`
+
+### Esophagus and stomach
+- `dysphagia`
 - `esophageal-cancer`
+- `gastric-cancer`
 - `gist`
 - `caustic-ingestion`
+
+### Abdomen, bowel and hernia
+- `abdominal-pain` — approach to abdominal pain
+- `abdominal-mass`
+- `intestinal-obstruction`
+- `acute-appendicitis` — includes the signs
 - `hernia` — adult hernia, hernia signs
 
-### G4: breast, soft tissue
+### Breast
 - `breast-mass`
 - `breast-discharge`
 - `breast-cancer`
 - `breast-imaging` — mammogram, breast ultrasound
+
+### Thyroid and neck
+- `thyroid-mass`
+- `neck-mass`
+
+### Vascular
+- `peripheral-arterial-disease` — includes approach to claudication
+- `abdominal-aortic-aneurysm`
+- `venous-insufficiency` — varicose veins
+
+### Skin and soft tissue
 - `necrotizing-fasciitis`
 - `soft-tissue-infection`
 
-### Every G
-- `acute-appendicitis` — includes the signs
+### Surgical physiology and critical care
+- `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
+
+### Perioperative care and basic skills
 - `perioperative-care` — pre-op and post-op complications, when to operate and when not
 - `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
 - `basic-surgical-skills` — scrubbing, sterile gloves, suturing, knot tying, local anaesthetic, dressings, suture removal, drains
@@ -50,13 +60,13 @@ guide Yr. 4); the `group` tag in a file is the G the author actually saw.
 
 ## Notes
 
-| id | topic | G | author | status |
+| id | topic | seen in | author | status |
 | --- | --- | --- | --- | --- |
 | concept-chula-black-1-ch01-001 | systemic-response-to-injury | cross | playerplayrh | ai-generated |
 
 ## Facts
 
-| id | topic | G | author | status |
+| id | topic | seen in | author | status |
 | --- | --- | --- | --- | --- |
 
 ## Exams
@@ -71,7 +81,7 @@ guide Yr. 4); the `group` tag in a file is the G the author actually saw.
 
 ## Ward guides
 
-| id | G | valid year | author | status |
+| id | seen in | valid year | author | status |
 | --- | --- | --- | --- | --- |
 | ward-yr4-guide-001 | cross | unknown | playerplayrh | ai-generated |
 | ward-prung78-001 | cross | unknown | playerplayrh | ai-generated |

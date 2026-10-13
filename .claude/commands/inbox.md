@@ -26,8 +26,9 @@ language: no git jargon, short sentences. Never delete anything in Drive; only m
       file: `rclone moveto "Rinbox/<name>" "Rneeds-fix/<name>"`, then write the note with
       `printf '%s\n' "<reason>" | rclone rcat "Rneeds-fix/<name> - NEEDS FIX.txt"`, saying which
       line and what kind of identifier (never copy the identifier itself).
-   c. Who sent it: the file name is `G3 - topic - Name.ext`. Author = `drive-<name>` (lowercase,
-      letters/digits/hyphens). If the G or the name is missing, ask me in the summary.
+   c. Who sent it: the file name is `topic - Name.ext` (older uploads may start with a G, e.g.
+      `G3 - topic - Name.ext`; the G is optional). Author = `drive-<name>` (lowercase,
+      letters/digits/hyphens). If the name is missing, ask me in the summary.
    d. Scope, type and topic per CLAUDE.md (G vs subspecialty, case/concept/facts/exam/ward guide,
       reuse an INDEX.md topic).
    e. Save the original text unchanged to `raw/drive-<name>/<YYYY-MM-DD>-<slug>.md` (for a photo

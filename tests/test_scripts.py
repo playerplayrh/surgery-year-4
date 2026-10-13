@@ -256,6 +256,54 @@ class FrontMatter(RepoCase):
         self.assertIn("near-duplicate of 'sample-topic'", out)
 
 
+    def test_group_is_optional(self):
+        self.write("notes/sample-topic/case-001.md", CASE.replace("group: G1\n", ""))
+        self.assertPasses()
+
+
+class ExamTags(RepoCase):
+    """Topic tags for the exam map live in exam-map/tags/<set>.md, outside the exam file."""
+
+    def test_untagged_exam_is_only_a_note(self):
+        out = self.assertPasses()
+        self.assertIn("1 exam(s) have no topic tags yet", out)
+
+    def test_good_tags_pass_and_partial_tags_warn(self):
+        self.write("exam-map/tags/set-a.md", "# tags\n- Q1 | sample-topic | management\n")
+        out = self.assertPasses()
+        self.assertIn("1 question(s) not tagged yet: Q2", out)
+        self.write("exam-map/tags/set-a.md", "- Q1 | sample-topic | management\n- Q2 | other-topic | diagnosis\n")
+        self.assertNotIn("not tagged", self.assertPasses())
+
+    def test_bad_tags_fail(self):
+        self.write("exam-map/tags/set-a.md", "- Q1 | sample-topics | management\n")
+        self.assertFails("did you mean 'sample-topic'")
+        self.write("exam-map/tags/set-a.md", "- Q1 | sample-topic | guessing\n")
+        self.assertFails("asks 'guessing' must be one of")
+        self.write("exam-map/tags/set-a.md", "- Q9 | sample-topic | other\n")
+        self.assertFails("Q9 is not a question")
+        self.write("exam-map/tags/set-a.md", "- Q1 | sample-topic | other\n- Q1 | other-topic | other\n")
+        self.assertFails("Q1 is tagged twice")
+        self.write("exam-map/tags/set-z.md", "- Q1 | sample-topic | other\n")
+        self.assertFails("no exam 'set-z'")
+
+    def test_map_groups_by_organ_system_and_shows_gaps(self):
+        self.write("INDEX.md", INDEX.replace("## Topics\n", "## Topics\n### Invented system\n"))
+        self.write("exam-map/tags/set-a.md", "- Q1 | sample-topic | management\n- Q2 | other-topic | diagnosis\n")
+        out_file = self.tmp / "map.html"
+        r = subprocess.run([sys.executable, str(SCRIPTS / "exam_map.py"), "--root", str(self.tmp),
+                            "--out", str(out_file)], capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        page = out_file.read_text(encoding="utf-8")
+        self.assertIn("<h2>Invented system</h2>", page)
+        self.assertIn("set-a Q2", page)
+        self.assertNotIn(">G1<", page)
+        # sample-topic has notes in the sample repo; other-topic has exam questions only
+        gaps = page[page.index("nothing to study from"):]
+        self.assertIn("other-topic", gaps)
+        self.assertNotIn("sample-topic", gaps)
+
+
 class IdentifierScan(RepoCase):
     def test_planted_identifiers_are_caught_and_masked(self):
         self.write("raw/alice/batch1.md", RAW + "seen HN 12345678\ntel 081-234-5678\nadmitted 12/03/2026\nID 7654321\n")
