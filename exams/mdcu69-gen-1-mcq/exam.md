@@ -800,6 +800,70 @@ C. CT scan chest + abdomen
 **Explanation:** not stated
 **Guideline / source:** not stated
 
+## Q91 (original no. 91)
+ผู้ป่วยหญิงมาด้วย bloody nipple discharge from uniductal. What is the most common disease after intraductal papilloma.
+
+A. Paget's disease
+B. Intraductal carcinoma
+C. Phyloides tumor
+D. Subareola mastitis
+E. Inflammatory breast cancer
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q92 (original no. 92)
+which one increases breast CA risk ?
+
+A. fibrocystic
+B. (not recalled)
+C. atypia
+D. duct ectectasia
+E. fat  necrosis
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q93 (original no. 93)
+ทำ wide excision นม แต่ rt ไม่ได้ จะเกิดอะไร
+
+A. recurrent ipsilateral
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q96 (original no. 96)
+women tiredness heavy in left legs for 3 months
+Relieve by walking, elevation
+Awakened pain and clamp
+Varicose vein
+Ulcer pain 2 cm higher medial areolus
+
+A. PAD
+B. Deep venous insuff
+C. Malignant ulcer
+D. Infected neuropathic
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q97 (original no. 97)
+ผู้ป่วยอายุ50ปี พนักงานcashier grocery store. History of 8 months leg edema increasing over the course of work day, associated with moderate to severe lower leg bursting pain. What test should be perform? (โจทย์ใช้คำว่าtestเลยอะ)
+
+A. Ascending and descending phelbography
+B. Brodie tredelenberg test
+C. Ambulatory test and leg venous pressure
+D. Droppler duplex ultrasound
+E. MR venography
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
 ## Repeated question numbers
 (These numbers appear a second time in the paper with a different question; the second copies are kept here
 unchanged, so no number is changed. No answers are given.)
