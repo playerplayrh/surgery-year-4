@@ -344,6 +344,67 @@ C. massive bleeding
 **Explanation:** not stated
 **Guideline / source:** not stated
 
+## Q39 (original no. 39)
+66-year buisnessman มีประวัติ 5 เดือนก่อนรับประทานได้แต่อาหารอ่อน แต่ไม่สามารกิน steam riceได้ 1เดือนก่อน กินได้แต่liquid มีประวัติน้ำหนักลด จาก 60 เหลือ 55 kg ไม่มีต่อมน้ำเหลืองโต ควรทำอย่างไรต่อ
+
+A. esophagogram
+B. esophagomanometry
+C. egd
+D. ct upper abdomen
+E. eus
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q40 (original no. 40)
+55-year-old male referred with distal esophageal carcinoma. CT and endoscopic ultrasound reveals T2N0M0. He is a golfer and has no significant weight loss. What is the appropriate management?
+
+A. Esophagectomy
+B. Esophageal stent
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q41 (original no. 41)
+Which of the following porto-systemic collateral vessels associaton is incorrect.
+
+A. Esophagus : left gastric vein and azygos vein
+B. Hemorhoid plexus : superior and inferior rectal vein
+C. Retroperineal : left iliac vein and renal vein
+D. Caput medusae : Paraumbilical vein and superior epigastric vein
+E. All is correct.
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q43 (original no. 43)
+43  ผญอายุ60 มีอาการตัวเหลือง คันตามตัว ruq discomfort ตรวจเจอ ulcerative colitis ด้วย เปนโรคไร
+
+A. ca cholang
+B. gallstone cbd
+C. sclerosing cholang
+D. acute cholang
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q45 (original no. 45)
+74 year old male underlying disease : Ischemic Heart Disease with Chronic Atrial Fibrillation present ด้วย 3hr central   Abdominal pain, PE : he is shocked BT36c irregular pulse not pale no icteric sclera , marked central tenderness , absent of bowel sound
+What is most likely provisional diagnosis?
+
+A. Peptic Ulcer Perforation
+B. Mesenteric Emboli
+C. Colonic perforation
+D. Necrotizing pancreatitis
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
 ## Repeated question numbers
 (These numbers appear a second time in the paper with a different question; the second copies are kept here
 unchanged, so no number is changed. No answers are given.)
