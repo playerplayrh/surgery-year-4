@@ -154,3 +154,66 @@ E. Serum transferrin & waist circumference
 **Answer:** not given in the source
 **Explanation:** not stated
 **Guideline / source:** not stated
+
+## Q11 (original no. 11)
+What percentage of men's body weight is water.
+
+A. 15
+B. 30
+C. 60
+D. 70
+E. 90
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q12 (original no. 12)
+Insensible loss is loss of water via
+
+A. Evaporation of skin & respiration
+B. Urine
+C. Vomit
+D. Diarrhea
+E. Excessive sweating
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q13 (original no. 13)
+what is the most intracellular component of the cell
+
+A. K
+B. Na
+C. HCO3
+D. Cl
+E. Mg2
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q15 (original no. 15)
+not for hyperkalemia
+
+A. nahco3 iv/glucose + insulin
+B. potassium rasin
+C. loop diuretic iv
+D. Na phosphate"
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q16 (original no. 16)
+เกี่ยวกับ GI secretion ข้อใดถูกต้อง
+
+A. ให้ balance salt for replacement ใน small bowel fistula
+B. Gastric loss ให้ balance salt
+C. มี HCO3 wasting ใน pancreatic fistula
+D. Gastric loss ให้ hypochloride fluid
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
