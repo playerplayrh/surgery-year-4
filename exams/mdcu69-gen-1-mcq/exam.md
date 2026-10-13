@@ -23,6 +23,8 @@ Choices the paper numbers 1-5 or 1)-5), gives as dashes, or letters in lower cas
 the paper's. A choice letter the paper leaves blank is "(not recalled)". Questions recalled with fewer choices keep
 only the choices given. A stray " the paper prints after some choices is kept as printed; it is not treated as an answer mark. Spelling and wording are the paper's.
 exam_year 2016 is the PDF's own creation date (August 2016); the paper does not state the year.
+In Q69 the paper prints the question line ("What is the appropiate investigation") after the choices; it is placed
+in the stem so the choices stay together.
 Q37 appears twice with different questions; the second copy is kept under "Repeated question numbers".
 The rotation (1) is not mapped to a G.
 The paper has no pictures.
@@ -607,6 +609,68 @@ A. IDH
 B. DH
 C. incisional hernia
 D. Umbilical hernia
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q65 (original no. 65)
+3 hr after simple Right herniorhapphy  -> lower abdominal distension, mild tender suprapubic globular cyst 2 cm lower umbilicus
+
+A. NG decompress
+B. abdominal ultrasound
+C. urinary catheterization
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q66 (original no. 66)
+Hoarseness หลังจากทำ total thyroidectomy เกิดจากโดนอะไร
+
+A. Deep cervical plexus
+B. External branch of superior laryngeal nerve
+C. Internal branch of superior laryngeal nerve
+D. Superior venous plexus
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q67 (original no. 67)
+Massive blood transfusion ในacute blood loss ข้อใดถูก
+
+A. ให้plt. 6pack ทุกๆprc 3unit
+B. ให้prc กับcrystalloid เพื่อmaintain intravascularและ...o2 perfusion
+C. ให้ ffp 2unit ทุกๆprc 3 unit
+D. ใช้fresh whole blood ในemergency เพราะมี componentครบ
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q68 (original no. 68)
+68 อันไหนผิดเกี่ยวกับไทรอยด cancer
+
+A. papillary is the most common
+B. female เปนเท่ากับ  male
+C. age 40<50
+D. hurthle from follicular cell
+E. medullay from c cell
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q69 (original no. 69)
+60year old man มี neck mass มา 2 เดือน vital sign ปกติ physical examination ปกติ พบแค่ Firm nodule 1 cm at left midline ขยับตามการกลืน
+What is the appropiate investigation
+
+A. thyroid function test and tumor
+B. scan with I131
+C. ultrasound guide FNA
+D. ct neck and chest
+E. left thyroid lobectomy
 
 **Answer:** not given in the source
 **Explanation:** not stated
