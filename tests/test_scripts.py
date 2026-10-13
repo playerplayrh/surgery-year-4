@@ -340,6 +340,35 @@ class IdentifierScan(RepoCase):
         self.assertPasses()  # date: 2026-10-10 sits in every sample file
 
 
+class Lectures(RepoCase):
+    LECTURE = ("---\nid: lecture-01-sample\ntype: lecture-extract\ntopic: sample-topic\n"
+               "topics: [sample-topic, other-topic]\nsource: lecture\nauthor: t\ndate: 2026-10-13\n"
+               "status: ai-generated\n---\n\n<!-- p.1 -->\nSlide text\n")
+
+    def test_lecture_text_is_scanned_for_identifiers(self):
+        self.write("lectures/01-sample/01-sample.md", self.LECTURE)
+        self.assertPasses()
+        self.write("lectures/01-sample/01-sample.md", self.LECTURE + "patient HN 12345678\n")
+        self.assertFails("possible patient identifier")
+
+    def test_lecture_images_are_one_note(self):
+        self.write("lectures/01-sample/01-sample.md", self.LECTURE)
+        for k in (1, 2):
+            (self.tmp / f"lectures/01-sample/images/01-sample-p1-{k}.jpg").parent.mkdir(parents=True, exist_ok=True)
+            (self.tmp / f"lectures/01-sample/images/01-sample-p1-{k}.jpg").write_bytes(b"x")
+        out = self.assertPasses()
+        self.assertIn("2 lecture figures", out)
+        self.assertNotIn("01-sample-p1-1.jpg: image", out)
+
+    def test_lecture_counts_for_every_listed_topic_in_the_map(self):
+        sys.path.insert(0, str(SCRIPTS))
+        import exam_map
+        self.write("lectures/01-sample/01-sample.md", self.LECTURE)
+        level = exam_map.readiness(self.tmp, ["other-topic", "missing-topic"])
+        self.assertEqual(level["other-topic"], 1)
+        self.assertEqual(level["missing-topic"], 0)
+
+
 class Digests(RepoCase):
     def test_missing_left_out_line(self):
         self.write("digests/sample-topic/case-001-digest.md", DIGEST.replace("**Left out:** nothing important\n", ""))
