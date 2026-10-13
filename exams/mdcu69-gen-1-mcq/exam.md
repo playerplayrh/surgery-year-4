@@ -25,7 +25,8 @@ only the choices given. A stray " the paper prints after some choices is kept as
 exam_year 2016 is the PDF's own creation date (August 2016); the paper does not state the year.
 In Q69 the paper prints the question line ("What is the appropiate investigation") after the choices; it is placed
 in the stem so the choices stay together.
-Q37 appears twice with different questions; the second copy is kept under "Repeated question numbers".
+Q37 and Q90 each appear twice with different questions; the second copies are kept under "Repeated question
+numbers". In Q92 the paper numbers its choices 1, 3, 4, 5 (no 2), so B is "(not recalled)".
 The rotation (1) is not mapped to a G.
 The paper has no pictures.
 
@@ -736,6 +737,64 @@ B. Improving quality of life
 C. HIV positive is contraindication
 D. Polycystic kidney disease should be excluded from patient list
 E. Living donor provides liver graft for renal transplantation
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q86 (original no. 86)
+what is false about CEA in colonic CA
+
+A. for screening and diagnosis
+B. for monitor
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q87 (original no. 87)
+what is the role of medical student in surgical oncology?
+
+A. ดูแลผู้ป่วยในward
+B. รู้ indication,contraindication,treatmentของผู้ป่วยCA
+C. รู้etiology,pathophysiology,pathology,treatmentของผู้ป่วยCA
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q88 (original no. 88)
+what is true according to cancer screening?
+
+A. detect pt in asymptomatic stage
+B. tumor marker is the most sensitive
+C. คนที่ไม่มีประวัติครอบครัว ไม่ต้องตรวจ
+D. inherited cancerตรวจเจอในstem cell
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q89 (original no. 89)
+ผู้ป่วย 25 ปี มาด้วย mucous bloody stool และเป็นบ่อยขึ้น PRพบมีpolyp colonoscopeพบ polypจำนวนมาก ส่งpathoพบว่าเป็น adenomatous polyposis มีประวัติพ่อตรวจพบ CA colon และเสียชีวิตในวัย 50 ข้อใดผิด
+
+A. คนนี้เป็น FAP
+B. ควรทำ colonoscopy screening ตอนอายุ 40ปี
+C. มี APC gene mutation
+D. ควรตรวจ EGD ด้วย
+E. all of above is true
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q90 (original no. 90)
+ผู้หญิงมีก้อนที่เต้านมซ้าย, ulcerated, nipple discharge, nipple retraction, peau d'orange, axillary lymph node โต ผล patho บอกว่า invasive ductal carcinoma
+FNA ของ axillary lymph node บอกว่าเป็น metastases lymph node. What is appropriate management?
+
+A. Left mastectomy + ALND
+B. Left mastectomy + sentinel lymph node biopsy
+C. CT scan chest + abdomen
 
 **Answer:** not given in the source
 **Explanation:** not stated
