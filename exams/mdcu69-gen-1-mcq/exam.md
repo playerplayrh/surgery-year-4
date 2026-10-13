@@ -19,10 +19,11 @@ answer_source: recalled
 
 Source: "AC MCQ General Sx Rotate 1 MDCU 69", recalled by students; the numbers are the paper's own, so gaps are
 kept. No answer key was found and the paper marks no answers, so every answer is "not given in the source".
-Choices the paper numbers 1-5 or 1)-5), or letters in lower case, are written A-E in order; elsewhere the letters are
+Choices the paper numbers 1-5 or 1)-5), gives as dashes, or letters in lower case, are written A-E in order; elsewhere the letters are
 the paper's. A choice letter the paper leaves blank is "(not recalled)". Questions recalled with fewer choices keep
 only the choices given. A stray " the paper prints after some choices is kept as printed; it is not treated as an answer mark. Spelling and wording are the paper's.
 exam_year 2016 is the PDF's own creation date (August 2016); the paper does not state the year.
+Q37 appears twice with different questions; the second copy is kept under "Repeated question numbers".
 The rotation (1) is not mapped to a G.
 The paper has no pictures.
 
@@ -400,6 +401,93 @@ A. Peptic Ulcer Perforation
 B. Mesenteric Emboli
 C. Colonic perforation
 D. Necrotizing pancreatitis
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q46 (original no. 46)
+44 yrs woman RUQ pain with fever  For 2 days
+Alcohol(with 2 after dinner) +acetamenophen
+No hepatoslpenomegaly
+Moderate jaundice
+
+A. Viral Hepatitis
+B. Immune hepatitis
+C. Acute cholangitits
+D. Acute cholecystitis
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q47 (original no. 47)
+Abdominal ultrasound was performed and confirm your diagnosis of no.46 What is the proper management?
+
+A. Steroid injection
+B. Bed rest and iv fluid
+C. ERCP
+D. LC
+E. Antibiotics and LC
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q48 (original no. 48)
+Which is CORRECT about the precences of gallstones in diabetes
+
+A. เจอเท่ากันในคนไข้เบาหวาน และคนปกติ
+E. symptomatic and elective surgery"
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q49 (original no. 49)
+Gallstones impaction common occurs
+
+A. duodenum
+B. duodenojejunal junction
+C. ileum
+D. sigmoid colon
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q50 (original no. 50)
+Which one of the following is the agent of choice for pneumoperitoneum in LC(หรือ MIS?)
+
+A. CO2
+B. N2O
+C. Air
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q51 (original no. 51)
+Decreased cardiac output in pneumoperitoneum due to
+
+A. decrease venous return
+B. increase systemic vascular resistance
+C. increase pressure to intrathoracic baroreceptor
+D. increase pulmonary vascular resistance
+E. reflex bradycardia
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q53 (original no. 53)
+ญ.อายุ26 ปี ท้อง First trimester มาด้วยอาการ acute appendicitis ถามว่าส่ง investigation อะไร
+
+A. CT abdomen
+B. abdomen ultrasonography
+C. Colonoscopy
+D. acute abdomen series
+E. Barium edema
 
 **Answer:** not given in the source
 **Explanation:** not stated
