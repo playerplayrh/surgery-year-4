@@ -44,6 +44,7 @@ guide Yr. 4); the `group` tag in a file is the G the author actually saw.
 ### Every G
 - `acute-appendicitis` — includes the signs
 - `perioperative-care` — pre-op and post-op complications, when to operate and when not
+- `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
 - `basic-surgical-skills` — scrubbing, sterile gloves, suturing, knot tying, local anaesthetic, dressings, suture removal, drains
 - `surgical-instruments` — instrument identification for OSCE
 
@@ -51,6 +52,7 @@ guide Yr. 4); the `group` tag in a file is the G the author actually saw.
 
 | id | topic | G | author | status |
 | --- | --- | --- | --- | --- |
+| concept-chula-black-1-ch01-001 | systemic-response-to-injury | cross | playerplayrh | ai-generated |
 
 ## Facts
 
