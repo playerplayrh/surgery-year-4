@@ -4,7 +4,8 @@
     python3 scripts/exam_map.py                 writes exam-map/index.html
     python3 scripts/exam_map.py --out map.html
 
-Reads exams/<set>/exam.md and the tags in exam-map/tags/<set>.md ('- Q12 | topic | asks'),
+Reads exams/<set>/exam.md (General Sx papers and every OSCE/MEQ paper; subspecialty MCQ papers
+are kept apart) and the tags in exam-map/tags/<set>.md ('- Q12 | topic | asks'),
 plus INDEX.md for the organ system of each topic. The map shows breadth: a topic asked once
 counts as much as one asked every year. Each topic shows which cohorts and formats asked it,
 how it was asked, and what the repo has for studying it. Standard library only.
@@ -18,7 +19,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from mdutil import read_text, split_front_matter  # noqa: E402
-from validate import load_topic_systems, parse_exam, parse_tags  # noqa: E402
+from validate import in_exam_map, load_topic_systems, parse_exam, parse_tags  # noqa: E402
 
 REPO_URL = "https://github.com/playerplayrh/surgery-year-4/blob/main/"
 ASKS = ["diagnosis", "investigation", "management", "complication", "basic-science", "other"]
@@ -69,6 +70,8 @@ def collect(root):
         fm, body, _ = split_front_matter(read_text(f))
         fm = fm or {}
         code = fm.get("exam_set") or f.parent.name
+        if not in_exam_map(code):
+            continue  # subspecialty MCQ papers are kept apart from General Surgery
         qs = {q["num"]: q for q in parse_exam(body)}
         tf = root / "exam-map" / "tags" / f"{code}.md"
         tags = {q: (topic, asks) for _, q, topic, asks in parse_tags(read_text(tf))} if tf.is_file() else {}
