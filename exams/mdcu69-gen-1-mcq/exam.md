@@ -864,6 +864,41 @@ E. MR venography
 **Explanation:** not stated
 **Guideline / source:** not stated
 
+## Q98 (original no. 98)
+69-year-male presents with intermittent claudication at hips and thighs for 4 months attend erectile dysfunction clinic PE decreased femoral, popliteal, posterior tibial, dorsalis pedis pulse which is FALSE
+
+(no choices recalled)
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q99 (original no. 99)
+Which is FALSE about TAO(Thromboangitis Obliterans)
+
+A. อีกชื่อหนึ่งคือ Buerger's Disease
+B. เกี่ยวกับ heavy tobacco smoking
+C. พยาธิสภาพส่วนใหญ่อยู่ที่ small + medium-size artery&vein
+D. initial inflammation เกิดขึ้นที่ tunica intima
+E. rarely present as acute + ไม่ค่อย require amputation
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q100 (original no. 100)
+ข้อใดเป็น indication for ELECTIVE AAA surgery
+
+A. 55 ปี male 4 cm
+B. 60 ปี male 5 cm + sudden abdominal & back pain
+C. 65 ปี male 6 cm ปีที่แล้ว 5 cm
+D. 70 ปี male 5.5 cm + COPD,CRF (Chronic Renal Fail)
+E. 80 ปี male 5 cm
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
 ## Repeated question numbers
 (These numbers appear a second time in the paper with a different question; the second copies are kept here
 unchanged, so no number is changed. No answers are given.)
