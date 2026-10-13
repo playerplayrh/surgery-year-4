@@ -809,3 +809,11 @@ A. ca of gastic cardia
 B. ca esophagus
 C. end-stage achalasia
 D. barrett's esophagus
+
+Second question numbered 90: 48yo female present: lump at right breast for  2 weeks ,no nipple discharge. she had 2 children ,first one when she was  20 , tubal ligation after 2th baby
+PE: smooth cystic mobile 2 cm mass at right upper outer quadrant. What 's further investigation ?
+A. ultrasound with elastography of breast
+B. mamogram+ ultrasound of breast
+C. MRI of breast
+D. FNA and cytology
+E. Excisional Biopsy
