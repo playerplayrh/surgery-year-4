@@ -43,7 +43,7 @@ under the system it belongs to, or add a new `###` system heading.
 - `acute-appendicitis` — includes the signs
 - `hernia` — adult hernia, hernia signs
 - `peritonitis` — perforated viscus, pneumoperitoneum, intra-abdominal sepsis
-- `small-intestine` — Meckel's diverticulum, short bowel syndrome, small bowel tumors and bleeding
+- `small-intestine` — Meckel's diverticulum, short bowel syndrome, enterocutaneous fistula, Crohn's disease, small bowel tumors and bleeding
 - `mesenteric-ischemia`
 
 ### Breast

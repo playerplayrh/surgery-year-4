@@ -4,7 +4,7 @@
 - Q4 | shock | management
 - Q5 | fluid-electrolyte | management
 - Q6 | perioperative-care | management
-- Q7 | hemostasis-transfusion | basic-science
+- Q7 | trauma | basic-science
 - Q11 | esophageal-cancer | diagnosis
 - Q12 | esophageal-cancer | management
 - Q13 | achalasia | management

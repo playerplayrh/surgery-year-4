@@ -25,7 +25,7 @@
 - Q39 | thyroid-cancer | basic-science
 - Q40 | thyroid-mass | investigation
 - Q41 | perioperative-care | management
-- Q42 | hemostasis-transfusion | management
+- Q42 | trauma | management
 - Q44 | hemostasis-transfusion | management
 - Q45 | hemostasis-transfusion | management
 - Q46 | breast-cancer | complication
