@@ -6,5 +6,5 @@
 - Q4 | intestinal-obstruction | investigation
 - Q5 | surgical-instruments | other
 - Q8 | breast-imaging | investigation
-- Q10 | subspecialty-uro | diagnosis
-- Q11 | subspecialty-uro | other
+- Q10 | prostate-and-luts | diagnosis
+- Q11 | urinary-catheters | other

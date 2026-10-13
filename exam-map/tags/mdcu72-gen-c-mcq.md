@@ -15,7 +15,7 @@
 - Q22 | fluid-electrolyte | basic-science
 - Q27 | surgical-oncology | basic-science
 - Q28 | breast-cancer | management
-- Q30 | subspecialty-colorectal | management
+- Q30 | colorectal-cancer | management
 - Q31 | perioperative-care | management
 - Q34 | perioperative-care | management
 - Q35 | perioperative-care | investigation
@@ -48,7 +48,7 @@
 - Q79 | peritonitis | management
 - Q81 | organ-transplantation | management
 - Q84 | organ-transplantation | complication
-- Q85 | subspecialty-ped | management
+- Q85 | biliary-atresia | management
 - Q87 | liver-abscess | diagnosis
 - Q88 | liver-mass | management
 - Q89 | portal-hypertension | basic-science

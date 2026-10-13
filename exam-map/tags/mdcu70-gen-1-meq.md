@@ -2,5 +2,5 @@
 
 - Q1 | peripheral-arterial-disease | diagnosis
 - Q5 | soft-tissue-infection | diagnosis
-- Q12 | subspecialty-ped | diagnosis
-- Q14 | subspecialty-ped | diagnosis
+- Q12 | abdominal-wall-defects | diagnosis
+- Q14 | pediatric-intestinal-obstruction | diagnosis

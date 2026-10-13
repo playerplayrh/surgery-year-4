@@ -4,7 +4,7 @@
 - Q2 | surgical-infection | other
 - Q3 | jaundice | diagnosis
 - Q4 | small-intestine | diagnosis
-- Q5 | subspecialty-uro | diagnosis
+- Q5 | scrotal-mass | diagnosis
 - Q6 | hemostasis-transfusion | management
 - Q7 | liver-mass | diagnosis
 - Q8 | surgical-ethics | management
@@ -14,7 +14,7 @@
 - Q12 | hernia | diagnosis
 - Q13 | gist | diagnosis
 - Q14 | portal-hypertension | management
-- Q15 | subspecialty-colorectal | management
+- Q15 | colorectal-cancer | management
 - Q16 | hernia | diagnosis
 - Q17 | achalasia | management
 - Q18 | liver-mass | diagnosis
@@ -44,7 +44,7 @@
 - Q42 | small-intestine | management
 - Q43 | systemic-response-to-injury | basic-science
 - Q44 | small-intestine | management
-- Q45 | subspecialty-colorectal | diagnosis
+- Q45 | diverticular-disease | diagnosis
 - Q46 | minimally-invasive-surgery | basic-science
 - Q47 | venous-insufficiency | other
 - Q48 | acute-limb-ischemia | management
@@ -53,7 +53,7 @@
 - Q51 | surgical-infection | diagnosis
 - Q52 | organ-transplantation | complication
 - Q53 | organ-transplantation | investigation
-- Q54 | subspecialty-colorectal | management
+- Q54 | anorectal-disease | management
 - Q55 | surgical-ethics | other
 - Q56 | intestinal-obstruction | other
 - Q57 | hyperthyroidism | investigation

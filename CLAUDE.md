@@ -141,6 +141,10 @@ templates/front-matter.md.
 - Exam decisions (2026-10-12): an OSCE-MEQ paper is filed as two sets, `<cohort>-gen-<r>-osce`
   and `<cohort>-gen-<r>-meq`, each keeping its original numbers. When the paper gives no year,
   exam_year is taken from the paper's file date and that is said under the front-matter.
+- Exam decisions (2026-10-13): every question in a General Surgery (gen) paper counts as General
+  Surgery, even when it looks like a subspecialty topic: tag it with an organ-system topic from
+  INDEX.md, never `subspecialty-*`. OSCE and MEQ are sat at the end of the whole surgery rotation,
+  after the subspecialty rotations.
 
 ## Exam topic map
 - scripts/exam_map.py builds exam-map/index.html (generated, not committed): every topic past

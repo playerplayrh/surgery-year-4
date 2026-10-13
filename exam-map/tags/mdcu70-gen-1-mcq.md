@@ -17,7 +17,7 @@
 - Q23 | fluid-electrolyte | basic-science
 - Q24 | shock | management
 - Q30 | breast-cancer | basic-science
-- Q31 | subspecialty-colorectal | management
+- Q31 | colorectal-cancer | management
 - Q32 | surgical-oncology | basic-science
 - Q33 | surgical-oncology | management
 - Q34 | surgical-oncology | management

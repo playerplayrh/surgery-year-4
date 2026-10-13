@@ -22,11 +22,11 @@
 - Q31 | acute-appendicitis | management
 - Q33 | abdominal-aortic-aneurysm | diagnosis
 - Q34 | acute-cholecystitis | diagnosis
-- Q37 | subspecialty-ped | management
+- Q37 | choledochal-cyst | management
 - Q38 | jaundice | diagnosis
 - Q40 | portal-hypertension | management
 - Q41 | hernia | basic-science
-- Q42 | subspecialty-ped | basic-science
+- Q42 | scrotal-mass | basic-science
 - Q43 | hernia | investigation
 - Q44 | hernia | management
 - Q46 | hyperthyroidism | management

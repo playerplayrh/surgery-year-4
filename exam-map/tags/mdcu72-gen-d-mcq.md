@@ -29,7 +29,7 @@
 - Q49 | hernia | management
 - Q50 | hernia | basic-science
 - Q52 | parathyroid | investigation
-- Q58 | subspecialty-colorectal | diagnosis
+- Q58 | diverticular-disease | diagnosis
 - Q60 | periampullary-tumor | investigation
 - Q61 | acute-appendicitis | investigation
 - Q64 | intestinal-obstruction | diagnosis

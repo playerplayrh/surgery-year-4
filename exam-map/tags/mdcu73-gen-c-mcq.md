@@ -26,7 +26,7 @@
 - Q30 | jaundice | management
 - Q33 | gallstone-disease | basic-science
 - Q34 | acute-cholecystitis | management
-- Q37 | subspecialty-colorectal | management
+- Q37 | lower-gi-bleeding | management
 - Q38 | abdominal-aortic-aneurysm | diagnosis
 - Q42 | acute-appendicitis | management
 - Q43 | perioperative-care | basic-science

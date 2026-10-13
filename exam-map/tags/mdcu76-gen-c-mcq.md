@@ -19,7 +19,7 @@
 - Q17 | skin-and-subcutaneous-lesions | management
 - Q18 | liver-mass | management
 - Q19 | systemic-response-to-injury | management
-- Q20 | jaundice | diagnosis
+- Q20 | choledochal-cyst | diagnosis
 - Q21 | hemostasis-transfusion | complication
 - Q22 | acute-pancreatitis | diagnosis
 - Q23 | gallstone-disease | management

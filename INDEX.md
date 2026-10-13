@@ -21,6 +21,8 @@ under the system it belongs to, or add a new `###` system heading.
 - `chronic-pancreatitis`
 - `pancreatic-endocrine-tumor` — insulinoma and other pancreatic neuroendocrine tumors
 - `spleen` — splenectomy, splenic disease
+- `biliary-atresia`
+- `choledochal-cyst`
 
 ### Esophagus and stomach
 - `dysphagia`
@@ -35,6 +37,7 @@ under the system it belongs to, or add a new `###` system heading.
 - `stomach-anatomy-physiology` — gastric blood supply, acid secretion, post-gastrectomy states
 - `upper-gi-bleeding` — non-variceal upper GI bleeding, Mallory-Weiss tear, Dieulafoy lesion
 - `bariatric-surgery`
+- `esophageal-atresia`
 
 ### Abdomen, bowel and hernia
 - `abdominal-pain` — approach to abdominal pain
@@ -45,6 +48,16 @@ under the system it belongs to, or add a new `###` system heading.
 - `peritonitis` — perforated viscus, pneumoperitoneum, intra-abdominal sepsis
 - `small-intestine` — Meckel's diverticulum, short bowel syndrome, enterocutaneous fistula, Crohn's disease, small bowel tumors and bleeding
 - `mesenteric-ischemia`
+- `abdominal-wall-defects` — gastroschisis, omphalocele
+- `pediatric-intestinal-obstruction` — malrotation and midgut volvulus, duodenal atresia, Hirschsprung disease, intussusception in children
+
+### Colon, rectum and anus
+- `colorectal-cancer` — screening, polyps, tumor markers, staging, treatment
+- `diverticular-disease`
+- `lower-gi-bleeding`
+- `anorectal-disease` — hemorrhoids, perianal abscess, condyloma, anal cancer, rectal examination
+- `anorectal-malformation`
+- `stoma` — colostomy, ileostomy, stoma appliances and complications
 
 ### Breast
 - `breast-mass`
@@ -73,6 +86,25 @@ under the system it belongs to, or add a new `###` system heading.
 - `necrotizing-fasciitis`
 - `soft-tissue-infection`
 - `skin-and-subcutaneous-lesions` — lipoma, sebaceous cyst and other lumps of the skin
+- `skin-cancer` — melanoma, squamous and basal cell carcinoma
+- `pressure-ulcer`
+
+### Head and face
+- `craniofacial-anomalies` — cleft lip and palate, preauricular sinus
+
+### Chest
+- `pneumothorax`
+- `congenital-diaphragmatic-hernia`
+
+### Genitourinary
+- `hematuria`
+- `prostate-and-luts` — lower urinary tract symptoms, BPH, prostate examination, prostate cancer
+- `scrotal-mass` — hydrocele, varicocele, undescended testis
+- `penile-cancer`
+- `urinary-catheters` — Foley (2-way, 3-way), double-J stent
+
+### Nervous system
+- `neurological-examination` — muscle testing, nerve roots, reflexes, cranial nerves
 
 ### Surgical physiology and critical care
 - `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
@@ -95,16 +127,11 @@ under the system it belongs to, or add a new `###` system heading.
 
 ### Trauma
 - `trauma` — initial assessment, abdominal and chest trauma, damage control
+- `head-injury` — GCS, intracranial hematoma
+- `facial-trauma` — facial fractures, facial nerve and duct injury
+- `burns`
 - `bites-and-stings`
 
-### Subspecialty (out of scope for now)
-Only for subspecialty-topic questions inside General Surgery papers that are filed whole. Never a G topic.
-- `subspecialty-ped`
-- `subspecialty-uro`
-- `subspecialty-colorectal`
-- `subspecialty-cvt`
-- `subspecialty-neuro`
-- `subspecialty-plastic`
 
 ## Notes
 

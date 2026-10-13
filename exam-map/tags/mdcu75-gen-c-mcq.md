@@ -15,7 +15,7 @@
 - Q13 | hernia | diagnosis
 - Q14 | systemic-response-to-injury | complication
 - Q15 | surgical-ethics | management
-- Q16 | subspecialty-colorectal | management
+- Q16 | diverticular-disease | management
 - Q17 | esophageal-cancer | management
 - Q18 | surgical-infection | management
 - Q19 | surgical-infection | management

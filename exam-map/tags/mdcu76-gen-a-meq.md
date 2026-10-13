@@ -1,12 +1,12 @@
 # Topic tags: mdcu76-gen-a-meq
 
-- Q1 | subspecialty-ped | diagnosis
+- Q1 | biliary-atresia | diagnosis
 - Q2 | intestinal-obstruction | investigation
 - Q3 | achalasia | investigation
-- Q4 | subspecialty-uro | diagnosis
+- Q4 | prostate-and-luts | diagnosis
 - Q5 | soft-tissue-infection | diagnosis
-- Q6 | subspecialty-plastic | management
-- Q7 | subspecialty-ped | diagnosis
-- Q8 | subspecialty-plastic | diagnosis
+- Q6 | craniofacial-anomalies | management
+- Q7 | congenital-diaphragmatic-hernia | diagnosis
+- Q8 | burns | diagnosis
 - Q9 | peripheral-arterial-disease | diagnosis
-- Q10 | subspecialty-cvt | diagnosis
+- Q10 | pneumothorax | diagnosis

@@ -34,7 +34,7 @@
 - Q79 | liver-abscess | diagnosis
 - Q80 | liver-mass | diagnosis
 - Q84 | organ-transplantation | basic-science
-- Q86 | subspecialty-colorectal | basic-science
+- Q86 | colorectal-cancer | basic-science
 - Q94 | breast-infection | management
 - Q96 | venous-insufficiency | diagnosis
 - Q99 | peripheral-arterial-disease | basic-science

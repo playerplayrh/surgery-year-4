@@ -46,7 +46,7 @@
 - Q44 | hemostasis-transfusion | management
 - Q45 | hemostasis-transfusion | basic-science
 - Q46 | surgical-infection | management
-- Q47 | subspecialty-colorectal | management
+- Q47 | colorectal-cancer | management
 - Q48 | fluid-electrolyte | management
 - Q49 | liver-abscess | diagnosis
 - Q50 | acute-pancreatitis | investigation
@@ -70,7 +70,7 @@
 - Q68 | abdominal-aortic-aneurysm | management
 - Q69 | surgical-oncology | management
 - Q70 | portal-hypertension | diagnosis
-- Q71 | subspecialty-colorectal | management
+- Q71 | diverticular-disease | management
 - Q72 | organ-transplantation | basic-science
 - Q73 | breast-cancer | complication
 - Q74 | hemostasis-transfusion | management

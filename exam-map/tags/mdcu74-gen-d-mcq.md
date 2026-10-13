@@ -27,7 +27,7 @@
 - Q25 | liver-mass | basic-science
 - Q26 | shock | basic-science
 - Q27 | fluid-electrolyte | basic-science
-- Q28 | subspecialty-colorectal | diagnosis
+- Q28 | anorectal-disease | diagnosis
 - Q29 | dysphagia | other
 - Q30 | portal-hypertension | management
 - Q31 | hernia | diagnosis
