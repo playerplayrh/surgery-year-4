@@ -343,3 +343,13 @@ C. massive bleeding
 **Answer:** not given in the source
 **Explanation:** not stated
 **Guideline / source:** not stated
+
+## Repeated question numbers
+(These numbers appear a second time in the paper with a different question; the second copies are kept here
+unchanged, so no number is changed. No answers are given.)
+
+Second question numbered 37: ptมี difficult swallowing เคยทำ balloon what is dx?
+A. ca of gastic cardia
+B. ca esophagus
+C. end-stage achalasia
+D. barrett's esophagus
