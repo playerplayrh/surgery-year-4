@@ -1,5 +1,5 @@
 <!-- OSCE exam. exams/<set-code>/exam.md, front-matter per templates/front-matter.md with exam_format: osce -->
-<!-- Same rules as templates/exam.md: original numbers, immutable stems, honest answer_source, General Sx only. -->
+<!-- Same rules as templates/exam.md: original numbers, immutable stems, honest answer_source. OSCE/MEQ papers are combined surgery papers (General Surgery + subspecialty), filed whole: see CLAUDE.md. -->
 
 ## Q<n> (original no. <n>)
 <Station task as the candidate reads it.>

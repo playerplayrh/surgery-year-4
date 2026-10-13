@@ -19,8 +19,9 @@ templates/front-matter.md.
 - Exams: a set must be a General Surgery exam. Subspecialty questions stay out. Keep the
   original numbers of the questions you do file, so gaps are fine. Add the line
   `Omitted (subspecialty): Q31-Q60` under the front-matter of the exam file.
-  Exception (owner, 2026-10-12): a per-cohort General Sx rotation paper (e.g. mdcu76-gen-a-*)
+  Exception (owner, 2026-10-12): a per-cohort General Sx rotation MCQ paper (e.g. mdcu76-gen-a-mcq)
   is filed whole, subspecialty-topic questions included, because G students sit all of it.
+  OSCE and MEQ papers are combined surgery papers and are filed whole too (see Big jobs, 2026-10-13).
 - **Exception: textbook extractions** (textbook/<book>/) cover the whole book, subspecialty
   chapters included, so the book is never processed twice. Subspecialty chapters are kept
   apart: file name `<nn>-subspe-<slug>.md`, topic `subspecialty-<rotation>` (colorectal, neuro,
@@ -138,13 +139,19 @@ templates/front-matter.md.
 - Exam decisions (2026-10-11): subspecialty papers are extracted but kept apart from General
   Surgery; per-cohort papers before the big AC bank; answer keys written by students or the
   academic team use answer_source `student-key`; set codes look like `mdcu76-gen-c-mcq`.
-- Exam decisions (2026-10-12): an OSCE-MEQ paper is filed as two sets, `<cohort>-gen-<r>-osce`
-  and `<cohort>-gen-<r>-meq`, each keeping its original numbers. When the paper gives no year,
+- Exam decisions (2026-10-12): an OSCE-MEQ paper is filed as two sets, `<cohort>-sx-<r>-osce`
+  and `<cohort>-sx-<r>-meq`, each keeping its original numbers (see 2026-10-13 for the 18 older
+  sets that still say `-gen-`). When the paper gives no year,
   exam_year is taken from the paper's file date and that is said under the front-matter.
-- Exam decisions (2026-10-13): every question in a General Surgery (gen) paper counts as General
-  Surgery, even when it looks like a subspecialty topic: tag it with an organ-system topic from
-  INDEX.md, never `subspecialty-*`. OSCE and MEQ are sat at the end of the whole surgery rotation,
-  after the subspecialty rotations.
+- Exam decisions (2026-10-13): every question in a General Surgery MCQ paper (`<cohort>-gen-<r>-mcq`)
+  counts as General Surgery, even when it looks like a subspecialty topic: tag it with an
+  organ-system topic from INDEX.md, never `subspecialty-*`.
+- Exam decisions (2026-10-13): OSCE and MEQ are not General Surgery papers. They are sat at the
+  end of the whole surgery rotation, after the subspecialty rotations, and combine General Surgery
+  and subspecialty content; exam_rotation says so. They are low priority for now: no new OSCE/MEQ
+  work (extraction or tag changes) until the owner raises it. The 18 existing OSCE/MEQ sets keep
+  `-gen-` in their set codes, ids and job ids for history only (renaming would break Drive
+  job-files links); new ones use `-sx-`.
 
 ## Exam topic map
 - scripts/exam_map.py builds exam-map/index.html (generated, not committed): every topic past

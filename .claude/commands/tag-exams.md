@@ -19,7 +19,7 @@ complete tag file.
      Reuse before creating. If none fits, add a new topic under the right organ-system `###`
      heading in INDEX.md (or a new organ-system heading); never under a G, and never a
      near-duplicate. Subspecialty questions use `subspecialty-<rotation>` topics only if the paper
-     is a subspecialty paper; every question in a gen paper gets an organ-system topic (CLAUDE.md, 2026-10-13).
+     is a subspecialty paper; every question in a gen MCQ paper gets an organ-system topic. OSCE/MEQ papers are low priority: leave their tags as they are unless the owner asks (CLAUDE.md, 2026-10-13).
    - asks: diagnosis | investigation | management | complication | basic-science | other.
      Pick what the question wants the student to produce, not the disease's main theme.
    - Judge from the stem, choices and key only; do not add facts. If a question is too garbled

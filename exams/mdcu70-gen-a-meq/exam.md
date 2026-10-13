@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu70-gen-a-meq
 exam_format: meq
 exam_year: 2018
-exam_rotation: General Sx rotate A
+exam_rotation: "Surgery rotate A (end of surgery rotation: General Surgery + subspecialty)"
 answer_source: recalled
 ---
 

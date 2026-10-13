@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu75-gen-d-meq
 exam_format: meq
 exam_year: 2022
-exam_rotation: General Sx rotate D
+exam_rotation: "Surgery rotate D (end of surgery rotation: General Surgery + subspecialty)"
 answer_source: student-key
 ---
 

@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu72-gen-a-osce
 exam_format: osce
 exam_year: 2020
-exam_rotation: General Sx rotate A
+exam_rotation: "Surgery rotate A (end of surgery rotation: General Surgery + subspecialty)"
 answer_source: recalled
 ---
 

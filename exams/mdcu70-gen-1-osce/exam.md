@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu70-gen-1-osce
 exam_format: osce
 exam_year: 2017
-exam_rotation: General Sx rotate 1
+exam_rotation: "Surgery rotate 1 (end of surgery rotation: General Surgery + subspecialty)"
 answer_source: recalled
 ---
 
