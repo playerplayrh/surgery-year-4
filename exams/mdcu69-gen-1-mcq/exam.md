@@ -493,6 +493,64 @@ E. Barium edema
 **Explanation:** not stated
 **Guideline / source:** not stated
 
+## Q54 (original no. 54)
+54 years old man. Sudden Severe over 4 quadrant pain. xray มีลมใต้ diaphragm ด้านขวา
+
+A. Hollow viscus perforated
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q55 (original no. 55)
+A 35 male, 1 hr sudden sharp pain, radiate to back, แต่ก่อนsmoking and hypertension, ตอนนี้pale and bp=90/70 which choic false management
+
+A. ให้IV resuscitation
+B. ทำโดยminimally invasive surgeryได้
+C. เตรียม10units prc, ffp, ....
+D. ทำ CT ถ้าmass less than 5.5 cm, conservative ได้
+E. ตายได้จากcomplication...
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q56 (original no. 56)
+NOMI ข้อใด False
+
+A. เกิด20-30% ใน mesenteric ischemia
+B. Can occur in patient on vasopressor
+C. Can occur in cardiogenic shock patient
+D. Can occur in patient with burn
+E. Can occur in hypercoagulation stage
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q57 (original no. 57)
+Pneumoperitoneum ใส่gasอะไร
+
+A. ไนตรัสออกไซด์
+B. คาร์บอนไดออกไซด์
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q58 (original no. 58)
+55 yo woman go to ER with crampy abdominal pain . Plain film found multiple air-fluid bowel & dilation of small bowel. Colon appear decompress. Aerobilia noticed despite no previous history of surgery or endoscopy.  management?
+
+A. administration board spectrum antibiotic
+B. bed side ultrasonography
+C. percutaneous cholecystectomy
+D. ERCP
+E. explore lap
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
 ## Repeated question numbers
 (These numbers appear a second time in the paper with a different question; the second copies are kept here
 unchanged, so no number is changed. No answers are given.)
