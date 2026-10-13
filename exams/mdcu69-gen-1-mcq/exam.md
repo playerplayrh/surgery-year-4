@@ -551,6 +551,67 @@ E. explore lap
 **Explanation:** not stated
 **Guideline / source:** not stated
 
+## Q59 (original no. 59)
+Which of the following is false regarding benign tumor of the small intestine.
+
+B. Ileum is the most common site of GIST in the GI tract"
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q60 (original no. 60)
+Most common malignant neoplasm of small bowel is ...
+
+A. Primary adeno CA
+B. Lymphoma
+C. Carcinoid
+D. GIST
+E. Matastasis
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q61 (original no. 61)
+28 year-old make present with 5 cm mass at his left groin PE reveal cough impulse , reducible mass extend into his scrotum and pressure at internal ring controls the mass. What is the most likely diagnosis ?
+
+A. communicating hydrocele
+B. Indirect inguinal hernia
+C. Direct inguinal hernia
+D. femoral hernia
+E. sliding hernia
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q62 (original no. 62)
+44 yr male 11เดือน?ก่อน reducible mass rt. groin วันนี้มา painful mass ไรไม่รู้ลืม PE stable v/s moderate abdominal diatension
+What is the diagnosis? (ถามงี้จิงๆ)
+
+A. ...observe
+B. Iv anagelsic + manual reducible
+C. Iv fluid + ct abdo + pelvic
+D. Emer hernioraphy
+E. Emer laparotomy
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q63 (original no. 63)
+A Thai 64 years old present with right lower abdominal pain. She had 3 cecerian sections. The scar has reducible lump at the terminal. What is the most likely diagnosis.
+
+A. IDH
+B. DH
+C. incisional hernia
+D. Umbilical hernia
+
+**Answer:** not given in the source
+**Explanation:** not stated
+**Guideline / source:** not stated
+
 ## Repeated question numbers
 (These numbers appear a second time in the paper with a different question; the second copies are kept here
 unchanged, so no number is changed. No answers are given.)
