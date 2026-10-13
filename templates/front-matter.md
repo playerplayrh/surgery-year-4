@@ -8,7 +8,7 @@ ward-guide/ (except `_merged.md` and files starting with `_`). Raw files have no
 id: facts-example-001              # unique, never changed after merge
 type: facts-note                   # case-note | concept-note | facts-note | exam | digest | synthesis | textbook-map | ward-guide
 topic: abdominal-pain              # reuse a topic from INDEX.md; blank for exams and ward guides
-group: G1                          # G1 | G2 | G3 | G4 | cross
+group: G1                          # optional: where the author met it (G1 | G2 | G3 | G4 | cross); never used to organise content
 source: mixed                      # bedside | textbook | lecture | exam-recall | senior-summary | survival-guide | mixed | unknown
 author: github-username
 date: 2026-10-10                   # date written, NOT the patient encounter

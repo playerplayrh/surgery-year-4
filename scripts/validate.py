@@ -27,6 +27,7 @@ from mdutil import count_words, norm, read_text, split_front_matter, tag_lines  
 ALLOWED = {
     "type": {"case-note", "concept-note", "facts-note", "exam", "digest", "synthesis",
              "textbook-map", "ward-guide"},
+    # Optional: where the author met it. Never used to organise content (the Gs overlap).
     # No subspecialty values on purpose: subspecialties are out of scope for now.
     "group": {"G1", "G2", "G3", "G4", "cross"},
     "source": {"bedside", "textbook", "lecture", "exam-recall", "senior-summary",
@@ -38,7 +39,7 @@ ALLOWED = {
 KNOWN_KEYS = {"id", "type", "topic", "group", "source", "author", "date", "status", "verified_by",
               "raw", "references", "digest_of", "built_from", "exam_set", "exam_format",
               "exam_year", "exam_rotation", "answer_source", "valid_year"}
-CORE_KEYS = ["id", "type", "topic", "group", "source", "author", "date", "status"]
+CORE_KEYS = ["id", "type", "topic", "source", "author", "date", "status"]
 TOPIC_OPTIONAL = {"exam", "ward-guide"}
 
 FOLDER_TYPES = {
@@ -183,7 +184,7 @@ def check_front_matter(rec, rep):
     typ = rec.type
     if rec.id and not ID_RE.match(rec.id):
         rep.error(rel, f"id '{rec.id}' must be lowercase letters, digits and hyphens")
-    for key in ("id", "author", "date", "status", "group", "source", "type"):
+    for key in ("id", "author", "date", "status", "source", "type"):
         if key in fm and not fm[key]:
             rep.error(rel, f"front-matter field '{key}' is empty")
     if fm.get("date") and not valid_date(fm["date"]):
@@ -233,7 +234,8 @@ def check_front_matter(rec, rep):
         rep.error(rel, "valid_year must be 4 digits, or 'unknown' if the source does not say")
 
 
-def load_topics(root):
+def load_topic_systems(root):
+    """INDEX.md Topics: {topic: organ system heading}, or None if there is no Topics section."""
     idx = root / "INDEX.md"
     if not idx.is_file():
         return None
@@ -241,7 +243,21 @@ def load_topics(root):
     m = re.search(r"^## Topics\b.*?(?=^## |\Z)", text, re.S | re.M)
     if not m:
         return None
-    return set(re.findall(r"^[-*]\s+`([a-z0-9]+(?:-[a-z0-9]+)*)`", m.group(0), re.M))
+    out, system = {}, "Other"
+    for line in m.group(0).split("\n"):
+        h = re.match(r"^###\s+(.+?)\s*$", line)
+        if h:
+            system = h.group(1)
+            continue
+        t = re.match(r"^[-*]\s+`([a-z0-9]+(?:-[a-z0-9]+)*)`", line)
+        if t:
+            out[t.group(1)] = system
+    return out
+
+
+def load_topics(root):
+    systems = load_topic_systems(root)
+    return None if systems is None else set(systems)
 
 
 def near_duplicate(topic, known):
@@ -474,6 +490,60 @@ def check_exams(root, recs, rep):
                     rep.warn(rel, f"image '{p.name}' should be named {set_code}-q<nn>-<k>.<ext>")
 
 
+TAG_ASKS = {"diagnosis", "investigation", "management", "complication", "basic-science", "other"}
+TAG_LINE = re.compile(r"^[-*]\s*Q(\d+)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*$")
+
+
+def parse_tags(text):
+    """exam-map/tags/<set>.md lines '- Q12 | topic | asks' -> list of (line no., q, topic, asks)."""
+    out = []
+    for n, line in enumerate(text.split("\n"), 1):
+        m = TAG_LINE.match(line.strip())
+        if m:
+            out.append((n, int(m.group(1)), m.group(2), m.group(3)))
+    return out
+
+
+def check_exam_tags(root, recs, rep):
+    """Topic tags for the exam topic map live outside the exam files, so exams stay untouched."""
+    tag_dir = root / "exam-map" / "tags"
+    known = load_topics(root) or set()
+    exams = {rec.fm.get("exam_set"): rec for rec in recs if rec.type == "exam" and rec.fm.get("exam_set")}
+    untagged = []
+    for code, rec in sorted(exams.items()):
+        nums = {q["num"] for q in parse_exam(rec.body)}
+        f = tag_dir / f"{code}.md"
+        if not f.is_file():
+            if nums:
+                untagged.append(code)
+            continue
+        rel = f.relative_to(root).as_posix()
+        seen = set()
+        for n, q, topic, asks in parse_tags(read_text(f)):
+            where = f"{rel}:{n}"
+            if q not in nums:
+                rep.error(where, f"Q{q} is not a question in exams/{code}/exam.md")
+            if q in seen:
+                rep.error(where, f"Q{q} is tagged twice")
+            seen.add(q)
+            if topic not in known:
+                dup = near_duplicate(topic, known) if topic else None
+                rep.error(where, f"topic '{topic}' is not in INDEX.md" + (f" (did you mean '{dup}'?)" if dup else
+                                 ". Add it under the right organ system in INDEX.md"))
+            if asks not in TAG_ASKS:
+                rep.error(where, f"asks '{asks}' must be one of {sorted(TAG_ASKS)}")
+        missing = sorted(nums - seen)
+        if missing:
+            rep.warn(rel, f"{len(missing)} question(s) not tagged yet: "
+                          + ", ".join(f"Q{q}" for q in missing[:15]) + (" ..." if len(missing) > 15 else ""))
+    for f in sorted(tag_dir.glob("*.md")) if tag_dir.is_dir() else []:
+        if f.stem not in exams and not f.name.startswith("_"):
+            rep.error(f.relative_to(root).as_posix(), f"no exam '{f.stem}' in exams/ for these tags")
+    if untagged:
+        rep.note("exam-map/tags/", f"{len(untagged)} exam(s) have no topic tags yet (run /tag-exams): "
+                                   + ", ".join(untagged[:8]) + (" ..." if len(untagged) > 8 else ""))
+
+
 def scan_identifiers(root, rep):
     for folder in SCAN_DIRS:
         base = root / folder
@@ -504,7 +574,9 @@ def flag_images(root, rep):
     textbook_images = 0
     for p in sorted(root.rglob("*")):
         rel = p.relative_to(root)
-        if ".git" in rel.parts or not p.is_file() or p.suffix.lower() not in IMAGE_EXTS:
+        # .claude/ holds Claude's own worktrees (other checkouts of this repo), not content
+        if ".git" in rel.parts or rel.parts[0] == ".claude" or not p.is_file() \
+                or p.suffix.lower() not in IMAGE_EXTS:
             continue
         if rel.parts[0] == "textbook":
             textbook_images += 1  # one summary line instead of thousands of warnings
@@ -584,6 +656,7 @@ def main(argv=None):
     check_synthesis(recs, ids, rep)
     check_facts(root, recs, rep)
     check_exams(root, recs, rep)
+    check_exam_tags(root, recs, rep)
     scan_identifiers(root, rep)
     flag_images(root, rep)
     if args.base:

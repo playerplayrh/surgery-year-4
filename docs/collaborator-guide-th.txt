@@ -10,7 +10,7 @@
 ส่วนที่ 1  repo นี้คืออะไร
 ---------------------------------------------------------------------
 
-- เป็นที่รวมเนื้อหา General Surgery (G1-G4) ของ MDCU ปี 4
+- เป็นที่รวมเนื้อหา General Surgery ของ MDCU ปี 4 จัดตามระบบอวัยวะและหัวข้อ (ไม่แยกตาม G เพราะแต่ละ G ทับซ้อนกันเยอะ)
   แต่ละคนวนไม่ครบทุก G เลยเอาของทุกคนมารวมกัน ทุกคนจะได้ครบ 4 G
 - ตอนนี้ยังไม่รับ subspecialty (Colorectal, Neuro, CVT, Plastic, Uro, Ped)
   Colorectal เป็น subspecialty ไม่ใช่ G
@@ -88,7 +88,7 @@
 A. เพิ่มเนื้อหาของตัวเอง (โน้ต, facts, case, exam ที่จำได้)
    1. ลบข้อมูลคนไข้ก่อน (ดูส่วนที่ 5)
    2. paste ลงแชต พร้อมบอกว่าเป็น G ไหน เช่น
-        "G3 นี่คือ facts เรื่อง cholecystitis ที่จดตอน ward ช่วยแปลงเข้า repo"
+        "นี่คือ facts เรื่อง cholecystitis ที่จดตอน ward ช่วยแปลงเข้า repo"
       เขียนรกๆ ได้ ไทยปนอังกฤษได้ Claude จะเก็บต้นฉบับไว้ที่ raw/<ชื่อคุณ>/ แบบไม่แก้คำ
       แล้วแปลงเป็นไฟล์ตาม template
    3. ถ้าเป็น exam Claude จะถามทีเดียว: set code, ปี, rotation, รูปแบบ (mcq/meq/osce)
@@ -100,7 +100,7 @@ A. เพิ่มเนื้อหาของตัวเอง (โน้ต
 B. อ่าน / ทบทวน
    ถาม Claude ได้เลย เช่น
      "สรุป approach to jaundice จาก repo"
-     "ทำ quiz 10 ข้อ G1 จาก facts ที่มี"
+     "ทำ quiz 10 ข้อเรื่อง liver จาก facts ที่มี"
      "เปรียบเทียบ cholecystitis กับ cholangitis"
    เริ่มอ่านเองได้ที่ synthesis/, digests/, facts/<topic>/_merged.md, textbook/
    ทุกไฟล์มี status: ai-generated = ยังไม่มีคนตรวจ อย่าเชื่อ 100%

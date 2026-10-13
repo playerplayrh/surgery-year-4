@@ -25,6 +25,15 @@ templates/front-matter.md.
   cvt, plastic, uro, ped), never a G topic, and not listed in the INDEX.md topic vocabulary.
   The rules for the extraction are in the instructions given to the extractor.
 
+## Organising: by organ system and topic, never by G
+- The Gs overlap a lot, so nothing is organised or presented by G: not files, INDEX.md, maps,
+  dashboards, summaries, quizzes or study guides. Use organ system and topic (the `###` headings
+  and topics in INDEX.md).
+- The front-matter `group` field is optional metadata (where the author met it). Never use it
+  to structure output.
+- Ward-life information about a rotation itself (workload, rounds, who teaches) may still name
+  the G it describes.
+
 ## Privacy (hard rules)
 - Never write or keep **patient** names, HN/AN, birthdates, exact dates, ward/bed numbers,
   phone numbers, or photos showing faces, labels, or ID bands. This applies to raw/ too.
@@ -36,7 +45,8 @@ templates/front-matter.md.
 
 ## Intake
 - The user may paste anything: typed notes, dictation, a dump of facts, textbook
-  points, an exam, or a survival guide. They only need to tell you the G.
+  points, an exam, or a survival guide. They do not need to tell you the G; if they do, it goes
+  in the optional `group` field as where they met it.
 - Detect the topic and note type (case / concept / facts / exam / ward-guide). Reuse a topic
   already in INDEX.md before creating a new one. Do not create near-duplicates of existing
   topics.
@@ -127,11 +137,20 @@ templates/front-matter.md.
   Surgery; per-cohort papers before the big AC bank; answer keys written by students or the
   academic team use answer_source `student-key`; set codes look like `mdcu76-gen-c-mcq`.
 
+## Exam topic map
+- scripts/exam_map.py builds exam-map/index.html (generated, not committed): every topic past
+  exams have asked, by organ system, with the cohorts and formats that asked it and what the
+  repo has for studying it. It shows breadth, not frequency.
+- Tags live in exam-map/tags/<set>.md, one line per question: `- Q12 | topic | asks`, with
+  topic from INDEX.md and asks one of diagnosis, investigation, management, complication,
+  basic-science, other. Exam files are never edited for tagging. Tag with `/tag-exams`
+  (.claude/commands/tag-exams.md).
+
 ## Terms
 - AC = past exam (the owner does not remember what the letters stand for).
 
 ## Workflow
 - Work on a branch and open a pull request. Do not commit straight to main.
 - Run `python3 scripts/validate.py` before pushing.
-- Cross-G synthesis needs a second person's approval before merging. (Free private repos
+- Synthesis needs a second person's approval before merging. (Free private repos
   cannot enforce this, so it is a group convention.)
