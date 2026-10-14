@@ -7,7 +7,7 @@ Lecturer is filled in from the slides; photo pages counts pages that are photogr
 
 | no. | title (from the file name) | lecturer | source file | pages | photo pages | status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Preop - Postop care |  | 1 Preop - Postop care.pdf |  |  | todo |
+| 1 | Preop - Postop care | Punthita Aimsupanimitr M.D | 1 Preop - Postop care.pdf | 48 | 0 | p.1-19 done (paused; resume at p.20) |
 | 2 | Hemostasis อ.กฤตยา |  | 2 Hemostasis อ.กฤตยา.pdf |  |  | todo |
 | 2 | hemostasis, surgical bleeding and transfusion |  | 2 hemostasis, surgical bleeding and transfusion.pdf |  |  | todo |
 | 3 | Surgical Infection |  | 3 Surgical Infection.pdf |  |  | todo |
