@@ -24,6 +24,7 @@ The paper restarts its question numbers in every topic. The questions are kept w
 nothing is renumbered. Rows with nothing recalled (empty in the paper, not listed): Pre-Op/ Post-Op 5; Fluid and Electrolyte 5; Plastic surgery (kuy) isus 3,4,5; Surgical infection 4,5; Metabolic response 3,4,5; Surgical Nutrition 4,5; Small bowel and Small bowel obstruction 4,5; Jaundice + liver 4; Acute abdomen 5; Stomach and Duodenum 3,4,5; Breast 4,5; Spleen and Pancreas 4,5; Thyroid and Parathyroid 5; MIS + Gallstone 3,4,5; Colorectal tumor 4,5.
 Stems and choices are as students recalled them, in their own words (Thai and English), including casual remarks; they are kept as written. Choices the paper does not list are not added;
 a choice letter left empty is "(not recalled)". The topic heading "Plastic surgery (kuy) isus" is written that way in the paper.
+Choices the paper numbers 1-5 are written A-E.
 Answers: "Key MCQ 78 RoC" by MDCU 78 students (file "Key AC78 RoC MCQ Gen Sx"), a key written by students. It is NOT an official key and may contain
 mistakes. The key follows the same topic-divided numbering ("เรียงลำดับข้อยึดตามอันที่แบ่งบทแล้ว"), so each answer is matched by topic and number. Its explanations
 are copied as written; where it is unsure it says so (a "?", two or three letters, "-") and this file shows that exactly. Where the key's answer cell is empty, it says so.
