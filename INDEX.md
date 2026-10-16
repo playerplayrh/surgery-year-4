@@ -136,6 +136,13 @@ General Sx or OSCE/MEQ papers ask them: give them an organ-system heading, not a
 | chula-black-1 | textbook/chula-black-1/34-subspe-pediatric-surgical-oncology.md | 1025-1044 | subspecialty-ped | ai-generated |
 | chula-black-1 | textbook/chula-black-1/35-subspe-pediatric-trauma.md | 1045-1056 | subspecialty-ped | ai-generated |
 
+## Lectures
+
+General Surgery lecture slides, one row per extracted file (lectures/_manifest.md tracks progress).
+
+| no. | file | lecturer | topics | status |
+| --- | --- | --- | --- | --- |
+
 ## Yellow-form tracker (Docq)
 
 One yellow form per G in the year of the guides (4 forms; the 2nd adds a Holistic report, the 4th

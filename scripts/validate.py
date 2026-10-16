@@ -51,7 +51,8 @@ FOLDER_TYPES = {
     "textbook-map": {"textbook-map"},
     "ward-guide": {"ward-guide"},
 }
-SCAN_DIRS = ["raw", "notes", "facts", "exams", "digests", "synthesis", "textbook-map", "ward-guide"]
+SCAN_DIRS = ["raw", "notes", "facts", "exams", "digests", "synthesis", "textbook-map", "ward-guide",
+             "lectures"]
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".heic", ".webp", ".bmp", ".tif", ".tiff"}
 
 DIGEST_MAX_WORDS = 450
@@ -586,7 +587,7 @@ def scan_identifiers(root, rep):
 
 
 def flag_images(root, rep):
-    textbook_images = 0
+    textbook_images = lecture_images = 0
     for p in sorted(root.rglob("*")):
         rel = p.relative_to(root)
         # .claude/ holds Claude's own worktrees (other checkouts of this repo), not content
@@ -596,9 +597,15 @@ def flag_images(root, rep):
         if rel.parts[0] == "textbook":
             textbook_images += 1  # one summary line instead of thousands of warnings
             continue
+        if rel.parts[0] == "lectures":
+            lecture_images += 1
+            continue
         rep.warn(rel.as_posix(), "image: check by eye for faces, names, labels, ID bands, HN/AN, dates")
     if textbook_images:
         rep.note("textbook/", f"{textbook_images} textbook figures; the extractor attests 'Identifiers in "
+                              "image: none' for each. Spot-check some by eye")
+    if lecture_images:
+        rep.note("lectures/", f"{lecture_images} lecture figures; the extractor attests 'Identifiers in "
                               "image: none' for each. Spot-check some by eye")
 
 

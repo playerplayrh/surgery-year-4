@@ -148,6 +148,33 @@ templates/front-matter.md.
   and `<cohort>-gen-<r>-meq`, each keeping its original numbers. When the paper gives no year,
   exam_year is taken from the paper's file date and that is said under the front-matter.
 
+## Lectures
+- The General Surgery lecture slides (37 PDFs, course numbers 1-25 with sub-parts such as 11.1)
+  are extracted to lectures/. They are not split into jobs; lectures/_manifest.md is the
+  bookmark (one row per PDF: number, title, lecturer, source file, pages, photo pages, status).
+  The PDFs are in Drive `Surgery Group/sources/General Surgery lectures/` and never go into git.
+- All 37 are General Surgery, including topics such as colorectal, anorectal, plastic and
+  transplant. Tag them by organ system and topic from INDEX.md, never by G.
+- Layout: lectures/<nn>-<slug>/<nn>-<slug>.md plus images/ (sub-numbers as 11-1). When two PDFs
+  share a number (2, 8, 9), both go in that folder as two separate files, never merged; each
+  file names the PDF it came from. Kahoot PDFs become questions with the answers the slides show.
+- Front-matter: type `lecture-extract`, source `lecture`, status ai-generated, `topic` (main) and
+  `topics` (every topic the lecture covers), plus lecture number, lecturer and source file.
+- Method (same rigour as textbook extractions): read every page as a high-resolution image; the
+  text layer only helps and is checked against the image. Slide text word for word, bullet
+  structure kept, tables as Markdown tables, numbers checked twice. `<!-- p.N -->` before each
+  page. Lecturers' names are kept exactly.
+- Handwritten notes on photographed slides go under that slide as "✍️ Handwritten note:", never
+  mixed with printed text. Anything unreadable is [unclear]; never guess.
+- Figures (diagrams, imaging, charts) are kept as cropped images named
+  <nn>-<slug>-p<page>-<k>.jpg, each with a word description and "Identifiers in image: none".
+  A clinical photo with a face, name, HN/AN sticker, wristband or other identifier is described
+  in words only and never copied; corner codes are cropped off. Patient identifiers in slide
+  text are left out. Nothing is added from outside the slides.
+- Work on branch extract/lectures, one PDF downloaded at a time and deleted when its lecture is
+  done; commit and push after every lecture and about every 10 pages of a big one, updating the
+  manifest.
+
 ## Exam topic map
 - scripts/exam_map.py builds exam-map/index.html (generated, not committed): every topic past
   exams have asked, by organ system, with the cohorts and formats that asked it and what the

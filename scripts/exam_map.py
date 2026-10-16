@@ -25,7 +25,7 @@ REPO_URL = "https://github.com/playerplayrh/surgery-year-4/blob/main/"
 ASKS = ["diagnosis", "investigation", "management", "complication", "basic-science", "other"]
 LEVELS = [  # what the repo has for a topic, weakest first
     ("exam", "Exam questions only"),
-    ("textbook", "Textbook section"),
+    ("textbook", "Textbook section or lecture"),
     ("notes", "Notes or facts"),
     ("verified", "Verified by a person"),
 ]
@@ -48,7 +48,7 @@ def readiness(root, topics):
     def bump(t, n):
         if t in level:
             level[t] = max(level[t], n)
-    for folder in ("textbook", "textbook-map", "notes", "facts", "digests", "synthesis"):
+    for folder in ("textbook", "lectures", "textbook-map", "notes", "facts", "digests", "synthesis"):
         base = root / folder
         if not base.is_dir():
             continue
@@ -56,10 +56,13 @@ def readiness(root, topics):
             fm, _, _ = split_front_matter(read_text(p))
             fm = fm or {}
             t = fm.get("topic") or (p.stem if folder == "textbook-map" else p.parent.name)
-            n = 1 if folder in ("textbook", "textbook-map") else 2
+            n = 1 if folder in ("textbook", "lectures", "textbook-map") else 2
             if fm.get("status") == "human-verified":
                 n = 3
-            bump(t, n)
+            # a lecture covering several topics lists them all in `topics`
+            extra = fm.get("topics") or []
+            for topic in [t] + (extra if isinstance(extra, list) else [extra]):
+                bump(topic, n)
     return level
 
 
