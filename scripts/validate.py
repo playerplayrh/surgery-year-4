@@ -74,7 +74,9 @@ ID_PATTERNS = [
     ("phone number", re.compile(r"(?<!\d)(?:\+66|0)\d{1,2}[- ]?\d{3}[- ]?\d{4}(?!\d)")),
 ]
 
-Q_HEAD = re.compile(r"^##\s+Q\s*(\d+)\s*(?:\(\s*original\s+no\.?\s*(\d+)\s*\))?\s*$", re.I)
+# '## Q101 (original no. 1, topic: Hemostasis)': papers that restart numbers in every topic get a unique
+# Q id (topic order x 100 + the paper's own number); the paper's own number and topic are kept in the heading
+Q_HEAD = re.compile(r"^##\s+Q\s*(\d+)\s*(?:\(\s*original\s+no\.?\s*(\d+)\s*(?:,\s*topic:\s*([^)]+?)\s*)?\))?\s*$", re.I)
 LABEL = re.compile(r"^\*\*([^*:]+?):?\*\*:?\s*(.*)$")
 OPTION = re.compile(r"^\s*([A-H])[.)]\s+(.*)$")
 EXAM_LABELS = {"mcq": ("answer", "explanation"), "meq": ("answer", "explanation"),
@@ -403,7 +405,7 @@ def parse_exam(body):
     for line in body.split("\n"):
         m = Q_HEAD.match(line)
         if m:
-            cur = {"num": int(m.group(1)), "orig": int(m.group(2)) if m.group(2) else None,
+            cur = {"num": int(m.group(1)), "orig": int(m.group(2)) if m.group(2) else None, "topic": m.group(3),
                    "stem_lines": [], "options": {}, "labels": {}, "last": None}
             questions.append(cur)
             continue
@@ -454,7 +456,7 @@ def check_exams(root, recs, rep):
             seen.add(q["num"])
             if q["orig"] is None:
                 rep.error(rel, f"{tag}: heading has no '(original no. n)'")
-            elif q["orig"] != q["num"]:
+            elif q["orig"] != q["num"] and not q["topic"]:
                 rep.error(rel, f"{tag}: question numbers are never renumbered (original no. {q['orig']})")
             if not q["stem"]:
                 rep.error(rel, f"{tag}: empty stem")
