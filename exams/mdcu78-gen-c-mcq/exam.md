@@ -186,7 +186,7 @@ C. Polyglactin
 D. Polyamide
 E. Polyester
 
-**Answer:** Answer (from the key's Plastic surgery (kuy) isus row 1): D
+**Answer:** D (from the key's Plastic surgery (kuy) isus row 1)
 **Explanation:** not stated in the key
 **Guideline / source:** not stated
 
@@ -196,7 +196,7 @@ E. Polyester
 A. polyamide
 B. Polyester
 
-**Answer:** Answer (from the key's Plastic surgery (kuy) isus row 2): A
+**Answer:** A (from the key's Plastic surgery (kuy) isus row 2)
 **Explanation:** not stated in the key
 **Guideline / source:** not stated
 

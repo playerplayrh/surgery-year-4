@@ -76,7 +76,7 @@ ID_PATTERNS = [
 
 # '## Q101 (original no. 1, topic: Hemostasis)': papers that restart numbers in every topic get a unique
 # Q id (topic order x 100 + the paper's own number); the paper's own number and topic are kept in the heading
-Q_HEAD = re.compile(r"^##\s+Q\s*(\d+)\s*(?:\(\s*original\s+no\.?\s*(\d+)\s*(?:,\s*topic:\s*([^)]+?)\s*)?\))?\s*$", re.I)
+Q_HEAD = re.compile(r"^##\s+Q\s*(\d+)\s*(?:\(\s*original\s+no\.?\s*(\d+)\s*(?:,\s*topic:\s*(.+?)\s*)?\))?\s*$", re.I)
 LABEL = re.compile(r"^\*\*([^*:]+?):?\*\*:?\s*(.*)$")
 OPTION = re.compile(r"^\s*([A-H])[.)]\s+(.*)$")
 EXAM_LABELS = {"mcq": ("answer", "explanation"), "meq": ("answer", "explanation"),
