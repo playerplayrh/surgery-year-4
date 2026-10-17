@@ -287,6 +287,17 @@ class ExamTags(RepoCase):
         self.write("exam-map/tags/set-z.md", "- Q1 | sample-topic | other\n")
         self.assertFails("no exam 'set-z'")
 
+    def test_subspecialty_mcq_papers_stay_out_but_osce_meq_count(self):
+        sub_mcq = EXAM.replace("exam_set: set-a", "exam_set: mdcu99-subspe-a-mcq").replace("exam-seta-001", "exam-sub-001")
+        sub_osce = EXAM.replace("exam_set: set-a", "exam_set: mdcu99-subspe-a-osce").replace("exam-seta-001", "exam-sub-002")
+        self.write("exams/mdcu99-subspe-a-mcq/exam.md", sub_mcq)
+        self.write("exams/mdcu99-subspe-a-osce/exam.md", sub_osce)
+        out = self.assertPasses()
+        self.assertIn("mdcu99-subspe-a-osce", out)  # listed as still to tag
+        self.assertNotIn("mdcu99-subspe-a-mcq", out)
+        self.write("exam-map/tags/mdcu99-subspe-a-mcq.md", "- Q1 | sample-topic | other\n")
+        self.assertFails("subspecialty MCQ papers are kept apart")
+
     def test_map_groups_by_organ_system_and_shows_gaps(self):
         self.write("INDEX.md", INDEX.replace("## Topics\n", "## Topics\n### Invented system\n"))
         self.write("exam-map/tags/set-a.md", "- Q1 | sample-topic | management\n- Q2 | other-topic | diagnosis\n")

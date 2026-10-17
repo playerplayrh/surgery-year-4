@@ -3,7 +3,9 @@
 Whoever adds a file adds a row here. Topics below are the controlled vocabulary: reuse one
 before creating a new one. Topics are grouped by organ system, never by G (the Gs overlap a lot).
 The headings are also the sections of the exam topic map (scripts/exam_map.py), so put a new topic
-under the system it belongs to, or add a new `###` system heading.
+under the system it belongs to, or add a new `###` system heading. Topics that look like a
+subspecialty (pediatric, colorectal, urology, neuro, CVT, plastic) belong here too when past
+General Sx or OSCE/MEQ papers ask them: give them an organ-system heading, not a G.
 
 ## Topics
 

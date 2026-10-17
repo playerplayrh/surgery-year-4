@@ -3,7 +3,7 @@ id: exam-mdcu72-gen-c-osce
 title: MDCU72 rotate C · General Sx · OSCE
 kind: exam
 scope: gen
-priority: 3
+priority: 7
 status: todo
 owner:
 pages: 17
@@ -13,7 +13,7 @@ source: "Drive: Surgery Group/job-files/exam-mdcu72-gen-c-osce/paper - OSCE Surg
 key_sources: []
 output: exams/mdcu72-gen-c-osce/exam.md
 checkpoint:
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 ## Notes
@@ -23,3 +23,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu72-gen-c-osce/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
+- 2026-10-13 owner: OSCE/MEQ combine General Surgery and subspecialty content; low priority for now (priority 7)

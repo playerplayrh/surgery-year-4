@@ -1,5 +1,5 @@
 <!-- MCQ exam. exams/<set-code>/exam.md, front-matter per templates/front-matter.md with exam_format: mcq -->
-<!-- If subspecialty questions were left out, add under the front-matter: Omitted (subspecialty): Q31-Q60 -->
+<!-- File every question of the paper. General Sx papers are in scope in full; OSCE/MEQ papers combine General Surgery and subspecialty content and are in scope too (CLAUDE.md, Scope). -->
 
 ## Q<n> (original no. <n>)
 <Stem. Case-based, formal English.>
@@ -30,6 +30,7 @@ Rules for exams:
   "**Answer:** not marked in the key" (never guess one).
 - Quality checks: no hints in the stem, the correct choice is not longer than the others,
   and the guideline is named when one applies.
-- Only General Surgery questions. Leave subspecialty questions out (except per-cohort General Sx
-  rotation papers, which are filed whole: see CLAUDE.md "Scope").
+- File the whole paper. Questions that look like a subspecialty stay in: General Sx papers are
+  General Surgery in full, and OSCE/MEQ papers combine General Surgery and subspecialty content
+  (CLAUDE.md "Scope").
 -->
