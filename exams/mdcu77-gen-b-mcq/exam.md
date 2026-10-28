@@ -19,8 +19,8 @@ answer_source: student-key
 
 Source: "MCQ General Surgery (MDCU 77 rotate B)" (file "AC 77B Gen Sx MCQ"), questions recalled by students in a table
 (No. / Questions / Choices); 73 questions. The numbers are the paper's own and are kept: Q15 comes after Q21, Q16, Q18, Q19, Q20 and Q21
-appear twice, and there is no second Q17. The first copy of each number is in the main list; the second copies are under
-"Repeated question numbers".
+appear twice, and there is no second Q17. The first copy of each number is in the main list under its own number; each second copy has its own id,
+100 + the paper's number (the second Q16 is Q116), and its heading says so: "## Q116 (original no. 16, topic: second copy of the number)".
 Stems and choices are as students recalled them, in their own words and languages (Thai and English). Questions recalled with
 fewer choices keep only the choices given. Some stems say only "the picture" or "the clinical picture"; the paper does not give more.
 Answers: "Key MCQ 77 RoB" by MDCU 78 students (file "Key AC77 RoB MCQ Gen Sx"), a key written by students. It is NOT an official
@@ -825,53 +825,65 @@ A. Hypercortisolism, hyperglycemia, activation of HPA axis Good luck !
 **Explanation:** not stated in the key
 **Guideline / source:** not stated
 
-## Repeated question numbers
-(These numbers appear a second time in the paper with a different question; the second copies are kept here, so no number is changed. Each answer is from the key's second row with the same number.)
+## Q116 (original no. 16, topic: second copy of the number)
+ข้อใดให้ organ transplant ไม่ได้ตามกฎหมายไทย
 
-Second question numbered 16: ข้อใดให้ organ transplant ไม่ได้ตามกฎหมายไทย
 A. Father give liver to child
 B. Cousin give kidney to aunt
 C. Child give liver to mother
 D. Wife give kidney to husband
 E. Uncle give liver to nephew
-Answer (from the key's second row numbered 16): not given in the key (its answer cell is empty)
-Explanation: key: ดูให้ได้หมดทุกช้อย
-Guideline / source: not stated
 
-Second question numbered 18: R0 resection คืออะไร
+**Answer:** not given in the key (its answer cell is empty) (from the key's second row numbered 16)
+**Explanation:** key: ดูให้ได้หมดทุกช้อย
+**Guideline / source:** not stated
+
+## Q118 (original no. 18, topic: second copy of the number)
+R0 resection คืออะไร
+
 A. No residual gross tumor but may have microscopic left
 B. The complete surgical removal of a tumor with no microscopic residual cancer cells at the resection margins.
-Answer (from the key's second row numbered 18): B
-Explanation: not stated in the key
-Guideline / source: not stated
 
-Second question numbered 19: History of multinodular goiter for three years. Now has 1cm hypoechoic mass by ultrasound ไปทำ FNA ได้ Bethesda 3 ถาม Management
+**Answer:** B (from the key's second row numbered 18)
+**Explanation:** not stated in the key
+**Guideline / source:** not stated
+
+## Q119 (original no. 19, topic: second copy of the number)
+History of multinodular goiter for three years. Now has 1cm hypoechoic mass by ultrasound ไปทำ FNA ได้ Bethesda 3 ถาม Management
+
 A. total thyroidectomy
 B. Medication
 C. RAI
 D. Obseve/follw up
-Answer (from the key's second row numbered 19): not given in the key (its answer cell is empty)
-Explanation: key: ซ้ำข้อ 4
-Guideline / source: not stated
 
-Second question numbered 20: หญิง ปวด RLQ for 3 days LMP 3 weeks ago PE tenderness at RLQ and suprapubic area Pregnancy test negative ultrasound shows no abnormality. Most appropriate management
+**Answer:** not given in the key (its answer cell is empty) (from the key's second row numbered 19)
+**Explanation:** key: ซ้ำข้อ 4
+**Guideline / source:** not stated
+
+## Q120 (original no. 20, topic: second copy of the number)
+หญิง ปวด RLQ for 3 days LMP 3 weeks ago PE tenderness at RLQ and suprapubic area Pregnancy test negative ultrasound shows no abnormality. Most appropriate management
+
 A. follow up 2 weeks
 B. Antibiotics analgesic Follow up 1 week
 C. Laparoscopic explore
 D. MRI
-Answer (from the key's second row numbered 20): B
-Explanation: not stated in the key
-Guideline / source: not stated
 
-Second question numbered 21: History of muscle relaxant use. H. Pylori Test negative. EGD in the picture below. What is the diagnosis? รูปนี้เป๊ะ ๆ
+**Answer:** B (from the key's second row numbered 20)
+**Explanation:** not stated in the key
+**Guideline / source:** not stated
+
+## Q121 (original no. 21, topic: second copy of the number)
+History of muscle relaxant use. H. Pylori Test negative. EGD in the picture below. What is the diagnosis? รูปนี้เป๊ะ ๆ
 [picture in the paper: an endoscopic image of the stomach]
 ![an endoscopic image of the stomach](images/mdcu77-gen-b-mcq-q21-2.jpg)
+
 A. GIST
 B. Atropic gastritis
 C. Gastric ulcer
-Answer (from the key's second row numbered 21): C
-Explanation: key: หน้าตา gastric ulcer
-Guideline / source: not stated
+
+**Answer:** C (from the key's second row numbered 21)
+**Explanation:** key: หน้าตา gastric ulcer
+**Guideline / source:** not stated
 
 ## Flagged for checking
 - Q4 and the second Q19: the key has no answer for Q4 and says the second Q19 repeats Q4 (the same multinodular goiter / AUS question); the second Q19 is Bethesda 3. What is the expected answer?
