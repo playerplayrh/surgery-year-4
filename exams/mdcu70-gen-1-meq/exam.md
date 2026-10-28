@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu70-gen-1-meq
 exam_format: meq
 exam_year: 2017
-exam_rotation: "Surgery rotate 1 (end of surgery rotation: General Surgery + subspecialty)"
+exam_rotation: General Sx rotate 1
 answer_source: recalled
 ---
 

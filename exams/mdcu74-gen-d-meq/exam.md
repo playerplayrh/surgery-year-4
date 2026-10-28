@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu74-gen-d-meq
 exam_format: meq
 exam_year: 2021
-exam_rotation: "Surgery rotate D (end of surgery rotation: General Surgery + subspecialty)"
+exam_rotation: General Sx rotate D
 answer_source: recalled
 ---
 

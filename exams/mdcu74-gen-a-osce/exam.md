@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu74-gen-a-osce
 exam_format: osce
 exam_year: 2021
-exam_rotation: "Surgery rotate A (end of surgery rotation: General Surgery + subspecialty)"
+exam_rotation: General Sx rotate A
 answer_source: recalled
 ---
 

@@ -13,7 +13,7 @@ references: []
 exam_set: mdcu75-gen-d-osce
 exam_format: osce
 exam_year: 2022
-exam_rotation: "Surgery rotate D (end of surgery rotation: General Surgery + subspecialty)"
+exam_rotation: General Sx rotate D
 answer_source: recalled
 ---
 
