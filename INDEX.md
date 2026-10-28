@@ -17,6 +17,14 @@ General Sx or OSCE/MEQ papers ask them: give them an organ-system heading, not a
 - `acute-cholangitis`
 - `gallstone-disease`
 - `periampullary-tumor`
+- `liver-abscess` — pyogenic and amoebic liver abscess, hydatid cyst
+- `portal-hypertension` — cirrhosis, Child-Pugh, esophageal and gastric varices
+- `acute-pancreatitis`
+- `chronic-pancreatitis`
+- `pancreatic-endocrine-tumor` — insulinoma and other pancreatic neuroendocrine tumors
+- `spleen` — splenectomy, splenic disease
+- `biliary-atresia`
+- `choledochal-cyst`
 
 ### Esophagus and stomach
 - `dysphagia`
@@ -24,6 +32,14 @@ General Sx or OSCE/MEQ papers ask them: give them an organ-system heading, not a
 - `gastric-cancer`
 - `gist`
 - `caustic-ingestion`
+- `achalasia`
+- `gerd` — reflux, Barrett's esophagus, peptic stricture
+- `esophageal-perforation` — Boerhaave syndrome, iatrogenic perforation
+- `peptic-ulcer-disease` — H. pylori, ulcer complications, gastric outlet obstruction
+- `stomach-anatomy-physiology` — gastric blood supply, acid secretion, post-gastrectomy states
+- `upper-gi-bleeding` — non-variceal upper GI bleeding, Mallory-Weiss tear, Dieulafoy lesion
+- `bariatric-surgery`
+- `esophageal-atresia`
 
 ### Abdomen, bowel and hernia
 - `abdominal-pain` — approach to abdominal pain
@@ -31,34 +47,93 @@ General Sx or OSCE/MEQ papers ask them: give them an organ-system heading, not a
 - `intestinal-obstruction`
 - `acute-appendicitis` — includes the signs
 - `hernia` — adult hernia, hernia signs
+- `peritonitis` — perforated viscus, pneumoperitoneum, intra-abdominal sepsis
+- `small-intestine` — Meckel's diverticulum, short bowel syndrome, enterocutaneous fistula, Crohn's disease, small bowel tumors and bleeding
+- `mesenteric-ischemia`
+- `abdominal-wall-defects` — gastroschisis, omphalocele
+- `pediatric-intestinal-obstruction` — malrotation and midgut volvulus, duodenal atresia, Hirschsprung disease, intussusception in children
+
+### Colon, rectum and anus
+- `colorectal-cancer` — screening, polyps, tumor markers, staging, treatment
+- `diverticular-disease`
+- `lower-gi-bleeding`
+- `anorectal-disease` — hemorrhoids, perianal abscess, condyloma, anal cancer, rectal examination
+- `anorectal-malformation`
+- `stoma` — colostomy, ileostomy, stoma appliances and complications
 
 ### Breast
 - `breast-mass`
 - `breast-discharge`
 - `breast-cancer`
 - `breast-imaging` — mammogram, breast ultrasound
+- `breast-infection` — mastitis, breast abscess
 
 ### Thyroid and neck
 - `thyroid-mass`
 - `neck-mass`
+- `thyroid-cancer`
+- `hyperthyroidism` — Graves' disease, toxic goiter, surgery for thyrotoxicosis
+- `parathyroid` — hyperparathyroidism, calcium disorders
 
 ### Vascular
 - `peripheral-arterial-disease` — includes approach to claudication
 - `abdominal-aortic-aneurysm`
 - `venous-insufficiency` — varicose veins
+- `venous-thromboembolism` — DVT, PE, VTE prophylaxis
+- `acute-limb-ischemia`
+- `diabetic-foot`
+- `vascular-injury`
 
 ### Skin and soft tissue
 - `necrotizing-fasciitis`
 - `soft-tissue-infection`
+- `skin-and-subcutaneous-lesions` — lipoma, sebaceous cyst and other lumps of the skin
+- `skin-cancer` — melanoma, squamous and basal cell carcinoma
+- `pressure-ulcer`
+
+### Head and face
+- `craniofacial-anomalies` — cleft lip and palate, preauricular sinus
+
+### Chest
+- `pneumothorax`
+- `congenital-diaphragmatic-hernia`
+
+### Genitourinary
+- `hematuria`
+- `prostate-and-luts` — lower urinary tract symptoms, BPH, prostate examination, prostate cancer
+- `scrotal-mass` — hydrocele, varicocele, undescended testis
+- `penile-cancer`
+- `urinary-catheters` — Foley (2-way, 3-way), double-J stent
+
+### Nervous system
+- `neurological-examination` — muscle testing, nerve roots, reflexes, cranial nerves
 
 ### Surgical physiology and critical care
 - `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
+- `fluid-electrolyte` — fluid therapy, electrolyte and acid-base disorders
+- `shock` — hemorrhagic and other shock, resuscitation
+- `hemostasis-transfusion` — coagulation, bleeding disorders, transfusion and its reactions
+- `surgical-infection` — surgical site infection, antibiotic prophylaxis, tetanus, sepsis
+- `wound-healing`
 
 ### Perioperative care and basic skills
 - `perioperative-care` — pre-op and post-op complications, when to operate and when not
-- `systemic-response-to-injury` — stress hormones, metabolic phases, nutrition support, SIRS/sepsis, multiple organ failure
 - `basic-surgical-skills` — scrubbing, sterile gloves, suturing, knot tying, local anaesthetic, dressings, suture removal, drains
 - `surgical-instruments` — instrument identification for OSCE
+
+### Principles of surgery
+- `surgical-oncology` — carcinogens, cancer prevention, adjuvant and palliative treatment, oncologic emergencies
+- `minimally-invasive-surgery` — laparoscopy, indications and contraindications, pneumoperitoneum
+- `organ-transplantation` — donors, contraindications, rejection, immunology
+- `surgical-ethics` — consent, professionalism, patient safety, infection risk to staff
+
+### Trauma
+- `trauma` — initial assessment, abdominal and chest trauma, damage control
+- `head-injury` — GCS, intracranial hematoma
+- `facial-trauma` — facial fractures, facial nerve and duct injury
+- `burns`
+- `bites-and-stings`
+
 
 ## Notes
 

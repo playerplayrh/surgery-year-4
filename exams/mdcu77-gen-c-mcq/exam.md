@@ -19,7 +19,8 @@ answer_source: student-key
 
 Source: "AC Rotate C Gen Surgery - MCQ - จดAC By MDCU 77" (file "AC 77C Gen Sx MCQ"), questions noted down by students in a
 table ("ข้อ / คำถาม / choice (+/- คำตอบ)"); 81 questions. The numbers are the paper's own and are kept: Q16 appears three times
-and Q17 twice. The first copy of each number is in the main list; the later copies are under "Repeated question numbers".
+and Q17 twice. The first copy of each number is in the main list under its own number; each later copy has its own id, 100 + the paper's number for the
+second copy and 200 + for the third (the second Q16 is Q116, the third Q216), and its heading says so: "## Q116 (original no. 16, topic: second copy of the number)".
 Stems and choices are as students noted them, in their own words (Thai and English), so some are short, cut off or half-recalled.
 Choices the paper letters in lower case are written A-F; a choice letter the paper leaves empty is "(not recalled)"; questions
 noted with only one or two choices keep only those. Notes the students wrote inside choices (for example "จารบอกมัน...") are kept as written.
@@ -888,33 +889,39 @@ Aerobilia?
 **Explanation:** not stated in the key
 **Guideline / source:** not stated
 
-## Repeated question numbers
-(These numbers appear again in the paper with a different question; the later copies are kept here, so no number is changed.)
+## Q116 (original no. 16, topic: second copy of the number)
+Which is the most common organ that get harvested from a deceased donor
 
-Second question numbered 16: Which is the most common organ that get harvested from a deceased donor
 A. Heart
 B. Liver
 C. Kidney
 D. Pancreas
-Answer (from the key's row 16.1): C
-Explanation: key: คุณเห็นเคสไรมา transplant บ่อยสุดที่ OPD ล่ะ
-Guideline / source: not stated
 
-Third question numbered 16: ผชHBV cirrhosis child B มีก้อนHCC size 4 cm ถามว่าทำไงต่อappropriate ที่สุด
+**Answer:** C (from the key's row 16.1)
+**Explanation:** key: คุณเห็นเคสไรมา transplant บ่อยสุดที่ OPD ล่ะ
+**Guideline / source:** not stated
+
+## Q216 (original no. 16, topic: third copy of the number)
+ผชHBV cirrhosis child B มีก้อนHCC size 4 cm ถามว่าทำไงต่อappropriate ที่สุด
+
 A. Liver resection
 B. Liver transplant
 C. TACE
-Answer (from the key's row 16.2): A
-Explanation: key: (ทำไมมันมี 16 หลายข้อจังวะ) HCC ตัดทิ้งหมด ยกเว้นจะเป็น decompensated cirrhosis คือตับแย่เกินจะรับไหว มีข้อบ่งชี้ไรบ้างก็ตามภาพ ท่องกันโลด จะไปพิจารณาทำ Liver transplant ซึ่งก็ต้องไปดู Milan’s criteria ว่าสมควรจะ transplant มั้ย (หรือถ้าคนไข้ยังกินเหล้าอยู่ไม่มีทีท่าจะเลิก เปลี่ยนตับไปอาจจะไม่คุ้ม)  คนนี้เป็น Child B ยังไม่ต้องเปลี่ยน ก็เริ่มจาก resection ก่อน
-Guideline / source: not stated
 
-Second question numbered 17: ปัญหาworldwide ของorgan transplantation
+**Answer:** A (from the key's row 16.2)
+**Explanation:** key: (ทำไมมันมี 16 หลายข้อจังวะ) HCC ตัดทิ้งหมด ยกเว้นจะเป็น decompensated cirrhosis คือตับแย่เกินจะรับไหว มีข้อบ่งชี้ไรบ้างก็ตามภาพ ท่องกันโลด จะไปพิจารณาทำ Liver transplant ซึ่งก็ต้องไปดู Milan’s criteria ว่าสมควรจะ transplant มั้ย (หรือถ้าคนไข้ยังกินเหล้าอยู่ไม่มีทีท่าจะเลิก เปลี่ยนตับไปอาจจะไม่คุ้ม)  คนนี้เป็น Child B ยังไม่ต้องเปลี่ยน ก็เริ่มจาก resection ก่อน
+**Guideline / source:** not stated
+
+## Q117 (original no. 17, topic: second copy of the number)
+ปัญหาworldwide ของorgan transplantation
+
 A. Organ trafficking
 B. Organ shortage
 C. Immunosuppressant สักอย่าง
-Answer (from the key's row 17.1): B
-Explanation: key: Organ shortage ปัญหาใหญ่
-Guideline / source: not stated
+
+**Answer:** B (from the key's row 17.1)
+**Explanation:** key: Organ shortage ปัญหาใหญ่
+**Guideline / source:** not stated
 
 ## Flagged for checking
 - Q5: the key says there is probably no correct answer in the choices; it answers B and notes that, per its slides, CXR is only needed to judge GA. The paper itself notes "อ.บอกไม่ได้ตอบข้อนี้" (the lecturer said not this one).
