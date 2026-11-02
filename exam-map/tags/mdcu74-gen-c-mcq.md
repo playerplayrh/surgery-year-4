@@ -1,34 +1,34 @@
 # Topic tags: mdcu74-gen-c-mcq
-- Q1 | thyroid-cancer | basic-science | Histological finding (psammoma bodies) and the thyroid cancer type it belongs to | BR 34; Chula ch6
-- Q2 | acute-pancreatitis | diagnosis | Periumbilical bruising: which condition and naming the signs | BR 28
-- Q3 | thyroid-cancer | investigation | Tumour marker used for medullary thyroid carcinoma | BR 34; BR 38; Chula ch6
-- Q4 | hemostasis-transfusion | basic-science | ABO compatibility: which red cell groups a group O recipient can receive (no choices recalled) | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
-- Q5 | upper-gi-bleeding | diagnosis | Linear mucosal tear at the gastro-oesophageal junction after vomiting: naming the lesion | BR 16; BR 14
-- Q6 | small-intestine | basic-science | Distance of a Meckel diverticulum from the ileocaecal valve ("rule of twos") | BR 19; Chula ch8 p394
-- Q7 | hernia | management | Which inguinal repair is tension-free (Bassini, Lichtenstein, McVay) | BR 33; Chula ch14 p542-548
-- Q8 | surgical-infection | management | Timing of prophylactic antibiotic before elective laparoscopic cholecystectomy | BR 01 (Surgical Infections); Chula ch5 p227-229
-- Q9 | acute-pancreatitis | complication | Late local complications after a week of alcoholic acute pancreatitis (pseudocyst, pseudoaneurysm, fistula, abscess, cancer): which is not one | BR 28
-- Q10 | minimally-invasive-surgery | basic-science | Absolute vs relative contraindications to laparoscopic cholecystectomy (coagulopathy, BMI over 40, COPD) | BR 01 (Minimally Invasive Surgery); BR 27
-- Q11 | breast-cancer | management | Contraindications to breast-conserving surgery (inflammatory cancer, nipple invasion, multiple masses, SLE, diffuse microcalcification): find the exception | BR 04; Chula ch19 p687-692
-- Q12 | breast-cancer | management | Indications for neoadjuvant therapy in breast cancer by clinical T and N stage and inflammatory cancer: find the exception | BR 04; Chula ch19 p671-686
-- Q13 | colorectal-cancer | basic-science | Secondary prevention of colorectal cancer: which listed action counts (CEA screening, polypectomy, PET scan, faecal occult blood screening) | BR 25; BR 01 (Oncology)
-- Q14 | neck-mass | management | Long-standing 2 cm soft smooth mass above the thyroid that moves with swallowing: name of the operation | BR 05; BR 34
-- Q15 | stomach-anatomy-physiology | complication | Most common cause of megaloblastic anaemia after total gastrectomy | BR 15
-- Q16 | intestinal-obstruction | basic-science | Most common malignant cause of small bowel obstruction (metastasis or invasion vs primary tumours) | BR 19; Chula ch8 p391-393
-- Q17 | gastric-cancer | diagnosis | Epigastric pain with a Sister Mary Joseph nodule at the umbilicus: which cancer is causing it | BR 15
-- Q18 | breast-mass | basic-science | Most common developmental disorder of the breast (amastia, polythelia, polymastia, macromastia, juvenile hypertrophy) | BR 04
-- Q19 | acute-pancreatitis | investigation | Severity scores for acute pancreatitis (BISAP, Ranson, APACHE) vs a score for another disease | BR 28
-- Q20 | hemostasis-transfusion | complication | Metabolic complications of massive transfusion (potassium and calcium changes): which is not one | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
-- Q21 | fluid-electrolyte | diagnosis | Signs and symptoms of hypocalcaemia: which is not one (no choices recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p183-186
-- Q22 | fluid-electrolyte | diagnosis | Features of hypokalaemia (arrhythmia, ileus, constipation, seizure, weakness): which is not one | BR 01 (Fluid and Electrolyte Management); Chula ch4 p179-180
-- Q23 | fluid-electrolyte | diagnosis | Chvostek sign: which electrolyte disorder it shows (no choices recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p183-186
-- Q24 | venous-thromboembolism | management | Woman with calf pain and red swelling 12 hours after a long-haul flight: next step (rest and elevation, duplex ultrasound, CT angiogram, anticoagulant) | BR 12; Chula ch17 p630-631
-- Q25 | fluid-electrolyte | basic-science | Total body water as a percentage of body weight | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166
-- Q26 | breast-cancer | basic-science | Which breast cancer risk factor carries the highest relative risk (early menarche, late menopause, late first birth, hormonal contraception, dense breast tissue) | BR 04; Chula ch7 p276-300
-- Q27 | systemic-response-to-injury | basic-science | Early metabolic response to stress: gluconeogenesis driven by catecholamines and cortisol (only one choice recalled) | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
-- Q28 | systemic-response-to-injury | basic-science | Follow-on of Q27: why blood glucose rises in the stressed patient (only one choice recalled) | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
-- Q29 | systemic-response-to-injury | management | Follow-on of Q28: stress hyperglycaemia not controlled by subcutaneous insulin, next step (only one choice recalled) | BR 01 (Systemic Response and Metabolic Support); lecture notes
-- Q30 | surgical-oncology | management | WHO advice on when palliative care should start in a cancer patient | BR 01 (Oncology); lecture notes
-- Q31 | perioperative-care | basic-science | ASA class of a patient with well-controlled hypertension and dyslipidaemia (no choices recalled) | BR 01 (Optimizing Perioperative Care); lecture notes
-- Q32 | chronic-pancreatitis | diagnosis | Drinker with severe epigastric pain, central abdominal calcification on film and normal amylase and lipase: diagnosis (no choices recalled) | BR 28
-- Q33 | organ-transplantation | basic-science | Mechanism of action of cyclosporin | BR 02
+- Q1 | thyroid-cancer | basic-science | Papillary carcinoma: commonest, psammoma bodies, radiation exposure | Histological finding (psammoma bodies) and the thyroid cancer type it belongs to | BR 34; Chula ch6
+- Q2 | acute-pancreatitis | diagnosis | Grey Turner and Cullen signs: haemorrhagic pancreatitis | Periumbilical bruising: which condition and naming the signs | BR 28
+- Q3 | thyroid-cancer | investigation | Medullary carcinoma: C cells, calcitonin, amyloid | Tumour marker used for medullary thyroid carcinoma | BR 34; BR 38; Chula ch6
+- Q4 | hemostasis-transfusion | basic-science | ABO compatibility, universal donors and O negative | ABO compatibility: which red cell groups a group O recipient can receive (no choices recalled) | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q5 | upper-gi-bleeding | diagnosis | Mallory-Weiss tear after vomiting | Linear mucosal tear at the gastro-oesophageal junction after vomiting: naming the lesion | BR 16; BR 14
+- Q6 | small-intestine | basic-science | Meckel diverticulum: rule of twos, vitelline duct origin | Distance of a Meckel diverticulum from the ileocaecal valve ("rule of twos") | BR 19; Chula ch8 p394
+- Q7 | hernia | management | Elective repair: Lichtenstein tension-free mesh | Which inguinal repair is tension-free (Bassini, Lichtenstein, McVay) | BR 33; Chula ch14 p542-548
+- Q8 | surgical-infection | management | Antibiotic prophylaxis: timing 30-60 min before incision, single dose | Timing of prophylactic antibiotic before elective laparoscopic cholecystectomy | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q9 | acute-pancreatitis | complication | Local complications: pseudocyst, necrosis, pseudoaneurysm | Late local complications after a week of alcoholic acute pancreatitis (pseudocyst, pseudoaneurysm, fistula, abscess, cancer): which is not one | BR 28
+- Q10 | minimally-invasive-surgery | basic-science | Contraindications to laparoscopy (unfit for GA, uncorrected coagulopathy) | Absolute vs relative contraindications to laparoscopic cholecystectomy (coagulopathy, BMI over 40, COPD) | BR 01 (Minimally Invasive Surgery); BR 27
+- Q11 | breast-cancer | management | Breast-conserving therapy contraindications (radiotherapy not possible, multicentric, inflammatory) | Contraindications to breast-conserving surgery (inflammatory cancer, nipple invasion, multiple masses, SLE, diffuse microcalcification): find the exception | BR 04; Chula ch19 p687-692
+- Q12 | breast-cancer | management | Locally advanced or node-positive cancer: neoadjuvant therapy first | Indications for neoadjuvant therapy in breast cancer by clinical T and N stage and inflammatory cancer: find the exception | BR 04; Chula ch19 p671-686
+- Q13 | colorectal-cancer | basic-science | Screening: FOBT, colonoscopy, age to start | Secondary prevention of colorectal cancer: which listed action counts (CEA screening, polypectomy, PET scan, faecal occult blood screening) | BR 25; BR 01 (Oncology)
+- Q14 | neck-mass | management | Thyroglossal duct cyst: moves with tongue; Sistrunk operation | Long-standing 2 cm soft smooth mass above the thyroid that moves with swallowing: name of the operation | BR 05; BR 34
+- Q15 | stomach-anatomy-physiology | complication | After gastrectomy: B12 deficiency and megaloblastic anaemia | Most common cause of megaloblastic anaemia after total gastrectomy | BR 15
+- Q16 | intestinal-obstruction | basic-science | Malignant SBO: metastases commonest | Most common malignant cause of small bowel obstruction (metastasis or invasion vs primary tumours) | BR 19; Chula ch8 p391-393
+- Q17 | gastric-cancer | diagnosis | Metastatic gastric cancer signs: Virchow node, Sister Mary Joseph, Blumer shelf, Krukenberg | Epigastric pain with a Sister Mary Joseph nodule at the umbilicus: which cancer is causing it | BR 15
+- Q18 | breast-mass | basic-science | Polymastia: commonest developmental disorder | Most common developmental disorder of the breast (amastia, polythelia, polymastia, macromastia, juvenile hypertrophy) | BR 04
+- Q19 | acute-pancreatitis | investigation | Severity scores (Ranson, BISAP, APACHE): what counts | Severity scores for acute pancreatitis (BISAP, Ranson, APACHE) vs a score for another disease | BR 28
+- Q20 | hemostasis-transfusion | complication | Massive transfusion: ratios, citrate, hypocalcaemia, hyperkalaemia | Metabolic complications of massive transfusion (potassium and calcium changes): which is not one | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q21 | fluid-electrolyte | diagnosis | Hypocalcaemia: Chvostek, Trousseau, perioral numbness | Signs and symptoms of hypocalcaemia: which is not one (no choices recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p183-186
+- Q22 | fluid-electrolyte | diagnosis | Hypokalaemia features | Features of hypokalaemia (arrhythmia, ileus, constipation, seizure, weakness): which is not one | BR 01 (Fluid and Electrolyte Management); Chula ch4 p179-180
+- Q23 | fluid-electrolyte | diagnosis | Hypocalcaemia: Chvostek, Trousseau, perioral numbness | Chvostek sign: which electrolyte disorder it shows (no choices recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p183-186
+- Q24 | venous-thromboembolism | management | DVT after a long flight or surgery: duplex ultrasound first | Woman with calf pain and red swelling 12 hours after a long-haul flight: next step (rest and elevation, duplex ultrasound, CT angiogram, anticoagulant) | BR 12; Chula ch17 p630-631
+- Q25 | fluid-electrolyte | basic-science | Body water compartments: total body water 60%, intravascular volume | Total body water as a percentage of body weight | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166
+- Q26 | breast-cancer | basic-science | Breast cancer risk factors and benign lesions with risk (atypical hyperplasia) | Which breast cancer risk factor carries the highest relative risk (early menarche, late menopause, late first birth, hormonal contraception, dense breast tissue) | BR 04; Chula ch7 p276-300
+- Q27 | systemic-response-to-injury | basic-science | Stress hyperglycaemia: cortisol, catecholamines, insulin resistance | Early metabolic response to stress: gluconeogenesis driven by catecholamines and cortisol (only one choice recalled) | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q28 | systemic-response-to-injury | basic-science | Stress hyperglycaemia: cortisol, catecholamines, insulin resistance | Follow-on of Q27: why blood glucose rises in the stressed patient (only one choice recalled) | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q29 | systemic-response-to-injury | management | Managing stress hyperglycaemia: insulin infusion vs observation | Follow-on of Q28: stress hyperglycaemia not controlled by subcutaneous insulin, next step (only one choice recalled) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q30 | surgical-oncology | management | Palliative care: meaning, timing and aims (not euthanasia) | WHO advice on when palliative care should start in a cancer patient | BR 01 (Oncology); lecture notes
+- Q31 | perioperative-care | basic-science | ASA physical status classification | ASA class of a patient with well-controlled hypertension and dyslipidaemia (no choices recalled) | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q32 | chronic-pancreatitis | diagnosis | Chronic pancreatitis: alcohol, calcification, steatorrhoea, diabetes | Drinker with severe epigastric pain, central abdominal calcification on film and normal amylase and lipase: diagnosis (no choices recalled) | BR 28
+- Q33 | organ-transplantation | basic-science | Immunosuppressants: cyclosporin and tacrolimus (calcineurin inhibitors), MMF | Mechanism of action of cyclosporin | BR 02

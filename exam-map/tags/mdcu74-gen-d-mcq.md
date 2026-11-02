@@ -1,34 +1,34 @@
 # Topic tags: mdcu74-gen-d-mcq
-- Q1 | breast-discharge | investigation | Spontaneous clear yellow discharge from one breast with a normal examination: first investigation (imaging vs ductogram vs reassurance) | BR 04; Chula ch7
-- Q2 | liver-mass | diagnosis | Multiple hypoechoic liver nodules with raised CEA in a man without liver disease: diagnosis | BR 26b; Chula ch15 p565-566; ch11 p476-477
-- Q3 | portal-hypertension | basic-science | Child-Pugh scoring: which value counts towards class A (albumin, bilirubin, ascites controlled by diuretics) | BR 26b
-- Q4 | breast-cancer | diagnosis | Features of locally advanced breast cancer (skin inflammation over a third, ulceration, peau d'orange, skin retraction, matted nodes): which is not one | BR 04; Chula ch19 p671-686
-- Q5 | necrotizing-fasciitis | management | Penetrating wound followed by purple skin and bullae: first treatment (debridement, amputation, prolonged antibiotics) | BR 03; BR 01 (Surgical Infections)
-- Q6 | necrotizing-fasciitis | diagnosis | Purple bullae with crepitus: most likely organism | BR 03; BR 01 (Surgical Infections)
-- Q7 | acute-appendicitis | diagnosis | Physical signs in acute appendicitis vs signs that belong to pancreatitis or other conditions | BR 26; Chula ch9 p406-408
-- Q8 | minimally-invasive-surgery | basic-science | Advantages of minimally invasive surgery (vision, recovery, cosmesis, pain, learning curve): which is not one | BR 01 (Minimally Invasive Surgery)
-- Q9 | surgical-ethics | other | Meaning of "primum non nocere" | BR 01 (Quality, Patient Safety); lecture notes
-- Q10 | hernia | basic-science | Layer whose defect causes a direct inguinal hernia and the material of standard mesh | BR 33; Chula ch14 p535; p547
-- Q11 | breast-cancer | management | Contraindications to breast-conserving therapy (multicentric disease, no radiotherapy, no clear margin, locally advanced cancer, inflammatory cancer): which is not one | BR 04; Chula ch19 p687-692
-- Q12 | acute-pancreatitis | management | Initial management of acute pancreatitis: which listed step is not routinely needed (NG tube, fluids, ERCP, antibiotics, ultrasound, analgesia) | BR 28
-- Q13 | breast-cancer | diagnosis | Locally advanced breast cancer features: which is not one (repeat of Q4) | BR 04; Chula ch19 p671-686
-- Q14 | chronic-pancreatitis | diagnosis | Diabetes with steatorrhoea, vomiting and moderate jaundice: duodenal cancer vs pancreatic cancer vs chronic pancreatitis | BR 28
-- Q15 | hemostasis-transfusion | complication | Bilateral crackles after transfusion for massive rectal bleeding: lung injury vs circulatory overload | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
-- Q16 | liver-mass | management | Manoeuvre to control bleeding during liver surgery | BR 26b; Chula ch11 p445
-- Q17 | hernia | diagnosis | Hernia on the left side above the umbilicus at the lateral edge of the rectus: naming it | BR 33; Chula ch14 p528; p534
-- Q18 | abdominal-pain | diagnosis | Young woman with pelvic pain: the gynaecological emergency to think of first (only one choice recalled) | BR 31; BR 40
-- Q19 | organ-transplantation | management | Indications for pancreas transplantation in end-stage renal disease: diabetes type and creatinine; which is not an indication | BR 02
-- Q20 | gallstone-disease | investigation | Dilated non-functioning gallbladder: which test assesses gallbladder function (MRCP, PET, HIDA) | BR 27
-- Q21 | perioperative-care | complication | Side effects of enteral nutrition (clogging, aspiration, diarrhoea, refeeding) vs one that belongs to parenteral nutrition | BR 01 (Systemic Response and Metabolic Support); lecture notes
-- Q22 | fluid-electrolyte | management | Tall peaked T waves: which treatment shifts potassium into cells | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
-- Q23 | fluid-electrolyte | diagnosis | Electrolyte disorder that can cause VF or asystole and needs emergency treatment (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
-- Q24 | small-intestine | diagnosis | Teenager with diarrhoea and cramps after neonatal bowel resection for NEC: short bowel vs recurrent NEC | BR 19; Chula ch8 p398-400
-- Q25 | liver-mass | basic-science | Risk factors for cholangiocarcinoma (hepatolithiasis, liver fluke, gallbladder stones, choledochal cyst): which is not one | BR 26b; Chula ch11 p473
-- Q26 | shock | basic-science | Acid-base disorder expected in hypovolaemic shock (no choices recalled) | BR 01 (Shock); Chula ch4 p190-193
-- Q27 | fluid-electrolyte | basic-science | GI secretion with the highest chloride (bile, stomach, small bowel, pancreas) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-200
-- Q28 | anorectal-disease | diagnosis | HIV-positive man with previous anal warts and a new anal mass: cancer type | BR 25
-- Q29 | dysphagia | diagnosis | Zenker diverticulum with halitosis (stem and choices not recalled) | BR 14
-- Q30 | upper-gi-bleeding | management | Initial management of variceal bleeding: NG lavage vs endoscopy | BR 16
-- Q31 | hernia | diagnosis | Abdominal wall defect superolateral to the umbilicus: hernia type | BR 33; Chula ch14 p528; p534
-- Q32 | portal-hypertension | diagnosis | Signs of portal hypertension in Child C cirrhosis (only one choice recalled) | BR 26b
-- Q33 | organ-transplantation | management | Who is most appropriate for liver transplantation (only one choice recalled) | BR 02
+- Q1 | breast-discharge | investigation | Nipple discharge work-up: ultrasound and mammogram | Spontaneous clear yellow discharge from one breast with a normal examination: first investigation (imaging vs ductogram vs reassurance) | BR 04; Chula ch7
+- Q2 | liver-mass | diagnosis | Liver metastases: colorectal source, CEA, synchronous vs metachronous | Multiple hypoechoic liver nodules with raised CEA in a man without liver disease: diagnosis | BR 26b; Chula ch15 p565-566; ch11 p476-477
+- Q3 | portal-hypertension | basic-science | Child-Pugh and MELD scores | Child-Pugh scoring: which value counts towards class A (albumin, bilirubin, ascites controlled by diuretics) | BR 26b
+- Q4 | breast-cancer | diagnosis | Locally advanced breast cancer: features (peau d'orange, matted nodes) | Features of locally advanced breast cancer (skin inflammation over a third, ulceration, peau d'orange, skin retraction, matted nodes): which is not one | BR 04; Chula ch19 p671-686
+- Q5 | necrotizing-fasciitis | management | Necrotising fasciitis: bullae, crepitus, urgent debridement | Penetrating wound followed by purple skin and bullae: first treatment (debridement, amputation, prolonged antibiotics) | BR 03; BR 01 (Surgical Infections)
+- Q6 | necrotizing-fasciitis | diagnosis | Gas gangrene: Clostridium perfringens | Purple bullae with crepitus: most likely organism | BR 03; BR 01 (Surgical Infections)
+- Q7 | acute-appendicitis | diagnosis | Alvarado score and clinical signs (psoas, Rovsing) | Physical signs in acute appendicitis vs signs that belong to pancreatitis or other conditions | BR 26; Chula ch9 p406-408
+- Q8 | minimally-invasive-surgery | basic-science | Advantages of MIS (not shorter time or learning curve) | Advantages of minimally invasive surgery (vision, recovery, cosmesis, pain, learning curve): which is not one | BR 01 (Minimally Invasive Surgery)
+- Q9 | surgical-ethics | other | Beneficence, non-maleficence and justice in cases | Meaning of "primum non nocere" | BR 01 (Quality, Patient Safety); lecture notes
+- Q10 | hernia | basic-science | Mesh material (polypropylene) and direct hernia layer | Layer whose defect causes a direct inguinal hernia and the material of standard mesh | BR 33; Chula ch14 p535; p547
+- Q11 | breast-cancer | management | Breast-conserving therapy contraindications (radiotherapy not possible, multicentric, inflammatory) | Contraindications to breast-conserving therapy (multicentric disease, no radiotherapy, no clear margin, locally advanced cancer, inflammatory cancer): which is not one | BR 04; Chula ch19 p687-692
+- Q12 | acute-pancreatitis | management | Initial management: fluids, analgesia, nutrition | Initial management of acute pancreatitis: which listed step is not routinely needed (NG tube, fluids, ERCP, antibiotics, ultrasound, analgesia) | BR 28
+- Q13 | breast-cancer | diagnosis | Locally advanced breast cancer: features (peau d'orange, matted nodes) | Locally advanced breast cancer features: which is not one (repeat of Q4) | BR 04; Chula ch19 p671-686
+- Q14 | chronic-pancreatitis | diagnosis | Chronic pancreatitis: alcohol, calcification, steatorrhoea, diabetes | Diabetes with steatorrhoea, vomiting and moderate jaundice: duodenal cancer vs pancreatic cancer vs chronic pancreatitis | BR 28
+- Q15 | hemostasis-transfusion | complication | TRALI vs circulatory overload | Bilateral crackles after transfusion for massive rectal bleeding: lung injury vs circulatory overload | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q16 | liver-mass | management | Pringle manoeuvre: clamping the hepatoduodenal ligament | Manoeuvre to control bleeding during liver surgery | BR 26b; Chula ch11 p445
+- Q17 | hernia | diagnosis | Spigelian hernia at the linea semilunaris | Hernia on the left side above the umbilicus at the lateral edge of the rectus: naming it | BR 33; Chula ch14 p528; p534
+- Q18 | abdominal-pain | diagnosis | Gynaecological causes of RLQ pain: ectopic pregnancy, mittelschmerz, PID | Young woman with pelvic pain: the gynaecological emergency to think of first (only one choice recalled) | BR 31; BR 40
+- Q19 | organ-transplantation | management | Pancreas and kidney transplant in type 1 diabetes (SPK, PTA) | Indications for pancreas transplantation in end-stage renal disease: diabetes type and creatinine; which is not an indication | BR 02
+- Q20 | gallstone-disease | investigation | Gallbladder function test: HIDA scan | Dilated non-functioning gallbladder: which test assesses gallbladder function (MRCP, PET, HIDA) | BR 27
+- Q21 | perioperative-care | complication | Enteral nutrition complications | Side effects of enteral nutrition (clogging, aspiration, diarrhoea, refeeding) vs one that belongs to parenteral nutrition | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q22 | fluid-electrolyte | management | Hyperkalaemia treatment: calcium, insulin-glucose, beta-agonist, dialysis | Tall peaked T waves: which treatment shifts potassium into cells | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
+- Q23 | fluid-electrolyte | diagnosis | Hyperkalaemia: ECG changes and VF | Electrolyte disorder that can cause VF or asystole and needs emergency treatment (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
+- Q24 | small-intestine | diagnosis | Short bowel syndrome: definition under 200 cm and causes | Teenager with diarrhoea and cramps after neonatal bowel resection for NEC: short bowel vs recurrent NEC | BR 19; Chula ch8 p398-400
+- Q25 | liver-mass | basic-science | Cholangiocarcinoma: risk factors (liver fluke, PSC, choledochal cyst) | Risk factors for cholangiocarcinoma (hepatolithiasis, liver fluke, gallbladder stones, choledochal cyst): which is not one | BR 26b; Chula ch11 p473
+- Q26 | shock | basic-science | Hypovolaemic shock: lactic acidosis, treat with volume | Acid-base disorder expected in hypovolaemic shock (no choices recalled) | BR 01 (Shock); Chula ch4 p190-193
+- Q27 | fluid-electrolyte | basic-science | GI secretions: composition and which matches plasma | GI secretion with the highest chloride (bile, stomach, small bowel, pancreas) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-200
+- Q28 | anorectal-disease | diagnosis | Anal cancer and condyloma in HIV or MSM | HIV-positive man with previous anal warts and a new anal mass: cancer type | BR 25
+- Q29 | dysphagia | diagnosis | Oropharyngeal dysphagia and Zenker diverticulum | Zenker diverticulum with halitosis (stem and choices not recalled) | BR 14
+- Q30 | upper-gi-bleeding | management | Variceal bleeding: resuscitation and drugs (somatostatin or terlipressin) | Initial management of variceal bleeding: NG lavage vs endoscopy | BR 16
+- Q31 | hernia | diagnosis | Spigelian hernia at the linea semilunaris | Abdominal wall defect superolateral to the umbilicus: hernia type | BR 33; Chula ch14 p528; p534
+- Q32 | portal-hypertension | diagnosis | Portal hypertension signs vs liver failure signs | Signs of portal hypertension in Child C cirrhosis (only one choice recalled) | BR 26b
+- Q33 | organ-transplantation | management | Liver transplant indications and who to refer (decompensated cirrhosis, HCC within Milan) | Who is most appropriate for liver transplantation (only one choice recalled) | BR 02
