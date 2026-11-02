@@ -1,0 +1,13 @@
+# Topic tags: mdcu74-gen-a-mcq
+- Q1 | basic-surgical-skills | basic-science | Maximum safe dose of lidocaine with adrenaline for infiltration in a 70 kg adult, converted to millilitres of 1% or 2% solution | BR 01 (Skills and Simulation); lecture notes
+- Q5 | venous-thromboembolism | management | VTE prophylaxis around low anterior resection for rectal cancer: which listed measure does not reduce risk (heparins, pneumatic compression, early mobilisation, neoadjuvant chemoradiotherapy) | BR 12; Chula ch17 p631-637
+- Q6 | hernia | management | Painful, red, tender groin mass with fever, tachycardia, distension and high-pitched bowel sounds: immediate management (reduction, discharge, resuscitation with NG tube and fluids before emergency surgery, elective surgery) | BR 33; Chula ch14 p554-556
+- Q7 | hernia | complication | Complications of a groin hernia (strangulation, inflammation, incarceration, obstruction): which listed one is not a complication | BR 33; Chula ch14 p530-531
+- Q8 | hernia | diagnosis | Reducible groin mass with a positive occlusion test at the internal ring: what the test result means for the hernia type | BR 33; Chula ch14 p537
+- Q9 | fluid-electrolyte | basic-science | Most abundant electrolyte in extracellular fluid | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-167
+- Q10 | hernia | basic-science | Walls of the inguinal canal (floor, anterior, posterior), its direction and its lateral boundary: which statements are true | BR 33; Chula ch14 p533-534
+- Q11 | hernia | management | Incisional hernia without peritoneal signs in a high-risk patient after stroke and with triple-vessel disease: repair vs observe | BR 33; Chula ch14 p560-561
+- Q21 | peptic-ulcer-disease | investigation | Middle-aged woman with new on-and-off epigastric pain for 2 months: next step (endoscopy, empirical PPI, H. pylori test, reassurance) | BR 15
+- Q28 | small-intestine | diagnosis | Young woman with recurrent abdominal pain, multiple small bowel polyps and mucocutaneous pigmentation of the lips: histology of the polyps | BR 19; BR 25
+- Q81 | jaundice | complication | Special risks of operating on jaundiced patients (hepatorenal syndrome, coagulopathy, infection, wound healing, MI): which is not a special concern | BR 27; Chula ch11 p455
+- Q100 | organ-transplantation | basic-science | Cells in acute cellular rejection: which has the least important role (CD4, CD8, B cells, dendritic cells, macrophages) | BR 02
