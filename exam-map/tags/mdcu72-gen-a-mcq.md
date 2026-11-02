@@ -1,0 +1,40 @@
+# Topic tags: mdcu72-gen-a-mcq
+- Q3 | surgical-infection | diagnosis | Spiking fever on day 6 of preoperative TPN through a central line before a Whipple operation: most likely organism of the catheter infection | BR 01 (Surgical Infections); lecture notes
+- Q8 | perioperative-care | management | Which postoperative patient needs nutritional support (only the necrosectomy choice recalled) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q10 | perioperative-care | investigation | Nutritional screening and assessment: which pair of measures cannot be used | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q12 | fluid-electrolyte | basic-science | Definition of insensible water loss: which route counts | BR 01 (Fluid and Electrolyte Management); Chula ch4 p167-168
+- Q14 | shock | basic-science | Haemorrhagic shock physiology and resuscitation: colloid or hypertonic saline use, blood loss at which pressure falls, pulse pressure narrowing; which is false | BR 01 (Shock); Chula ch1
+- Q15 | fluid-electrolyte | management | Hyperkalaemia treatment: which option is not a treatment (only dialysis and oral sodium phosphate recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
+- Q20 | hemostasis-transfusion | complication | Fever, flank pain, brown urine and oliguria after a red cell unit following hip arthroplasty: immediate management of a suspected haemolytic reaction | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q22 | surgical-infection | management | Matching operations to prophylactic antibiotics (mastectomy, appendectomy, sigmoid colectomy, necrotising fasciitis, AAA): which pairing is right | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q24 | perioperative-care | complication | Postoperative disorientation: in which underlying condition it is found | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q25 | perioperative-care | management | Low fever on day 1 after hepatectomy with otherwise normal vital signs: culture, antibiotics, CT, wound exploration or pain control with incentive spirometry | BR 01 (Surgical Infections); lecture notes
+- Q29 | acute-pancreatitis | diagnosis | Features of acute pancreatitis: which is unlikely (ARDS, pleural effusion, ascites, hypercalcaemia, liver failure) | BR 28
+- Q31 | gist | basic-science | GIST histology, cell of origin, lymph node spread, imatinib response and c-KIT: which statement is false | BR 21; Chula ch8 p392-393
+- Q34 | bariatric-surgery | management | Who qualifies for bariatric surgery by BMI and obesity-related disease | BR 18
+- Q39 | esophageal-cancer | investigation | Suspected oesophageal cancer: diagnostic investigation of choice (oesophagogram vs endoscopy with biopsy) | BR 14
+- Q42 | portal-hypertension | management | Endoscopic treatment of choice for bleeding gastric (not oesophageal) varices | BR 16; BR 26b
+- Q46 | acute-cholangitis | diagnosis | Fever, RUQ pain and jaundice with tachycardia and hypotension in a drinker on daily paracetamol: hepatitis vs cholangitis vs cholecystitis vs CBD stone | BR 27
+- Q48 | gallstone-disease | management | Gallstones in diabetes: prevalence, whether stones alone indicate surgery, and management of acute and symptomatic disease | BR 27
+- Q49 | gallstone-disease | complication | Gallstone ileus: usual site of impaction | BR 27; BR 19
+- Q50 | minimally-invasive-surgery | basic-science | Gas used to create pneumoperitoneum (open-ended) | BR 01 (Minimally Invasive Surgery)
+- Q53 | acute-appendicitis | investigation | First-trimester pregnancy with 2 days of RLQ pain, fever and a RLQ mass but no peritonitis: further imaging | BR 26; Chula ch9
+- Q55 | venous-insufficiency | diagnosis | Leg pain relieved by elevation with varicose veins and an ulcer above the medial malleolus: cause of the ulcer | BR 12; Chula ch18 p645
+- Q58 | intestinal-obstruction | management | Bowel obstruction in a virgin abdomen with no previous surgery: management (only the laparotomy choice recalled) | BR 19; Chula ch8 p386
+- Q60 | small-intestine | basic-science | Most common malignant neoplasm of the small intestine | BR 19; Chula ch8 p391-392
+- Q62 | hernia | management | Long-standing groin hernia now painful for 6 hours with mild distension and hyperactive bowel sounds: observation, reduction or which emergency operation | BR 33; Chula ch14 p554-556
+- Q64 | hernia | management | Recurrent right groin hernia after previous bilateral repair: observe vs open mesh vs laparoscopic vs tissue repair | BR 33; Chula ch14 p549-551
+- Q68 | thyroid-cancer | basic-science | Thyroid cancer epidemiology (commonest type, peak age, sex ratio): which statement is false | BR 34; Chula ch6
+- Q70 | hyperthyroidism | management | When surgery is preferred for thyrotoxicosis: find the exception | BR 34; Chula ch6 p253-257
+- Q72 | surgical-ethics | other | Professional behaviour expected of a medical student | BR 01 (Quality, Patient Safety); lecture notes
+- Q73 | surgical-infection | basic-science | Most important measure to prevent infection in health-care workers (hand hygiene, PPE, prophylactic antibiotics) | BR 01 (Surgical Infections); Chula ch5 p229-231
+- Q74 | surgical-ethics | other | Patient with ulcerated breast cancer refusing recommended chemotherapy and mastectomy in favour of herbal remedies: what a good doctor should do | BR 01 (Quality, Patient Safety); lecture notes
+- Q75 | surgical-ethics | other | Medical student assigned to an open operation on a hepatitis B carrier: appropriate action | BR 01 (Quality, Patient Safety); lecture notes
+- Q79 | liver-abscess | diagnosis | Elderly woman with 10 days of intermittent chills, fever, hepatomegaly, mild jaundice and a 12 cm rim-enhancing mixed-density liver mass: provisional diagnosis | BR 26b; Chula ch11 p459-461
+- Q80 | liver-mass | diagnosis | Anechoic round 1 cm liver lesion on ultrasound in a hepatitis B carrier: provisional diagnosis | BR 26b; Chula ch15 p567; ch11 p463
+- Q84 | organ-transplantation | basic-science | Cells responsible for allorecognition in transplant rejection (open-ended) | BR 02
+- Q86 | colorectal-cancer | investigation | CEA in colorectal cancer: use for screening and diagnosis vs follow-up, and rises in benign conditions; which is false | BR 25
+- Q94 | breast-infection | management | Lactational breast abscess: which statement about management, including whether breastfeeding must stop, is wrong | BR 04; Chula ch7
+- Q96 | venous-insufficiency | diagnosis | Tired aching legs relieved by elevation with varicosities, a superficial ulcer and non-pitting oedema: lymphatic, arterial, venous or tumour cause | BR 12; Chula ch18 p645
+- Q99 | peripheral-arterial-disease | basic-science | Thromboangiitis obliterans: which statement is false | BR 11; Chula ch16
+- Q100 | abdominal-aortic-aneurysm | management | Which patient is suitable for elective AAA repair (choices not recalled) | BR 11; Chula ch16 p615-617
