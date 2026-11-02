@@ -166,7 +166,10 @@ templates/front-matter.md.
   `- Q12 | topic | asks | subtopic | read`, with topic from INDEX.md and asks one of diagnosis,
   investigation, management, complication, basic-science, other. subtopic says in detail what the
   question asks (never its answer); read names where to study it (Board Review note first, then the
-  Chula chapter and pages). The last two fields are optional for old lines. Exam files are never edited for tagging. Tag with `/tag-exams`
+  Chula chapter and pages). The last two fields are optional for old lines.
+- scripts/exam_mindmap.py builds exam-map/mind-maps/<system>.md (committed): a Mermaid mind map per
+  organ system and a table of every question with its subtopic and where to read. Edit the tags,
+  then rebuild; never edit the pages by hand. Exam files are never edited for tagging. Tag with `/tag-exams`
   (.claude/commands/tag-exams.md).
 
 ## Terms
