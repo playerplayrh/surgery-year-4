@@ -1,0 +1,87 @@
+# Topic tags: mdcu78-gen-d-mcq
+- Q1 | perioperative-care | investigation | Elderly man with a normal examination and over 4 METs before liver surgery: which preoperative cardiac test is appropriate, if any | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q2 | perioperative-care | complication | Which hernia operation and anaesthesia carries the lowest risk of pulmonary complications (laparoscopic bilateral repair under GA vs open repair under spinal) | BR 01 (Optimizing Perioperative Care); BR 33
+- Q3 | venous-thromboembolism | management | Elective arthroplasty in a patient with a high VTE risk score: which prophylaxis combination | BR 12; Chula ch17 p631-637
+- Q4 | perioperative-care | management | Fever on postoperative day 1 with a normal examination: management (only one choice recalled) | BR 01 (Surgical Infections); lecture notes
+- Q101 | hemostasis-transfusion | diagnosis | Boy with joint bleeding and affected maternal uncle and male cousin: which factor is deficient | BR 01 (Hemostasis); Chula ch3 p118-131
+- Q102 | hemostasis-transfusion | management | Patient after cardiac stenting on warfarin presenting with an epidural haematoma: how to reverse before emergency surgery (FFP, platelets, others) | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q103 | hemostasis-transfusion | complication | Fever and dyspnoea 2 hours after 12 units of red cells for trauma: ARDS vs TRALI vs sepsis vs anaphylaxis | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q104 | wound-healing | basic-science | Function of fibroblasts in healing (collagen, debris removal, epithelialisation) | BR 01 (Wound Healing); Chula ch2
+- Q201 | fluid-electrolyte | management | Resuscitation fluid for dehydration from repeated vomiting due to gastric outlet obstruction | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-205
+- Q202 | fluid-electrolyte | basic-science | Polyuria in a poorly controlled diabetic with glucose 600: mechanism | BR 01 (Fluid and Electrolyte Management); Chula ch4 p168-169
+- Q203 | fluid-electrolyte | basic-science | GI fluid with the same osmolarity as plasma | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-200
+- Q204 | fluid-electrolyte | basic-science | Total body water of a 70 kg man in litres | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166
+- Q205 | fluid-electrolyte | management | CKD stage 5 with potassium 7: first treatment (calcium, furosemide, dialysis, bicarbonate) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
+- Q301 | basic-surgical-skills | basic-science | Suture material for repairing torn muscle (silk, nylon, polyglactin, polypropylene, catgut) | BR 01 (Skills and Simulation); BR 42
+- Q302 | wound-healing | management | Contracture scar across the front of the ankle (photo): how to lengthen it (steroid, excision with Z-plasty or grafting and others) | BR 42; BR 01 (Wound Healing)
+- Q303 | breast-cancer | management | Mastectomy patient who needs postoperative radiotherapy but wants immediate reconstruction: TRAM flap vs implant alone vs delayed reconstruction | BR 04; BR 42; Chula ch19 p692-705
+- Q401 | surgical-oncology | basic-science | Carcinogen and cancer pairs (aflatoxin, nitrosamine, perfume, UV, asbestos): which pairing is incorrect | BR 01 (Oncology); lecture notes
+- Q402 | peritonitis | management | Weeks after abdominal surgery with LLQ tenderness and a 6 cm collection on CT: antibiotics alone vs drainage vs operation | BR 31; BR 01 (Surgical Infections)
+- Q403 | soft-tissue-infection | management | Tender fluctuant red 4 cm lesion at a shaved area without systemic symptoms (photo): drainage vs antibiotics | BR 03; BR 01 (Surgical Infections)
+- Q404 | surgical-infection | management | Tetanus immunoglobulin: which patient needs it by wound type and years since the last toxoid | BR 01 (Surgical Infections); Chula ch20 p715
+- Q405 | surgical-infection | management | Wound that looks infected with serous discharge: what to do (stem cut off, repeat of an old paper) | BR 01 (Surgical Infections); Chula ch5 p219-223
+- Q501 | breast-cancer | management | Primary prevention for a 25-year-old BRCA1 carrier (MRI screening, ultrasound with mammogram, tamoxifen, progestin, risk-reducing surgery) | BR 04; Chula ch7 p276-300
+- Q601 | surgical-ethics | other | Patient autonomy (stem and choices not recalled; repeat of an old paper) | BR 01 (Quality, Patient Safety); lecture notes
+- Q602 | surgical-ethics | other | Sign-in phase of the surgical safety checklist (stem and choices not recalled) | BR 01 (Quality, Patient Safety); lecture notes
+- Q701 | systemic-response-to-injury | basic-science | Hormones in the counter-regulatory response to injury: which has the least role | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q702 | systemic-response-to-injury | basic-science | Cause of hyperglycaemia after trauma (only one choice recalled) | BR 01 (Systemic Response to Injury); Chula ch1
+- Q801 | perioperative-care | management | Postoperative day 1 after hysterectomy and oophorectomy with distension and hypoactive bowel sounds: appropriate nutrition (stem cut off) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q802 | perioperative-care | basic-science | Primary goal of postoperative nutrition (only one choice recalled) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q803 | perioperative-care | complication | Low potassium, magnesium and phosphate after starting TPN in a starved patient: diagnosis (only one choice recalled) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q901 | hernia | diagnosis | Woman without previous surgery with a mass just lateral to the rectus below the umbilicus: hernia type | BR 33; Chula ch14 p528; p534
+- Q902 | hernia | diagnosis | Right groin mass descending into the scrotum with a positive occlusion test: what the test means for the type | BR 33; Chula ch14 p537
+- Q903 | hernia | management | Irreducible right groin mass with distension, vomiting and obstipation for 24 hours: management (choices not recalled) | BR 33; Chula ch14 p554-556
+- Q904 | hernia | basic-science | Components of the spermatic cord: which listed structure is not one | BR 33; Chula ch14 p533
+- Q905 | hernia | complication | Tender scrotal swelling with a firm mass after hernia repair: abscess vs torsion vs haematoma and other causes | BR 33; Chula ch14 p552
+- Q1001 | small-intestine | basic-science | Factors that determine prognosis after massive bowel resection (age, remaining length, ileocaecal valve) | BR 19; Chula ch8 p399
+- Q1002 | intestinal-obstruction | management | Sigmoid volvulus on a contrast enema image: next management (choices not recalled) | BR 25
+- Q1003 | peptic-ulcer-disease | management | Sudden epigastric pain from a suspected perforated ulcer: next step (choices not recalled) | BR 15; BR 31
+- Q1004 | mesenteric-ischemia | diagnosis | Pain out of proportion with blood on rectal examination: diagnosis (choices not recalled) | BR 19; Chula ch8 p397
+- Q1101 | portal-hypertension | basic-science | Pre-hepatic causes of portal hypertension (choices not recalled) | BR 26b
+- Q1102 | acute-appendicitis | diagnosis | RLQ pain after a trip to Phuket (stem largely not recalled) | BR 26; Chula ch9
+- Q1103 | liver-mass | management | Single 8 by 10 cm HCC: management by staging (choices not recalled) | BR 26b; Chula ch11 p470-472
+- Q1105 | liver-mass | other | Cholangiocarcinoma (stem and choices not recalled) | BR 26b; Chula ch11 p472-476
+- Q1201 | acute-cholecystitis | management | Acute cholecystitis in a patient with double-vessel coronary disease and stents: emergency cholecystectomy vs cholecystostomy vs antibiotics | BR 27
+- Q1301 | intestinal-obstruction | diagnosis | Cause of bowel obstruction (adhesion band vs hernia; stem mostly not recalled) | BR 19; Chula ch8 p379-380
+- Q1302 | intestinal-obstruction | management | Adhesive bowel obstruction: initial management (only one choice recalled) | BR 19; Chula ch8 p384
+- Q1401 | stomach-anatomy-physiology | complication | Sweating, palpitations and dizziness after Billroth II gastrectomy: mechanism (only one choice recalled) | BR 15
+- Q1402 | stomach-anatomy-physiology | complication | Vitamin B12 deficiency after gastric surgery (stem and choices not recalled) | BR 15
+- Q1403 | peptic-ulcer-disease | investigation | Dyspepsia with anaemia symptoms: next step (choices not recalled) | BR 15
+- Q1404 | gist | diagnosis | Upper GI bleed from a tumour with spindle cells on biopsy: what the tumour is (choices not recalled) | BR 21
+- Q1405 | lower-gi-bleeding | investigation | Haematochezia with an NG aspirate showing only bile: next step (choices not recalled) | BR 16; Chula ch10
+- Q1501 | breast-mass | diagnosis | 30-year-old woman with a 1 cm breast mass on an ultrasound image: diagnosis | BR 04; Chula ch7 p302-328
+- Q1502 | breast-discharge | investigation | Bilateral milky nipple discharge: which investigation is least important (TFT, visual fields, brain MRI, breast MRI) | BR 04; BR 37
+- Q1503 | breast-cancer | management | Breast cancer T1N0M0: MRM vs ablation vs wide excision with SLNB | BR 04; Chula ch19 p687-709
+- Q1601 | acute-pancreatitis | complication | Hypodense lesion at the pancreatic head 3 weeks after acute pancreatitis: pseudocyst vs cystic neoplasm | BR 28
+- Q1602 | periampullary-tumor | management | Pancreatic head tumour: next management (choices not recalled) | BR 28
+- Q1603 | spleen | diagnosis | Febrile patient with LUQ pain to the left shoulder and a hypoechoic intrasplenic lesion: expected CT appearance of the lesion | BR 29; Chula ch13
+- Q1701 | anorectal-disease | management | Intermittent bleeding after defecation with large internal haemorrhoids at 3, 7 and 11 o'clock: most appropriate management | BR 25
+- Q1702 | anorectal-disease | management | Low transsphincteric fistula with low incontinence risk: operation with the lowest recurrence (fistulotomy, LIFT, plug, seton, advancement flap) | BR 25
+- Q1703 | anorectal-disease | basic-science | Cause of anal abscess (only one choice recalled) | BR 25
+- Q1704 | necrotizing-fasciitis | diagnosis | Picture of a gangrenous perineal and genital infection: diagnosis (choices not recalled) | BR 03; BR 25
+- Q1705 | anorectal-disease | management | Painful defecation with a spastic sphincter on examination: management (choices not recalled) | BR 25
+- Q1801 | thyroid-cancer | management | Known anaplastic thyroid cancer with dyspnoea from tracheal compression: palliative treatment to relieve the airway | BR 34; Chula ch6
+- Q1802 | thyroid-mass | investigation | Neck mass for 6 years with mildly raised TSH: next investigation | BR 34; Chula ch6 p243-245
+- Q1803 | thyroid-mass | management | Thyroid nodule with spiculated margins and hypervascularity on ultrasound: next step (scan, core biopsy, FNA) | BR 34; Chula ch6 p245
+- Q1804 | parathyroid | investigation | Purpose of preoperative imaging in primary hyperparathyroidism | BR 35
+- Q1805 | thyroid-cancer | management | Metastatic anaplastic thyroid cancer presenting with stridor: best management (no lettered choices) | BR 34; Chula ch6
+- Q1901 | minimally-invasive-surgery | basic-science | Least invasive way to remove a 2 cm right middle lobe lung nodule (lobectomy, VATS and others) | BR 01 (Minimally Invasive Surgery); BR 07
+- Q1902 | minimally-invasive-surgery | basic-science | Contraindications to laparoscopic cholecystectomy (choices not recalled) | BR 01 (Minimally Invasive Surgery); BR 27
+- Q2001 | colorectal-cancer | management | Descending colon cancer: name the operation, the diverting procedure that protects the anastomosis and for how long (drawing) | BR 25
+- Q2002 | colorectal-cancer | diagnosis | Elderly man with weight loss, fatigue and anaemia without change in bowel habit and a positive FOBT: right vs left colon cancer | BR 25
+- Q2003 | colorectal-cancer | management | Rectal cancer 5 cm fixed to the prostate with a few pericolic nodes and no metastasis: management sequence and operation | BR 25
+- Q2004 | colorectal-cancer | management | 55-year-old with no family history: when to start colorectal cancer screening (stem cut off) | BR 25
+- Q2005 | colorectal-cancer | diagnosis | Chronic constipation now unable to pass stool (no choices recalled) | BR 25
+- Q2006 | colorectal-cancer | management | Metastatic colon cancer after colostomy now with obstruction for 24 hours: colonoscopy vs laparotomy vs laparoscopy | BR 25
+- Q2101 | peripheral-arterial-disease | investigation | Buttock and thigh claudication with reduced femoral pulse: test to confirm the diagnosis | BR 11; Chula ch16
+- Q2102 | venous-thromboembolism | investigation | Gold-standard investigation for DVT (D-dimer, CTA, venography, compression ultrasound) | BR 12; Chula ch17 p630
+- Q2103 | acute-limb-ischemia | management | AF with a white pulseless left leg for 3 hours: management | BR 11; Chula ch16 p591-598
+- Q2201 | achalasia | diagnosis | Three years of dysphagia to solids and liquids with a bird's-beak swallow: achalasia vs cancer of the cardia | BR 14
+- Q2202 | upper-gi-bleeding | diagnosis | Haematemesis after vomiting (choices not recalled) | BR 16; BR 14
+- Q2203 | esophageal-perforation | management | Signs of oesophageal perforation during endoscopy: next management (choices not recalled) | BR 14
+- Q2301 | organ-transplantation | management | Brain-dead donor who is HCV RNA-positive: to whom the organs can be given | BR 02
+- Q2302 | hemostasis-transfusion | basic-science | Universal plasma donor blood group | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q2303 | organ-transplantation | management | HLA-matched but ABO-incompatible donor: whether transplantation can go ahead and how | BR 02
+- Q2304 | organ-transplantation | management | Type 1 diabetic with poor glucose control despite insulin and good renal function: pancreas transplant alone vs other options | BR 02
+- Q2305 | organ-transplantation | basic-science | Meaning of a high panel-reactive antibody (PRA) score | BR 02
+- Q2306 | organ-transplantation | complication | Tremor with creatinine 4 after kidney transplantation: rejection vs tacrolimus toxicity | BR 02

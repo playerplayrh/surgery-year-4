@@ -1,0 +1,73 @@
+# Topic tags: mdcu77-gen-a-mcq
+- Q1 | hernia | basic-science | Contents of the spermatic cord (genital branch of genitofemoral nerve, ilioinguinal nerve, pampiniform plexus, testicular artery, vas): which is not in the cord | BR 33; Chula ch14 p533
+- Q2 | abdominal-aortic-aneurysm | basic-science | Aortic disease shown on an abdominal CT: most common cause (atherosclerosis, infection, cystic medial necrosis, vasculitis) | BR 11; Chula ch16 p615
+- Q3 | thyroid-mass | complication | Hoarseness after total thyroidectomy: which nerve was injured (cervical plexus, branches of the superior laryngeal nerve, recurrent laryngeal nerve) | BR 34; Chula ch6 p258-260
+- Q4 | thyroid-mass | complication | Stridor and desaturation soon after total thyroidectomy: what a first-year resident should not do (oxygen, bedside clot evacuation, calling the senior, airway steps) | BR 34; Chula ch6 p258-260
+- Q5 | acute-appendicitis | diagnosis | Young woman with fever, periumbilical pain and RLQ tenderness with a non-compressible tubular structure on ultrasound images: diagnosis | BR 26; Chula ch9 p406-413
+- Q6 | breast-cancer | management | LCIS found at wire-guided excision with a positive margin and strongly ER/PR-positive: further management (mastectomy, re-excision with radiotherapy, SLNB, hormonal therapy, follow-up) | BR 04; Chula ch19 p664-671
+- Q7 | hemostasis-transfusion | complication | Fever and chills during transfusion: which step should not be done (slowing the rate, crystalloid, steroid, notifying the blood bank, preparing for anaphylaxis) | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q8 | liver-abscess | diagnosis | RUQ pain a week after self-limited diarrhoea with a low-density liver lesion on CT and aspirated contents shown: diagnosis | BR 26b; Chula ch11 p461-463
+- Q9 | organ-transplantation | basic-science | Which deceased-donor transplant has the highest success (lowest rejection): liver, kidney, cornea, pancreas, heart | BR 02
+- Q10 | fluid-electrolyte | basic-science | Hypotonic vs isotonic losses (sweat, vomit, respiratory and skin insensible loss, urine in diabetes insipidus): which is not hypotonic | BR 01 (Fluid and Electrolyte Management); Chula ch4 p167-168
+- Q11 | acute-cholangitis | management | Fever, epigastric pain, bilirubin 4.2 and a 12 mm CBD without a visible stone with gallbladder stones: next step (ERCP with stent, MRCP, cholecystectomy, EUS) | BR 27
+- Q12 | portal-hypertension | diagnosis | Portal vein thrombosis with portal hypertension: which finding is not caused by portal hypertension (varices, splenomegaly, palmar erythema, ascites, thrombocytopenia) | BR 26b
+- Q13 | acute-cholecystitis | management | Acute cholecystitis with pericholecystic fluid getting worse after a day of conservative treatment: ERCP vs cholecystectomy | BR 27
+- Q14 | liver-mass | management | 4 cm HCC in segment VIII in a patient with Child-Pugh B cirrhosis: transplant vs resection vs TACE vs chemotherapy | BR 26b; BR 02; Chula ch11 p470-471
+- Q15 | perioperative-care | basic-science | Daily energy requirement after surgery for a 70 kg man | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q16 | liver-mass | management | Colorectal liver metastases with too small a future liver remnant: what to do before resection (ablation, radiotherapy, arterial embolisation, portal vein embolisation) | BR 26b; Chula ch11 p477; ch15 p573
+- Q17 | abdominal-pain | diagnosis | Older woman writhing with right flank pain radiating to the groin and a normal examination: diagnosis among ureteric stone, cholecystitis, appendicitis, perforation and cholangitis | BR 39; BR 31
+- Q18 | abdominal-aortic-aneurysm | diagnosis | Pulsatile expansile mass with left flank bruising: ruptured AAA vs ruptured renal tumour vs pancreatic haemorrhage | BR 11; Chula ch16 p615-617
+- Q19 | basic-surgical-skills | basic-science | Volume of 1% lidocaine without adrenaline allowed for a 60 kg patient having lipoma excision | BR 01 (Skills and Simulation); lecture notes
+- Q20 | surgical-ethics | other | Contents of the surgical time-out: which item is not included (identity, diagnosis, procedure, anticipated critical events, blood loss, site, pain) | BR 01 (Quality, Patient Safety); lecture notes
+- Q21 | liver-mass | management | Very elderly woman with an 8 cm hemangioma and epigastric discomfort: observation vs ablation vs resection vs embolisation | BR 26b; Chula ch11 p467
+- Q22 | surgical-oncology | management | Metastatic HCC on palliative care with spinal cord compression at the conus: treatment (radiotherapy, chemotherapy, surgery, supportive care) | BR 01 (Oncology); BR 41
+- Q23 | breast-imaging | management | Young woman with a hypoechoic and cystic lesion graded BI-RADS 3 on ultrasound: follow-up interval vs biopsy vs excision vs more imaging | BR 04; Chula ch7 p302-328
+- Q24 | perioperative-care | complication | Fever on day 5 after open cholecystectomy for gangrenous cholecystitis in a walking patient whose catheter and NG tube came out on day 2: source to rule out | BR 01 (Surgical Infections); lecture notes
+- Q25 | liver-mass | management | Asymptomatic liver lesion with typical MRI and CT features (peripheral nodular enhancement and centripetal fill-in): follow-up vs resection | BR 26b; Chula ch11 p467
+- Q26 | liver-mass | management | Incidental round anechoic liver lesion in an asymptomatic patient: which step is not needed (unroofing vs observation) | BR 26b; Chula ch11 p463-464
+- Q27 | venous-thromboembolism | management | Obese diabetic hypertensive patient barely moving after elective arthroplasty: choice and timing of DVT prophylaxis | BR 12; Chula ch17 p631-637
+- Q28 | hemostasis-transfusion | basic-science | Function of von Willebrand factor (platelet adhesion, aggregation, factor carrier, factor activation) | BR 01 (Hemostasis); Chula ch3 p110-118
+- Q29 | fluid-electrolyte | diagnosis | ECG changes of hyperkalaemia: which listed changes belong to hypokalaemia instead | BR 01 (Fluid and Electrolyte Management); Chula ch4 p179-182
+- Q30 | perioperative-care | management | Smoker and social drinker booked for elective hernia repair: the most important step to cut pulmonary complications | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q31 | surgical-ethics | other | Fourth-year student assigned to an open case on an HBV-positive patient: what to do | BR 01 (Quality, Patient Safety); Chula ch5 p229-231
+- Q32 | hernia | complication | Urinary retention after open hernioplasty: which treatment helps (analgesia, diuretics, antibiotics) | BR 33; Chula ch14 p551-553; lecture notes
+- Q33 | hyperthyroidism | investigation | Young woman with tremor, palpitations and a diffusely enlarged thyroid: expected T3, T4 and TSH | BR 34; Chula ch6
+- Q34 | bariatric-surgery | management | Man with BMI about 36 who failed to lose weight: which condition excludes him from bariatric surgery (sleep apnoea, diabetes, major depression, NASH, GERD) | BR 18
+- Q35 | peripheral-arterial-disease | diagnosis | Absent pulses with a clinical picture (image): which vessels are involved (stem partly not recalled) | BR 11; Chula ch16
+- Q36 | gallstone-disease | complication | Gallstones on a plain film: which listed condition is not a complication of gallstones | BR 27
+- Q37 | hernia | diagnosis | 8-year-old boy with a groin mass on running: expected occlusion test finding | BR 33; BR 38b; Chula ch14 p537
+- Q38 | intestinal-obstruction | diagnosis | Bilious vomiting, no stool, hyperactive bowel sounds and step-ladder levels on day 5 after surgery for intussusception: cause | BR 19; Chula ch8 p385
+- Q39 | surgical-infection | management | Matching operations to prophylactic antibiotics (hernioplasty, lipoma, laparoscopic cholecystectomy, colonoscopy): which pairing is appropriate | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q40 | acute-pancreatitis | management | Severe pancreatitis in the ICU, now haemodynamically stable but still on the ventilator: route of nutrition | BR 28; BR 01 (Metabolic Support)
+- Q41 | spleen | management | Vaccines after splenectomy for trauma: which is not a specific post-splenectomy vaccine | BR 29; Chula ch13
+- Q42 | chronic-pancreatitis | basic-science | Plain film of pancreatic calcification: most common cause of the disease | BR 28
+- Q43 | organ-transplantation | management | Type 1 diabetes with end-stage renal disease: which transplant plan | BR 02
+- Q44 | fluid-electrolyte | diagnosis | Elderly woman vomiting for 2 days with concentrated urine: expected acid-base and electrolyte pattern | BR 01 (Fluid and Electrolyte Management); Chula ch4 p190-193
+- Q45 | gastric-cancer | diagnosis | Vomiting of undigested sour food with weight loss and partial response to antacids: gastric outlet obstruction from cancer vs other causes | BR 15
+- Q46 | spleen | basic-science | Facts about the spleen: splenectomy with distal pancreatectomy, blood supply, splenic vein thrombosis effects, relation to the stomach; which is right | BR 29; Chula ch13
+- Q47 | gallstone-disease | management | CT of the upper abdomen showing a biliary finding: next management (follow-up, EUS with FNA, splenectomy, cholecystectomy, PET) | BR 27
+- Q48 | venous-insufficiency | investigation | Cashier with leg swelling after standing all day: first test (venous reflux test, duplex ultrasound, Trendelenburg test) | BR 12; Chula ch18 p645-651
+- Q49 | achalasia | investigation | Two years of intermittent dysphagia to solids and liquids with a bird's-beak oesophagogram: definitive diagnostic test | BR 14
+- Q50 | peptic-ulcer-disease | investigation | Postprandial epigastric pain related to stress and helped by OTC drugs: definitive diagnosis by pH monitoring vs endoscopy | BR 15
+- Q51 | venous-thromboembolism | complication | Red hot swollen leg after a flight: most severe complication of the condition (only one choice recalled) | BR 12; Chula ch17 p625-630
+- Q52 | esophageal-cancer | management | Distal oesophageal SCC T2N0M0: oesophagectomy vs definitive chemoradiation vs neoadjuvant therapy vs endoscopic resection | BR 14
+- Q53 | breast-discharge | diagnosis | Bloody nipple discharge increasing on pressure at one point of the areola: diagnosis | BR 04; Chula ch7
+- Q54 | organ-transplantation | complication | Graft rejection at 2 weeks with tacrolimus at therapeutic level: which cells are responsible | BR 02
+- Q55 | organ-transplantation | complication | Urine output of 400 mL per hour 2 weeks after a wife-to-husband kidney transplant with normal vessels: fluid management | BR 02; BR 01 (Fluid and Electrolyte Management)
+- Q56 | stomach-anatomy-physiology | investigation | Postprandial vomiting of acid and food without bile with normal EGD and colonoscopy: next investigation (ultrasound, barium study, ERCP) | BR 15
+- Q57 | intestinal-obstruction | basic-science | Functional vs mechanical obstruction: which condition is functional | BR 19; Chula ch8 p386-387
+- Q58 | acute-appendicitis | management | Normal appendix at surgery for RLQ pain and leukocytosis in a young adult: what else to look for | BR 26; Chula ch8 p394-395
+- Q59 | surgical-ethics | other | Young patient with complicated appendicitis requesting conservative care against advice, with the senior surgeon agreeing: how to act (stem cut off) | BR 01 (Quality, Patient Safety); BR 26
+- Q60 | acute-pancreatitis | investigation | Back-radiating abdominal pain for 6 hours: which result confirms pancreatitis (enzymes, transaminases, pseudocyst) | BR 28
+- Q61 | peritonitis | investigation | Sudden severe abdominal pain with loss of liver dullness: next investigation (chest film, CT, supine abdominal film) | BR 31; BR 15
+- Q62 | thyroid-cancer | management | Single euthyroid nodule with FNA papillary carcinoma and node-negative imaging: total thyroidectomy with or without iodine vs neck dissection vs lobectomy | BR 34; Chula ch6 p253-257
+- Q63 | stomach-anatomy-physiology | complication | Palpitations, dizziness and tachycardia 2 hours after meals following gastrectomy: dumping vs loop syndromes | BR 15
+- Q64 | breast-cancer | management | 5 cm breast mass fixed to the chest wall with peau d'orange and matted fixed axillary nodes: neoadjuvant therapy vs mastectomy with SLNB or ALND | BR 04; Chula ch19 p671-686
+- Q65 | hernia | diagnosis | Bulge at a midline laparotomy scar shown in a photo: hernia type | BR 33; Chula ch14 p560
+- Q66 | perioperative-care | basic-science | Indications for a central venous catheter (shown in a photo): which is not one (parenteral nutrition, initial resuscitation access, hyperosmolar infusion, CVP, others) | BR 01 (Physiologic Monitoring); lecture notes
+- Q68 | minimally-invasive-surgery | basic-science | Why pneumoperitoneum reduces cardiac output | BR 01 (Minimally Invasive Surgery)
+- Q69 | peripheral-arterial-disease | diagnosis | Weak pulses from the femoral down to the foot on both legs (photo): aortoiliac vs femoral occlusion | BR 11; Chula ch16
+- Q70 | minimally-invasive-surgery | basic-science | Benefits of minimally invasive surgery (time, cosmesis, recovery, pain, blood loss): which is not a benefit | BR 01 (Minimally Invasive Surgery)
+- Q71 | systemic-response-to-injury | basic-science | Starvation vs stress compared on basal metabolic rate, ketones, ureagenesis, gluconeogenesis and muscle proteolysis: which table is right | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q72 | perioperative-care | basic-science | Calculating total energy expenditure: which factor is not used (BMR, ideal weight, infection, injury, fasting glucose) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q73 | caustic-ingestion | management | Young adult after hydrochloric acid ingestion with lip swelling and some stridor: which step must not be done (NG lavage, abdominal film, psychiatry, preparing to intubate) | BR 14

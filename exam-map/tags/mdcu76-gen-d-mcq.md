@@ -1,0 +1,58 @@
+# Topic tags: mdcu76-gen-d-mcq
+- Q1 | breast-cancer | complication | Nerves at risk in axillary dissection: which one supplies latissimus dorsi | BR 04; Chula ch7 p265-269
+- Q2 | surgical-infection | other | Hospital waste sorting by bin colour (recycle, wet, general, hazardous) | BR 01 (Surgical Infections); lecture notes
+- Q3 | jaundice | diagnosis | Progressive jaundice with RUQ pain, dilated proximal and hilar ducts and a dilated gallbladder: which cause fits (pancreatic, duodenal or bile duct cancers, Mirizzi syndrome) | BR 27
+- Q4 | small-intestine | diagnosis | Mechanical SBO in a patient with pigmented spots on the lips: type of polyp causing it | BR 19; BR 25
+- Q5 | scrotal-mass | diagnosis | Scrotal mass with a positive transillumination test: diagnosis | BR 39; BR 33
+- Q6 | hemostasis-transfusion | management | Haemarthrosis in a footballer with haemophilia A: least useful product (FFP, cryoprecipitate, factor IX, platelets, desmopressin) | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q7 | liver-mass | diagnosis | Sudden abdominal pain, tachycardia and distension in a chronic hepatitis B carrier: perforated ulcer vs ruptured AAA vs ruptured HCC | BR 26b; Chula ch11 p469
+- Q8 | surgical-ethics | other | Sedated intoxicated patient with a 4 cm forearm laceration while parents are being contacted: who consents and when to repair (stem cut off) | BR 01 (Quality, Patient Safety); lecture notes
+- Q9 | breast-cancer | management | Three right breast masses with matted axillary nodes: mastectomy with ALND vs sentinel biopsy vs radical mastectomy vs chemoradiation | BR 04; Chula ch19 p671-709
+- Q10 | esophageal-cancer | management | Oesophageal SCC 3 cm with a positive supraclavicular node in a smoker and drinker: definitive chemoradiation vs neoadjuvant therapy then surgery vs surgery | BR 14
+- Q11 | abdominal-pain | diagnosis | Young woman with normal vitals, no fever and RLQ pain for 2 days, mid-cycle (last period 2 weeks ago): mittelschmerz vs appendicitis vs gynaecological causes | BR 26; BR 40; Chula ch9 p409
+- Q12 | hernia | diagnosis | Reducible scrotal mass appearing on sitting up: which examination finding to expect (getting above it, transillumination, impingement and occlusion tests) | BR 33; Chula ch14 p537-538
+- Q13 | gist | basic-science | Submucosal gastric mass with spindle cells on biopsy: cell of origin | BR 21
+- Q14 | portal-hypertension | management | Hepatitis B cirrhosis with ascites, low albumin, jaundice and variceal bleeding: what to do in this patient (diuresis, antiviral, IV albumin, paracentesis; stem cut off) | BR 26b; BR 16
+- Q15 | colorectal-cancer | management | Rectal cancer invading the prostate: en bloc resection of both (only one choice recalled) | BR 25
+- Q16 | hernia | diagnosis | Examination findings of an indirect inguinal hernia (impingement on fingertip or finger side, occlusion test, getting above the mass) | BR 33; Chula ch14 p537
+- Q17 | achalasia | management | Achalasia after failed pneumatic dilatation in an older woman: Heller with fundoplication vs POEM vs botulinum vs oesophagectomy | BR 14
+- Q18 | liver-mass | diagnosis | Solid liver mass with peripheral nodular arterial enhancement and progressive centripetal fill-in: diagnosis | BR 26b; Chula ch11 p467
+- Q19 | hemostasis-transfusion | complication | Fever and desaturation 6 hours after intraoperative transfusion: anaphylaxis vs transfusion-related sepsis vs PE vs pulmonary oedema | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q20 | liver-mass | basic-science | Structures compressed in the Pringle manoeuvre | BR 26b; Chula ch11 p445
+- Q21 | surgical-ethics | other | Patient who refuses blood transfusion for religious reasons: alternatives (crystalloid and colloid, autologous transfusion) | BR 01 (Hemostasis, Transfusion); lecture notes
+- Q22 | hemostasis-transfusion | management | Liver laceration with haemoperitoneum after 3 L Ringer's: next step (labs and CT, laparotomy, FFP and vitamin K, red cells with FFP) | BR 01 (Hemostasis, Transfusion); BR 43-14
+- Q23 | chronic-pancreatitis | management | Calcifying chronic pancreatitis: indication for surgery | BR 28
+- Q24 | diabetic-foot | diagnosis | Diabetic foot gangrene with absent femoral pulse, shiny hairless skin: neuropathy vs aortoiliac occlusion as the cause | BR 11; Chula ch16
+- Q25 | peptic-ulcer-disease | management | Epigastric pain partly relieved by food or antacids: increase PPI vs endoscopy, and when red flags change the plan | BR 15
+- Q26 | hernia | management | Reducible hernia in a diabetic: timing of repair and glucose control (only one choice recalled) | BR 33; Chula ch14 p540
+- Q27 | breast-infection | management | Breastfeeding woman with mastitis: imaging, NSAIDs or antibiotics | BR 04; Chula ch7
+- Q28 | systemic-response-to-injury | basic-science | Metabolic change in simple starvation over a few days (gluconeogenesis, ketogenesis, proteolysis) | BR 01 (Systemic Response to Injury); Chula ch1
+- Q29 | thyroid-cancer | investigation | First-degree relative with medullary thyroid carcinoma: most useful screening test | BR 34; BR 38; Chula ch6
+- Q30 | thyroid-mass | investigation | 2 cm thyroid nodule moving with swallowing: tissue sampling by FNA vs core biopsy | BR 34; Chula ch6 p245
+- Q31 | thyroid-cancer | management | Left papillary thyroid cancer: total thyroidectomy vs lobectomy with isthmectomy vs subtotal | BR 34; Chula ch6 p253-257
+- Q32 | minimally-invasive-surgery | basic-science | Absolute contraindication to minimally invasive surgery (recent MI with EF 45%, carcinomatosis, Child-Pugh C) | BR 01 (Minimally Invasive Surgery)
+- Q33 | systemic-response-to-injury | basic-science | Which condition raises the basal metabolic rate most (major burn, starvation, perforation) | BR 01 (Systemic Response to Injury; Burns); Chula ch1
+- Q34 | systemic-response-to-injury | basic-science | Dominant metabolic feature of fasting (ketogenesis, cytokines, proteolysis): compare with the stress response | BR 01 (Systemic Response to Injury); Chula ch1
+- Q35 | acute-limb-ischemia | investigation | Woman with a pale cold leg and no palpable pulse: initial management (embolectomy, CT angiogram, stent) | BR 11; Chula ch16 p591-598
+- Q36 | spleen | complication | Infections after splenectomy: which organisms carry the risk | BR 29; Chula ch13
+- Q37 | caustic-ingestion | management | Caustic (drain-cleaner) ingestion: which step must not be done (NG lavage with charcoal, IV resuscitation, intubation) | BR 14
+- Q38 | liver-mass | investigation | Hypodense liver lesion on CT: next investigation (MRCP vs endoscopic ultrasound) | BR 26b; Chula ch15 p566-569
+- Q39 | acute-cholecystitis | management | Intubated ICU patient after cardiac surgery with fever, RUQ pain and a dilated gallbladder: next step (stem cut off) | BR 27
+- Q40 | stomach-anatomy-physiology | complication | Sweating, dizziness, flushing and palpitations a few hours after sweet drinks following subtotal gastrectomy: early vs late dumping | BR 15
+- Q41 | fluid-electrolyte | basic-science | Intravascular volume of a 70 kg man | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166
+- Q42 | fluid-electrolyte | management | Replacing losses from a high-output enterocutaneous fistula: choice of fluid | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-205
+- Q43 | perioperative-care | basic-science | Components of TPN: which is not routinely added (vitamin K vs trace elements chromium, manganese, zinc, copper) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q44 | small-intestine | management | Short bowel syndrome on day 5 with flatus: route of nutrition | BR 19; Chula ch8 p399
+- Q45 | diverticular-disease | diagnosis | Elderly woman with left iliac fossa pain: most likely diagnosis (only one choice recalled) | BR 25
+- Q46 | minimally-invasive-surgery | basic-science | Advantage of minimally invasive surgery (visualisation, learning curve, duration) | BR 01 (Minimally Invasive Surgery)
+- Q47 | venous-insufficiency | management | Leg ulcer management by cause (bandaging, debridement with antibiotics, compression) | BR 12; Chula ch18 p651-657
+- Q48 | acute-limb-ischemia | management | Acute limb ischaemia with numbness but preserved motor function: imaging first vs embolectomy | BR 11; Chula ch16 p591-598
+- Q49 | surgical-infection | investigation | Suspected C. difficile colitis after a full antibiotic course: fastest diagnostic test | BR 01 (Surgical Infections); BR 24
+- Q50 | surgical-infection | diagnosis | Catheter-related bloodstream infection: most common organism group | BR 01 (Surgical Infections); lecture notes
+- Q51 | perioperative-care | complication | Fever with a red swollen peripheral nutrition line site just before discharge (only one choice recalled) | BR 01 (Surgical Infections); lecture notes
+- Q52 | organ-transplantation | complication | Dark kidney graft with anuria 2 weeks after a living-donor transplant (wife to husband) with normal tacrolimus levels: cause of the graft failure (stem cut off) | BR 02
+- Q53 | organ-transplantation | investigation | Pre-liver-transplant work-up: which test is not needed (HLA, ABO, Rh, psychosocial, cardiopulmonary) | BR 02
+- Q54 | anorectal-disease | management | Acute perianal pain with a fluctuant swelling beside the anus: excision vs incision and drainage | BR 25
+- Q55 | surgical-ethics | other | Meaning of patients' rights under Thai law | BR 01 (Quality, Patient Safety); lecture notes
+- Q56 | intestinal-obstruction | investigation | Cardinal signs of bowel obstruction: first imaging (plain films vs CT) | BR 19; Chula ch8 p381-383
+- Q57 | hyperthyroidism | investigation | Graves disease with low TSH: imaging to use | BR 34; Chula ch6

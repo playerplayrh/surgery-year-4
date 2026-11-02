@@ -505,17 +505,24 @@ def in_exam_map(code):
 
 
 TAG_ASKS = {"diagnosis", "investigation", "management", "complication", "basic-science", "other"}
-TAG_LINE = re.compile(r"^[-*]\s*Q(\d+)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*$")
+TAG_LINE = re.compile(r"^[-*]\s*Q(\d+)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*"
+                      r"(?:\|\s*([^|]*?)\s*(?:\|\s*([^|]*?)\s*)?)?$")
 
 
-def parse_tags(text):
-    """exam-map/tags/<set>.md lines '- Q12 | topic | asks' -> list of (line no., q, topic, asks)."""
+def parse_tags_full(text):
+    """exam-map/tags/<set>.md lines '- Q12 | topic | asks | subtopic | read' (the last two optional)
+    -> list of (line no., q, topic, asks, subtopic, read); missing fields are ''."""
     out = []
     for n, line in enumerate(text.split("\n"), 1):
         m = TAG_LINE.match(line.strip())
         if m:
-            out.append((n, int(m.group(1)), m.group(2), m.group(3)))
+            out.append((n, int(m.group(1)), m.group(2), m.group(3), m.group(4) or "", m.group(5) or ""))
     return out
+
+
+def parse_tags(text):
+    """exam-map/tags/<set>.md lines -> list of (line no., q, topic, asks)."""
+    return [t[:4] for t in parse_tags_full(text)]
 
 
 def check_exam_tags(root, recs, rep):
@@ -534,8 +541,10 @@ def check_exam_tags(root, recs, rep):
             continue
         rel = f.relative_to(root).as_posix()
         seen = set()
-        for n, q, topic, asks in parse_tags(read_text(f)):
+        for n, q, topic, asks, subtopic, _read in parse_tags_full(read_text(f)):
             where = f"{rel}:{n}"
+            if subtopic and len(subtopic) < 12:
+                rep.warn(where, f"Q{q}: subtopic '{subtopic}' is very short; say what the question asks")
             if q not in nums:
                 rep.error(where, f"Q{q} is not a question in exams/{code}/exam.md")
             if q in seen:

@@ -1,0 +1,73 @@
+# Topic tags: mdcu76-gen-c-mcq
+- Q1 | thyroid-cancer | investigation | Young man with medullary thyroid carcinoma on FNA: what to screen for before surgery (MEN-associated conditions, calcitonin and CEA) | BR 34; BR 38; Chula ch6
+- Q2 | small-intestine | basic-science | Amino acid that may improve absorption and enterocyte function after small bowel resection | BR 19; Chula ch8 p399
+- Q3 | surgical-oncology | basic-science | Hereditary cancer genes and their syndromes (p53, RET, APC, PTEN, BRCA1): which pairing is wrong | BR 01 (Oncology); BR 38
+- Q4 | thyroid-cancer | basic-science | Previous neck or chest irradiation (thymoma treated with radiotherapy): which thyroid cancer is most likely | BR 34; Chula ch6
+- Q5 | portal-hypertension | complication | Most common complication of a TIPS (only one choice recalled) | BR 26b; BR 16
+- Q6 | thyroid-mass | complication | Perioral numbness and carpopedal spasm on blood pressure measurement on day 1 after total thyroidectomy: the expected laboratory abnormality | BR 34; BR 35; Chula ch6 p258-260
+- Q7 | acute-appendicitis | basic-science | Components of the Alvarado score: which listed item is not part of it | BR 26; Chula ch9 p413
+- Q8 | organ-transplantation | management | Medical management of a brain-dead organ donor: which drug combination supports the donor | BR 02
+- Q9 | organ-transplantation | complication | Rising creatinine and oliguria 2 weeks after a living-donor kidney transplant despite tacrolimus, with normal vessels and ureter: which cells drive the rejection | BR 02
+- Q10 | organ-transplantation | management | Severe type 2 diabetes with renal failure seeking transplantation: best long-term option (deceased or living donor kidney, dialysis, pancreas after kidney, simultaneous pancreas-kidney) | BR 02
+- Q11 | liver-mass | investigation | Mass at the hepatic hilum with dilated intrahepatic ducts on CT: tumour marker most likely raised | BR 26b; Chula ch11 p475; ch15 p566
+- Q12 | surgical-oncology | investigation | Methods to obtain tissue by site (thyroid nodule core biopsy, gastric mass endoscopic biopsy, retroperitoneal mass, others): which is inappropriate | BR 01 (Oncology); BR 34
+- Q13 | surgical-oncology | basic-science | Hallmarks of cancer (evading apoptosis, autophagy, immunity; invasion; self-sufficient growth): which is not one | BR 01 (Oncology); lecture notes
+- Q14 | esophageal-cancer | management | Oesophageal wall thickening of 5 cm with mediastinal nodes and multiple liver nodules: resection with adjuvant therapy vs neoadjuvant therapy vs stent | BR 14
+- Q15 | surgical-oncology | management | Palliative treatments (high-dose morphine with sedation, IV analgesia, radiotherapy for cord compression, ERCP with stent): which is not considered palliative | BR 01 (Oncology); lecture notes
+- Q16 | liver-mass | management | Most important factor in deciding whether liver resection is possible (cause of cirrhosis, remnant liver, number or size of lesions) | BR 26b; Chula ch11 p470-471; ch15 p573
+- Q17 | skin-and-subcutaneous-lesions | management | Posterior neck nodule present for 3 years that suddenly became inflamed: drainage, excision or aspiration first | BR 03
+- Q18 | liver-mass | management | 5 cm HCC in segment VIII with borderline bilirubin, low platelets and INR 1.5: resection vs transplant vs palliation | BR 26b; Chula ch11 p470-471
+- Q19 | perioperative-care | management | Elderly postoperative patient with an infected wound under wet dressings: nutrition plan (NPO with fluids, clear liquids, enteral feeding, PPN, TPN) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q20 | choledochal-cyst | diagnosis | Young woman with intermittent jaundice and an ERCP image (not reproduced): choledochal cyst vs Mirizzi syndrome vs chronic pancreatitis | BR 27; BR 38b
+- Q21 | hemostasis-transfusion | complication | Flank pain and dark brown urine 2 hours after transfusion: most common cause | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q22 | acute-pancreatitis | diagnosis | Heavy smoker with hypertension, severe epigastric pain to the back and purple left flank: haemorrhagic pancreatitis vs pyelonephritis vs mesenteric ischaemia | BR 28
+- Q23 | intestinal-obstruction | management | Colicky pain with aerobilia on ultrasound and no previous biliary surgery: management of the suspected cause | BR 27; BR 19
+- Q24 | surgical-ethics | other | Defining medicine as a profession | BR 01 (Quality, Patient Safety); lecture notes
+- Q25 | systemic-response-to-injury | management | Non-diabetic patient on day 4 after repair of multiple bowel perforations, NPO and stable, with glucose of 140: appropriate management | BR 01 (Systemic Response and Metabolic Support); Chula ch1
+- Q26 | acute-pancreatitis | investigation | Gallstone pancreatitis: which listed value marks severe disease (glucose, age, LDH and others) | BR 28
+- Q27 | jaundice | diagnosis | Painless jaundice with an enlarged gallbladder (Courvoisier): which listed cause is unlikely | BR 28; BR 27
+- Q28 | esophageal-cancer | diagnosis | Gastric-type epithelium in the oesophagus on endoscopy with a suspected cancer: most likely histology | BR 14
+- Q29 | gastric-cancer | basic-science | Gastric MALT lymphoma: associated infection | BR 22; BR 15
+- Q30 | surgical-infection | management | Prophylactic antibiotic for a penicillin-allergic patient having mitral valve repair | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q31 | venous-thromboembolism | investigation | Leg pain and oedema after a long flight: initial investigation | BR 12; Chula ch17 p630
+- Q32 | peripheral-arterial-disease | diagnosis | Leg pain after 80 metres of walking for 3 months, relieved by rest, in a patient with AF: embolism vs thrombosis vs aortoiliac occlusive disease | BR 11; Chula ch16
+- Q33 | hernia | management | Recurrent reducible groin hernia 20 years after an open repair: observe vs laparoscopic TAPP/TEP vs open darn vs tissue repair | BR 33; Chula ch14 p549-551
+- Q34 | hemostasis-transfusion | management | Patient on heparin for DVT who falls and needs surgery for an epidural haematoma: how to handle anticoagulation before operating | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q35 | surgical-ethics | other | Patient chooses conservative treatment for appendicitis after being offered surgery, then perforates and needs major surgery: was the doctor at fault (stem cut off) | BR 01 (Quality, Patient Safety); BR 26
+- Q36 | upper-gi-bleeding | management | First step in a patient with haematemesis and melaena (NG decompression, fluid resuscitation, somatostatin) | BR 16
+- Q37 | intestinal-obstruction | diagnosis | Obstipation, vomiting and colicky pain: type of obstruction (only one choice recalled) | BR 19; Chula ch8 p380
+- Q38 | stomach-anatomy-physiology | complication | Diarrhoea and light-headedness after milk feeds in a child with a jejunostomy: afferent loop, efferent loop or dumping syndrome | BR 15; BR 19
+- Q39 | small-intestine | basic-science | Remaining small bowel length below which short bowel syndrome develops | BR 19; Chula ch8 p398
+- Q40 | hernia | basic-science | Borders of the femoral canal | BR 33; Chula ch14 p535; p539
+- Q41 | breast-cancer | management | 2 cm breast cancer without clinical nodes in a woman wanting breast conservation: wide excision with SLNB vs mastectomy options | BR 04; Chula ch19 p687-709
+- Q42 | hernia | management | Painful tender irreducible hernia with fever: attempt reduction, observe with antibiotics, or explore with resection and repair | BR 33; Chula ch14 p554-556
+- Q43 | hernia | diagnosis | Bulge through an upper abdominal incision after peptic ulcer surgery: hernia type | BR 33; Chula ch14 p560
+- Q44 | acute-appendicitis | management | Normal appendix at operation for RLQ pain in a young man: what else to look for | BR 26; Chula ch9 p409; ch8 p394-395
+- Q45 | peptic-ulcer-disease | diagnosis | Sudden epigastric pain radiating to the back and shoulder with board-like rigidity: perforated ulcer vs pancreatitis vs aneurysm | BR 15; BR 31
+- Q46 | abdominal-aortic-aneurysm | management | Which patient is suitable for elective AAA repair (size, sex, age, symptoms) | BR 11; Chula ch16 p615-617
+- Q47 | fluid-electrolyte | basic-science | Intravascular volume of a 70 kg man | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166
+- Q48 | systemic-response-to-injury | basic-science | Most important pro-inflammatory cytokines after injury | BR 01 (Systemic Response to Injury); Chula ch1 p66
+- Q49 | mesenteric-ischemia | diagnosis | Severe abdominal pain with mild tenderness, no guarding and an irregular pulse: ischaemia vs SBO | BR 19; Chula ch8 p396-397
+- Q50 | acute-cholecystitis | diagnosis | Thickened gallbladder wall without stones on ultrasound: diagnosis | BR 27
+- Q51 | gallstone-disease | basic-science | Composition of cholesterol gallstones and the biliary lipids involved | BR 27
+- Q52 | perioperative-care | management | Measures that reduce postoperative morbidity (neoadjuvant therapy, education, early ambulation, laparoscopy): which does not | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q53 | liver-abscess | diagnosis | Liver cyst on imaging in a worker returning from Saudi Arabia (only one choice recalled) | BR 26b; Chula ch11 p464-465
+- Q54 | venous-thromboembolism | management | Mechanical DVT prevention during surgery (only one choice recalled) | BR 12; Chula ch17 p631-637
+- Q55 | surgical-infection | basic-science | Best option for preventing surgical site infection (technology vs technique) | BR 01 (Surgical Infections); Chula ch5
+- Q56 | surgical-infection | management | Fever with a red swollen wound after surgery: ointment and dressing vs IV antibiotics vs opening the wound | BR 01 (Surgical Infections); Chula ch5 p219-223
+- Q57 | breast-mass | diagnosis | Young woman with a breast mass with benign features and cyclical pain: diagnosis | BR 04; Chula ch7
+- Q58 | breast-mass | investigation | 45-year-old woman with a breast mass at the first visit: initial imaging by age | BR 04; Chula ch7 p302-328
+- Q59 | achalasia | investigation | Dysphagia to solids and liquids with regurgitation of undigested food and weight loss: first investigation | BR 14
+- Q60 | esophageal-perforation | diagnosis | Painful swallowing and subcutaneous emphysema after removal of a fish bone: perforated oesophagus vs fistula vs tracheal injury | BR 14; BR 17
+- Q61 | surgical-ethics | other | Drug company funds a doctor's research on a new drug and travel to a seminar on it: how to avoid an ethical breach (stem cut off) | BR 01 (Quality, Patient Safety); lecture notes
+- Q62 | upper-gi-bleeding | diagnosis | Haematemesis after vomiting with a 3 cm mucosal-only tear in the oesophagus: naming the syndrome | BR 16; BR 14
+- Q63 | chronic-pancreatitis | basic-science | Calcified pancreas on X-ray with epigastric pain to the back: mechanism of the pain (stem cut off) | BR 28
+- Q64 | acute-pancreatitis | complication | Complications of acute pancreatitis (necrosis, abscess, pseudocyst, pseudoaneurysm) vs a cause of pancreatitis: find the one that is not a complication | BR 28
+- Q65 | periampullary-tumor | management | 2 cm pancreatic head cancer: most appropriate treatment | BR 28
+- Q66 | minimally-invasive-surgery | basic-science | Gas used to create pneumoperitoneum and why | BR 01 (Minimally Invasive Surgery)
+- Q67 | minimally-invasive-surgery | basic-science | Physiological effects of pneumoperitoneum on venous return, cardiac output and vascular resistance (only one choice recalled) | BR 01 (Minimally Invasive Surgery)
+- Q68 | fluid-electrolyte | basic-science | Which solute contributes most to serum osmolality | BR 01 (Fluid and Electrolyte Management); Chula ch4 p168-169
+- Q69 | thyroid-mass | management | Left thyroid nodule with FNA showing follicular neoplasm: next step (core biopsy, lobectomy, with isthmectomy, subtotal or total thyroidectomy) | BR 34; Chula ch6 p245-250
+- Q70 | systemic-response-to-injury | basic-science | Metabolic state after injury (catabolism and its drivers, glucose, lipolysis, lactate): which statement is correct | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q71 | intestinal-obstruction | diagnosis | Woman with a previous caesarean section, colicky pain, mucus but no stool on rectal exam and obstipation: small bowel adhesion vs colonic obstruction | BR 19; Chula ch8 p379-381
+- Q72 | gist | investigation | How GIST is diagnosed (only one choice recalled) | BR 21
