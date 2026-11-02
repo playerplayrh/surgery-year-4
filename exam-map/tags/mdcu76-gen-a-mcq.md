@@ -1,0 +1,76 @@
+# Topic tags: mdcu76-gen-a-mcq
+- Q1 | hernia | diagnosis | Bulge on coughing through a 3 cm defect lateral to the rectus in a woman with a caesarean scar: incisional vs Spigelian vs direct hernia | BR 33; Chula ch14 p528; p534
+- Q2 | esophageal-perforation | diagnosis | Painful red swollen neck with fever and subcutaneous emphysema after endoscopic removal of a fish bone: diagnosis | BR 14; BR 17
+- Q3 | hernia | basic-science | Femoral hernia repair: on which side of the femoral canal the structure at risk lies | BR 33; Chula ch14 p535; p542
+- Q4 | organ-transplantation | basic-science | Immunosuppressants used after transplantation (azathioprine, tacrolimus, cyclosporin, mycophenolate) vs a drug with another use: find the one not used | BR 02
+- Q5 | upper-gi-bleeding | diagnosis | Upper GI bleeding with nocturnal epigastric pain: Dieulafoy lesion vs cancer vs bleeding duodenal ulcer | BR 16; BR 15
+- Q6 | acute-cholangitis | basic-science | Most common organism in acute cholangitis (only one choice recalled) | BR 27
+- Q7 | parathyroid | investigation | Functional imaging used to localise parathyroid adenoma (sestamibi, PET-CT, contrast CT) | BR 35
+- Q8 | thyroid-cancer | management | Extent of thyroid surgery for papillary carcinoma (subtotal, total, lobectomy) and when lobectomy is enough | BR 34; Chula ch6 p253-257
+- Q9 | stomach-anatomy-physiology | basic-science | Ulcer on the lesser curvature eroding a vessel: which gastric artery runs there | BR 15; BR 16
+- Q10 | gastric-cancer | diagnosis | Older woman on medical treatment for GERD symptoms who now has anaemia, epigastric pain and heavy melaena: bleeding gastric cancer vs duodenal ulcer | BR 15; BR 16
+- Q11 | bariatric-surgery | management | Indications and non-indications for bariatric surgery (BMI cut-offs, sleep apnoea, refusal of behaviour change, age with hypertension) | BR 18
+- Q12 | chronic-pancreatitis | management | Calcified pancreas with a pancreatic duct of only 3 mm: drainage operation vs conservative care | BR 28
+- Q13 | venous-thromboembolism | investigation | Leg oedema the day after a long-haul flight: first investigation for suspected DVT | BR 12; Chula ch17 p630
+- Q14 | minimally-invasive-surgery | basic-science | Who should not have laparoscopic surgery: severe heart failure with low ejection fraction vs a hepatitis B carrier | BR 01 (Minimally Invasive Surgery)
+- Q15 | fluid-electrolyte | management | Replacement fluid for losses from multiple enterocutaneous fistulas after trauma surgery | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-205; ch8 p390
+- Q16 | perioperative-care | investigation | Preoperative assessment of haemostasis and coagulation: which element must always be done (CBC, PT, aPTT, platelet function, history and examination) | BR 01 (Hemostasis); Chula ch3
+- Q17 | hyperthyroidism | diagnosis | Low TSH with a cold nodule on thyroid scan: what the combination means | BR 34; Chula ch6
+- Q18 | breast-cancer | management | Invasive ductal carcinoma with widespread microcalcifications in two quadrants and a clinically negative axilla: breast-conserving vs mastectomy and sentinel vs axillary dissection | BR 04; Chula ch19 p687-709
+- Q19 | thyroid-mass | management | Goitre: total vs subtotal thyroidectomy and what decides the operation (size, compression, toxicity) | BR 34; Chula ch6 p253-257
+- Q20 | surgical-infection | basic-science | What counts as prophylactic antibiotics vs treatment (appendicitis antibiotics, vancomycin before mesh repair, cefazolin before arthroplasty) | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q21 | fluid-electrolyte | diagnosis | SIADH: which electrolyte is abnormal | BR 01 (Fluid and Electrolyte Management); Chula ch4 p169-175
+- Q22 | organ-transplantation | investigation | Compatibility testing needed before liver transplantation (crossmatch, HLA typing, ABO) | BR 02
+- Q23 | organ-transplantation | basic-science | Naming a liver transplant placed in the position of the native liver | BR 02
+- Q24 | fluid-electrolyte | diagnosis | Electrolyte disorder behind an arrhythmia with ventricular fibrillation (potassium high or low, magnesium) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p179-182
+- Q25 | breast-cancer | management | Breast microcalcifications with an impalpable axilla: choice of breast operation and axillary staging | BR 04; Chula ch19 p687-709
+- Q26 | surgical-oncology | basic-science | Infection and cancer pairs (hepatitis A and HCC, EBV and Burkitt, HPV and penile cancer, liver fluke and cholangiocarcinoma, H. pylori and gastric cancer): which is wrong | BR 01 (Oncology); lecture notes
+- Q27 | jaundice | management | Obstructive jaundice from a hilar mass with peritoneal nodules: palliative drainage by PTBD vs ERCP stent | BR 27; Chula ch15 p572-573
+- Q28 | surgical-ethics | other | Health-care worker and a hepatitis B patient in theatre: which action is wrong (declining to scrub, goggles, apron) | BR 01 (Quality, Patient Safety); Chula ch5 p229-231
+- Q29 | intestinal-obstruction | diagnosis | SBO symptoms with a dense opacity in the RLQ on the plain film: diagnosis | BR 27; BR 19
+- Q30 | organ-transplantation | basic-science | Contraindications to solid organ donation (HIV, melanoma, persistent hypertension, prion disease): which is not one | BR 02
+- Q31 | fluid-electrolyte | basic-science | Expected urine output per hour for a 50 kg adult | BR 01 (Fluid and Electrolyte Management); Chula ch4 p194-197
+- Q32 | perioperative-care | complication | Fever on postoperative day 5 after catheter removal on day 2, diet on day 3 and walking on day 4: ranking causes by timing (atelectasis, UTI, wound infection, DVT, thrombophlebitis) | BR 01 (Surgical Infections); lecture notes
+- Q33 | upper-gi-bleeding | management | Variceal rebleeding after resuscitation and sclerotherapy: next treatment (banding, TIPS, shunt operations) | BR 16; BR 26b
+- Q34 | venous-thromboembolism | management | Breast cancer surgery with a skin flap: which measure helps prevent DVT (ambulation and hydration, compression device, nothing) | BR 12; Chula ch17 p631-637
+- Q35 | achalasia | investigation | Dysphagia to solids and liquids with proximal dilatation and distal tapering on barium: next test (EUS, biopsy, manometry) | BR 14
+- Q36 | hernia | complication | Fever, red tender swollen wound with burning pain on day 5 after open hernia repair: mesh infection vs nerve injury vs granuloma | BR 33; Chula ch14 p552-553
+- Q37 | liver-mass | management | Liver metastases needing resection but with too small a future remnant: what to do before resection (TACE, portal vein embolisation, hepatic vein occlusion) | BR 26b; Chula ch11 p477; ch15 p573
+- Q38 | hyperthyroidism | diagnosis | Low TSH with a cold nodule: interpretation (repeat theme of Q17) | BR 34; Chula ch6
+- Q39 | hyperthyroidism | basic-science | Causes of hyperthyroidism (Plummer disease, Graves, Hashimoto, medullary carcinoma): which does not cause it | BR 34; Chula ch6
+- Q40 | jaundice | investigation | Jaundice with epigastric discomfort: which investigation is not useful (CT, biopsy, tumour markers, colonoscopy, viral profile) | BR 27; Chula ch11 p453-455
+- Q41 | soft-tissue-infection | basic-science | Organisms in a red swollen skin infection shown in a picture: which Gram groups may be involved (no stem recalled) | BR 03; BR 01 (Surgical Infections)
+- Q42 | acute-cholecystitis | management | RUQ pain with WBC 26,000 and gas in the gallbladder wall without jaundice: grading the cholecystitis and choosing surgery timing or drainage | BR 27
+- Q43 | peripheral-arterial-disease | investigation | Calf claudication at 200 metres with a weak foot pulse: imaging vs proceeding to endovascular treatment | BR 11; Chula ch16
+- Q44 | hemostasis-transfusion | management | Expanding epidural haematoma in a patient on warfarin needing emergency surgery: fastest way to reverse anticoagulation | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q45 | hemostasis-transfusion | basic-science | Correct order of the steps of haemostasis (only one choice recalled) | BR 01 (Hemostasis); Chula ch3 p110-118
+- Q46 | surgical-infection | management | Tetanus immunoglobulin for unvaccinated patients by wound type (glass penetrating wound vs abrasion) | BR 01 (Surgical Infections); Chula ch20 p715
+- Q47 | colorectal-cancer | management | Adenomatous polyp found on colonoscopy in a likely FAP patient: most important advice (family genetic testing, discussion, psychotherapy) | BR 25
+- Q48 | fluid-electrolyte | management | Replacement fluid for loss of gastric contents | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-205
+- Q49 | liver-abscess | diagnosis | Pale patient with a 10 cm rim-enhancing mixed solid-cystic liver lesion: abscess vs bleeding tumour | BR 26b; Chula ch11 p459-461
+- Q50 | acute-pancreatitis | investigation | Which value does not indicate severity of acute pancreatitis (amylase, WBC, glucose, calcium) | BR 28
+- Q51 | perioperative-care | investigation | Definition of malnutrition: which finding counts (glucose, weight under 50 kg, weight loss percentage over 3 months) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q52 | perioperative-care | management | Diabetic patient on aspirin 325 mg before elective hernia repair: stop and for how long, continue or bridge | BR 01 (Hemostasis); Chula ch3; lecture notes
+- Q53 | perioperative-care | management | Measures that help recovery after surgery (epidural analgesia, early NG removal, routine oxygen, non-opioids, gum chewing): which does not help | BR 01 (Optimizing Perioperative Care: Enhanced Recovery); lecture notes
+- Q54 | minimally-invasive-surgery | basic-science | Benefits of minimally invasive surgery (recovery, pain, anaesthesia time): which is not a benefit | BR 01 (Minimally Invasive Surgery)
+- Q55 | liver-mass | diagnosis | Young woman on the pill for 10 years with a liver mass showing arterial enhancement and rapid washout: adenoma vs FNH vs HCC | BR 26b; Chula ch11 p466-467
+- Q56 | liver-mass | diagnosis | Chronic hepatitis C with normal liver parenchyma and a mass with rapid washout: HCC vs FNH vs adenoma | BR 26b; Chula ch11 p469-470
+- Q57 | periampullary-tumor | diagnosis | Jaundice, anaemia, back-radiating epigastric pain and an irregular epigastric mass: pancreatic head cancer vs gastric cancer vs GIST | BR 28
+- Q58 | portal-hypertension | basic-science | Collateral veins that form oesophageal varices (no choices recalled) | BR 26b; BR 16
+- Q59 | gist | investigation | Subepithelial gastric tumour on endoscopy: next step (biopsy, CT, EUS) | BR 21
+- Q60 | pancreatic-endocrine-tumor | diagnosis | New diabetes, perineal dermatitis and DVT: which pancreatic endocrine tumour | BR 28
+- Q61 | esophageal-cancer | management | Oesophageal SCC T2N0M0 in a fit patient: surgery vs definitive chemotherapy | BR 14
+- Q62 | acute-appendicitis | management | Pregnant woman at 20 weeks with fever, migrating RLQ pain, tenderness and leukocytosis: imaging first or operate | BR 26; Chula ch9
+- Q63 | hernia | management | Elderly patient with a reducible inguinal hernia booked for elective surgery: mesh vs tissue repair | BR 33; Chula ch14 p540-548
+- Q64 | intestinal-obstruction | investigation | Patient with a previous appendectomy, abdominal pain for over 6 hours, empty rectum and no flatus: conservative care, laparoscopy or plain films first | BR 19; Chula ch8 p382-385
+- Q65 | hernia | management | Previously reducible hernia that becomes irreducible with abdominal pain and fever: emergency vs elective repair | BR 33; Chula ch14 p554-556
+- Q66 | breast-mass | investigation | Young woman with a cystic-feeling breast lump: imaging by age | BR 04; Chula ch7 p302-328
+- Q67 | systemic-response-to-injury | basic-science | Measurable metabolic change after an operation (proteolysis, gluconeogenesis, ketogenesis, cytokines) | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q68 | abdominal-aortic-aneurysm | management | Symptomatic saccular aortic aneurysm with back pain and a pulsatile mass: elective open repair vs EVAR when it grows vs follow-up | BR 11; Chula ch16 p615-617
+- Q69 | surgical-oncology | management | Spinal cord compression from lung cancer for 6 hours: emergency treatment (only one choice recalled) | BR 01 (Oncology); BR 41
+- Q70 | upper-gi-bleeding | diagnosis | Upper GI bleed in a cirrhotic with rebleeding 2 hours later: likely source (varices, gastric or duodenal ulcer, Boerhaave) | BR 16; BR 26b
+- Q71 | diverticular-disease | management | Sigmoid diverticulitis with multiple diverticula and a small abscess: resection with anastomosis vs Hartmann vs antibiotics | BR 25
+- Q72 | organ-transplantation | basic-science | Benefits of pancreas transplantation (endocrine vs exocrine function, combined kidney-pancreas): which is not a benefit | BR 02
+- Q73 | breast-cancer | complication | Swollen arm after mastectomy shown in a picture: lymphoedema vs lymphangitis | BR 04; BR 13; Chula ch19 p705-709
+- Q74 | hemostasis-transfusion | management | Patient on warfarin with an expanding epidural haematoma after a crash: what to give before surgery (repeat theme of Q44) | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q75 | surgical-infection | basic-science | Correct hand-hygiene and glove sequence between patients | BR 01 (Surgical Infections); Chula ch5 p229-231
