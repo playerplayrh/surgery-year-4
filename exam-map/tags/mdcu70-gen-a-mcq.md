@@ -17,7 +17,7 @@
 - Q25 | organ-transplantation | investigation | Pre-kidney-transplant work-up: which test is unnecessary (creatinine clearance, ABO, crossmatch, HLA typing, panel reactive antibody) | BR 02
 - Q26 | acute-pancreatitis | investigation | Suspected acute pancreatitis with epigastric pain through to the back: least useful laboratory test (LDH, amylase, CA19-9, lipase, calcium) | BR 28
 - Q27 | chronic-pancreatitis | management | Recurrent back-radiating epigastric pain with new diabetes and steatorrhoea in a drinker: most appropriate treatment (resection, drainage operation, opioid, enzymes, glycaemic control) | BR 28
-- Q29 | pancreatic-endocrine-tumor | investigation | Recurrent fasting loss of consciousness and seizures in a young athlete: best first investigation for suspected insulinoma | BR 28
+- Q29 | pancreatic-endocrine-tumor | investigation | Recurrent fasting loss of consciousness and seizures in a young athlete: best first investigation for the hypoglycaemic episodes | BR 28
 - Q31 | acute-appendicitis | management | Pregnant woman at 31 weeks with migrating RLQ pain and an ultrasound that shows fluid but not the appendix: next management | BR 26; Chula ch9
 - Q33 | abdominal-aortic-aneurysm | diagnosis | Elderly hypertensive smoker with sudden mid-abdominal pain to the back, borderline hypotension and distension: provisional diagnosis | BR 11; Chula ch16 p615-617
 - Q34 | acute-cholecystitis | diagnosis | Diabetic woman in septic shock with a warm 8 cm RUQ mass and inspiratory arrest on palpation: diagnosis among pneumonia, cholangitis, liver abscess, diverticulitis and gangrenous cholecystitis | BR 27
