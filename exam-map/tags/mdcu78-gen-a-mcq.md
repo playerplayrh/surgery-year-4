@@ -1,67 +1,67 @@
 # Topic tags: mdcu78-gen-a-mcq
-- Q1 | perioperative-care | investigation | Elderly man who can climb a flight of stairs before elective surgery: appropriate preoperative cardiac assessment | BR 01 (Optimizing Perioperative Care); lecture notes
-- Q2 | perioperative-care | management | Heavy smoker having surgery: measures to reduce postoperative pulmonary complications (cessation, incentive spirometry and others) | BR 01 (Optimizing Perioperative Care); lecture notes
-- Q101 | hemostasis-transfusion | management | Haemophilia A with a swollen joint: cryoprecipitate, FFP, factor VIII concentrate or platelets, with which supportive care | BR 01 (Hemostasis, Transfusion); Chula ch3
-- Q102 | hemostasis-transfusion | basic-science | Prolonged aPTT with normal PT and platelets: which pathway and factors are abnormal | BR 01 (Hemostasis); Chula ch3 p118-131
-- Q201 | fluid-electrolyte | basic-science | Normal range of serum osmolality (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p168-169
-- Q202 | fluid-electrolyte | basic-science | Body fluid that resembles plasma most (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-200
-- Q203 | shock | diagnosis | Tachycardic hypotensive trauma patient: which acid-base disorder and mechanism to expect | BR 01 (Shock); Chula ch4 p190-193
-- Q204 | fluid-electrolyte | management | High-output enterocutaneous fistula over 1,000 mL: most appropriate IV fluid | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-205
-- Q205 | fluid-electrolyte | management | Brain-injured patient with Na 120, low serum osmolality and concentrated urine: fluid restriction vs hypertonic saline | BR 01 (Fluid and Electrolyte Management); Chula ch4 p169-175
-- Q301 | basic-surgical-skills | basic-science | Suture material for a 3 cm skin laceration (silk, polyamide, polyglactin, polydioxanone) | BR 01 (Skills and Simulation); BR 42
-- Q302 | burns | management | Scald burn on the leg with a red granulating ring in a photo: wound dressing choice | BR 01 (Burns); BR 42
-- Q303 | wound-healing | basic-science | Phase of wound healing in which angiogenesis mainly occurs | BR 01 (Wound Healing); Chula ch2
-- Q304 | necrotizing-fasciitis | management | Fever, tachycardia, bullae and necrotic tissue on the leg: management (only one choice recalled) | BR 03; BR 01 (Surgical Infections)
-- Q401 | surgical-infection | management | Open hernia repair with mesh: appropriate antibiotic prophylaxis (none, which drug, timing) | BR 01 (Surgical Infections); Chula ch5 p227-229
-- Q501 | surgical-oncology | basic-science | Carcinogen for transitional cell bladder cancer (aflatoxin, benzene, vinyl chloride, schistosomiasis, polyamines) | BR 01 (Oncology); BR 39
-- Q502 | colorectal-cancer | basic-science | Family with colorectal cancer in father and grandfather and ovarian cancer in an aunt: mode of inheritance | BR 25; BR 01 (Oncology)
-- Q601 | surgical-ethics | other | Appropriate clinical attire | BR 01 (Quality, Patient Safety); lecture notes
-- Q602 | surgical-ethics | other | Definition of the surgical time-out | BR 01 (Quality, Patient Safety); lecture notes
-- Q603 | surgical-ethics | other | Surgeon arranges cholecystectomy after the patient has refused: which ethical or legal principle is violated | BR 01 (Quality, Patient Safety); lecture notes
-- Q701 | systemic-response-to-injury | basic-science | Pro-inflammatory vs anti-inflammatory cytokines after injury | BR 01 (Systemic Response to Injury); Chula ch1 p66
-- Q702 | systemic-response-to-injury | basic-science | Mechanism of stress hyperglycaemia after injury in a non-diabetic | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
-- Q801 | stomach-anatomy-physiology | complication | Tachycardia, sweating and abdominal discomfort 30 minutes after meals following gastrectomy: diagnosis | BR 15
-- Q901 | hernia | diagnosis | Groin mass above the inguinal ligament with a positive occlusion test: diagnosis | BR 33; Chula ch14 p537
-- Q902 | hernia | basic-science | Pressure over the mid-inguinal canal on coughing, with the mass appearing medial to the pressure point: the space it comes through | BR 33; Chula ch14 p534; p537
-- Q903 | hernia | management | Bilateral indirect inguinal hernias in a patient worried about postoperative pain: which operation (open repairs, TEP, IPOM) | BR 33; Chula ch14 p549-550
-- Q1001 | intestinal-obstruction | diagnosis | Plain abdominal film shown: diagnosis (only one choice recalled) | BR 25; BR 19
-- Q1002 | mesenteric-ischemia | diagnosis | Valvular heart disease with abdominal pain, irregular pulse and blood on rectal exam: embolism vs thrombosis | BR 19; Chula ch8 p396-397
-- Q1101 | acute-cholecystitis | management | Fever and RUQ pain with gas in a thickened gallbladder wall on ultrasound: antibiotics and timing of cholecystectomy vs drainage | BR 27
-- Q1102 | acute-cholangitis | management | Fever, jaundice and RUQ pain with a labelled ultrasound of the gallbladder and CBD: management | BR 27
-- Q1103 | liver-mass | management | Patient positive for HBsAg and anti-HCV with liver lesions on ultrasound: which step should not be done | BR 26b; Chula ch11 p469
-- Q1104 | periampullary-tumor | investigation | Progressive painless jaundice with itch, pale stool and dark urine: test for definitive diagnosis (only one choice recalled) | BR 28; BR 27
-- Q1105 | liver-mass | management | Liver resection planned but remnant volume too small: management (only one choice recalled) | BR 26b; Chula ch11 p470-471
-- Q1201 | liver-abscess | diagnosis | Subacute fever and RUQ pain after travel to India with a CT shown: diagnosis (stem cut off) | BR 26b; Chula ch11 p461-463
-- Q1202 | jaundice | diagnosis | Fever, jaundice, RUQ pain and itch in a patient on colonoscopic surveillance for ulcerative colitis: diagnosis | BR 27; BR 24
-- Q1301 | peritonitis | diagnosis | Acute abdomen series finding that indicates urgent surgery (dilated bowel, differential levels, step ladder, pneumoperitoneum) | BR 31; Chula ch8 p382-383
-- Q1302 | acute-appendicitis | investigation | Pregnant woman with migrating RLQ pain and tenderness: imaging for the diagnosis | BR 26; Chula ch9
-- Q1303 | acute-appendicitis | diagnosis | Migrating RLQ pain with nausea, vomiting and anorexia: which listed condition is not a differential | BR 26; Chula ch9 p409
-- Q1304 | peptic-ulcer-disease | diagnosis | NSAID user with sudden epigastric pain, rigidity and generalised tenderness: diagnosis (only one choice recalled) | BR 15; BR 31
-- Q1305 | acute-appendicitis | management | Five days of RLQ pain with fever and a 5 by 6 cm inflammatory phlegmon around the appendix without abscess on CT: management | BR 26; Chula ch9 p415
-- Q1401 | small-intestine | diagnosis | Diarrhoea, cachexia and malnutrition after bowel resection: diagnosis (only one choice recalled) | BR 19; Chula ch8 p398-400
-- Q1402 | peptic-ulcer-disease | management | H. pylori treatment in a penicillin-allergic patient (only one choice recalled) | BR 15
-- Q1501 | breast-mass | investigation | 40-year-old woman with a fixed hard breast mass: next step (follow-up, ultrasound with mammogram, core biopsy) | BR 04; Chula ch7 p302-328
-- Q1502 | breast-cancer | management | Invasive ductal carcinoma, ER-negative PR-positive HER2-positive, with multiple abnormal axillary nodes: mastectomy with ALND vs neoadjuvant chemotherapy with targeted therapy | BR 04; Chula ch19 p671-686
-- Q1601 | spleen | management | Elective splenectomy for a blood disorder: which vaccines and when | BR 29; Chula ch13
-- Q1602 | acute-pancreatitis | diagnosis | Back-radiating epigastric pain with raised amylase and lipase and a CT shown: what the image shows (stem cut off) | BR 28
-- Q1701 | anorectal-disease | management | Anal pain with a proctoscopic photo of the lesion: management | BR 25
-- Q1702 | anorectal-disease | management | Intermittent anal bleeding with a prolapsing mass that reduces manually, proctoscopic photo: grading and treatment | BR 25
-- Q1703 | anorectal-disease | management | Two days of anal pain with a painful perianal lump in a photo: management | BR 25
-- Q1704 | anorectal-disease | management | Anal pain with a photo of the anal region: management (only one choice recalled) | BR 25
-- Q1801 | hyperthyroidism | investigation | Thyroid nodules with suppressed TSH: next step (FNA vs radionuclide scan) | BR 34; Chula ch6 p243-245
-- Q1802 | thyroid-mass | investigation | Firm 1.8 cm hypoechoic thyroid nodule with irregular border and increased vascularity: next step (only one choice recalled) | BR 34; Chula ch6 p245
-- Q1901 | minimally-invasive-surgery | basic-science | Contraindications to laparoscopic surgery (mild obesity, diabetes, previous surgery, hypertension and ASA) | BR 01 (Minimally Invasive Surgery)
-- Q1902 | intestinal-obstruction | diagnosis | Distension, vomiting and obstipation with a plain film with an arrow: diagnosis (only one choice recalled) | BR 27; BR 19
-- Q2001 | colorectal-cancer | management | Frail elderly patient (ECOG 3) with sigmoid cancer and cardiac disease: palliative care vs stent | BR 25
-- Q2002 | colorectal-cancer | management | Node-positive right colon cancer without metastasis: name of the operation and how bowel continuity is restored | BR 25
-- Q2003 | colorectal-cancer | diagnosis | Lip pigmentation in a photo: what colonoscopy will find | BR 25; BR 19
-- Q2004 | colorectal-cancer | diagnosis | Colonoscopy showing continuous lesions from the rectum to the ascending colon: Crohn vs ulcerative colitis | BR 24
-- Q2005 | lower-gi-bleeding | diagnosis | Elderly patient with chronic constipation and massive painless rectal bleeding with stable vitals: haemorrhoids vs diverticulosis | BR 16; BR 25
-- Q2101 | peripheral-arterial-disease | management | Right leg pain with weak popliteal and absent foot pulses and ABI 0.4: next step (only one choice recalled) | BR 11; Chula ch16
-- Q2102 | venous-thromboembolism | investigation | Calf pain after a long flight: duplex ultrasound vs venography | BR 12; Chula ch17 p630
-- Q2103 | acute-limb-ischemia | management | Sudden leg pain with an irregular pulse and weakness of the foot muscles: management (only one choice recalled) | BR 11; Chula ch16 p591-598
-- Q2201 | esophageal-cancer | investigation | Progressive dysphagia now limited to liquids: investigation for diagnosis (only one choice recalled) | BR 14
-- Q2202 | achalasia | investigation | Intermittent dysphagia to solids and liquids with an unremarkable barium swallow: next test (only one choice recalled) | BR 14
-- Q2203 | esophageal-cancer | management | Oesophageal cancer through to the serosa with multiple nodes: surgery alone vs neoadjuvant chemoradiation then surgery | BR 14
-- Q2301 | organ-transplantation | basic-science | Using an identical twin as donor: which is not an advantage | BR 02
-- Q2302 | organ-transplantation | basic-science | Meaning of a positive mixed lymphocyte reaction | BR 02
+- Q1 | perioperative-care | investigation | Preoperative cardiac assessment by functional capacity (METs) | Elderly man who can climb a flight of stairs before elective surgery: appropriate preoperative cardiac assessment | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q2 | perioperative-care | management | Smoking cessation and postoperative pulmonary complications | Heavy smoker having surgery: measures to reduce postoperative pulmonary complications (cessation, incentive spirometry and others) | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q101 | hemostasis-transfusion | management | Haemophilia: inheritance and factor replacement | Haemophilia A with a swollen joint: cryoprecipitate, FFP, factor VIII concentrate or platelets, with which supportive care | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q102 | hemostasis-transfusion | basic-science | Coagulation tests: PT, aPTT, heparin monitoring, warfarin factors | Prolonged aPTT with normal PT and platelets: which pathway and factors are abnormal | BR 01 (Hemostasis); Chula ch3 p118-131
+- Q201 | fluid-electrolyte | basic-science | Serum osmolality: sodium dominates; normal range | Normal range of serum osmolality (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p168-169
+- Q202 | fluid-electrolyte | basic-science | GI secretions: composition and which matches plasma | Body fluid that resembles plasma most (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-200
+- Q203 | shock | diagnosis | Hypovolaemic shock: lactic acidosis, treat with volume | Tachycardic hypotensive trauma patient: which acid-base disorder and mechanism to expect | BR 01 (Shock); Chula ch4 p190-193
+- Q204 | fluid-electrolyte | management | Replacing GI losses: gastric loss, fistula, NG output | High-output enterocutaneous fistula over 1,000 mL: most appropriate IV fluid | BR 01 (Fluid and Electrolyte Management); Chula ch4 p198-205
+- Q205 | fluid-electrolyte | management | Hyponatraemia: causes, SIADH | Brain-injured patient with Na 120, low serum osmolality and concentrated urine: fluid restriction vs hypertonic saline | BR 01 (Fluid and Electrolyte Management); Chula ch4 p169-175
+- Q301 | basic-surgical-skills | basic-science | Suture choice: skin nylon, tendon non-absorbable, muscle absorbable | Suture material for a 3 cm skin laceration (silk, polyamide, polyglactin, polydioxanone) | BR 01 (Skills and Simulation); BR 42
+- Q302 | burns | management | Burn wound dressing | Scald burn on the leg with a red granulating ring in a photo: wound dressing choice | BR 01 (Burns); BR 42
+- Q303 | wound-healing | basic-science | Wound healing phases and cells (macrophages, fibroblasts, angiogenesis) | Phase of wound healing in which angiogenesis mainly occurs | BR 01 (Wound Healing); Chula ch2
+- Q304 | necrotizing-fasciitis | management | Necrotising fasciitis: bullae, crepitus, urgent debridement | Fever, tachycardia, bullae and necrotic tissue on the leg: management (only one choice recalled) | BR 03; BR 01 (Surgical Infections)
+- Q401 | surgical-infection | management | Prophylaxis by operation: cefazolin for clean and clean-contaminated cases | Open hernia repair with mesh: appropriate antibiotic prophylaxis (none, which drug, timing) | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q501 | surgical-oncology | basic-science | Carcinogens and their cancers (aflatoxin, asbestos, benzene, HPV, liver fluke) | Carcinogen for transitional cell bladder cancer (aflatoxin, benzene, vinyl chloride, schistosomiasis, polyamines) | BR 01 (Oncology); BR 39
+- Q502 | colorectal-cancer | basic-science | FAP and hereditary colorectal cancer | Family with colorectal cancer in father and grandfather and ovarian cancer in an aunt: mode of inheritance | BR 25; BR 01 (Oncology)
+- Q601 | surgical-ethics | other | Professionalism: student behaviour, attire, definition of a profession | Appropriate clinical attire | BR 01 (Quality, Patient Safety); lecture notes
+- Q602 | surgical-ethics | other | Time-out and the surgical safety checklist | Definition of the surgical time-out | BR 01 (Quality, Patient Safety); lecture notes
+- Q603 | surgical-ethics | other | Autonomy: respecting refusal of treatment | Surgeon arranges cholecystectomy after the patient has refused: which ethical or legal principle is violated | BR 01 (Quality, Patient Safety); lecture notes
+- Q701 | systemic-response-to-injury | basic-science | Cytokines after injury: IL-1, TNF-alpha pro-inflammatory | Pro-inflammatory vs anti-inflammatory cytokines after injury | BR 01 (Systemic Response to Injury); Chula ch1 p66
+- Q702 | systemic-response-to-injury | basic-science | Stress hyperglycaemia: cortisol, catecholamines, insulin resistance | Mechanism of stress hyperglycaemia after injury in a non-diabetic | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q801 | stomach-anatomy-physiology | complication | Early dumping: hyperosmolar load, symptoms within 30 minutes | Tachycardia, sweating and abdominal discomfort 30 minutes after meals following gastrectomy: diagnosis | BR 15
+- Q901 | hernia | diagnosis | Indirect vs direct hernia: occlusion and impingement tests | Groin mass above the inguinal ligament with a positive occlusion test: diagnosis | BR 33; Chula ch14 p537
+- Q902 | hernia | basic-science | Indirect vs direct hernia: occlusion and impingement tests | Pressure over the mid-inguinal canal on coughing, with the mass appearing medial to the pressure point: the space it comes through | BR 33; Chula ch14 p534; p537
+- Q903 | hernia | management | Laparoscopic TEP/TAPP: recurrent, bilateral, less pain, myopectineal orifice | Bilateral indirect inguinal hernias in a patient worried about postoperative pain: which operation (open repairs, TEP, IPOM) | BR 33; Chula ch14 p549-550
+- Q1001 | intestinal-obstruction | diagnosis | Sigmoid and caecal volvulus on X-ray and management | Plain abdominal film shown: diagnosis (only one choice recalled) | BR 25; BR 19
+- Q1002 | mesenteric-ischemia | diagnosis | Acute mesenteric embolism in AF: pain out of proportion | Valvular heart disease with abdominal pain, irregular pulse and blood on rectal exam: embolism vs thrombosis | BR 19; Chula ch8 p396-397
+- Q1101 | acute-cholecystitis | management | Emphysematous cholecystitis: gas in the gallbladder wall | Fever and RUQ pain with gas in a thickened gallbladder wall on ultrasound: antibiotics and timing of cholecystectomy vs drainage | BR 27
+- Q1102 | acute-cholangitis | management | Cholangitis: ERCP drainage | Fever, jaundice and RUQ pain with a labelled ultrasound of the gallbladder and CBD: management | BR 27
+- Q1103 | liver-mass | management | HCC: diagnosis in a hepatitis carrier (AFP, arterial enhancement and washout) | Patient positive for HBsAg and anti-HCV with liver lesions on ultrasound: which step should not be done | BR 26b; Chula ch11 p469
+- Q1104 | periampullary-tumor | investigation | Pancreatic cancer work-up: CT then EUS-FNA or ERCP | Progressive painless jaundice with itch, pale stool and dark urine: test for definitive diagnosis (only one choice recalled) | BR 28; BR 27
+- Q1105 | liver-mass | management | Future liver remnant: minimum volume and portal vein embolisation | Liver resection planned but remnant volume too small: management (only one choice recalled) | BR 26b; Chula ch11 p470-471
+- Q1201 | liver-abscess | diagnosis | Amoebic liver abscess after diarrhoea or travel | Subacute fever and RUQ pain after travel to India with a CT shown: diagnosis (stem cut off) | BR 26b; Chula ch11 p461-463
+- Q1202 | jaundice | diagnosis | Primary sclerosing cholangitis with ulcerative colitis | Fever, jaundice, RUQ pain and itch in a patient on colonoscopic surveillance for ulcerative colitis: diagnosis | BR 27; BR 24
+- Q1301 | peritonitis | diagnosis | Free air under the diaphragm: perforated viscus, operate | Acute abdomen series finding that indicates urgent surgery (dilated bowel, differential levels, step ladder, pneumoperitoneum) | BR 31; Chula ch8 p382-383
+- Q1302 | acute-appendicitis | investigation | Appendicitis in pregnancy: ultrasound then MRI, or operate | Pregnant woman with migrating RLQ pain and tenderness: imaging for the diagnosis | BR 26; Chula ch9
+- Q1303 | acute-appendicitis | diagnosis | Differential diagnosis of RLQ pain | Migrating RLQ pain with nausea, vomiting and anorexia: which listed condition is not a differential | BR 26; Chula ch9 p409
+- Q1304 | peptic-ulcer-disease | diagnosis | Perforated peptic ulcer: sudden pain, rigidity, free air | NSAID user with sudden epigastric pain, rigidity and generalised tenderness: diagnosis (only one choice recalled) | BR 15; BR 31
+- Q1305 | acute-appendicitis | management | Appendiceal mass or phlegmon: antibiotics then interval care | Five days of RLQ pain with fever and a 5 by 6 cm inflammatory phlegmon around the appendix without abscess on CT: management | BR 26; Chula ch9 p415
+- Q1401 | small-intestine | diagnosis | Short bowel syndrome: definition under 200 cm and causes | Diarrhoea, cachexia and malnutrition after bowel resection: diagnosis (only one choice recalled) | BR 19; Chula ch8 p398-400
+- Q1402 | peptic-ulcer-disease | management | H. pylori eradication (penicillin allergy regimens) | H. pylori treatment in a penicillin-allergic patient (only one choice recalled) | BR 15
+- Q1501 | breast-mass | investigation | Breast lump imaging by age: ultrasound under 35, mammogram over 35 | 40-year-old woman with a fixed hard breast mass: next step (follow-up, ultrasound with mammogram, core biopsy) | BR 04; Chula ch7 p302-328
+- Q1502 | breast-cancer | management | Locally advanced or node-positive cancer: neoadjuvant therapy first | Invasive ductal carcinoma, ER-negative PR-positive HER2-positive, with multiple abnormal axillary nodes: mastectomy with ALND vs neoadjuvant chemotherapy with targeted therapy | BR 04; Chula ch19 p671-686
+- Q1601 | spleen | management | Post-splenectomy vaccines and timing | Elective splenectomy for a blood disorder: which vaccines and when | BR 29; Chula ch13
+- Q1602 | acute-pancreatitis | diagnosis | CT findings in pancreatitis | Back-radiating epigastric pain with raised amylase and lipase and a CT shown: what the image shows (stem cut off) | BR 28
+- Q1701 | anorectal-disease | management | Anal fissure: hard stools, sphincter spasm | Anal pain with a proctoscopic photo of the lesion: management | BR 25
+- Q1702 | anorectal-disease | management | Haemorrhoids: grading and treatment | Intermittent anal bleeding with a prolapsing mass that reduces manually, proctoscopic photo: grading and treatment | BR 25
+- Q1703 | anorectal-disease | management | Perianal abscess: incision and drainage; anal gland origin | Two days of anal pain with a painful perianal lump in a photo: management | BR 25
+- Q1704 | anorectal-disease | management | Perianal lesion on a photo: management | Anal pain with a photo of the anal region: management (only one choice recalled) | BR 25
+- Q1801 | hyperthyroidism | investigation | Low TSH with a nodule: radionuclide scan (hot vs cold) | Thyroid nodules with suppressed TSH: next step (FNA vs radionuclide scan) | BR 34; Chula ch6 p243-245
+- Q1802 | thyroid-mass | investigation | Suspicious ultrasound features: microcalcification, irregular border, vascularity | Firm 1.8 cm hypoechoic thyroid nodule with irregular border and increased vascularity: next step (only one choice recalled) | BR 34; Chula ch6 p245
+- Q1901 | minimally-invasive-surgery | basic-science | Contraindications to laparoscopy (unfit for GA, uncorrected coagulopathy) | Contraindications to laparoscopic surgery (mild obesity, diabetes, previous surgery, hypertension and ASA) | BR 01 (Minimally Invasive Surgery)
+- Q1902 | intestinal-obstruction | diagnosis | Gallstone ileus: pneumobilia with SBO | Distension, vomiting and obstipation with a plain film with an arrow: diagnosis (only one choice recalled) | BR 27; BR 19
+- Q2001 | colorectal-cancer | management | Obstructing or advanced colon cancer: palliation | Frail elderly patient (ECOG 3) with sigmoid cancer and cardiac disease: palliative care vs stent | BR 25
+- Q2002 | colorectal-cancer | management | Right colon cancer: anaemia without bowel change; hemicolectomy | Node-positive right colon cancer without metastasis: name of the operation and how bowel continuity is restored | BR 25
+- Q2003 | colorectal-cancer | diagnosis | Peutz-Jeghers: lip pigmentation and hamartomatous polyps | Lip pigmentation in a photo: what colonoscopy will find | BR 25; BR 19
+- Q2004 | colorectal-cancer | diagnosis | UC vs Crohn on colonoscopy | Colonoscopy showing continuous lesions from the rectum to the ascending colon: Crohn vs ulcerative colitis | BR 24
+- Q2005 | lower-gi-bleeding | diagnosis | Diverticular bleeding vs haemorrhoids in the elderly | Elderly patient with chronic constipation and massive painless rectal bleeding with stable vitals: haemorrhoids vs diverticulosis | BR 16; BR 25
+- Q2101 | peripheral-arterial-disease | management | Chronic arterial disease work-up: ABI then CTA before revascularisation | Right leg pain with weak popliteal and absent foot pulses and ABI 0.4: next step (only one choice recalled) | BR 11; Chula ch16
+- Q2102 | venous-thromboembolism | investigation | DVT after a long flight or surgery: duplex ultrasound first | Calf pain after a long flight: duplex ultrasound vs venography | BR 12; Chula ch17 p630
+- Q2103 | acute-limb-ischemia | management | Acute limb ischaemia from embolism: heparin and embolectomy | Sudden leg pain with an irregular pulse and weakness of the foot muscles: management (only one choice recalled) | BR 11; Chula ch16 p591-598
+- Q2201 | esophageal-cancer | investigation | Diagnosis: endoscopy with biopsy | Progressive dysphagia now limited to liquids: investigation for diagnosis (only one choice recalled) | BR 14
+- Q2202 | achalasia | investigation | Achalasia: manometry to confirm, EGD to exclude pseudoachalasia | Intermittent dysphagia to solids and liquids with an unremarkable barium swallow: next test (only one choice recalled) | BR 14
+- Q2203 | esophageal-cancer | management | Locally advanced T3 or N+: neoadjuvant chemoradiation then surgery | Oesophageal cancer through to the serosa with multiple nodes: surgery alone vs neoadjuvant chemoradiation then surgery | BR 14
+- Q2301 | organ-transplantation | basic-science | Main immunological barrier: HLA mismatch; identical twin donors | Using an identical twin as donor: which is not an advantage | BR 02
+- Q2302 | organ-transplantation | basic-science | Crossmatch, PRA and mixed lymphocyte reaction | Meaning of a positive mixed lymphocyte reaction | BR 02

@@ -1,11 +1,11 @@
 # Topic tags: mdcu78-gen-b-mcq
-- Q1 | perioperative-care | investigation | Patient for elective surgery whose functional capacity cannot be judged because of leg pain, with previous triple-vessel stenting and no angina: preoperative cardiac assessment (stem cut off) | BR 01 (Optimizing Perioperative Care); lecture notes
-- Q2 | surgical-oncology | basic-science | Occupational carcinogen and cancer pairs (vinyl chloride, asbestos, benzene, aflatoxin): which pairing is right | BR 01 (Oncology); lecture notes
-- Q3 | organ-transplantation | complication | Main side effect of mycophenolate mofetil (marrow suppression, hyperkalaemia, nephrotoxicity, neurotoxicity) | BR 02
-- Q4 | perioperative-care | complication | Fever on postoperative day 3 with a urinary catheter still in place (only one choice recalled) | BR 01 (Surgical Infections); lecture notes
-- Q5 | wound-healing | basic-science | Role of macrophages in wound healing (choices not recalled) | BR 01 (Wound Healing); Chula ch2
-- Q6 | thyroid-mass | complication | Carpopedal spasm on blood pressure measurement after thyroidectomy: management (choices not recalled) | BR 34; BR 35; Chula ch6 p258-260
-- Q7 | thyroid-mass | management | Thyroid nodule suspicious for malignancy: management (choices not recalled) | BR 34; Chula ch6 p245-257
-- Q8 | breast-cancer | complication | Lymphoedema (stem and choices not recalled) | BR 04; BR 13; Chula ch19 p705-709
-- Q9 | dysphagia | basic-science | Causes of oesophageal stricture (GERD, cancer, corrosives, hiatus hernia, pseudoachalasia): which does not cause one | BR 14
-- Q10 | perioperative-care | basic-science | Daily protein requirement (choices not recalled) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q1 | perioperative-care | investigation | Preoperative cardiac assessment by functional capacity (METs) | Patient for elective surgery whose functional capacity cannot be judged because of leg pain, with previous triple-vessel stenting and no angina: preoperative cardiac assessment (stem cut off) | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q2 | surgical-oncology | basic-science | Carcinogens and their cancers (aflatoxin, asbestos, benzene, HPV, liver fluke) | Occupational carcinogen and cancer pairs (vinyl chloride, asbestos, benzene, aflatoxin): which pairing is right | BR 01 (Oncology); lecture notes
+- Q3 | organ-transplantation | complication | Immunosuppressants: cyclosporin and tacrolimus (calcineurin inhibitors), MMF | Main side effect of mycophenolate mofetil (marrow suppression, hyperkalaemia, nephrotoxicity, neurotoxicity) | BR 02
+- Q4 | perioperative-care | complication | Postoperative fever day 3-5: UTI, wound, line, DVT | Fever on postoperative day 3 with a urinary catheter still in place (only one choice recalled) | BR 01 (Surgical Infections); lecture notes
+- Q5 | wound-healing | basic-science | Wound healing phases and cells (macrophages, fibroblasts, angiogenesis) | Role of macrophages in wound healing (choices not recalled) | BR 01 (Wound Healing); Chula ch2
+- Q6 | thyroid-mass | complication | Hypocalcaemia after thyroidectomy: Chvostek, Trousseau, parathyroid devascularisation | Carpopedal spasm on blood pressure measurement after thyroidectomy: management (choices not recalled) | BR 34; BR 35; Chula ch6 p258-260
+- Q7 | thyroid-mass | management | Bethesda V suspicious for malignancy: thyroidectomy | Thyroid nodule suspicious for malignancy: management (choices not recalled) | BR 34; Chula ch6 p245-257
+- Q8 | breast-cancer | complication | Lymphoedema after axillary dissection | Lymphoedema (stem and choices not recalled) | BR 04; BR 13; Chula ch19 p705-709
+- Q9 | dysphagia | basic-science | Causes of oesophageal stricture | Causes of oesophageal stricture (GERD, cancer, corrosives, hiatus hernia, pseudoachalasia): which does not cause one | BR 14
+- Q10 | perioperative-care | basic-science | Energy and protein requirement (25-30 kcal/kg/day) | Daily protein requirement (choices not recalled) | BR 01 (Systemic Response and Metabolic Support); lecture notes

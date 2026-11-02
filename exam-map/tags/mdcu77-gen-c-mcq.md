@@ -1,79 +1,79 @@
 # Topic tags: mdcu77-gen-c-mcq
-- Q1 | acute-pancreatitis | complication | Fever with epigastric pain and vomiting a few weeks after conservatively treated acute pancreatitis: which complication and next step (stem cut off) | BR 28
-- Q2 | surgical-infection | basic-science | Wound class when small bowel content spills during resection of gangrenous bowel | BR 01 (Surgical Infections); Chula ch5 p223-224
-- Q3 | surgical-infection | management | Skin closure after appendectomy for gangrenous (not ruptured) appendicitis with reactive fluid: primary, secondary or delayed primary closure | BR 01 (Surgical Infections; Wound Healing); Chula ch5 p223-224
-- Q4 | surgical-infection | basic-science | Main measure to prevent hospital-acquired infection | BR 01 (Surgical Infections); Chula ch5 p229-231
-- Q5 | perioperative-care | investigation | Correct preoperative test rules (blood chemistry, chest film, ECG and coagulation by age) | BR 01 (Optimizing Perioperative Care); lecture notes
-- Q6 | fluid-electrolyte | basic-science | Solute with the greatest effect on serum osmolality (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p168-169
-- Q7 | hernia | management | Older man with severe COPD and recent heart failure needing hernia surgery: the factor that most influences the choice of operation and anaesthesia (stem cut off) | BR 33; Chula ch14 p540-550
-- Q8 | systemic-response-to-injury | basic-science | Metabolic response in a critically ill man with ARDS (only one choice recalled) | BR 01 (Systemic Response to Injury); Chula ch1
-- Q9 | hernia | management | Which repair also covers the direct, indirect and femoral spaces at once (laparoscopic, Marcy, Lichtenstein) | BR 33; Chula ch14 p549-550
-- Q10 | systemic-response-to-injury | basic-science | Starvation vs stress compared on cytokines, gluconeogenesis and ketogenesis (choices not recalled) | BR 01 (Systemic Response to Injury); Chula ch1
-- Q11 | parathyroid | diagnosis | Older woman with hypercalcaemia and a single bright nodule on sestamibi: most likely cause | BR 35
-- Q12 | hemostasis-transfusion | basic-science | First event in haemostasis (only one choice recalled) | BR 01 (Hemostasis); Chula ch3 p110-118
-- Q13 | perioperative-care | management | Woman on aspirin 2 years after CABG booked for mastectomy with sentinel biopsy: how to handle the aspirin (stem cut off) | BR 01 (Hemostasis); lecture notes
-- Q14 | organ-transplantation | basic-science | Main immunological barrier to transplantation between people who are not identical twins | BR 02
-- Q15 | organ-transplantation | other | Which organ or tissue cannot be taken from a living donor | BR 02
-- Q16 | perioperative-care | basic-science | ASA class of a patient with well-controlled asthma | BR 01 (Optimizing Perioperative Care); lecture notes
-- Q17 | upper-gi-bleeding | management | Liver patient with massive duodenal ulcer bleeding that recurs after two endoscopic treatments: next step (stem cut off) | BR 16; BR 15
-- Q18 | peptic-ulcer-disease | management | H. pylori eradication regimen for a patient allergic to amoxicillin | BR 15
-- Q19 | breast-cancer | management | 5 cm breast tumour with abnormal-looking nodes on imaging and core biopsy of the mass: next step for the axilla and treatment order (stem cut off) | BR 04; Chula ch19 p671-709
-- Q20 | breast-cancer | management | Young woman with a 4 cm ER and PR-positive mucinous carcinoma and a negative axilla: mastectomy vs wide excision with SLNB vs staging scans | BR 04; Chula ch19 p664-671; p687-692
-- Q21 | breast-cancer | management | Contraindications to breast-conserving therapy (SLE, late pregnancy before elective caesarean, 5 cm tumour, nearby satellite lesion): which is one | BR 04; Chula ch19 p687-692
-- Q22 | venous-thromboembolism | investigation | Postoperative pulmonary embolism: which investigation does not help the diagnosis (aortogram, coagulogram, duplex, D-dimer, CTA) | BR 12; Chula ch17 p630
-- Q23 | upper-gi-bleeding | management | Drug management of variceal upper GI bleeding (only one choice recalled) | BR 16; BR 26b
-- Q24 | jaundice | diagnosis | Patient from Surin province with obstructive jaundice: likely tumour (only one choice recalled) | BR 26b; BR 27; Chula ch15 p565
-- Q26 | stomach-anatomy-physiology | complication | Peripheral neuropathy 9 months after gastrectomy: which gastric cell type's loss is responsible | BR 15
-- Q27 | peptic-ulcer-disease | complication | Two years of on-and-off epigastric pain worse after meals, now with bilious vomiting and obstruction for 2 days with no air on the film: level and cause of obstruction (stem cut off) | BR 15
-- Q28 | achalasia | diagnosis | Dysphagia to solids and liquids with a bird's-beak picture: diagnosis | BR 14
-- Q29 | achalasia | investigation | Achalasia with a bird's-beak oesophagram: other test to confirm the diagnosis (stem cut off) | BR 14
-- Q30 | breast-discharge | diagnosis | Red-yellow discharge from one duct when pressing at 1 o'clock lateral to the areola: diagnosis | BR 04; Chula ch7
-- Q31 | breast-discharge | basic-science | Bilateral galactorrhoea in a woman taking pills: which drug is least likely to be the cause | BR 04; BR 37
-- Q32 | perioperative-care | investigation | Which measure assesses nutrition least well (waist circumference, prealbumin, transferrin, BMI, nitrogen balance) | BR 01 (Systemic Response and Metabolic Support); lecture notes
-- Q33 | liver-abscess | basic-science | Most common cause of liver abscess (only one choice recalled) | BR 26b; Chula ch11 p459
-- Q34 | gastric-cancer | diagnosis | Gastric adenocarcinoma with bilateral ovarian masses: naming the ovarian lesion | BR 15
-- Q35 | prostate-and-luts | diagnosis | Nine months of poor stream and straining with recent pain and possible haematuria, getting worse (stem cut off) | BR 39
-- Q36 | acute-cholecystitis | basic-science | Pain of acute cholecystitis felt at the right shoulder: radiating vs referred pain | BR 27
-- Q37 | periampullary-tumor | management | Cancer of the distal pancreas: distal pancreatectomy with or without splenectomy and why | BR 28
-- Q38 | gallstone-disease | management | Resolved pancreatitis with gallbladder stones and a probable CBD stone before laparoscopic cholecystectomy: LC with cholangiogram vs ERCP first | BR 27; BR 28
-- Q39 | soft-tissue-infection | diagnosis | Southern farmer with unilateral elephantiasis-like leg swelling in a photo: cause (only one choice recalled) | BR 13
-- Q40 | achalasia | complication | Fever and dyspnoea on day 2 after myotomy for long-standing achalasia: which complication (stem cut off) | BR 14
-- Q41 | gallstone-disease | management | Dense adhesions at the cystic duct during laparoscopic cholecystectomy for chronic cholecystitis: continue carefully vs convert to open | BR 27
-- Q42 | upper-gi-bleeding | management | Fluid for resuscitation in massive variceal bleeding | BR 16; BR 01 (Fluid and Electrolyte Management)
-- Q43 | fluid-electrolyte | management | Hyperkalaemia with acute kidney injury: which treatment will not help (ECG monitoring, bicarbonate, insulin with glucose, furosemide, dialysis) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
-- Q44 | fluid-electrolyte | management | Daily maintenance fluid for a 60 kg man by the Holliday-Segar formula (calculation) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p194-197
-- Q45 | gallstone-disease | basic-science | Black pigment stone shown in a picture: which underlying condition | BR 27
-- Q47 | hemostasis-transfusion | complication | Oozing, fever and hypotension 5 minutes into a transfusion during liver transplantation: what to do (only one choice recalled) | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
-- Q48 | acute-pancreatitis | management | Severe acute pancreatitis on day 3 in the CCU, now stable with mild fever and deep epigastric tenderness: next step (stem cut off) | BR 28
-- Q49 | acute-appendicitis | management | Laparoscopy for suspected appendicitis finds nothing obvious: close vs look for another cause and remove the appendix | BR 26; Chula ch9 p409-415
-- Q50 | hernia | management | Hernia booked for surgery in 2 weeks that today came out and cannot be pushed back: management (stem cut off) | BR 33; Chula ch14 p554-556
-- Q51 | esophageal-cancer | management | Mid-oesophageal SCC invading the submucosa without nodes: palliation vs oesophagectomy vs neoadjuvant chemoradiotherapy | BR 14
-- Q52 | periampullary-tumor | management | Adenocarcinoma of the ampulla: ampullectomy vs pancreaticoduodenectomy | BR 28
-- Q53 | periampullary-tumor | management | Palliative relief of jaundice in advanced pancreatic head cancer: ERCP stent vs PTBD vs surgical bypass | BR 28; BR 27
-- Q54 | esophageal-cancer | complication | Hoarseness in oesophageal cancer: cause (only one choice recalled) | BR 14
-- Q55 | colorectal-cancer | management | Middle-aged man with relatives who had colon cancer at 65 and 75 and a normal colonoscopy: screening plan from here (stem cut off) | BR 25
-- Q56 | surgical-oncology | basic-science | Which listed process is not a feature of cancer cells (only one choice recalled) | BR 01 (Oncology); lecture notes
-- Q57 | liver-mass | management | 60-year-old woman with abdominal discomfort, a liver 2 cm below the costal margin, HBsAg and anti-HBc positive: antiviral consideration vs HCC surveillance | BR 26b; Chula ch11 p469
-- Q58 | jaundice | management | Engaged couple both found HBV-positive before marriage with viral load pending: recommendation (stem cut off) | BR 26b; lecture notes
-- Q59 | acute-pancreatitis | diagnosis | Picture of flank bruising: diagnosis | BR 28
-- Q60 | liver-mass | investigation | Several hypoechoic liver lesions found at a routine check-up in a 55-year-old: test that helps the diagnosis most (stem cut off) | BR 26b; Chula ch15 p566-571
-- Q61 | acute-pancreatitis | management | Back-radiating pain for 3 days with amylase and lipase over 1,000: initial management (abdominal series, fluids with analgesia and nutrition, antibiotics, step-up surgery) | BR 28
-- Q62 | breast-cancer | management | Drain to prevent seroma after total mastectomy (Penrose, Jackson-Pratt, Redivac) | BR 04; Chula ch19 p692-705
-- Q63 | venous-insufficiency | management | Young teacher with telangiectasia and leg oedema worse in the evening: compression vs stripping vs sclerotherapy | BR 12; Chula ch18 p651-657
-- Q64 | acute-limb-ischemia | management | Chronic AF with rheumatic heart disease and sudden leg pain with loss of toe movement: thrombectomy vs embolectomy vs antiplatelet | BR 11; Chula ch16 p591-598
-- Q65 | fluid-electrolyte | basic-science | Adequate urine output range for a 60 kg man | BR 01 (Fluid and Electrolyte Management); Chula ch4 p194-197
-- Q66 | jaundice | diagnosis | Painless progressive jaundice with a palpable cystic subcostal mass (Courvoisier sign): pancreatic head vs hilar tumour | BR 28; BR 27
-- Q67 | hernia | diagnosis | Description of a pantaloon hernia by where the two bulges appear | BR 33; Chula ch14 p540
-- Q68 | portal-hypertension | basic-science | Pathophysiology of portal hypertension (resistance and flow, splanchnic vasodilatation or constriction): which statement is false | BR 26b
-- Q69 | upper-gi-bleeding | investigation | Massive haematemesis without stigmata of liver disease: definitive diagnostic test | BR 16
-- Q70 | hyperthyroidism | management | Young mother with Graves disease and marked exophthalmos (photo): radioiodine vs drugs vs which thyroidectomy | BR 34; Chula ch6 p253-257
-- Q71 | thyroid-mass | investigation | Thyroid lump for 2 years with no thyroid symptoms: first step (TFT, ultrasound, scan) | BR 34; Chula ch6 p243-245
-- Q72 | gallstone-disease | diagnosis | Middle-aged woman with recurrent postprandial abdominal pain, now jaundiced: which biliary diagnosis (stem cut off) | BR 27
-- Q73 | surgical-ethics | other | Converting laparoscopy to open surgery because of dense adhesions: which ethical principle | BR 01 (Quality, Patient Safety); lecture notes
-- Q74 | upper-gi-bleeding | management | Massive upper GI bleeding: which step is not needed (resuscitation, gastric lavage, EGD, barium swallow) | BR 16
-- Q75 | jaundice | diagnosis | Aerobilia: causes and what it suggests (no choices recalled) | BR 27
-- Q76 | surgical-infection | diagnosis | Fever of 39 C with a PICC for 6 days, catheter out 2 days ago and a painless wound: most likely source (no choices recalled) | BR 01 (Surgical Infections); lecture notes
-- Q77 | burns | diagnosis | 30% burn with blue-green sweet-smelling exudate: likely organism (no choices recalled) | BR 01 (Burns); BR 01 (Surgical Infections)
-- Q116 | organ-transplantation | basic-science | Most common organ harvested from a deceased donor | BR 02
-- Q117 | organ-transplantation | other | Main worldwide problem of organ transplantation | BR 02
-- Q216 | liver-mass | management | HBV cirrhosis Child B with a 4 cm HCC: resection vs transplant vs TACE | BR 26b; BR 02; Chula ch11 p470-472
+- Q1 | acute-pancreatitis | complication | Local complications: pseudocyst, necrosis, pseudoaneurysm | Fever with epigastric pain and vomiting a few weeks after conservatively treated acute pancreatitis: which complication and next step (stem cut off) | BR 28
+- Q2 | surgical-infection | basic-science | Wound classification: clean to dirty | Wound class when small bowel content spills during resection of gangrenous bowel | BR 01 (Surgical Infections); Chula ch5 p223-224
+- Q3 | surgical-infection | management | Preventing SSI: technique, irrigation, delayed closure | Skin closure after appendectomy for gangrenous (not ruptured) appendicitis with reactive fluid: primary, secondary or delayed primary closure | BR 01 (Surgical Infections; Wound Healing); Chula ch5 p223-224
+- Q4 | surgical-infection | basic-science | Hand hygiene and infection control | Main measure to prevent hospital-acquired infection | BR 01 (Surgical Infections); Chula ch5 p229-231
+- Q5 | perioperative-care | investigation | Routine preoperative tests: history and examination first, ECG by age | Correct preoperative test rules (blood chemistry, chest film, ECG and coagulation by age) | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q6 | fluid-electrolyte | basic-science | Serum osmolality: sodium dominates; normal range | Solute with the greatest effect on serum osmolality (only one choice recalled) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p168-169
+- Q7 | hernia | management | Open vs laparoscopic repair in an unfit patient (antiplatelets, COPD, recent MI) | Older man with severe COPD and recent heart failure needing hernia surgery: the factor that most influences the choice of operation and anaesthesia (stem cut off) | BR 33; Chula ch14 p540-550
+- Q8 | systemic-response-to-injury | basic-science | Stress response: catabolism, proteolysis, gluconeogenesis, lipolysis (not hypoglycaemia) | Metabolic response in a critically ill man with ARDS (only one choice recalled) | BR 01 (Systemic Response to Injury); Chula ch1
+- Q9 | hernia | management | Laparoscopic TEP/TAPP: recurrent, bilateral, less pain, myopectineal orifice | Which repair also covers the direct, indirect and femoral spaces at once (laparoscopic, Marcy, Lichtenstein) | BR 33; Chula ch14 p549-550
+- Q10 | systemic-response-to-injury | basic-science | Starvation vs stress: ketogenesis in starvation | Starvation vs stress compared on cytokines, gluconeogenesis and ketogenesis (choices not recalled) | BR 01 (Systemic Response to Injury); Chula ch1
+- Q11 | parathyroid | diagnosis | Primary hyperparathyroidism: high calcium and PTH, adenoma | Older woman with hypercalcaemia and a single bright nodule on sestamibi: most likely cause | BR 35
+- Q12 | hemostasis-transfusion | basic-science | Steps of haemostasis: vasoconstriction, platelet plug, coagulation | First event in haemostasis (only one choice recalled) | BR 01 (Hemostasis); Chula ch3 p110-118
+- Q13 | perioperative-care | management | Antiplatelet drugs before surgery: stop aspirin or clopidogrel or continue | Woman on aspirin 2 years after CABG booked for mastectomy with sentinel biopsy: how to handle the aspirin (stem cut off) | BR 01 (Hemostasis); lecture notes
+- Q14 | organ-transplantation | basic-science | Main immunological barrier: HLA mismatch; identical twin donors | Main immunological barrier to transplantation between people who are not identical twins | BR 02
+- Q15 | organ-transplantation | other | Cornea: best graft survival and not from living donors | Which organ or tissue cannot be taken from a living donor | BR 02
+- Q16 | perioperative-care | basic-science | ASA physical status classification | ASA class of a patient with well-controlled asthma | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q17 | upper-gi-bleeding | management | Duodenal ulcer bleeding: nocturnal pain, rebleeding after endoscopy | Liver patient with massive duodenal ulcer bleeding that recurs after two endoscopic treatments: next step (stem cut off) | BR 16; BR 15
+- Q18 | peptic-ulcer-disease | management | H. pylori eradication (penicillin allergy regimens) | H. pylori eradication regimen for a patient allergic to amoxicillin | BR 15
+- Q19 | breast-cancer | management | Locally advanced or node-positive cancer: neoadjuvant therapy first | 5 cm breast tumour with abnormal-looking nodes on imaging and core biopsy of the mass: next step for the axilla and treatment order (stem cut off) | BR 04; Chula ch19 p671-709
+- Q20 | breast-cancer | management | Early breast cancer, clinically negative axilla: wide excision with SLNB | Young woman with a 4 cm ER and PR-positive mucinous carcinoma and a negative axilla: mastectomy vs wide excision with SLNB vs staging scans | BR 04; Chula ch19 p664-671; p687-692
+- Q21 | breast-cancer | management | Breast-conserving therapy contraindications (radiotherapy not possible, multicentric, inflammatory) | Contraindications to breast-conserving therapy (SLE, late pregnancy before elective caesarean, 5 cm tumour, nearby satellite lesion): which is one | BR 04; Chula ch19 p687-692
+- Q22 | venous-thromboembolism | investigation | Pulmonary embolism: complication and diagnosis | Postoperative pulmonary embolism: which investigation does not help the diagnosis (aortogram, coagulogram, duplex, D-dimer, CTA) | BR 12; Chula ch17 p630
+- Q23 | upper-gi-bleeding | management | Variceal bleeding: resuscitation and drugs (somatostatin or terlipressin) | Drug management of variceal upper GI bleeding (only one choice recalled) | BR 16; BR 26b
+- Q24 | jaundice | diagnosis | Northeastern Thailand and jaundice: cholangiocarcinoma | Patient from Surin province with obstructive jaundice: likely tumour (only one choice recalled) | BR 26b; BR 27; Chula ch15 p565
+- Q26 | stomach-anatomy-physiology | complication | After gastrectomy: B12 deficiency and megaloblastic anaemia | Peripheral neuropathy 9 months after gastrectomy: which gastric cell type's loss is responsible | BR 15
+- Q27 | peptic-ulcer-disease | complication | Peptic ulcer complications: bleeding commonest, gastric outlet obstruction | Two years of on-and-off epigastric pain worse after meals, now with bilious vomiting and obstruction for 2 days with no air on the film: level and cause of obstruction (stem cut off) | BR 15
+- Q28 | achalasia | diagnosis | Achalasia: bird's-beak swallow | Dysphagia to solids and liquids with a bird's-beak picture: diagnosis | BR 14
+- Q29 | achalasia | investigation | Achalasia: manometry to confirm, EGD to exclude pseudoachalasia | Achalasia with a bird's-beak oesophagram: other test to confirm the diagnosis (stem cut off) | BR 14
+- Q30 | breast-discharge | diagnosis | Single-duct bloody discharge: intraductal papilloma | Red-yellow discharge from one duct when pressing at 1 o'clock lateral to the areola: diagnosis | BR 04; Chula ch7
+- Q31 | breast-discharge | basic-science | Bilateral galactorrhoea: drugs, prolactinoma work-up | Bilateral galactorrhoea in a woman taking pills: which drug is least likely to be the cause | BR 04; BR 37
+- Q32 | perioperative-care | investigation | Nutritional assessment: which measure is unreliable | Which measure assesses nutrition least well (waist circumference, prealbumin, transferrin, BMI, nitrogen balance) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q33 | liver-abscess | basic-science | Pyogenic liver abscess: rim enhancement, biliary source | Most common cause of liver abscess (only one choice recalled) | BR 26b; Chula ch11 p459
+- Q34 | gastric-cancer | diagnosis | Metastatic gastric cancer signs: Virchow node, Sister Mary Joseph, Blumer shelf, Krukenberg | Gastric adenocarcinoma with bilateral ovarian masses: naming the ovarian lesion | BR 15
+- Q35 | prostate-and-luts | diagnosis | Lower urinary tract symptoms with haematuria | Nine months of poor stream and straining with recent pain and possible haematuria, getting worse (stem cut off) | BR 39
+- Q36 | acute-cholecystitis | basic-science | Acute cholecystitis: Murphy sign, gangrenous gallbladder | Pain of acute cholecystitis felt at the right shoulder: radiating vs referred pain | BR 27
+- Q37 | periampullary-tumor | management | Distal pancreatic cancer: distal pancreatectomy with splenectomy | Cancer of the distal pancreas: distal pancreatectomy with or without splenectomy and why | BR 28
+- Q38 | gallstone-disease | management | CBD stone: ERCP before cholecystectomy | Resolved pancreatitis with gallbladder stones and a probable CBD stone before laparoscopic cholecystectomy: LC with cholangiogram vs ERCP first | BR 27; BR 28
+- Q39 | soft-tissue-infection | diagnosis | Lymphatic filariasis: elephantiasis | Southern farmer with unilateral elephantiasis-like leg swelling in a photo: cause (only one choice recalled) | BR 13
+- Q40 | achalasia | complication | After myotomy: perforation | Fever and dyspnoea on day 2 after myotomy for long-standing achalasia: which complication (stem cut off) | BR 14
+- Q41 | gallstone-disease | management | Difficult cholecystectomy: convert to open; when open is preferred | Dense adhesions at the cystic duct during laparoscopic cholecystectomy for chronic cholecystitis: continue carefully vs convert to open | BR 27
+- Q42 | upper-gi-bleeding | management | Variceal bleeding: resuscitation and drugs (somatostatin or terlipressin) | Fluid for resuscitation in massive variceal bleeding | BR 16; BR 01 (Fluid and Electrolyte Management)
+- Q43 | fluid-electrolyte | management | Hyperkalaemia treatment: calcium, insulin-glucose, beta-agonist, dialysis | Hyperkalaemia with acute kidney injury: which treatment will not help (ECG monitoring, bicarbonate, insulin with glucose, furosemide, dialysis) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
+- Q44 | fluid-electrolyte | management | Maintenance fluid: 4-2-1 / Holliday-Segar and the day-0 order | Daily maintenance fluid for a 60 kg man by the Holliday-Segar formula (calculation) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p194-197
+- Q45 | gallstone-disease | basic-science | Pigment stones: haemolysis (thalassaemia) | Black pigment stone shown in a picture: which underlying condition | BR 27
+- Q47 | hemostasis-transfusion | complication | Acute haemolytic transfusion reaction: stop and notify the blood bank | Oozing, fever and hypotension 5 minutes into a transfusion during liver transplantation: what to do (only one choice recalled) | BR 01 (Hemostasis, Transfusion); Chula ch3 part 2
+- Q48 | acute-pancreatitis | management | Local complications: pseudocyst, necrosis, pseudoaneurysm | Severe acute pancreatitis on day 3 in the CCU, now stable with mild fever and deep epigastric tenderness: next step (stem cut off) | BR 28
+- Q49 | acute-appendicitis | management | Normal appendix at surgery: look for Meckel diverticulum | Laparoscopy for suspected appendicitis finds nothing obvious: close vs look for another cause and remove the appendix | BR 26; Chula ch9 p409-415
+- Q50 | hernia | management | Incarcerated hernia: manual reduction then urgent repair | Hernia booked for surgery in 2 weeks that today came out and cannot be pushed back: management (stem cut off) | BR 33; Chula ch14 p554-556
+- Q51 | esophageal-cancer | management | Early cancer T1-T2N0: oesophagectomy | Mid-oesophageal SCC invading the submucosa without nodes: palliation vs oesophagectomy vs neoadjuvant chemoradiotherapy | BR 14
+- Q52 | periampullary-tumor | management | Resectable head cancer or ampullary cancer: Whipple pancreaticoduodenectomy | Adenocarcinoma of the ampulla: ampullectomy vs pancreaticoduodenectomy | BR 28
+- Q53 | periampullary-tumor | management | Palliating jaundice in unresectable cancer: ERCP stent | Palliative relief of jaundice in advanced pancreatic head cancer: ERCP stent vs PTBD vs surgical bypass | BR 28; BR 27
+- Q54 | esophageal-cancer | complication | Hoarseness: recurrent laryngeal nerve invasion | Hoarseness in oesophageal cancer: cause (only one choice recalled) | BR 14
+- Q55 | colorectal-cancer | management | Screening: FOBT, colonoscopy, age to start | Middle-aged man with relatives who had colon cancer at 65 and 75 and a normal colonoscopy: screening plan from here (stem cut off) | BR 25
+- Q56 | surgical-oncology | basic-science | Hallmarks of cancer | Which listed process is not a feature of cancer cells (only one choice recalled) | BR 01 (Oncology); lecture notes
+- Q57 | liver-mass | management | HCC: diagnosis in a hepatitis carrier (AFP, arterial enhancement and washout) | 60-year-old woman with abdominal discomfort, a liver 2 cm below the costal margin, HBsAg and anti-HBc positive: antiviral consideration vs HCC surveillance | BR 26b; Chula ch11 p469
+- Q58 | jaundice | management | Hepatitis B carriers before marriage | Engaged couple both found HBV-positive before marriage with viral load pending: recommendation (stem cut off) | BR 26b; lecture notes
+- Q59 | acute-pancreatitis | diagnosis | Grey Turner and Cullen signs: haemorrhagic pancreatitis | Picture of flank bruising: diagnosis | BR 28
+- Q60 | liver-mass | investigation | Liver metastases: colorectal source, CEA, synchronous vs metachronous | Several hypoechoic liver lesions found at a routine check-up in a 55-year-old: test that helps the diagnosis most (stem cut off) | BR 26b; Chula ch15 p566-571
+- Q61 | acute-pancreatitis | management | Initial management: fluids, analgesia, nutrition | Back-radiating pain for 3 days with amylase and lipase over 1,000: initial management (abdominal series, fluids with analgesia and nutrition, antibiotics, step-up surgery) | BR 28
+- Q62 | breast-cancer | management | Drain after mastectomy (closed suction) | Drain to prevent seroma after total mastectomy (Penrose, Jackson-Pratt, Redivac) | BR 04; Chula ch19 p692-705
+- Q63 | venous-insufficiency | management | Venous disease treatment: compression first | Young teacher with telangiectasia and leg oedema worse in the evening: compression vs stripping vs sclerotherapy | BR 12; Chula ch18 p651-657
+- Q64 | acute-limb-ischemia | management | Acute limb ischaemia from embolism: heparin and embolectomy | Chronic AF with rheumatic heart disease and sudden leg pain with loss of toe movement: thrombectomy vs embolectomy vs antiplatelet | BR 11; Chula ch16 p591-598
+- Q65 | fluid-electrolyte | basic-science | Urine output target 0.5-1 mL/kg/h | Adequate urine output range for a 60 kg man | BR 01 (Fluid and Electrolyte Management); Chula ch4 p194-197
+- Q66 | jaundice | diagnosis | Courvoisier sign: painless jaundice and palpable gallbladder (periampullary cancer) | Painless progressive jaundice with a palpable cystic subcostal mass (Courvoisier sign): pancreatic head vs hilar tumour | BR 28; BR 27
+- Q67 | hernia | diagnosis | Pantaloon hernia | Description of a pantaloon hernia by where the two bulges appear | BR 33; Chula ch14 p540
+- Q68 | portal-hypertension | basic-science | Pathophysiology: resistance plus splanchnic vasodilatation | Pathophysiology of portal hypertension (resistance and flow, splanchnic vasodilatation or constriction): which statement is false | BR 26b
+- Q69 | upper-gi-bleeding | investigation | UGIB: first step is resuscitation, then EGD | Massive haematemesis without stigmata of liver disease: definitive diagnostic test | BR 16
+- Q70 | hyperthyroidism | management | Graves treatment choice: drugs, RAI, surgery (pregnancy, ophthalmopathy) | Young mother with Graves disease and marked exophthalmos (photo): radioiodine vs drugs vs which thyroidectomy | BR 34; Chula ch6 p253-257
+- Q71 | thyroid-mass | investigation | Thyroid nodule: first investigation (TFT, ultrasound, FNA) | Thyroid lump for 2 years with no thyroid symptoms: first step (TFT, ultrasound, scan) | BR 34; Chula ch6 p243-245
+- Q72 | gallstone-disease | diagnosis | Complications of gallstones | Middle-aged woman with recurrent postprandial abdominal pain, now jaundiced: which biliary diagnosis (stem cut off) | BR 27
+- Q73 | surgical-ethics | other | Beneficence, non-maleficence and justice in cases | Converting laparoscopy to open surgery because of dense adhesions: which ethical principle | BR 01 (Quality, Patient Safety); lecture notes
+- Q74 | upper-gi-bleeding | management | UGIB: first step is resuscitation, then EGD | Massive upper GI bleeding: which step is not needed (resuscitation, gastric lavage, EGD, barium swallow) | BR 16
+- Q75 | jaundice | diagnosis | Aerobilia: causes | Aerobilia: causes and what it suggests (no choices recalled) | BR 27
+- Q76 | surgical-infection | diagnosis | Catheter-related bloodstream infection: coagulase-negative staph and line removal | Fever of 39 C with a PICC for 6 days, catheter out 2 days ago and a painless wound: most likely source (no choices recalled) | BR 01 (Surgical Infections); lecture notes
+- Q77 | burns | diagnosis | Burn wound infection: Pseudomonas | 30% burn with blue-green sweet-smelling exudate: likely organism (no choices recalled) | BR 01 (Burns); BR 01 (Surgical Infections)
+- Q116 | organ-transplantation | basic-science | Most common deceased-donor organ: kidney | Most common organ harvested from a deceased donor | BR 02
+- Q117 | organ-transplantation | other | Organ shortage: the main worldwide problem | Main worldwide problem of organ transplantation | BR 02
+- Q216 | liver-mass | management | HCC treatment: resection vs transplant vs TACE by liver function and size | HBV cirrhosis Child B with a 4 cm HCC: resection vs transplant vs TACE | BR 26b; BR 02; Chula ch11 p470-472

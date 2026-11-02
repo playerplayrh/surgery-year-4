@@ -5,7 +5,7 @@
     python3 scripts/exam_map.py --out map.html
 
 Reads exams/<set>/exam.md (General Sx papers and every OSCE/MEQ paper; subspecialty MCQ papers
-are kept apart) and the tags in exam-map/tags/<set>.md ('- Q12 | topic | asks | subtopic | read', the last two optional),
+are kept apart) and the tags in exam-map/tags/<set>.md ('- Q12 | topic | asks | concept | subtopic | read', the last three optional),
 plus INDEX.md for the organ system of each topic. The map shows breadth: a topic asked once
 counts as much as one asked every year. Each topic shows which cohorts and formats asked it,
 how it was asked, and what the repo has for studying it. Standard library only.
@@ -74,14 +74,14 @@ def collect(root):
             continue  # subspecialty MCQ papers are kept apart from General Surgery
         qs = {q["num"]: q for q in parse_exam(body)}
         tf = root / "exam-map" / "tags" / f"{code}.md"
-        tags = {q: (topic, asks, sub, rd) for _, q, topic, asks, sub, rd in parse_tags_full(read_text(tf))} \
+        tags = {q: (topic, asks, con, sub, rd) for _, q, topic, asks, con, sub, rd in parse_tags_full(read_text(tf))} \
             if tf.is_file() else {}
         papers.append({"code": code, "total": len(qs), "tagged": len(set(tags) & set(qs)),
                        "format": fm.get("exam_format", ""), "cohort": cohort_of(fm)})
-        for num, (topic, asks, sub, rd) in sorted(tags.items()):
+        for num, (topic, asks, con, sub, rd) in sorted(tags.items()):
             if num not in qs:
                 continue
-            questions.append({"set": code, "q": num, "topic": topic, "asks": asks, "sub": sub, "read": rd,
+            questions.append({"set": code, "q": num, "topic": topic, "asks": asks, "concept": con, "sub": sub, "read": rd,
                               "format": fm.get("exam_format", ""), "cohort": cohort_of(fm),
                               "stem": qs[num]["stem"], "path": f.relative_to(root).as_posix()})
     return systems, papers, questions
@@ -112,7 +112,7 @@ def render(root, systems, papers, questions):
             f'<li data-cohort="{e(q["cohort"])}" data-format="{e(q["format"])}">'
             f'<a href="{REPO_URL}{e(q["path"])}" target="_blank" rel="noopener">{e(q["set"])} Q{q["q"]}</a> '
             f'<span class="ask-tag">{e(q["asks"])}</span> '
-            + (f'<b>{e(q["sub"])}</b>' + (f' <span class="ask-tag">Read: {e(q["read"])}</span>' if q["read"] else "")
+            + (f'<b>{e(q["concept"])}</b> · {e(q["sub"])}' + (f' <span class="ask-tag">Read: {e(q["read"])}</span>' if q["read"] else "")
                if q["sub"] else f'{e(q["stem"][:140])}{"…" if len(q["stem"]) > 140 else ""}') + '</li>'
             for q in qs)
         lv = LEVELS[level[t]][0]

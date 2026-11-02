@@ -12,10 +12,12 @@ complete tag file.
 3. For each paper, read exams/<set>/exam.md and write exam-map/tags/<set>.md:
    ```
    # Topic tags: <set>
-   - Q1 | thyroid-mass | investigation | Thyroid nodule, euthyroid: first test after TFT (ultrasound vs FNA vs scan) | BR 34; Chula ch6 p243-245
+   - Q1 | thyroid-mass | investigation | Thyroid nodule: first investigation (TFT, ultrasound, FNA) | Thyroid nodule, euthyroid: first test after TFT (ultrasound vs FNA vs scan) | BR 34; Chula ch6 p243-245
    ```
+   - concept: a short name for the point tested, reused across questions on the same point so they
+     group into one mind-map leaf (it may name the answer). Reuse a concept already in the tags first.
    - subtopic: in detail, what the question asks the student to decide or recall (the clinical
-     setting, the decision point, and the options' theme), never the answer. Student topic labels
+     setting, the decision point, and the options' theme). Student topic labels
      printed in a paper heading (`topic: ...`) are a source for the topic, kept as they are.
    - read: where to study it, Board Review note first (`BR <nn>`), then the Chula chapter and pages
      (`Chula ch<n> p<a>-<b>`); write `lecture notes` when neither covers it.
