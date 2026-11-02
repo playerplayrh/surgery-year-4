@@ -162,9 +162,11 @@ templates/front-matter.md.
 - scripts/exam_map.py builds exam-map/index.html (generated, not committed): every topic past
   exams have asked, by organ system, with the cohorts and formats that asked it and what the
   repo has for studying it. It shows breadth, not frequency.
-- Tags live in exam-map/tags/<set>.md, one line per question: `- Q12 | topic | asks`, with
-  topic from INDEX.md and asks one of diagnosis, investigation, management, complication,
-  basic-science, other. Exam files are never edited for tagging. Tag with `/tag-exams`
+- Tags live in exam-map/tags/<set>.md, one line per question:
+  `- Q12 | topic | asks | subtopic | read`, with topic from INDEX.md and asks one of diagnosis,
+  investigation, management, complication, basic-science, other. subtopic says in detail what the
+  question asks (never its answer); read names where to study it (Board Review note first, then the
+  Chula chapter and pages). The last two fields are optional for old lines. Exam files are never edited for tagging. Tag with `/tag-exams`
   (.claude/commands/tag-exams.md).
 
 ## Terms
