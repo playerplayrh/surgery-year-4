@@ -1,0 +1,61 @@
+# Topic tags: mdcu72-gen-c-mcq
+- Q1 | perioperative-care | investigation | Assessing malnutrition: which parameter is inaccurate (weight and height, waist-hip, transferrin, lymphocyte count, nitrogen balance) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q2 | perioperative-care | basic-science | Daily calorie requirement per kg to maintain basal metabolism in a healthy adult | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q3 | surgical-infection | diagnosis | Fever, tachycardia and tachypnoea with no infection source found: SIRS vs sepsis vs septic shock vs fever of unknown cause | BR 01 (Surgical Infections; Shock); Chula ch1 p77
+- Q4 | perioperative-care | management | Which patient gains from preoperative nutritional support: low BMI before hepatectomy vs small weight loss, mild hypoalbuminaemia or low weight before minor or moderate surgery | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q8 | minimally-invasive-surgery | complication | Physiological complications of CO2 pneumoperitoneum in laparoscopic cholecystectomy: which is not one (temperature change, acidosis, gas embolism, reduced venous return, arrhythmia) | BR 01 (Minimally Invasive Surgery)
+- Q10 | acute-cholecystitis | management | Elderly man with acute cholecystitis not improving after 3 days of IV ceftriaxone: change antibiotics, operate, ERCP or search for another source | BR 27
+- Q14 | surgical-infection | management | Clean kitchen-knife cut with the last tetanus toxoid 5 years ago: what tetanus prophylaxis is needed | BR 01 (Surgical Infections); Chula ch20 p715
+- Q15 | surgical-infection | management | Fever and RUQ pain 5 days after right hepatectomy with a 5 cm subdiaphragmatic collection: management of the collection | BR 01 (Surgical Infections); BR 31
+- Q17 | breast-mass | investigation | Woman with a slow-growing 3 cm lobulated firm breast mass: proper investigation (imaging pair, CT, MRI, core biopsy, excision) | BR 04; Chula ch7 p302-328
+- Q18 | breast-cancer | management | Absolute contraindications to breast-conserving surgery: pregnancy, subareolar site, close margin, diffuse suspicious microcalcification, bifocal lesion | BR 04; Chula ch19 p687-692
+- Q19 | breast-cancer | management | 1.5 cm breast cancer with a clinically and radiologically negative axilla: choice of breast operation and axillary staging | BR 04; Chula ch19 p687-709
+- Q20 | breast-cancer | basic-science | Nerves met in breast and axillary surgery: which one is purely sensory (intercostobrachial, long thoracic, thoracodorsal, pectoral nerves) | BR 04; Chula ch7 p265-269
+- Q22 | fluid-electrolyte | management | Which electrolyte value carries the greatest risk of fatal arrhythmia if not corrected at once (sodium, potassium and calcium values) | BR 01 (Fluid and Electrolyte Management); Chula ch4 p180-182
+- Q27 | surgical-oncology | basic-science | Known carcinogen and cancer pairs (mercury, cadmium, UV, aflatoxin, HPV): which pairing is wrong | BR 01 (Oncology); lecture notes
+- Q28 | breast-cancer | management | Older woman with a 5 cm breast cancer and a biopsy-proven 2 cm axillary node: when chemotherapy should be given relative to surgery | BR 04; Chula ch19 p671-686
+- Q30 | colorectal-cancer | other | Middle-aged man with a month of bloody mucous stool: what is not the GP's role (history, rectal exam, CEA and PET, colonoscopy, counselling before referral) | BR 25
+- Q31 | perioperative-care | management | Fever of 38 C on day 1 after hepatectomy: pain control with incentive spirometry vs antibiotics, cultures, chest film and ECG, or opening the wound | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q34 | perioperative-care | management | Enhanced recovery after appendectomy in a young man without pain or flatus yet: when to start oral fluids and diet | BR 01 (Optimizing Perioperative Care: Enhanced Recovery); lecture notes
+- Q35 | perioperative-care | investigation | Essential preoperative tests before elective herniorrhaphy in a healthy patient | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q36 | thyroid-mass | management | Stable 1.5 cm spongiform thyroid nodule without symptoms and FNA Bethesda II: next management (no choices recalled) | BR 34; Chula ch6 p243-250
+- Q37 | parathyroid | diagnosis | Young woman with a fragility wrist fracture, severe osteoporosis on bone density and mildly raised calcium: diagnosis among hyperparathyroidism, vitamin D excess, FHH, Graves and idiopathic osteoporosis | BR 35; Chula ch6
+- Q38 | hyperthyroidism | management | Indications for thyroidectomy in hyperthyroidism (drug allergy, failure of radioiodine, pregnancy resistant to PTU, stridor, recent onset): which is not an indication | BR 34; Chula ch6 p253-257
+- Q39 | thyroid-cancer | basic-science | Most common thyroid malignancy | BR 34; Chula ch6
+- Q40 | hyperthyroidism | investigation | 2 cm firm thyroid nodule with palpitations and weight loss: first investigation | BR 34; Chula ch6 p243-245
+- Q41 | perioperative-care | management | Healthy man on primary-prevention aspirin before elective inguinal hernia repair: continue or stop aspirin, platelet cover, heparin bridging | BR 01 (Hemostasis); Chula ch3; lecture notes
+- Q42 | hemostasis-transfusion | management | Lethal triad of trauma (acidosis, bleeding, hypothermia): which part is easiest to correct and how | BR 01 (Hemostasis; Trauma); BR 43-01
+- Q44 | hemostasis-transfusion | management | Healthy patient with an infrarenal AAA who refuses donor blood: what to recommend (autologous donation, transfusion threshold, EVAR) | BR 01 (Hemostasis, Transfusion); BR 11
+- Q45 | hemostasis-transfusion | management | Haemophilia patient after ORIF of a femoral fracture: which blood component is needed next | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q46 | breast-cancer | complication | Which breast operation carries the highest risk of lymphoedema (wide excision, BCT with SLNB, mastectomy with ALND by stage, neoadjuvant therapy then mastectomy with ALND) | BR 04; Chula ch19 p705-709
+- Q48 | venous-thromboembolism | diagnosis | Presentation of acute DVT vs chronic venous disease signs (ulcer, oedema, pigmentation, dyspnoea, induration) | BR 12; Chula ch17 p630
+- Q49 | acute-limb-ischemia | diagnosis | Young woman with rheumatic heart disease, acute leg pain and an absent foot pulse: embolus vs thrombosis vs venous causes vs compartment syndrome | BR 11; Chula ch16 p591-598
+- Q50 | abdominal-aortic-aneurysm | management | Infrarenal AAA diameter threshold for elective repair | BR 11; Chula ch16 p615-617
+- Q52 | acute-pancreatitis | diagnosis | Young woman with recurrent acute pancreatitis, no gallstones and an ERCP showing an anomalous short pancreatic duct joining the CBD: cause of the attacks | BR 28
+- Q53 | periampullary-tumor | management | Pancreatic head cancer confined to the gland on imaging: name of the curative operation | BR 28
+- Q54 | periampullary-tumor | investigation | Elderly woman with back pain, nausea, 10 kg weight loss, cachexia and ascites without jaundice: most appropriate imaging | BR 28
+- Q57 | periampullary-tumor | investigation | Back pain, anorexia and weight loss unresponsive to orthopaedic care in an anicteric woman: further investigation (repeat theme of Q54) | BR 28
+- Q58 | esophageal-cancer | management | Mid-oesophageal SCC invading the carina and left main bronchus on bronchoscopy: most appropriate management | BR 14
+- Q60 | esophageal-cancer | complication | Milky chest-drain output of 1-1.5 L after starting jejunostomy feeds on day 3 after transthoracic oesophagectomy: cause | BR 14
+- Q67 | hernia | management | Previously reducible groin hernia irreducible and painful for 1 day with stable vitals and no fever: emergency repair, laparotomy, conservative care or reduction then elective repair | BR 33; Chula ch14 p554-556
+- Q68 | hernia | complication | Burning thigh pain 3 days after inguinal hernia repair: most likely cause (mesh infection, cutaneous nerve injury, recurrence, granuloma, mesh allergy) | BR 33; Chula ch14 p552; p535
+- Q69 | hernia | management | Reducible groin hernia in an older man with difficulty passing urine: what to deal with first | BR 33; Chula ch14 p529
+- Q70 | hernia | investigation | Three months of groin pain and discomfort without a clear lump: most appropriate imaging | BR 33; Chula ch14 p540
+- Q74 | upper-gi-bleeding | diagnosis | Haematemesis with maroon stools and hypotension in an alcoholic cirrhotic: most likely diagnosis | BR 16; BR 26b
+- Q75 | upper-gi-bleeding | investigation | Follow-on of Q74 after resuscitation: the diagnostic work-up of choice (barium, red cell scan, hepatic venous pressure gradient, colonoscopy) | BR 16
+- Q76 | acute-appendicitis | management | Pregnant woman at 20 weeks with migrated pain, guarding, leukocytosis and an incompressible blind-ending tube on ultrasound: next management | BR 26; Chula ch9 p413-415
+- Q79 | peritonitis | management | Sudden epigastric pain with generalised peritonitis and free air under both diaphragms: which step is not part of management (antibiotics, fluids, urine output, CT, laparotomy) | BR 31; BR 15
+- Q81 | organ-transplantation | management | Who should be referred for liver transplant evaluation: compensated cirrhosis of various causes, active heavy drinking with Child C, cirrhosis with a single 3 cm HCC | BR 02; Chula ch11 p471
+- Q84 | organ-transplantation | complication | Kidney graft turning dark 2 hours after transplantation: cause and whether matching would have prevented it | BR 02
+- Q85 | biliary-atresia | management | Infant with biliary atresia at 6 months: Kasai operation vs transplantation | BR 38b; BR 02
+- Q87 | liver-abscess | diagnosis | Young man returning from the United Arab Emirates with a 3 cm segment VI cystic liver lesion with two membrane layers: provisional diagnosis | BR 26b; Chula ch11 p464-465
+- Q88 | liver-mass | management | HCC treatment that cuts off the tumour's blood supply: name of the procedure | BR 26b; Chula ch11 p472
+- Q89 | portal-hypertension | basic-science | Mechanisms of bleeding tendency in cirrhosis (portal hypertension, hypersplenism, fibrinolysis, vitamin K deficiency, low factor synthesis): which is not one | BR 26b; Chula ch11 p453-455
+- Q90 | liver-abscess | diagnosis | Elderly woman with 10 days of fever, chills, RUQ pain, hepatomegaly, mild jaundice and a 12 cm rim-enhancing mixed lesion: provisional diagnosis | BR 26b; Chula ch11 p459-461
+- Q91 | intestinal-obstruction | diagnosis | Young man with colicky pain, bilious vomiting and distension after laparotomy for bowel rupture: provisional diagnosis | BR 19; Chula ch8 p379-381
+- Q93 | small-intestine | basic-science | Which resection carries the greatest risk of short bowel syndrome (gastrectomy, proximal vs distal jejunum, colostomy, colostomy with terminal ileum) | BR 19; Chula ch8 p399
+- Q94 | mesenteric-ischemia | investigation | Patient with AF and suspected acute mesenteric occlusion whose plain film shows small bowel ileus: next investigation | BR 19; Chula ch8 p397
+- Q96 | surgical-ethics | other | Fourth-year student asked to scrub for an HBsAg-positive patient: what to do first (gloves, protective gear, check vaccination status) | BR 01 (Quality, Patient Safety); Chula ch5 p229-231
+- Q97 | surgical-ethics | other | Preventing retained surgical items: which measure does not help (radiopaque gauze, returning instruments, limiting talk, changing scrub nurses, counts) | BR 01 (Quality, Patient Safety); lecture notes
+- Q98 | surgical-infection | basic-science | SSI risk in modified radical mastectomy: which factor is least likely to contribute (glove perforation, recent biopsy, no laminar flow, shaving the night before, long operation) | BR 01 (Surgical Infections); Chula ch5 p224-226
+- Q100 | surgical-ethics | other | Male student asked to examine an 18-year-old woman's breasts whose mother requests a female doctor: what to do | BR 01 (Quality, Patient Safety); lecture notes
