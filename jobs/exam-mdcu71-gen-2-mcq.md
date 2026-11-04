@@ -4,16 +4,16 @@ title: MDCU71 rotate 2 · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 2
-status: todo
-owner:
+status: in-progress
+owner: playerplayrh
 pages: 5
 scan_pages: 0
 files: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf"
-source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 22-26 of the PDF (page 21 is the divider "MDCU71 R2")"
+source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 22-26 of the PDF (page 21 is the divider 'MDCU71 R2')"
 key_sources: []
 output: exams/mdcu71-gen-2-mcq/exam.md
 checkpoint:
-updated: 2026-10-17
+updated: 2026-11-04
 ---
 
 ## Notes
@@ -28,3 +28,4 @@ Header on page 22: "Gen Sx rotate D (2/2561)". The text layer is scrambled (Thai
 
 ## Log
 - 2026-10-17 created by the owner's request (per-cohort job from the "AC additional" folder; the file was uploaded 2026-10-17)
+- 2026-11-04 started (playerplayrh, with Claude): pages 22-26
