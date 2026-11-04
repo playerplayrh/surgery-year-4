@@ -1,0 +1,62 @@
+# Topic tags: mdcu71-gen-3-mcq-2
+- Q5 | perioperative-care | management | Enhanced recovery after surgery (ERAS) elements | Which item is not part of an ERAS protocol | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q7 | peripheral-arterial-disease | diagnosis | Blue toe syndrome: digital emboli | Cause of blue toe syndrome | BR 11; lecture notes
+- Q9 | acute-cholecystitis | basic-science | Acute cholecystitis: cystic duct obstruction | Most common cause of acute cholecystitis | BR 27
+- Q16 | surgical-infection | management | Hand hygiene and infection control | Which measure is not used to reduce hospital-acquired infection | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q29 | lower-gi-bleeding | diagnosis | Commonest cause of massive lower GI bleeding | Most common cause of massive lower GI haemorrhage | BR 16; BR 25
+- Q66 | breast-mass | diagnosis | Fibroadenoma | 18-year-old with a painless 2 cm lump in the upper outer breast: which diagnosis | BR 04; Chula ch7 p302-328
+- Q87 | hernia | investigation | Strangulated or obstructed hernia: resuscitate and operate now | Groin mass present for a year, now irreducible with fever for 6 hours: appropriate investigation | BR 33; Chula ch14 p537
+- Q201 | fluid-electrolyte | management | Hyperkalaemia treatment: calcium, insulin-glucose, beta-agonist, dialysis | Which treatment does not lower potassium | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q202 | thyroid-mass | diagnosis | Hypocalcaemia after thyroidectomy: Chvostek, Trousseau, parathyroid devascularisation | Which finding does not belong to hypocalcaemia | BR 34; Chula ch6 p243-245
+- Q203 | hemostasis-transfusion | diagnosis | Platelet adhesion and aggregation: vWF and GP IIb/IIIa | Which condition does not prolong bleeding time | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q204 | upper-gi-bleeding | management | UGIB: first step is resuscitation, then EGD | Alcoholic man with massive haematemesis: which measure helps least | BR 16
+- Q205 | small-intestine | basic-science | Absorption by site of the small bowel | Which part of the gut absorbs fat best | BR 19; lecture notes
+- Q206 | thyroid-cancer | management | Papillary carcinoma: total thyroidectomy, RAI, thyroglobulin follow-up | Right lobe papillary carcinoma with negative nodes: which operation and adjuvant therapy | BR 34; Chula ch6 p253-257
+- Q207 | lower-gi-bleeding | investigation | Obscure small bowel bleeding: Meckel or enteroscopy | Investigation for bleeding from Meckel diverticulum | BR 16; BR 25
+- Q208 | fluid-electrolyte | diagnosis | Hypokalaemia causes | Which condition is not linked with low potassium | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q209 | lower-gi-bleeding | diagnosis | Commonest cause of massive lower GI bleeding | Most common cause of massive haematochezia | BR 16; BR 25
+- Q210 | peripheral-arterial-disease | diagnosis | Blue toe syndrome: digital emboli | What causes blue toe syndrome | BR 11; lecture notes
+- Q211 | hemostasis-transfusion | management | DIC: replacement of clotting factors and platelets | Patient with DIC: which blood product | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q212 | surgical-infection | management | Abscess drainage: which collections need drainage | Which condition is not treated by drainage | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q213 | hernia | basic-science | Inguinal canal anatomy: coverings and cremaster | Origin of the cremasteric muscle | BR 33; Chula ch14 p537
+- Q214 | colorectal-cancer | basic-science | CEA: follow-up, not screening | Where CEA is not raised | BR 25
+- Q215 | surgical-ethics | other | Informed consent: content, timing, and who consents | 16-year-old brought to the ER by a teacher for emergency appendectomy: who gives consent | BR 01 (Quality, Patient Safety); lecture notes
+- Q216 | gallstone-disease | complication | Complications of gallstones | Which condition is not a complication of gallstones | BR 27
+- Q217 | hemostasis-transfusion | management | Urgent warfarin reversal before surgery: FFP (and vitamin K) | Epidural haematoma in a patient on warfarin: what to do before craniotomy | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q218 | fluid-electrolyte | basic-science | Body water compartments: total body water 60%, intravascular volume | Which change decreases water in the intracellular fluid | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q219 | organ-transplantation | management | Contraindications to organ donation (HIV, melanoma, prion, sepsis, metastatic cancer) | Comatose patient: which one can donate organs | BR 02
+- Q220 | surgical-ethics | other | Beneficence, non-maleficence and justice in cases | Craniotomy done without informing a relative: which ethical principle | BR 01 (Quality, Patient Safety); lecture notes
+- Q221 | perioperative-care | diagnosis | Definition of malnutrition: BMI and weight loss | Which criterion defines malnutrition | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q222 | organ-transplantation | management | Contraindications to organ donation (HIV, melanoma, prion, sepsis, metastatic cancer) | Which condition contraindicates renal transplant | BR 02
+- Q223 | abdominal-pain | diagnosis | Acute abdomen: differential diagnosis | Abdominal pain with hypoactive bowel sounds: which diagnosis is not in the differential | BR 31; BR 40
+- Q224 | esophageal-cancer | management | Unfit or unresectable: definitive chemoradiation, stent or palliation | Oesophageal cancer without invasion or node but with multiple tiny lung nodules: treatment | BR 14
+- Q225 | breast-mass | basic-science | Gynaecomastia: drugs that cause it | Which drug does not cause gynaecomastia | BR 04; Chula ch7 p302-328
+- Q226 | breast-cancer | diagnosis | Breast cancer staging by TNM | Breast mass with axillary and supraclavicular nodes: which TNM stage | BR 04; Chula ch19 p671-686
+- Q227 | systemic-response-to-injury | basic-science | Stress response: catabolism, proteolysis, gluconeogenesis, lipolysis (not hypoglycaemia) | Which change is not seen after trauma | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q228 | hemostasis-transfusion | basic-science | Steps of haemostasis: vasoconstriction, platelet plug, coagulation | Which process is not a normal part of haemostasis | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q229 | hernia | diagnosis | Sliding hernia | Hernia where a viscus forms part of the sac wall | BR 33; Chula ch14 p537
+- Q230 | skin-cancer | management | Melanoma: adjuvant therapy | Adjuvant therapy for melanoma of the thigh | BR 03
+- Q231 | hernia | basic-science | Inguinal canal anatomy: coverings and cremaster | Which statement about the inguinal canal is false | BR 33; Chula ch14 p537
+- Q232 | skin-cancer | management | Melanoma: adjuvant therapy | Most effective adjuvant therapy in high-risk melanoma | BR 03
+- Q233 | organ-transplantation | basic-science | Immune tolerance mechanisms | Which mechanism is not peripheral tolerance | BR 02
+- Q234 | venous-thromboembolism | management | VTE prophylaxis: mechanical vs pharmacological, by risk | Prolonged pelvic surgery for endometrial cancer: which prophylaxis during the operation | BR 12; Chula ch17 p631-637
+- Q235 | venous-thromboembolism | diagnosis | Pulmonary embolism: complication and diagnosis | Most common symptom of acute pulmonary embolism | BR 12; Chula ch17 p631-637
+- Q236 | acute-limb-ischemia | management | Acute limb ischaemia from embolism: heparin and embolectomy | First treatment of acute arterial embolism | BR 11; Chula ch16 p591-598
+- Q237 | abdominal-pain | diagnosis | Acute abdomen: differential diagnosis | Severe upper abdominal pain with fever and guarding: which diagnosis is least likely | BR 31; BR 40
+- Q238 | hernia | basic-science | Inguinal canal anatomy: coverings and cremaster | Origin of the cremasteric muscle (no choices recalled) | BR 33; Chula ch14 p537
+- Q239 | diverticular-disease | investigation | Sigmoid diverticulitis: LLQ pain | 60-year-old woman with LLQ pain, constipation and a left lower quadrant mass: most appropriate investigation | BR 25
+- Q240 | hernia | management | Strangulated or obstructed hernia: resuscitate and operate now | Reducible groin mass that became irreducible for 6 hours with fever: management | BR 33; Chula ch14 p537
+- Q241 | breast-cancer | diagnosis | Arm swelling years after mastectomy: recurrence vs lymphoedema vs thrombosis | 65-year-old with right arm swelling 15 years after mastectomy: which diagnosis | BR 04; Chula ch19 p671-686
+- Q242 | fluid-electrolyte | management | Hyperkalaemia treatment: calcium, insulin-glucose, beta-agonist, dialysis | Which treatment does not lower potassium | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q243 | hernia | basic-science | Inguinal canal anatomy: coverings and cremaster | Muscle that gives rise to the cremaster | BR 33; Chula ch14 p537
+- Q244 | colorectal-cancer | basic-science | CEA: follow-up, not screening | Condition in which CEA is not raised | BR 25
+- Q245 | hernia | basic-science | Mesh material | Material of hernia mesh | BR 33; Chula ch14 p537
+- Q246 | colorectal-cancer | basic-science | CEA: follow-up, not screening | Condition in which CEA is not raised | BR 25
+- Q247 | portal-hypertension | management | Hepatic encephalopathy: lactulose, avoid shunts | What should not be done in hepatic encephalopathy | BR 26b; BR 16
+- Q248 | surgical-ethics | other | Time-out and the surgical safety checklist | Which operation needs side marking most | BR 01 (Quality, Patient Safety); lecture notes
+- Q249 | surgical-oncology | basic-science | Carcinogens and their cancers (aflatoxin, asbestos, benzene, HPV, liver fluke) | Which carcinogen-cancer pair is wrong | BR 01 (Oncology); lecture notes
+- Q250 | gallstone-disease | management | Choledocholithiasis: ERCP after stabilisation | Long-standing gallstones with jaundice, fever and amylase 3600: appropriate management | BR 27
+- Q251 | surgical-infection | management | Catheter-related bloodstream infection: coagulase-negative staph and line removal | ICU patient with catheter-related infection and staphylococcus in blood culture: which antibiotic | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q252 | thyroid-cancer | management | Papillary carcinoma: total thyroidectomy, RAI, thyroglobulin follow-up | Unilateral papillary thyroid cancer without symptoms: treatment of choice | BR 34; Chula ch6 p253-257
+- Q253 | minimally-invasive-surgery | basic-science | Advantages of MIS (not shorter time or learning curve) | How minimally invasive surgery is better than open surgery | BR 01 (Minimally Invasive Surgery)
+- Q254 | hyperthyroidism | management | Thyroid storm: drugs that block thyroid hormone | Drug that reduces peripheral conversion in thyroid storm | BR 34; Chula ch6

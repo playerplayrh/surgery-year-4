@@ -1,0 +1,34 @@
+# Topic tags: mdcu71-gen-2-mcq
+- Q1 | surgical-ethics | other | Professionalism: student behaviour, attire, definition of a profession | Which behaviour is appropriate for a medical professional (disclosure, radiology reporting, pathology deadlines) | BR 01 (Quality, Patient Safety); lecture notes
+- Q2 | surgical-ethics | other | Informed consent: content, timing, and who consents | Which item should not be in an informed-consent form (one-line recall) | BR 01 (Quality, Patient Safety); lecture notes
+- Q11 | portal-hypertension | diagnosis | Acid-base disorder in cirrhosis with portal hypertension | Acid-base pattern expected in a patient with cirrhosis and portal hypertension | BR 26b; BR 01 (Fluid and Electrolyte Management)
+- Q14 | acute-cholangitis | diagnosis | Acute cholangitis: Charcot triad, Reynolds pentad | Progressive abdominal pain, fever 39, mild jaundice and right upper quadrant tenderness: which diagnosis | BR 27
+- Q17 | gallstone-disease | diagnosis | Pigment stones: haemolysis (thalassaemia) | Young man with cholecystitis history, pale conjunctivae and splenomegaly: which underlying disease | BR 27
+- Q20 | minimally-invasive-surgery | basic-science | What counts as minimally invasive surgery (HIPEC does not) | Which procedure is not a minimally invasive operation | BR 01 (Minimally Invasive Surgery)
+- Q31 | acute-pancreatitis | diagnosis | Causes: gallstones and alcohol; pancreas divisum and anomalies | Epigastric pain to the back with amylase 1,500: most likely cause | BR 28
+- Q34 | periampullary-tumor | management | Resectable head cancer or ampullary cancer: Whipple pancreaticoduodenectomy | Obstructive jaundice with suspected ampullary cancer: which operation | BR 28
+- Q35 | small-intestine | basic-science | Duodenal atresia and associated anomalies | Which anomaly is associated with duodenal obstruction (one-line recall) | BR 38b; BR 19
+- Q38 | surgical-infection | basic-science | SSI risk factors (shaving, hypothermia, carriage, hyperglycaemia) | Which factor is not associated with increased infection risk | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q40 | surgical-infection | management | Tetanus: toxoid and immunoglobulin by wound and vaccination history | Which patient needs tetanus immunoglobulin (bite, contusion, abrasion, cyst excision with different toxoid dates) | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q41 | peptic-ulcer-disease | management | H. pylori eradication (penicillin allergy regimens) | Dyspepsia with a positive CLO test: which drug regimen | BR 15
+- Q46 | stomach-anatomy-physiology | basic-science | Gastric blood supply (short gastric, gastroepiploic, left gastric) | Which artery supplies most of the stomach | BR 15
+- Q57 | venous-thromboembolism | basic-science | VTE risk factors and risk stratification | Strongest risk factor for a hypercoagulable state | BR 12; Chula ch17 p631-637
+- Q61 | breast-cancer | basic-science | Breast cancer prognostic factors | Which feature is a good prognostic factor in breast cancer | BR 04; Chula ch19 p671-686
+- Q80 | hernia | diagnosis | Richter hernia | Hernia with abdominal pain, generalised tenderness and normal bowel sounds: which type | BR 33; Chula ch14 p537
+- Q97 | breast-cancer | management | Arm exercise advice after mastectomy and axillary dissection | After MRM with axillary dissection: how to advise on shoulder movement and drain | BR 04; lecture notes
+- Q201 | breast-cancer | basic-science | Breast cancer metastasis: common and least common organs | Which organ is the least common site for breast cancer metastasis | BR 04; Chula ch19 p671-686
+- Q202 | gastric-cancer | basic-science | Commonest malignancy of the stomach: adenocarcinoma | Which malignant neoplasm is commonest in the stomach | BR 15
+- Q203 | stomach-anatomy-physiology | basic-science | Gastric blood supply (short gastric, gastroepiploic, left gastric) | Main arterial supply of the stomach | BR 15
+- Q204 | hernia | investigation | Groin mass: ultrasound first | A palpable groin mass: next step | BR 33; Chula ch14 p537
+- Q205 | thyroid-cancer | diagnosis | Medullary carcinoma: MEN2, screen for phaeochromocytoma and relatives | Multiple cutaneous neuromas with medullary thyroid cancer and an adrenal tumour: which hereditary syndrome | BR 34; BR 35
+- Q206 | colorectal-cancer | diagnosis | Peutz-Jeghers: lip pigmentation and hamartomatous polyps | Young man with small bowel obstruction from intussusception, polyps and pigmented lips: histology of the polyps | BR 25
+- Q207 | esophageal-cancer | management | Early cancer T1-T2N0: oesophagectomy | Child C cirrhosis with a superficial squamous carcinoma found at screening endoscopy: most appropriate management | BR 14
+- Q208 | esophageal-cancer | complication | Hoarseness: recurrent laryngeal nerve invasion | Which factor is least likely to cause recurrent pneumonia in oesophageal cancer | BR 14
+- Q209 | parathyroid | management | Primary hyperparathyroidism: high calcium and PTH, adenoma | Which measure is not a treatment of hyperparathyroidism | BR 35
+- Q210 | gastric-cancer | diagnosis | Gastric cancer: outlet obstruction and alarm symptoms | Which endoscopic finding is not typical of gastric cancer | BR 15
+- Q211 | stomach-anatomy-physiology | basic-science | Gastric blood supply (short gastric, gastroepiploic, left gastric) | Main blood supply of the stomach | BR 15
+- Q212 | thyroid-mass | basic-science | Thyroid lymphatic drainage | Primary lymph drainage of the thyroid (one-line recall) | BR 34
+- Q213 | small-intestine | basic-science | Duodenal atresia and associated anomalies | Which anomaly relates to duodenal atresia | BR 38b; BR 19
+- Q214 | perioperative-care | basic-science | Components of parenteral nutrition | Which item is not a component of TPN | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q215 | colorectal-cancer | diagnosis | Peutz-Jeghers: lip pigmentation and hamartomatous polyps | Pigmented macules on the lips and intestinal polyps: which polyp type | BR 25
+- Q216 | surgical-ethics | other | Professionalism: student behaviour, attire, definition of a profession | Hippocratic principle recalled first (patient first, confidentiality, conflict of interest) | BR 01 (Quality, Patient Safety); lecture notes

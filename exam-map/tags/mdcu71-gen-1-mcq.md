@@ -1,0 +1,71 @@
+# Topic tags: mdcu71-gen-1-mcq
+- Q1 | dysphagia | diagnosis | Dysphagia: oropharyngeal vs oesophageal level | Choking at the moment of swallowing both solids and liquids in an older man: which level is the lesion at | BR 14
+- Q2 | achalasia | diagnosis | Achalasia: manometry to confirm, EGD to exclude pseudoachalasia | Bird-beak swallow with LES non-relaxation but a stricture at the junction that blocks the scope: achalasia vs pseudoachalasia vs stricture | BR 14
+- Q4 | esophageal-cancer | management | Unfit or unresectable: definitive chemoradiation, stent or palliation | Progressive dysphagia with a biopsy showing metastatic disease: what treatment fits | BR 14
+- Q5 | esophageal-cancer | diagnosis | Oesophageal cancer presentation: progressive dysphagia with weight loss | Progressive dysphagia with blood loss and a distal luminal mass on EGD after long heartburn: which diagnosis | BR 14
+- Q6 | portal-hypertension | diagnosis | Portal hypertension signs vs liver failure signs | HCV cirrhosis with portal hypertension: which findings go together (ascites, platelets, spleen, skin signs) | BR 26b; BR 16
+- Q7 | jaundice | management | Primary sclerosing cholangitis with ulcerative colitis | Diffuse bile duct strictures from PSC: which treatment is definitive | BR 27
+- Q8 | periampullary-tumor | diagnosis | Pancreatic cancer presentation: painless jaundice, Courvoisier, back pain and weight loss | Painless progressive jaundice with weight loss and a palpable gallbladder: which diagnosis | BR 28
+- Q10 | acute-cholangitis | management | Cholangitis: ERCP drainage | Abdominal pain with chills, confusion, fever, jaundice and raised white cells: choice and timing of antibiotics and biliary decompression | BR 27
+- Q12 | breast-mass | management | Gynaecomastia: drug treatment | Drug treatment for gynaecomastia (one-line recall) | BR 04; Chula ch7 p302-328
+- Q13 | breast-mass | diagnosis | Rapidly growing breast mass in a young woman: fibrocystic change vs fibroadenoma vs phyllodes | 30-year-old with a mass that grew within a week and is tender in the menstrual phase: which breast lesion | BR 04; Chula ch7 p302-328
+- Q15 | breast-cancer | management | Sentinel node biopsy: contraindications | Which situation is not a contraindication to sentinel lymph node biopsy (inflammatory cancer, pregnancy, matted nodes, T4, multicentric) | BR 04; Chula ch19 p671-686
+- Q16 | thyroid-mass | investigation | Thyroid nodule: first investigation (TFT, ultrasound, FNA) | Painless goitre for 10 years without thyrotoxic or compressive symptoms: next test | BR 34; Chula ch6 p243-245
+- Q20 | thyroid-mass | complication | Neck swelling and agitation after thyroidectomy: haematoma vs thyroid storm | Early postoperative agitation, tachycardia and mild neck swelling after subtotal thyroidectomy: which complication | BR 34; Chula ch6 p243-245
+- Q21 | mesenteric-ischemia | management | Management of mesenteric ischaemia | AF patient with sudden abdominal pain and no guarding, arterial embolism suspected: next step | BR 19; Chula ch8 p396-397
+- Q23 | surgical-ethics | other | Student with an HBV or HIV-positive patient in theatre: universal precautions | Protective equipment recalled as a one-line answer, stem not recalled | BR 01 (Quality, Patient Safety); lecture notes
+- Q24 | surgical-ethics | other | Autonomy: respecting refusal of treatment | Elderly patient with advanced cancer and a signed living will refusing intubation and CPR: which ethical principle is followed | BR 01 (Quality, Patient Safety); lecture notes
+- Q25 | surgical-ethics | other | Professionalism: student behaviour, attire, definition of a profession | Why a physician is considered a profession | BR 01 (Quality, Patient Safety); lecture notes
+- Q27 | venous-thromboembolism | management | VTE prophylaxis: mechanical vs pharmacological, by risk | DVT prophylaxis for a smoker having Whipple surgery: which method is most appropriate | BR 12; Chula ch17 p631-637
+- Q28 | perioperative-care | investigation | Preoperative pulmonary assessment in smokers | Chronic smoker with controlled hypertension before oesophagectomy: which extra test beyond bloods and ECG | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q29 | intestinal-obstruction | diagnosis | Adhesive SBO after previous surgery: diagnosis | Small bowel obstruction after appendectomy: commonest cause | BR 19; Chula ch8 p379-381
+- Q30 | perioperative-care | management | Postoperative fever day 1-2: atelectasis | Low-grade fever on day 1 after gastrectomy: which measure does not help reduce this complication | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q31 | hemostasis-transfusion | basic-science | Steps of haemostasis: vasoconstriction, platelet plug, coagulation | Which event is not part of the physiology of haemostasis | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q33 | hemostasis-transfusion | complication | Massive transfusion: ratios, citrate, hypocalcaemia, hyperkalaemia | Which metabolic change is not a complication of massive blood transfusion | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q37 | peptic-ulcer-disease | management | H. pylori eradication (penicillin allergy regimens) | Which drug is not used in H. pylori eradication regimens | BR 15
+- Q38 | stomach-anatomy-physiology | basic-science | Gastric cell types and secretions: gastrin from the antrum | Which part of the stomach mainly makes gastrin | BR 15
+- Q39 | stomach-anatomy-physiology | diagnosis | Afferent and efferent loop syndromes after gastrectomy | Epigastric pain relieved by bilious vomiting after gastric surgery: which post-gastrectomy syndrome | BR 15
+- Q40 | peptic-ulcer-disease | diagnosis | Peptic ulcer: which symptom is not typical | Which symptom does not belong to peptic ulcer disease | BR 15
+- Q43 | small-intestine | basic-science | Meckel diverticulum: rule of twos, vitelline duct origin | Cause of Meckel diverticulum | BR 19; Chula ch8 p394
+- Q44 | peritonitis | complication | Free air after recent laparotomy: expected vs anastomotic leak | Day 3 after right hemicolectomy with mild distension and air under the diaphragm: what explains it | BR 31
+- Q47 | gallstone-disease | management | Symptomatic gallstones: laparoscopic cholecystectomy | Periodic biliary colic with multiple gallstones and no cholecystitis: which operation is recommended | BR 27
+- Q49 | acute-cholangitis | other | Acute cholangitis: Charcot triad, Reynolds pentad | Commonest cause behind Reynolds pentad (one-line recall) | BR 27
+- Q52 | abdominal-aortic-aneurysm | complication | Open AAA repair: acute complications | Which problem is not an acute complication of open AAA repair | BR 11; Chula ch16 p615-617
+- Q53 | peripheral-arterial-disease | management | Femoropopliteal bypass conduit: great saphenous vein | Most suitable vascular conduit for femoropopliteal bypass | BR 11; Chula ch16
+- Q56 | fluid-electrolyte | basic-science | Main intracellular (K) and extracellular (Na) ions | Main electrolyte of extracellular fluid | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q58 | fluid-electrolyte | diagnosis | Acid-base disorder in GI bleeding | Acid-base pattern in a man who lost blood from the GI tract | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q59 | fluid-electrolyte | basic-science | Sodium content of normal saline | Sodium concentration in 0.9% saline | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q62 | hernia | investigation | Groin mass: ultrasound first | Intermittent right groin mass for 3 months in a woman: which investigation | BR 33; Chula ch14 p537
+- Q65 | hernia | management | Strangulated or obstructed hernia: resuscitate and operate now | Hernia with gut obstruction for 2 days and hypoactive bowel sounds: choose manual reduction, observation or emergency repair | BR 33; Chula ch14 p537
+- Q70 | perioperative-care | complication | Complications of enteral feeding | Which problem can follow enteral feeding through an NG tube | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q72 | periampullary-tumor | investigation | Pancreatic cancer work-up: CT then EUS-FNA or ERCP | Progressive jaundice with dark urine and pale stool: investigation of choice for initial diagnosis | BR 28
+- Q74 | periampullary-tumor | management | Pancreatic cancer resectability: vascular involvement | Pancreatic head cancer with a dilated duct: which finding contraindicates curative resection | BR 28
+- Q77 | anorectal-disease | management | Haemorrhoids: grading and treatment | Mucoid bloody stool for a year with an internal haemorrhoid at 11 o'clock: which statement about management is correct | BR 25
+- Q84 | organ-transplantation | management | Liver transplant contraindications (active alcohol use and others) | Which patient is contraindicated for liver transplantation | BR 02
+- Q89 | liver-mass | basic-science | Commonest benign liver tumour: haemangioma | Most common liver tumour | BR 26b; Chula ch11 p466-467
+- Q90 | liver-mass | management | Future liver remnant: minimum volume and portal vein embolisation | Main factor deciding whether colorectal liver metastases can be resected | BR 26b; Chula ch11 p466-467
+- Q92 | acute-appendicitis | diagnosis | Alvarado score and clinical signs (psoas, Rovsing) | Which description of a peritoneal sign in appendicitis is false | BR 26; Chula ch9 p409
+- Q93 | peritonitis | investigation | Free air under the diaphragm: perforated viscus, operate | Severe abdominal pain, guarding and hypoactive bowel sounds: which imaging finding is expected | BR 31
+- Q98 | necrotizing-fasciitis | diagnosis | Necrotising fasciitis: bullae, crepitus, urgent debridement | Diabetic with calf pain, redness, purple blebs and fever: cellulitis vs necrotising fasciitis vs erysipelas | BR 03; BR 01 (Surgical Infections)
+- Q100 | soft-tissue-infection | basic-science | Cellulitis: causative organisms | Commonest organisms responsible for cellulitis | BR 03; BR 01 (Surgical Infections)
+- Q184 | organ-transplantation | management | Liver transplant contraindications (active alcohol use and others) | Second wording: which patient is contraindicated for liver transplantation | BR 02
+- Q201 | jaundice | management | Preoperative biliary drainage in obstructive jaundice | Obstructive jaundice before surgery with INR 1.2: what to do first | BR 27
+- Q202 | perioperative-care | basic-science | Essential amino acids | Which amino acid is essential (one-line recall) | BR 01 (Systemic Response and Metabolic Support); lecture notes
+- Q203 | achalasia | diagnosis | Achalasia: manometry to confirm, EGD to exclude pseudoachalasia | Bird-beak appearance and a scope that cannot pass the stomach: which condition | BR 14
+- Q204 | achalasia | management | Achalasia treatment: Heller myotomy, dilatation, POEM | Achalasia needing myotomy with a cosmetic concern: which technique was developed for this | BR 14
+- Q205 | intestinal-obstruction | management | Adult intussusception: lead point and resection | Intussusception in an adult: next step in management | BR 19; Chula ch8 p379-381
+- Q206 | organ-transplantation | basic-science | Crossmatch, PRA and mixed lymphocyte reaction | Graft turns dark two hours after anastomosis: which step prevents this | BR 02
+- Q207 | hemostasis-transfusion | management | Massive transfusion: ratios, citrate, hypocalcaemia, hyperkalaemia | Unusual oozing after a Whipple operation with transfusion: which action should be avoided | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q208 | esophageal-cancer | management | Unfit or unresectable: definitive chemoradiation, stent or palliation | Oesophageal cancer 3 cm thick with a positive supraclavicular node: treatment | BR 14
+- Q209 | breast-cancer | management | Early breast cancer, clinically negative axilla: wide excision with SLNB | 4 cm breast cancer with one positive axillary node: which treatment options | BR 04; Chula ch19 p671-686
+- Q210 | peptic-ulcer-disease | basic-science | Johnson classification of gastric ulcer | Which statement about the Johnson classification is false | BR 15
+- Q211 | perioperative-care | management | Antiplatelet and antihypertensive drugs before surgery | Patient on aspirin and amlodipine before an operation: what to do with each drug | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q212 | peripheral-arterial-disease | investigation | Chronic arterial disease work-up: ABI then CTA before revascularisation | Gold standard test for chronic arterial disease (one-line recall) | BR 11; Chula ch16
+- Q213 | acute-appendicitis | investigation | Appendicitis in pregnancy: ultrasound then MRI, or operate | Third-trimester right lower quadrant pain with an unclear appendix on ultrasound: next test | BR 26; Chula ch9 p409
+- Q214 | venous-thromboembolism | basic-science | VTE risk factors and risk stratification | Which factor is not a risk factor for VTE | BR 12; Chula ch17 p631-637
+- Q215 | peritonitis | investigation | Free air under the diaphragm: perforated viscus, operate | Sudden severe epigastric pain with the patient lying very still: which imaging finding | BR 31
+- Q216 | mesenteric-ischemia | diagnosis | Non-occlusive mesenteric ischaemia (NOMI) | Septic shock needing two vasopressors, then out-of-proportion abdominal pain: which mesenteric cause | BR 19; Chula ch8 p396-397
+- Q217 | thyroid-cancer | basic-science | Papillary carcinoma: commonest, psammoma bodies, radiation exposure | Which thyroid cancer rises after Chernobyl-type radiation exposure | BR 34; Chula ch6 p253-257
+- Q218 | breast-cancer | basic-science | Breast cancer risk factors and benign lesions with risk (atypical hyperplasia) | Which pathology raises the risk of breast cancer (one-line recall) | BR 04; Chula ch19 p671-686
+- Q219 | surgical-infection | basic-science | SSI risk factors (shaving, hypothermia, carriage, hyperglycaemia) | Which factor is not related to surgical site infection risk (one-line recall) | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q220 | liver-mass | basic-science | Liver segments: segment VIII | Segment lying between the middle and right hepatic veins above the hilum (one-line recall) | BR 26b; Chula ch11 p466-467
