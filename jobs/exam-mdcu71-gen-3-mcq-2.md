@@ -4,7 +4,7 @@ title: MDCU71 rotate 3 (second set of screenshots) · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 2
-status: in-progress
+status: done
 owner: playerplayrh
 pages: 24
 scan_pages: 24
@@ -12,7 +12,7 @@ files: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf"
 source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 47-70 of the PDF (page 46 is a second divider 'MDCU71 R3'; the screenshots are headed 'MDCU71 - Rotate B')"
 key_sources: []
 output: exams/mdcu71-gen-3-mcq-2/exam.md
-checkpoint:
+checkpoint: "all done: 7 numbered + 54 unnumbered (Q201-Q254) from pages 47-70"
 updated: 2026-11-04
 ---
 
@@ -29,3 +29,4 @@ Tablet screenshots of comment threads, same kind as exam-mdcu71-gen-3-mcq. Quest
 ## Log
 - 2026-10-17 created by the owner's request (per-cohort job from the "AC additional" folder; the file was uploaded 2026-10-17)
 - 2026-11-04 started (playerplayrh, with Claude): pages 47-70
+- 2026-11-04 done (playerplayrh, with Claude): 61 questions from screenshots, no answers in the source; validate 0 errors
