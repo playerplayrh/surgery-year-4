@@ -4,16 +4,16 @@ title: MDCU71 rotate 3 · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 2
-status: todo
-owner:
+status: in-progress
+owner: playerplayrh
 pages: 18
 scan_pages: 18
 files: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf"
-source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 28-45 of the PDF (page 27 is the divider "MDCU71 R3")"
+source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 28-45 of the PDF (page 27 is the divider 'MDCU71 R3')"
 key_sources: []
 output: exams/mdcu71-gen-3-mcq/exam.md
 checkpoint:
-updated: 2026-10-17
+updated: 2026-11-04
 ---
 
 ## Notes
@@ -28,3 +28,4 @@ These pages are phone screenshots of social-media comment threads where students
 
 ## Log
 - 2026-10-17 created by the owner's request (per-cohort job from the "AC additional" folder; the file was uploaded 2026-10-17)
+- 2026-11-04 started (playerplayrh, with Claude): pages 28-45
