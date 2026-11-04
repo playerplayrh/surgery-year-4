@@ -1,0 +1,40 @@
+# Topic tags: mdcu71-gen-3-mcq
+- Q13 | stomach-anatomy-physiology | diagnosis | Afferent and efferent loop syndromes after gastrectomy | Light-headedness, fatigue and fainting with fast heart rate after gastrectomy: which post-gastrectomy syndrome | BR 15
+- Q23 | systemic-response-to-injury | basic-science | Starvation vs stress: ketogenesis in starvation | Which process does not happen in starvation | BR 01 (Systemic Response to Injury); Chula ch1 p51-66
+- Q28 | fluid-electrolyte | basic-science | Main intracellular (K) and extracellular (Na) ions | Most abundant cation inside the cell | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q32 | hemostasis-transfusion | basic-science | Steps of haemostasis: vasoconstriction, platelet plug, coagulation | First mechanism of human haemostasis | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q34 | hemostasis-transfusion | complication | Acute haemolytic transfusion reaction: stop and notify the blood bank | Brown urine and oozing after one unit of blood in a trauma patient: which cause | BR 01 (Hemostasis, Transfusion); Chula ch3
+- Q39 | perioperative-care | diagnosis | Postoperative fever day 1-2: atelectasis | Fever on day 1 after right hemicolectomy: most likely cause | BR 01 (Optimizing Perioperative Care); lecture notes
+- Q73 | liver-abscess | diagnosis | Pyogenic liver abscess: rim enhancement, biliary source | Diabetic woman with RUQ pain, fever and a multiloculated lesion in an enlarged liver: which diagnosis | BR 26b; Chula ch11 p459-461
+- Q78 | surgical-oncology | basic-science | MEN syndromes: organs involved | Which organ is not characteristic of MEN | BR 35; lecture notes
+- Q94 | thyroid-cancer | management | Anaplastic carcinoma: rapid growth and airway (tracheostomy) | Stridor worse lying down with anaplastic thyroid carcinoma: initial management | BR 34; Chula ch6 p253-257
+- Q100 | surgical-ethics | other | Beneficence, non-maleficence and justice in cases | Meaning of primum non nocere (one-line recall) | BR 01 (Quality, Patient Safety); lecture notes
+- Q201 | liver-mass | basic-science | Liver anatomy: segments of the left lobe | Which liver segments make up the left lobe | BR 26b; Chula ch11 p466-467
+- Q202 | stomach-anatomy-physiology | diagnosis | Early dumping: hyperosmolar load, symptoms within 30 minutes | Cramping, dizziness and fast heart rate after subtotal gastrectomy with a jejunal limb: which syndrome | BR 15
+- Q203 | abdominal-aortic-aneurysm | management | Elective AAA repair indications: 5.5 cm, growth over 1 cm a year, symptoms | Asymptomatic 6 cm infrarenal aneurysm in an ex-smoker with controlled hypertension: next step | BR 11; Chula ch16 p615-617
+- Q204 | fluid-electrolyte | basic-science | Third-space fluid loss | Which fluid collection is not a third-space loss | BR 01 (Fluid and Electrolyte Management); Chula ch4 p166-169
+- Q205 | venous-thromboembolism | investigation | DVT after a long flight or surgery: duplex ultrasound first | Swollen left leg after an 8-hour flight: next step | BR 12; Chula ch17 p631-637
+- Q206 | gallstone-disease | management | Choledocholithiasis: ERCP after stabilisation | RUQ pain after heavy meals with bilirubin 4, dilated CBD and raised liver enzymes: next step | BR 27
+- Q207 | jaundice | management | Preparing a jaundiced patient: vitamin K and risks of surgery | Obstructive jaundice before surgery: what to do first | BR 27
+- Q208 | breast-mass | investigation | Breast lump: core needle biopsy for tissue diagnosis | Ill-defined 2 cm lump with small axillary nodes: how to assess next | BR 04; Chula ch7 p302-328
+- Q209 | breast-mass | management | Mondor disease: NSAIDs | Superficial thrombophlebitis of the breast: appropriate management | BR 04; Chula ch7 p302-328
+- Q210 | surgical-infection | basic-science | Wound classification: clean, contaminated, dirty | Incisional wound infection after gangrenous appendicitis with mild fluid: which wound class | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q211 | liver-mass | investigation | Liver metastases: colorectal source, CEA, synchronous vs metachronous | Hemicolectomy with wedge resection of liver metastasis: which test shows it is operable | BR 26b; Chula ch11 p466-467
+- Q212 | stomach-anatomy-physiology | diagnosis | Early dumping: hyperosmolar load, symptoms within 30 minutes | Faintness and palpitations after starting nasojejunal feeding: which syndrome | BR 15
+- Q213 | peripheral-arterial-disease | diagnosis | Aortoiliac occlusion: Leriche syndrome | Impotence, gluteal pain and absent femoral pulses in a man: which syndrome | BR 11; Chula ch16
+- Q214 | dysphagia | diagnosis | Oropharyngeal dysphagia and Zenker diverticulum | Dysphagia, halitosis and regurgitation: which diverticulum | BR 14
+- Q215 | surgical-ethics | management | Autonomy: respecting refusal of treatment | Jehovah's witness before surgery: how to prepare when blood will be refused | BR 01 (Quality, Patient Safety); lecture notes
+- Q216 | acute-pancreatitis | basic-science | Diagnosis: amylase and lipase over 3 times normal | How soon amylase rises after the onset of pancreatitis | BR 28
+- Q217 | surgical-ethics | other | Confidentiality | Discussing a case in a lift where the patient's relatives are present | BR 01 (Quality, Patient Safety); lecture notes
+- Q218 | shock | basic-science | Definition of shock: tissue hypoperfusion | Which description defines shock | BR 01 (Shock); Chula ch4 p190-193
+- Q219 | breast-discharge | investigation | Nipple discharge work-up: ultrasound and mammogram | Clear yellow nipple discharge for 3 months: investigation by age | BR 04; Chula ch7
+- Q220 | breast-cancer | complication | Nerves in axillary surgery (intercostobrachial, thoracodorsal, long thoracic) | Nerve to latissimus dorsi that can be injured at axillary clearance | BR 04; Chula ch19 p671-686
+- Q221 | breast-cancer | management | Drain choice to prevent seroma after mastectomy | Which drain is used after mastectomy to prevent seroma | BR 04; Chula ch19 p671-686
+- Q222 | periampullary-tumor | basic-science | Pancreatic cancer risk factors | Which factor is not a risk factor for pancreatic cancer | BR 28
+- Q223 | stomach-anatomy-physiology | basic-science | Gastric cell types and secretions: gastrin from the antrum | Which cell secretes gastrin and where | BR 15
+- Q224 | esophageal-perforation | diagnosis | Boerhaave syndrome after vomiting | Chest pain, dyspnoea and surgical emphysema after heavy drinking and repeated vomiting: which diagnosis | BR 14
+- Q225 | surgical-infection | diagnosis | Early wound infection after minor surgery | Red, swollen, painful wound 3 days after lipoma excision: which diagnosis | BR 01 (Surgical Infections); Chula ch5 p227-229
+- Q226 | esophageal-cancer | management | Oesophageal reconstruction conduit | Which organ gives the most successful reconstruction after thoracic oesophagectomy | BR 14
+- Q227 | breast-mass | management | Mondor disease: NSAIDs | Treatment of Mondor disease | BR 04; Chula ch7 p302-328
+- Q228 | thyroid-mass | complication | Hypocalcaemia after thyroidectomy: Chvostek, Trousseau, parathyroid devascularisation | Perioral tingling and limb numbness: which problem | BR 34; Chula ch6 p243-245
+- Q229 | small-intestine | basic-science | Small bowel tumours: adenocarcinoma commonest malignancy | Most common site of adenocarcinoma of the small intestine | BR 19; Chula ch8 p394
