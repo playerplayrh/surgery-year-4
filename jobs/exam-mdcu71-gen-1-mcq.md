@@ -4,16 +4,16 @@ title: MDCU71 rotate 1 · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 2
-status: todo
-owner:
+status: in-progress
+owner: playerplayrh
 pages: 11
 scan_pages: 0
 files: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf"
-source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 10-20 of the PDF (page 9 is the divider "MDCU71 R1")"
+source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 10-20 of the PDF (page 9 is the divider 'MDCU71 R1')"
 key_sources: []
 output: exams/mdcu71-gen-1-mcq/exam.md
 checkpoint:
-updated: 2026-10-17
+updated: 2026-11-04
 ---
 
 ## Notes
@@ -28,3 +28,4 @@ The text layer of these pages is scrambled (letters shifted), so read the page i
 
 ## Log
 - 2026-10-17 created by the owner's request (per-cohort job from the "AC additional" folder; the file was uploaded 2026-10-17)
+- 2026-11-04 started (playerplayrh, with Claude): reading pages 10-20 as images
