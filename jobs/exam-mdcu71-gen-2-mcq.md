@@ -4,7 +4,7 @@ title: MDCU71 rotate 2 · General Sx · MCQ
 kind: exam
 scope: gen
 priority: 2
-status: in-progress
+status: done
 owner: playerplayrh
 pages: 5
 scan_pages: 0
@@ -12,7 +12,7 @@ files: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf"
 source: "Drive: Surgery Group/sources/AC additional/MDCU 71 AC.pdf > pages 22-26 of the PDF (page 21 is the divider 'MDCU71 R2')"
 key_sources: []
 output: exams/mdcu71-gen-2-mcq/exam.md
-checkpoint:
+checkpoint: "all done: 17 numbered questions + 16 unnumbered (Q201-Q216), pages 22-26"
 updated: 2026-11-04
 ---
 
@@ -29,3 +29,4 @@ Header on page 22: "Gen Sx rotate D (2/2561)". The text layer is scrambled (Thai
 ## Log
 - 2026-10-17 created by the owner's request (per-cohort job from the "AC additional" folder; the file was uploaded 2026-10-17)
 - 2026-11-04 started (playerplayrh, with Claude): pages 22-26
+- 2026-11-04 done (playerplayrh, with Claude): 33 questions, student highlight/circle marks as answers (student key, not official); validate 0 errors
