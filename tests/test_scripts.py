@@ -544,6 +544,77 @@ class BuildFacts(RepoCase):
         self.assertNotIn("### colorectal", merged)
 
 
+class FindTool(RepoCase):
+    """scripts/find.py on an invented repo."""
+
+    def setUp(self):
+        super().setUp()
+        self.write("textbook/book-a/01-bile.md", front(type="textbook-extract", topic="sample-topic", pages="1-9") +
+                   "# Biliary\n\n## Cholangitis\nCharcot triad is fever, jaundice and pain.\n\n"
+                   "## Thai part\nท่อน้ำดีอักเสบ cholangitis ในผู้ป่วยสมมติ\n")
+        self.write(".claude/old/copy.md", "# Old\ncholangitis in an old copy\n")
+        self.write("exams/set-k/exam.md", front(type="exam", topic="", exam_set="set-k", answer_source="student-key") +
+                   "## Q12 (original no. 12)\nWhich sign marks cholangitis?\n\nA. one\nB. two\n\n"
+                   "## Q13 (original no. 3, topic: Hemostasis)\nWhat stops a bleed?\n\n"
+                   "## Repeated question numbers\n\nHemostasis Q1: invented plain-line question about clotting\n")
+        self.write("exam-map/tags/set-k.md", "# Topic tags: set-k\n- Q12 | sample-topic | diagnosis | Charcot triad | sub | BR 1\n"
+                   "- Q13 | other-topic | management | Clotting | sub | BR 2\n")
+        self.write("INDEX.md", INDEX + "\n### Another system\n- `other-topic` - invented\n")
+
+    def find(self, *args):
+        r = subprocess.run([sys.executable, str(SCRIPTS / "find.py"), "--root", str(self.tmp), *args],
+                           capture_output=True, text=True)
+        return r.returncode, r.stdout + r.stderr
+
+    def test_thai_and_english_match_and_old_copies_skipped(self):
+        out = self.find("search", "CHOLANGITIS")[1]
+        self.assertRegex(out, r"01-bile\.md:\d+ \| Cholangitis")
+        self.assertRegex(out, r"01-bile\.md:\d+ \| Thai part")
+        self.assertNotIn(".claude", out)
+        self.assertIn("ท่อน้ำดีอักเสบ", self.find("search", "ท่อน้ำดี")[1])
+
+    def test_all_terms_in_same_section_unless_any(self):
+        self.assertIn("hits: no hits", self.find("search", "Charcot", "ท่อน้ำดี")[1])
+        self.assertNotIn("no hits", self.find("search", "Charcot", "ท่อน้ำดี", "--any")[1])
+
+    def test_exam_hits_name_question_and_flag_student_key(self):
+        out = self.find("search", "which sign", "--in", "exams")[1]
+        self.assertIn("set-k Q12 [student-key]", out)
+        self.assertIn("set-k Hemostasis Q1 [student-key]", self.find("search", "clotting", "--in", "exams")[1])
+        self.assertIn("set-k Hemostasis Q3", self.find("search", "stops a bleed", "--in", "exams")[1])
+
+    def test_output_caps(self):
+        for i in range(8):
+            self.write(f"notes/sample-topic/n{i}.md", f"# Note {i}\ncholangitis point {i}\n")
+        out = self.find("search", "cholangitis", "--in", "notes", "--max", "3")[1]
+        self.assertIn("5 more", out)
+        self.assertEqual(out.count("notes | notes/"), 3)
+        small = self.find("search", "cholangitis", "--chars", "150")[1]
+        self.assertIn("output cut", small)
+
+    def test_topic_lists_tags_and_textbook(self):
+        out = self.find("topic", "sample-topic")[1]
+        self.assertIn("set-k Q12 (diagnosis) [student-key]", out)
+        self.assertNotIn("Q13", out)
+        self.assertIn("textbook/book-a/01-bile.md (pages 1-9)", out)
+        amb = self.find("topic", "topic")[1]
+        self.assertIn("other-topic", amb)
+        self.assertIn("sample-topic", amb)
+
+    def test_outline_and_read_cap_and_outside_repo(self):
+        out = self.find("outline", "textbook/book-a/01-bile.md")[1]
+        self.assertIn("Cholangitis", out)
+        self.write("notes/long.md", "\n".join(f"line {i}" for i in range(1, 301)))
+        out = self.find("read", "notes/long.md:1-300")[1]
+        self.assertIn("120: line 120", out)
+        self.assertNotIn("121: line 121", out)
+        self.assertIn("--max-lines", out)
+        self.assertIn("121: line 121", self.find("read", "notes/long.md:1-300", "--max-lines", "200")[1])
+        code, msg = self.find("read", "../../etc/hosts:1-5")
+        self.assertNotEqual(code, 0)
+        self.assertIn("outside the repo", msg)
+
+
 if __name__ == "__main__":
     unittest.main()
 
