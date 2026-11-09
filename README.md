@@ -75,6 +75,12 @@ Honest limits:
 - Free private GitHub repos have no branch protection, so "a second person approves
   synthesis" is a group convention, not something GitHub enforces.
 
+## Finding things (scripts/find.py)
+Do not grep or cat the repo to look something up. Use `python3 scripts/find.py search <term>` (textbook,
+exams, tags, ward guides, notes; Thai or English), `find.py topic <name>`, `find.py outline <file>` and
+`find.py read <file>:<a>-<b>`, or type `/find <what>` in Claude Code. It prints short pointers, so a chat
+reads only the lines it needs. It is read-only.
+
 ## Facts tooling
 
 `python3 scripts/build_facts.py` regroups the per-batch files in facts/<topic>/ into

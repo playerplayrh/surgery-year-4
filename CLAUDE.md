@@ -110,6 +110,9 @@ templates/front-matter.md.
 - For comparisons, quizzes, and synthesis, read digests/ and facts/<topic>/_merged.md
   for the relevant topic first. Open a raw note or the raw/ folder only if needed or asked.
 - Facts notes and exams need no digest.
+- For lookups ("where is X", "which exam asked Y") use `python3 scripts/find.py` (search, topic,
+  outline, read) or `/find <what>` instead of grep or cat: it returns one-line pointers with line
+  numbers, so read only the lines you need. Prefer a fresh chat for lookups.
 - Do not open the PDFs in sources/ unless asked (they are on Drive, not in git).
 
 ## Drive inbox (contributors without GitHub)
