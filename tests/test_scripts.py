@@ -315,6 +315,71 @@ class ExamTags(RepoCase):
         self.assertNotIn("sample-topic", gaps)
 
 
+class ExamSignature(RepoCase):
+    """MDCU79 (scripts/mdutil.py SIGNATURE_COHORT) is highlighted in the topic map and the mind maps."""
+
+    def make(self, with_signature=True):
+        self.write("INDEX.md", INDEX.replace("## Topics\n", "## Topics\n### Invented system\n"))
+        sets = ["mdcu78-gen-a-mcq"] + (["mdcu79-gen-a-mcq"] if with_signature else [])
+        for i, code in enumerate(sets):
+            self.write(f"exams/{code}/exam.md",
+                       EXAM.replace("exam_set: set-a", f"exam_set: {code}").replace("exam-seta-001", f"exam-{code}"))
+        self.write("exam-map/tags/mdcu78-gen-a-mcq.md",
+                   "- Q1 | sample-topic | management | Concept alpha (with brackets) [x] | Detail of what the question asks | BR 01\n"
+                   "- Q2 | other-topic | diagnosis | Concept beta | Detail of what the question asks | BR 02\n")
+        if with_signature:
+            self.write("exam-map/tags/mdcu79-gen-a-mcq.md",
+                       "- Q1 | sample-topic | management | Concept alpha (with brackets) [x] | Detail of what the question asks | BR 01\n")
+
+    def run_script(self, name, *args):
+        r = subprocess.run([sys.executable, str(SCRIPTS / name), "--root", str(self.tmp), *args],
+                           capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
+    def test_mind_map_marks_what_the_signature_cohort_asked(self):
+        self.make()
+        self.run_script("exam_mindmap.py")
+        page = self.read("exam-map/mind-maps/invented-system.md")
+        mermaid = page.split("```mermaid")[1].split("```")[0]
+        self.assertIn("{{★ Concept alpha", mermaid)        # asked by MDCU79: hexagon with a star
+        self.assertIn("(★ sample-topic", mermaid)
+        self.assertNotIn("{{★ Concept beta", mermaid)      # only MDCU78 asked it
+        self.assertIn("Concept beta · 1 · 78", mermaid)
+        self.assertIn("★ and a hexagon leaf mark what MDCU79 asked (1 of these questions)", page)
+        self.assertIn("[★ mdcu79-gen-a Q1]", page)
+        self.assertNotIn("[★ mdcu78-gen-a", page)
+        self.assertIn("· ★ 1", self.read("exam-map/mind-maps/_index.md"))
+
+    def test_mind_map_labels_never_hold_mermaid_shape_characters(self):
+        self.make()
+        self.run_script("exam_mindmap.py")
+        mermaid = self.read("exam-map/mind-maps/invented-system.md").split("```mermaid")[1].split("```")[0]
+        leaf = next(line for line in mermaid.split("\n") if "Concept alpha" in line)
+        body = leaf.strip()[2:-2]                          # inside the hexagon braces
+        self.assertFalse(any(ch in body for ch in "()[]{}"), leaf)
+        self.assertIn("（with brackets）", body)
+
+    def test_topic_map_marks_the_signature_cohort(self):
+        self.make()
+        out = self.tmp / "map.html"
+        self.run_script("exam_map.py", "--out", str(out))
+        page = out.read_text(encoding="utf-8")
+        self.assertIn('class="dot sig on"', page)
+        self.assertIn('<li class="sig"', page)
+        self.assertIn("★ MDCU79 only", page)
+        self.assertIn("MDCU79 questions in 1 topics", page)
+        self.assertIn('<span class="star"', page)
+
+    def test_no_stars_without_the_signature_cohort(self):
+        self.make(with_signature=False)
+        self.run_script("exam_mindmap.py")
+        self.assertNotIn("★", self.read("exam-map/mind-maps/invented-system.md"))
+        self.assertNotIn("{{", self.read("exam-map/mind-maps/invented-system.md"))
+        out = self.tmp / "map.html"
+        self.run_script("exam_map.py", "--out", str(out))
+        self.assertNotIn("MDCU79 only", out.read_text(encoding="utf-8"))
+
+
 class IdentifierScan(RepoCase):
     def test_planted_identifiers_are_caught_and_masked(self):
         self.write("raw/alice/batch1.md", RAW + "seen HN 12345678\ntel 081-234-5678\nadmitted 12/03/2026\nID 7654321\n")

@@ -178,6 +178,12 @@ templates/front-matter.md.
   then rebuild; never edit the pages by hand. Exam files are never edited for tagging. Tag with `/tag-exams`
   (.claude/commands/tag-exams.md).
 
+- MDCU79 (the newest cohort, the owner's own) carries a signature in both: in the topic map an amber
+  colour, a ★ on its dot, topics and questions, and a "★ MDCU79 only" button; in the mind maps a ★ and a
+  hexagon leaf for every concept it asked. The cohort is set by `SIGNATURE_COHORT` in scripts/mdutil.py;
+  rebuild both after changing it. Mind-map labels use fullwidth brackets, because Mermaid reads
+  `( ) [ ] { }` as node shapes.
+
 ## Terms
 - AC = past exam (the owner does not remember what the letters stand for).
 

@@ -2,6 +2,11 @@
 import math
 import re
 
+# The cohort that the exam topic map and the mind maps highlight (the owner's own, newest cohort).
+# Change it here and rebuild both; nothing else needs editing.
+SIGNATURE_COHORT = "MDCU79"
+SIGNATURE_MARK = "★"
+
 FM_RE = re.compile(r"\A﻿?---[ \t]*\r?\n(.*?)\r?\n---[ \t]*(?:\r?\n|\Z)", re.S)
 TAG_RE = re.compile(r"\[(L\s*\d+(?:\s*(?:-|–|,)\s*L?\s*\d+)*)\]")
 THAI_RE = re.compile(r"[฀-๿]")

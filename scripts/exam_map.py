@@ -13,12 +13,13 @@ how it was asked, and what the repo has for studying it. Standard library only.
 import argparse
 import datetime
 import html
+import json
 import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from mdutil import read_text, split_front_matter  # noqa: E402
+from mdutil import SIGNATURE_COHORT, SIGNATURE_MARK, read_text, split_front_matter  # noqa: E402
 from validate import in_exam_map, load_topic_systems, parse_exam, parse_tags_full  # noqa: E402
 
 REPO_URL = "https://github.com/playerplayrh/surgery-year-4/blob/main/"
@@ -100,23 +101,31 @@ def render(root, systems, papers, questions):
     for t in by_topic:
         grouped.setdefault(systems.get(t, "Other"), []).append(t)
     e = html.escape
+    sig, mark = SIGNATURE_COHORT, SIGNATURE_MARK
+    sig_n = sum(1 for q in questions if q["cohort"] == sig)
+    sig_topics = len({q["topic"] for q in questions if q["cohort"] == sig})
+
+    def li_class(q):
+        return ' class="sig"' if q["cohort"] == sig else ""
 
     def tile(t):
         qs = sorted(by_topic[t], key=lambda q: (q["cohort"], q["set"], q["q"]))
         asked = {q["cohort"] for q in qs}
-        dots = "".join(f'<i class="dot{" on" if c in asked else ""}" title="{e(c)}">{e(c.replace("MDCU", ""))}</i>'
-                       for c in cohorts)
+        dots = "".join(f'<i class="dot{" sig" if c == sig else ""}{" on" if c in asked else ""}" title="{e(c)}">'
+                       f'{mark if c == sig else ""}{e(c.replace("MDCU", ""))}</i>' for c in cohorts)
+        star = f'<span class="star" title="Asked by {e(sig)}">{mark}</span> ' if sig in asked else ""
         chips = "".join(f'<span class="chip">{e(f)}</span>' for f in sorted({q["format"] for q in qs}))
         asks = "".join(f'<span class="chip ask">{e(a)}</span>' for a in ASKS if any(q["asks"] == a for q in qs))
         lis = "".join(
-            f'<li data-cohort="{e(q["cohort"])}" data-format="{e(q["format"])}">'
+            f'<li{li_class(q)} data-cohort="{e(q["cohort"])}" data-format="{e(q["format"])}">'
+            + (f'<b class="star">{mark}</b> ' if q["cohort"] == sig else "") +
             f'<a href="{REPO_URL}{e(q["path"])}" target="_blank" rel="noopener">{e(q["set"])} Q{q["q"]}</a> '
             f'<span class="ask-tag">{e(q["asks"])}</span> '
             + (f'<b>{e(q["concept"])}</b> · {e(q["sub"])}' + (f' <span class="ask-tag">Read: {e(q["read"])}</span>' if q["read"] else "")
                if q["sub"] else f'{e(q["stem"][:140])}{"…" if len(q["stem"]) > 140 else ""}') + '</li>'
             for q in qs)
         lv = LEVELS[level[t]][0]
-        return (f'<details class="tile lv-{lv}"><summary><span class="name">{e(t)}</span>'
+        return (f'<details class="tile lv-{lv}"><summary><span class="name">{star}{e(t)}</span>'
                 f'<span class="sub">{e(desc.get(t, ""))}</span>'
                 f'<span class="dots" aria-label="cohorts that asked it">{dots}</span>'
                 f'<span class="chips">{chips}{asks}</span></summary><ol>{lis}</ol></details>')
@@ -129,6 +138,12 @@ def render(root, systems, papers, questions):
     tagged_q = sum(p["tagged"] for p in papers)
     untagged = [p for p in papers if p["tagged"] < p["total"]]
     legend = "".join(f'<span class="key lv-{k}"><i></i>{e(label)}</span>' for k, label in LEVELS)
+    if sig_n:
+        legend += f'<span class="key"><b class="star">{mark}</b> asked by {e(sig)}</span>'
+    sig_stat = (f'<div class="stat sig"><b>{mark} {sig_n}</b><span class="sub">{e(sig)} questions in {sig_topics} topics</span></div>'
+                if sig_n else "")
+    sig_btn = (f'<button id="fs" type="button" class="sigbtn" aria-pressed="false">{mark} {e(sig)} only</button>'
+               if sig_n else "")
     cohort_opts = "".join(f'<option>{e(c)}</option>' for c in cohorts)
     format_opts = "".join(f'<option>{e(f)}</option>' for f in formats)
     gap_html = ("".join(f'<span class="chip">{e(t)}</span>' for t in gaps)
@@ -142,11 +157,11 @@ def render(root, systems, papers, questions):
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>Exam Topic Map</title>
 <style>
 :root{{--bg:#f7f8f6;--card:#fff;--fg:#1d2420;--mut:#5f6b65;--line:#dde3df;--acc:#2f6f5e;
---l0:#eef0ee;--l1:#e3ecf7;--l2:#dcefe4;--l3:#bfe3cb;--dot:#d3d9d5}}
+--l0:#eef0ee;--l1:#e3ecf7;--l2:#dcefe4;--l3:#bfe3cb;--dot:#d3d9d5;--sig:#b45f06;--sigbg:#fcefdc}}
 @media (prefers-color-scheme:dark){{:root:not([data-theme="light"]){{--bg:#141917;--card:#1b211e;--fg:#e5ebe7;--mut:#9eaba4;
---line:#2c3531;--acc:#79c6ae;--l0:#232a27;--l1:#1f2c3b;--l2:#1d3428;--l3:#24503a;--dot:#38423d;color-scheme:dark}}}}
+--line:#2c3531;--acc:#79c6ae;--l0:#232a27;--l1:#1f2c3b;--l2:#1d3428;--l3:#24503a;--dot:#38423d;--sig:#f0a24a;--sigbg:#3a2a14;color-scheme:dark}}}}
 :root[data-theme="dark"]{{--bg:#141917;--card:#1b211e;--fg:#e5ebe7;--mut:#9eaba4;--line:#2c3531;--acc:#79c6ae;
---l0:#232a27;--l1:#1f2c3b;--l2:#1d3428;--l3:#24503a;--dot:#38423d;color-scheme:dark}}
+--l0:#232a27;--l1:#1f2c3b;--l2:#1d3428;--l3:#24503a;--dot:#38423d;--sig:#f0a24a;--sigbg:#3a2a14;color-scheme:dark}}
 *{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}}
 main{{max-width:1150px;margin:0 auto;padding-inline:16px;padding-block:24px 48px;display:grid;gap:22px}}
 h1{{font-size:24px;font-weight:600;margin:0}}h2{{font-size:17px;font-weight:600;margin:0 0 10px}}
@@ -167,6 +182,11 @@ select{{font:inherit;padding:4px 8px;border-radius:8px;border:1px solid var(--li
 .dots{{display:flex;gap:3px;flex-wrap:wrap}}.dot{{font:600 10.5px/1 ui-monospace,Menlo,monospace;font-style:normal;padding:3px 4px;
 border-radius:4px;color:var(--mut);border:1px dashed var(--dot);font-variant-numeric:tabular-nums}}
 .dot.on{{background:var(--acc);border:1px solid var(--acc);color:var(--card)}}
+.dot.sig{{border:1px solid var(--sig);color:var(--sig)}}.dot.sig.on{{background:var(--sig);color:var(--card)}}
+.star{{color:var(--sig);font-weight:600}}li.sig{{background:var(--sigbg);border-radius:6px;padding:2px 6px;margin-left:-6px}}
+.stat.sig{{border-color:var(--sig)}}.stat.sig b{{color:var(--sig)}}
+.sigbtn{{font:inherit;padding:4px 10px;border-radius:8px;border:1px solid var(--sig);background:var(--card);color:var(--sig);cursor:pointer}}
+.sigbtn[aria-pressed="true"]{{background:var(--sig);color:var(--card)}}
 .chips{{display:flex;gap:4px;flex-wrap:wrap}}.chip{{font-size:11.5px;padding:1px 7px;border-radius:999px;border:1px solid var(--line);background:var(--card)}}
 .chip.ask{{color:var(--mut)}}ol{{margin:0;padding:4px 14px 12px 34px;display:grid;gap:6px;font-size:13.5px}}
 ol a{{color:var(--acc);font-weight:500;white-space:nowrap}}.ask-tag{{color:var(--mut);font-size:12px}}
@@ -180,9 +200,9 @@ Tap a topic to see its questions.</div></div>
 <div class="stats"><div class="stat"><b>{len(by_topic)}</b><span class="sub">topics examined</span></div>
 <div class="stat"><b>{len(papers)}</b><span class="sub">papers</span></div>
 <div class="stat"><b>{tagged_q}/{total_q}</b><span class="sub">questions tagged</span></div>
-<div class="stat"><b>{len(gaps)}</b><span class="sub">topics with exam questions only</span></div></div>
+<div class="stat"><b>{len(gaps)}</b><span class="sub">topics with exam questions only</span></div>{sig_stat}</div>
 <div class="bar"><select id="fc" aria-label="Cohort"><option value="">All cohorts</option>{cohort_opts}</select>
-<select id="ff" aria-label="Format"><option value="">All formats</option>{format_opts}</select>
+<select id="ff" aria-label="Format"><option value="">All formats</option>{format_opts}</select>{sig_btn}
 <div class="legend">{legend}</div></div>
 {empty}{sections}
 <div class="panel"><h2>Examined, but nothing to study from in the repo yet</h2><div class="chips">{gap_html}</div></div>
@@ -190,8 +210,11 @@ Tap a topic to see its questions.</div></div>
 </main><script>
 const apply=()=>{{const c=fc.value,f=ff.value;document.querySelectorAll('.tile').forEach(t=>{{let n=0;
 t.querySelectorAll('li').forEach(li=>{{const ok=(!c||li.dataset.cohort===c)&&(!f||li.dataset.format===f);li.hidden=!ok;if(ok)n++}});
-t.hidden=n===0}});document.querySelectorAll('section').forEach(s=>{{s.hidden=!s.querySelector('.tile:not([hidden])')}})}};
+t.hidden=n===0}});document.querySelectorAll('section').forEach(s=>{{s.hidden=!s.querySelector('.tile:not([hidden])')}});
+const b=document.getElementById('fs');if(b)b.setAttribute('aria-pressed',String(fc.value===SIG))}};
 fc.onchange=ff.onchange=apply;
+const SIG={json.dumps(sig)};const fsb=document.getElementById('fs');
+if(fsb)fsb.onclick=()=>{{fc.value=fc.value===SIG?'':SIG;apply()}};
 </script></body></html>
 """
 
