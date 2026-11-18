@@ -308,7 +308,6 @@ D. Veracity
 Added: B, C, D
 
 ## Q75
-Stem: Aerobilia? / [in the paper's answer column, without a letter: Severe cholangitis?] เกิดจากอะไร
 A. Biliary-enteric fistula
 B. Acute viral hepatitis
 C. Acute appendicitis
