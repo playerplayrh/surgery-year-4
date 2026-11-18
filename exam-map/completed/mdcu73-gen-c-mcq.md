@@ -66,3 +66,11 @@ B. Hyperacute rejection caused by T-cell mediated
 C. Grafts between identical twins are not rejected
 D. Chronic rejection involves vascular changes
 Added: C, D
+
+## Q27
+A. 1-2-3
+B. 2-1-3
+C. 1-3-2
+D. 3-1-2
+E. 2-3-1
+Added: B, C, D, E

@@ -85,3 +85,78 @@ C. Resuscitation with a vasoactive drug
 D. Transhepatic variceal embolisation
 E. Barium swallow
 Added: C, D, E
+
+## Q5
+A. debridement
+B. Amputation
+C. atb 14 วัน
+D. Hyperbaric oxygen only
+E. Warm compress
+Added: D, E
+
+## Q15
+A. Acute lung injury
+B. pulmonary edema
+C. Anaphylactic reaction
+D. Pulmonary embolism
+E. Hemolytic transfusion reaction
+Added: C, D, E
+
+## Q16
+A. Pringle maneuver
+B. Kocher maneuver
+C. Cattell-Braasch maneuver
+D. Mattox maneuver
+Added: B, C, D
+
+## Q17
+A. Spigelion hernia
+B. Incisional hernia
+C. Umbilical hernia
+D. Direct inguinal hernia
+Added: B, C, D
+
+## Q20
+A. MRCP
+B. PET scan
+C. HIDA scan
+D. Abdominal X-ray
+E. Barium meal
+Added: D, E
+
+## Q26
+A. Respiratory alkalosis
+B. Metabolic acidosis
+C. Metabolic alkalosis
+D. Respiratory acidosis
+Added: A, B, C, D
+
+## Q29
+Stem: Zenker diverticulum (bad breath) ตรงac ข้อใดอธิบายได้ถูกต้อง
+A. Traction diverticulum of the mid esophagus
+B. Pulsion diverticulum through Killian's triangle
+C. Epiphrenic diverticulum above the diaphragm
+D. Congenital esophageal web
+Added: A, B, C, D
+
+## Q31
+A. Umbilical hernia
+B. Incision lab hernia
+C. Spigelian hernia
+D. Epigastric hernia
+E. Inguinal hernia
+Added: D, E
+
+## Q32
+A. Ascites and thrombocytopenia
+B. Ascites and thrombocytosis
+C. Spider angioma and splenomegaly with thrombocytosis
+D. Palmar erythema and polycythemia
+Added: B, C, D
+
+## Q33
+A. Cirrhosis with variceal bleeding (decompensated cirrhosis)
+B. Hepatocellular carcinoma 8 cm with vascular invasion
+C. Acute viral hepatitis A with INR 1.2
+D. Metastatic colon cancer to the liver
+Added: B, C, D

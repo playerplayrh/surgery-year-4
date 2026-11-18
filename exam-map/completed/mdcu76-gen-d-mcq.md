@@ -195,3 +195,78 @@ C. PET CT of the whole body
 D. MRI of the neck
 E. Neck CT with contrast
 Added: B, C, D, E
+
+## Q4
+A. hamartomatous polyp
+B. Adenomatous polyp
+C. Hyperplastic polyp
+D. Inflammatory polyp
+Added: C, D
+
+## Q15
+A. ตัดทั้ง rectal and prostate ในครั้งเดียว
+B. ตัดเฉพาะ rectum แล้วปล่อย prostate ไว้
+C. Palliative colostomy and chemotherapy
+D. Radiotherapy alone
+Added: B, C, D
+
+## Q21
+A. ให้ crystalloid+colliod
+B. Autologous blood transfusion
+C. Packed red cell transfusion despite refusal
+D. Fresh frozen plasma
+Added: C, D
+
+## Q26
+A. Elective + กลับไปคุมน้ำตาลก่อน
+B. Emergency hernioplasty today
+C. Elective hernioplasty without glucose control
+D. Wear a truss only
+Added: B, C, D
+
+## Q34
+A. Increased ketogenesis
+B. Increased cytokine
+C. Decreased proteolysis
+D. Increased insulin level
+E. Increased catecholamines
+Added: D, E
+
+## Q36
+A. 1+2+3+4+5+6
+B. 1+2+3+4
+C. 1+2+4
+D. 1+2+3+4+5
+E. 1+4+5+6
+Added: C, D, E
+
+## Q38
+A. MRCP
+B. Endoscopic ultrasound
+C. MRI liver with contrast
+D. Liver biopsy
+E. Plain abdominal film
+Added: C, D, E
+
+## Q44
+A. Enteral ผ่าน NG
+B. TPN
+C. Vitamin+oral food
+D. Oral regular diet only
+E. Peripheral dextrose 5% only
+Added: D, E
+
+## Q47
+A. พันขา
+B. Debride+ABX
+C. Compressive dressing
+D. Bed rest with elevation only
+E. Topical steroid cream
+Added: D, E
+
+## Q51
+A. Thrombophlebitis
+B. Catheter-related bloodstream infection
+C. Deep vein thrombosis
+D. Allergic reaction to the infusion
+Added: B, C, D

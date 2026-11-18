@@ -32,3 +32,17 @@ C. Free graft
 D. Xenotransplant
 E. Autotransplant
 Added: C, D, E
+
+## Q4
+A. a, b, c, d
+B. c, a, d, b
+C. a, c, d, b
+D. a, d, c, b
+Added: A, B, C, D
+
+## Q24
+A. Femoral hernia
+B. Incisional hernia
+C. Direct inguinal hernia
+D. Umbilical hernia
+Added: A, B, C, D

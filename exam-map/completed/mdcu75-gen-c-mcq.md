@@ -64,3 +64,77 @@ C. Peripheral neuropathy
 D. Pyoderma gangrenosum
 E. Sickle cell disease
 Added: D, E
+
+## Q7
+Stem: เป็นcirrhosis, u/s ได้ anechoic 1 ก้อน ถามว่าเป็นอะไร
+A. Hepatocellular carcinoma
+B. Simple hepatic cyst
+C. Hemangioma
+D. Liver abscess
+Added: A, B, C, D
+
+## Q8
+A. CT abdomen
+B. MRI abdomen
+C. Barium enema
+D. Observe for 24 hr
+Added: A, B, C, D
+
+## Q9
+A. Colon cancer
+B. Ovary cancer
+C. Gastric cancer
+D. Prostate cancer
+E. Thyroid cancer
+Added: D, E
+
+## Q21
+A. mastectomy is offered if มีลูกเสร็จแล้ว
+B. her family should do genetic test after genetic counseling
+C. Genetic test is not useful because she has no symptoms
+D. Prophylactic mastectomy is mandatory immediately
+Added: C, D
+
+## Q22
+A. trauma injury
+B. hyperslenism
+C. Idiopathic thrombocytopenic purpura
+D. Hereditary spherocytosis
+Added: C, D
+
+## Q32
+A. acute gangrenous cholecystitis
+B. acute cholangitis
+C. peptic ulcer perforated
+D. Gallstone ileus
+E. Acute pancreatitis
+Added: D, E
+
+## Q36
+A. Physical carcinogen
+B. Chemical carcinogen
+C. Biogical carcinogen
+D. Hormonal carcinogen
+E. Nutritional carcinogen
+Added: D, E
+
+## Q46
+A. Elective hernioplasty in 3 months
+B. Manual reduction and, if successful, repair soon
+C. Emergency laparotomy immediately with bowel resection
+D. Observe at home with analgesics
+Added: A, B, C, D
+
+## Q47
+A. acute pancreatitis
+B. chronic pancreatitis
+C. Acute cholecystitis
+D. Peptic ulcer perforation
+Added: C, D
+
+## Q52
+A. Previous implant
+B. inflammatory breast cancer
+C. Tumor 1.5 cm in a large breast
+D. Unifocal small DCIS
+Added: C, D

@@ -212,3 +212,32 @@ B. Serum tumour markers
 C. Barium meal
 D. Chest radiograph
 Added: B, C, D
+
+## Q37
+A. Closed loop obstruction
+B. Simple mechanical small bowel obstruction
+C. Paralytic ileus
+D. Colonic pseudo-obstruction
+Added: B, C, D
+
+## Q40
+A. Inguinal ligament, Lacunar ligament, Femoral vein
+B. Inguinal ligament, Femoral vein, Femoral artery
+C. Inguinal ligament, Lacunar ligament, Femoral artery
+D. Inguinal ligament, Femoral nerve, Femoral artery
+Added: C, D
+
+## Q43
+A. Umbilical hernia
+B. Incisional hernia
+C. Sliding hernia
+D. Spigelian hernia
+E. Inguinal hernia
+Added: D, E
+
+## Q67
+A. Venous return, Cardiac output, Systemic vascular resistance
+B. Increased venous return, increased cardiac output, decreased systemic vascular resistance
+C. Decreased venous return, increased cardiac output, decreased systemic vascular resistance
+D. Increased venous return, decreased cardiac output, increased systemic vascular resistance
+Added: B, C, D
