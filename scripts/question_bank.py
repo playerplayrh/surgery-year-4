@@ -191,7 +191,6 @@ def sheets(root):
         asks = collections.Counter(r["q"]["asks"] for r in v).most_common(1)[0][0]
         read = collections.Counter(r["q"]["read"] for r in v if r["q"]["read"]).most_common(1)
         concept_rows.append([system, topic, concept, len(v), "MDCU " + ", ".join(map(str, cohorts)), asks, ex["paste"],
-                             read[0][0] if read else "",
                              "; ".join(r["q"]["ref"] for r in sorted(v, key=lambda r: (r["q"]["cohort"], r["q"]["num"]), reverse=True)),
                              ex["q"]["pics"]])
     q_rows = []
@@ -201,36 +200,37 @@ def sheets(root):
         q_rows.append([q["system"], q["topic"], q["concept"], int(q["cohort"]) if q["cohort"].isdigit() else q["cohort"],
                        q["set"], q["num"], q["asks"], r["paste"], "", r["key"],
                        ("Yes: " + ", ".join(r["added"]) + " filled in" if r["added"] else "No"),
-                       original_text(q), q["sub"], q["read"], q["pics"], q["link"]])
+                       original_text(q), q["sub"], q["pics"], q["link"]])
     c_head = ["Organ system", "Topic", "Concept", "Times asked", "Years asked", "Usually asks", "Example question (copy this)",
-              "Read", "All questions", "Picture"]
+              "All questions", "Picture"]
     q_head = ["Organ system", "Topic", "Concept", "MDCU", "Paper", "Q", "Type", "Question (copy this)", "Your answer (fill in)",
-              "เฉลยรุ่นพี่", "Completed from recall", "Original recalled wording", "What it asks", "Read", "Picture", "Source on GitHub"]
+              "เฉลยรุ่นพี่", "Completed from recall", "Original recalled wording", "What it asks", "Picture", "Source on GitHub"]
     return rows, c_head, concept_rows, q_head, q_rows
 
 
 def readme_lines(n_concepts, n_questions, n_filled):
-    return ["Past exam bank: every organ system",
-            f"{n_questions} past General Sx MCQ questions from MDCU69-79, grouped into {n_concepts} concepts (the same point tested again, in different words).",
+    return ["Past exam bank: คลังข้อสอบเก่า ศัลยศาสตร์ทั่วไป ทุกระบบอวัยวะ",
+            f"มีข้อสอบ MCQ ศัลยศาสตร์ทั่วไปของ MDCU69-79 ทั้งหมด {n_questions} ข้อ จัดเป็น {n_concepts} concept (หัวข้อเดียวกันที่ถูกถามซ้ำด้วยคำพูดต่างกัน)",
             "",
-            "HOW TO USE (this file is a template to copy from, not to edit)",
-            "- Topics tab: the list of every topic with a link to its own tab (the tabs are at the bottom of the screen).", "- Concepts tab: one row per concept. Copy the 'Example question' cell to paste a ready-made question with its choices.",
-            "- All questions tab: every question, newest first. Copy the 'Question (copy this)' cell. It ends with a blank 'Answer:' line for you to fill.",
-            "- 'Your answer (fill in)' is blank on purpose.",
-            "- Use the filter arrows in the header row to filter by organ system, topic, concept, year (MDCU) or type.",
-            "- To change something, make your own copy: File > Make a copy.",
+            "วิธีใช้ (ไฟล์นี้เป็นต้นแบบให้ทำสำเนาไปใช้ ไม่ใช่ไฟล์ที่ไว้แก้ไข)",
+            "- แท็บ Topics: รายชื่อทุกหัวข้อพร้อมลิงก์ไปยังแท็บของหัวข้อนั้น (แท็บของแต่ละหัวข้ออยู่ด้านล่างของหน้าจอ)",
+            "- แท็บของแต่ละหัวข้อ (เช่น Hernia, Liver mass): ข้อสอบทุกข้อของหัวข้อนั้น เรียงตาม concept และรุ่นใหม่ก่อน",
+            "- แท็บ Concepts (อยู่ท้ายสุด): หนึ่งแถวต่อหนึ่ง concept คัดลอกเซลล์ 'Example question' เพื่อได้ข้อสอบพร้อมตัวเลือกไปใช้ต่อ",
+            "- แท็บ All questions (อยู่ท้ายสุด): ข้อสอบทุกข้อ เรียงรุ่นใหม่ก่อน คัดลอกเซลล์ 'Question (copy this)' ท้ายข้อมีบรรทัด 'Answer:' ว่างไว้ให้เติม",
+            "- คอลัมน์ 'Your answer (fill in)' เว้นว่างไว้โดยตั้งใจ",
+            "- ใช้ลูกศรตัวกรองที่แถวหัวตารางเพื่อกรองตามระบบอวัยวะ หัวข้อ concept รุ่น (MDCU) หรือประเภทคำถาม",
+            "- ถ้าต้องการแก้ไข ให้ทำสำเนาของตัวเองก่อน: ไฟล์ > สร้างสำเนา",
             "",
-            "READ THIS BEFORE TRUSTING ANYTHING",
-            "- Questions were recalled by students after each exam, in their own words (Thai and English). They can be incomplete or wrong.",
-            f"- Because recall is partial, {n_filled} questions were missing choices. They are filled in so each has 4-5 choices. 'Completed from recall' says which letters were filled in, and 'Original recalled wording' shows exactly what was recalled. The real exam may have worded them differently.",
-            "- เฉลยรุ่นพี่ = the answer written by seniors in the original paper. It is NOT an official key and may be wrong. It always refers to the original recalled choices.",
-            "- Concept names, question types and reading references are first-pass labels that nobody has reviewed. Check them against the textbook or your attending.",
-            "- Read = Board Review note number (BR nn), then Chula Surgery 1 chapter and pages.",
-            "- Pictures are links to the picture in the repo. Open the link to see the picture.",
+            "อ่านก่อนเชื่อข้อมูลในไฟล์นี้",
+            "- ข้อสอบถูกจำมาจากความทรงจำของนักศึกษาหลังสอบ เขียนด้วยคำพูดของตัวเอง (ไทยปนอังกฤษ) จึงอาจไม่ครบหรือผิดได้",
+            f"- เพราะความจำไม่ครบ มี {n_filled} ข้อที่ขาดตัวเลือก จึงมีการเติมให้เหลือข้อละ 4-5 ตัวเลือก (เติมโดย AI จากเนื้อหาในโจทย์และตำรา ยังไม่มีใครตรวจ) คอลัมน์ 'Completed from recall' บอกว่าตัวเลือกตัวไหนถูกเติม และ 'Original recalled wording' แสดงสิ่งที่จำได้จริงตามต้นฉบับ ข้อสอบจริงอาจใช้ถ้อยคำต่างออกไป",
+            "- เฉลยรุ่นพี่ = เฉลยที่รุ่นพี่เขียนไว้ในข้อสอบต้นฉบับ ไม่ใช่เฉลยทางการ และอาจผิดได้ เฉลยนี้อ้างถึงตัวเลือกที่จำได้ตอนแรกเท่านั้น",
+            "- ชื่อ concept และประเภทคำถามเป็นการติดป้ายรอบแรก ยังไม่มีใครตรวจ ควรเทียบกับตำราหรืออาจารย์",
+            "- รูปภาพเป็นลิงก์ไปยังรูปใน repo กดลิงก์เพื่อดูรูป",
             "",
-            "SOURCE",
-            "- Built automatically from https://github.com/playerplayrh/surgery-year-4 (exams, exam-map/tags and exam-map/completed). Corrections go to the repo owner, not into this file.",
-            f"- Built {datetime.date.today().isoformat()}. No patient details are included."]
+            "แหล่งที่มา",
+            "- สร้างอัตโนมัติจาก https://github.com/playerplayrh/surgery-year-4 (exams, exam-map/tags และ exam-map/completed) หากพบข้อผิดให้แจ้งเจ้าของ repo ไม่ต้องแก้ในไฟล์นี้",
+            f"- สร้างเมื่อ {datetime.date.today().isoformat()} ไม่มีข้อมูลผู้ป่วยในไฟล์นี้"]
 
 
 # ---------------------------------------------------------------- xlsx writer (plain strings only)
@@ -313,8 +313,8 @@ def cmd_build(root, args):
     out = Path(args.out) if args.out else root / "exam-map"
     out.mkdir(parents=True, exist_ok=True)
     path = out / "Past exam bank.xlsx"
-    q_widths = [22, 24, 40, 8, 22, 6, 12, 80, 22, 40, 20, 70, 50, 34, 40, 50]
-    q_wrap = {3, 8, 10, 11, 12, 13, 14, 15, 16}
+    q_widths = [22, 24, 40, 8, 22, 6, 12, 80, 22, 40, 20, 70, 50, 40, 50]
+    q_wrap = {3, 8, 10, 11, 12, 13, 14, 15}
     by_topic = collections.OrderedDict()
     for r in q_rows:
         by_topic.setdefault((r[0], r[1]), []).append(r)
@@ -328,11 +328,12 @@ def cmd_build(root, args):
         links.append((f"D{i}", f"'{name}'!A1", "Open tab: " + name))
         topic_tabs.append((name, q_head, v, q_widths, q_wrap))
     write_xlsx(path, [
-        ("Read me", ["About this file"], [[x] for x in readme_lines(len(c_rows), len(q_rows), n_filled)], [130], {1}),
+        ("Read me", ["อ่านก่อนใช้"], [[x] for x in readme_lines(len(c_rows), len(q_rows), n_filled)], [130], {1}),
         ("Topics", ["Organ system", "Topic", "Questions", "Go to its tab (click)"], idx_rows, [34, 34, 10, 40], set(), links),
-        ("Concepts", c_head, c_rows, [22, 24, 44, 9, 22, 14, 70, 34, 50, 40], {3, 7, 8, 9, 10}),
+    ] + topic_tabs + [
+        ("Concepts", c_head, c_rows, [22, 24, 44, 9, 22, 14, 70, 50, 40], {3, 7, 8, 9}),
         ("All questions", q_head, q_rows, q_widths, q_wrap),
-    ] + topic_tabs)
+    ])
     print(f"{len(c_rows)} concepts, {len(q_rows)} questions ({n_filled} filled in) -> {path}")
     return 0
 
