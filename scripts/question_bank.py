@@ -196,14 +196,13 @@ def sheets(root):
     for r in sorted(rows, key=lambda r: (r["q"]["system"], r["q"]["topic"], r["q"]["concept"],
                                          -int(r["q"]["cohort"]) if r["q"]["cohort"].isdigit() else 0, r["q"]["num"])):
         q = r["q"]
-        q_rows.append([q["system"], q["topic"], q["concept"], int(q["cohort"]) if q["cohort"].isdigit() else q["cohort"],
-                       q["set"], q["num"], r["paste"], "", r["key"],
+        q_rows.append([q["system"], q["topic"], q["set"], r["paste"], r["key"],
                        ("Yes: " + ", ".join(r["added"]) + " filled in" if r["added"] else "No"),
-                       original_text(q), q["sub"], q["pics"]])
+                       original_text(q), q["pics"]])
     c_head = ["Organ system", "Topic", "Concept", "Times asked", "Years asked", "Example question (copy this)",
               "All questions", "Picture"]
-    q_head = ["Organ system", "Topic", "Concept", "MDCU", "Paper", "Q", "Question (copy this)", "Your answer (fill in)",
-              "เฉลยรุ่นพี่", "Completed from recall", "Original recalled wording", "What it asks", "Picture"]
+    q_head = ["Organ system", "Topic", "Paper", "Question (copy this)",
+              "เฉลยรุ่นพี่", "Completed from recall", "Original recalled wording", "Picture"]
     return rows, c_head, concept_rows, q_head, q_rows
 
 
@@ -216,8 +215,8 @@ def readme_lines(n_concepts, n_questions, n_filled):
             "- แท็บของแต่ละหัวข้อ (เช่น Hernia, Liver mass): ข้อสอบทุกข้อของหัวข้อนั้น เรียงตาม concept และรุ่นใหม่ก่อน",
             "- แท็บ Concepts (อยู่ท้ายสุด): หนึ่งแถวต่อหนึ่ง concept คัดลอกเซลล์ 'Example question' เพื่อได้ข้อสอบพร้อมตัวเลือกไปใช้ต่อ",
             "- แท็บ All questions (อยู่ท้ายสุด): ข้อสอบทุกข้อ เรียงรุ่นใหม่ก่อน คัดลอกเซลล์ 'Question (copy this)' ท้ายข้อมีบรรทัด 'Answer:' ว่างไว้ให้เติม",
-            "- คอลัมน์ 'Your answer (fill in)' เว้นว่างไว้โดยตั้งใจ",
-            "- ใช้ลูกศรตัวกรองที่แถวหัวตารางเพื่อกรองตามระบบอวัยวะ หัวข้อ concept หรือรุ่น (MDCU)",
+            "- ท้ายทุกข้อมีบรรทัด 'Answer:' ว่างไว้ให้เติมคำตอบของตัวเอง ไม่มีเฉลยจาก AI",
+            "- ใช้ลูกศรตัวกรองที่แถวหัวตารางเพื่อกรองตามระบบอวัยวะ หัวข้อ หรือข้อสอบชุดนั้น (Paper)",
             "- ถ้าต้องการแก้ไข ให้ทำสำเนาของตัวเองก่อน: ไฟล์ > สร้างสำเนา",
             "",
             "อ่านก่อนเชื่อข้อมูลในไฟล์นี้",
@@ -312,8 +311,8 @@ def cmd_build(root, args):
     out = Path(args.out) if args.out else root / "exam-map"
     out.mkdir(parents=True, exist_ok=True)
     path = out / "Past exam bank.xlsx"
-    q_widths = [22, 24, 40, 8, 22, 6, 80, 22, 40, 20, 70, 50, 40]
-    q_wrap = {3, 7, 9, 10, 11, 12, 13}
+    q_widths = [22, 24, 22, 80, 40, 20, 70, 40]
+    q_wrap = {4, 5, 6, 7, 8}
     by_topic = collections.OrderedDict()
     for r in q_rows:
         by_topic.setdefault((r[0], r[1]), []).append(r)
