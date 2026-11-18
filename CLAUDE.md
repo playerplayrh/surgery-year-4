@@ -184,6 +184,33 @@ templates/front-matter.md.
   rebuild both after changing it. Mind-map labels use fullwidth brackets, because Mermaid reads
   `( ) [ ] { }` as node shapes.
 
+## Question bank (Google Sheet)
+- scripts/question_bank.py builds `exam-map/Past exam bank.xlsx` (generated, not committed): one workbook for every
+  organ system with a Concepts tab and an All questions tab. Upload it to Drive `Surgery Group/question-bank/` with
+  `rclone copy <file> surgerygroup:question-bank --drive-import-formats xlsx`; Drive turns it into a Google Sheet.
+  The Sheet is a template for friends to copy from, not to edit.
+- The "Your answer (fill in)" column is always blank. Never put an AI-made answer anywhere in it. The answers written
+  by seniors in the original papers appear only in the column `เฉลยรุ่นพี่` (not official) and always refer to the
+  ORIGINAL recalled choices.
+- Recalled questions often miss choices (`python3 scripts/question_bank.py status` counts them). A filled-in copy
+  lives in `exam-map/completed/<set>.md`, one block per question, only for questions listed by
+  `python3 scripts/question_bank.py incomplete`:
+  ```
+  ## Q101
+  Stem: <optional: the recalled stem plus finishing words; every recalled word stays>
+  A. <recalled choice, unchanged>
+  B. <recalled choice, unchanged>
+  C. <added choice>
+  D. <added choice>
+  Added: C, D
+  ```
+  Rules, enforced by `python3 scripts/question_bank.py check`: recalled choices keep their letter and exact text,
+  only gaps are filled (4-5 choices in total), stems may only grow, added choices are plausible but wrong for the
+  stem and never hint at an answer, and no answer appears. Draw added choices from the same textbook chapter the
+  question's `read` points to. These files are AI-made: say so on the first line (`status: ai-generated`). The Sheet
+  itself does not label the filled-in text as AI-made; it shows which letters were filled in and keeps the original
+  wording in its own column.
+
 ## Terms
 - AC = past exam (the owner does not remember what the letters stand for).
 

@@ -380,6 +380,115 @@ class ExamSignature(RepoCase):
         self.assertNotIn("MDCU79 only", out.read_text(encoding="utf-8"))
 
 
+QB_EXAM = front(id="exam-mdcu78-gen-a-mcq", type="exam", topic="", group="cross", source="exam-recall",
+                exam_set="mdcu78-gen-a-mcq", exam_format="mcq", exam_year="2025", exam_rotation="General Sx rotate A",
+                answer_source="student-key", references=None) + """
+## Q1 (original no. 1)
+Invented stem about a widget.
+
+A. Recalled alpha
+B. Recalled beta
+
+**Answer:** B
+**Explanation:** not stated
+**Guideline / source:** not stated
+
+## Q2 (original no. 2)
+Another invented stem.
+
+A. One
+B. Two
+C. Three
+D. Four
+
+**Answer:** C
+**Explanation:** not stated
+**Guideline / source:** not stated
+"""
+
+
+class QuestionBank(RepoCase):
+    """scripts/question_bank.py: one Sheet for every system; blank answers; senior key labelled; fill-in rules."""
+
+    def setUp(self):
+        super().setUp()
+        self.write("INDEX.md", INDEX.replace("## Topics\n", "## Topics\n### Invented system\n"))
+        self.write("exams/mdcu78-gen-a-mcq/exam.md", QB_EXAM)
+        self.write("exam-map/tags/mdcu78-gen-a-mcq.md",
+                   "- Q1 | sample-topic | management | Concept one | What question one asks in detail | BR 01\n"
+                   "- Q2 | other-topic | diagnosis | Concept two | What question two asks in detail | BR 02\n")
+
+    def qb(self, *args, ok=True):
+        r = subprocess.run([sys.executable, str(SCRIPTS / "question_bank.py"), "--root", str(self.tmp), *args],
+                           capture_output=True, text=True)
+        if ok:
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        return r
+
+    def sheet(self, n):
+        import zipfile
+        return zipfile.ZipFile(self.tmp / "exam-map" / "Past exam bank.xlsx").read(f"xl/worksheets/sheet{n}.xml").decode("utf-8")
+
+    def fill(self, text):
+        self.write("exam-map/completed/mdcu78-gen-a-mcq.md", "# Completed questions: mdcu78-gen-a-mcq\n\n" + text)
+
+    GOOD = "## Q1\nA. Recalled alpha\nB. Recalled beta\nC. Added gamma\nD. Added delta\nAdded: C, D\n"
+
+    def test_status_and_incomplete_list_only_the_short_question(self):
+        out = self.qb("incomplete").stdout
+        self.assertIn("mdcu78-gen-a-mcq Q1", out)
+        self.assertNotIn("Q2 |", out)
+        self.assertIn("1 question(s) still to fill in", out)
+        self.assertIn("to do", self.qb("status").stdout)
+
+    def test_answer_column_is_blank_and_the_senior_key_is_labelled(self):
+        self.qb("build")
+        sheet = self.sheet(3)
+        self.assertIn("เฉลยรุ่นพี่", sheet)
+        self.assertIn("Your answer (fill in)", sheet)
+        self.assertIn("B. Recalled beta", sheet)                      # the key shown with the ORIGINAL choice text
+        import re
+        answer_cells = re.findall(r'<c r="I(\d+)"[^>]*><is><t xml:space="preserve">(.*?)</t>', sheet)
+        self.assertEqual([c[1] for c in answer_cells if c[0] != "1"], ["", ""])          # every answer cell is blank
+        self.assertIn("Invented stem about a widget.\nA. Recalled alpha\nB. Recalled beta\nAnswer:</t>", sheet)
+
+    def test_filled_in_question_is_used_and_flagged_without_an_answer(self):
+        self.fill(self.GOOD)
+        self.assertEqual(self.qb("check").returncode, 0)
+        self.qb("build")
+        sheet = self.sheet(3)
+        self.assertIn("C. Added gamma", sheet)
+        self.assertIn("Yes: C, D filled in", sheet)
+        self.assertIn("B. Recalled beta", sheet)                      # key still points at the recalled choice
+        self.assertNotIn("<f>", sheet)
+        self.assertIn("filled in", self.qb("status").stdout)
+
+    def test_fill_in_rules_are_enforced(self):
+        bad = {
+            "a recalled choice must not change": self.GOOD.replace("B. Recalled beta", "B. Changed beta"),
+            "a hint must not be added": self.GOOD.replace("C. Added gamma", "C. Added gamma (correct)"),
+            "the Added line must match": self.GOOD.replace("Added: C, D", "Added: C"),
+            "stems may only grow": "## Q1\nStem: A totally different stem\n" + self.GOOD.split("\n", 1)[1],
+            "needs 4-5 choices": "## Q1\nA. Recalled alpha\nB. Recalled beta\nC. Added gamma\nAdded: C\n",
+        }
+        for label, text in bad.items():
+            self.fill(text)
+            r = self.qb("check", ok=False)
+            self.assertEqual(r.returncode, 1, label + "\n" + r.stdout)
+            self.qb("build")
+            self.assertNotIn("Yes:", self.sheet(3), label)           # a broken filled-in copy is never shown
+        self.fill("## Q1\nStem: Invented stem about a widget. Extra finishing words.\n" + self.GOOD.split("\n", 1)[1])
+        self.assertEqual(self.qb("check").returncode, 0)
+
+    def test_cells_are_never_formulas(self):
+        self.fill(self.GOOD.replace("Added gamma", "=1+1 gamma"))
+        self.qb("build")
+        sheet = self.sheet(3)
+        self.assertIn("=1+1 gamma", sheet)
+        self.assertNotIn("<f>", sheet)
+        self.assertEqual(sheet.count("t=\"str\""), 0)
+
+
 class IdentifierScan(RepoCase):
     def test_planted_identifiers_are_caught_and_masked(self):
         self.write("raw/alice/batch1.md", RAW + "seen HN 12345678\ntel 081-234-5678\nadmitted 12/03/2026\nID 7654321\n")
