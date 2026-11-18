@@ -214,7 +214,7 @@ def readme_lines(n_concepts, n_questions, n_filled):
             f"{n_questions} past General Sx MCQ questions from MDCU69-79, grouped into {n_concepts} concepts (the same point tested again, in different words).",
             "",
             "HOW TO USE (this file is a template to copy from, not to edit)",
-            "- Concepts tab: one row per concept. Copy the 'Example question' cell to paste a ready-made question with its choices.",
+            "- Topics tab: the list of every topic with a link to its own tab (the tabs are at the bottom of the screen).", "- Concepts tab: one row per concept. Copy the 'Example question' cell to paste a ready-made question with its choices.",
             "- All questions tab: every question, newest first. Copy the 'Question (copy this)' cell. It ends with a blank 'Answer:' line for you to fill.",
             "- 'Your answer (fill in)' is blank on purpose.",
             "- Use the filter arrows in the header row to filter by organ system, topic, concept, year (MDCU) or type.",
@@ -246,7 +246,7 @@ def clean(s):
     return re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", str(s))
 
 
-def sheet_xml(head, data, widths, wrap_cols, flt=True):
+def sheet_xml(head, data, widths, wrap_cols, flt=True, links=None):
     out = ['<?xml version="1.0" encoding="UTF-8" standalone="yes"?>',
            '<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">',
            '<sheetViews><sheetView workbookViewId="0"><pane ySplit="1" topLeftCell="A2" activePane="bottomLeft" state="frozen"/></sheetView></sheetViews>',
@@ -263,7 +263,11 @@ def sheet_xml(head, data, widths, wrap_cols, flt=True):
             else:
                 cells.append(f'<c r="{ref}"{st} t="inlineStr"><is><t xml:space="preserve">{escape(clean(v))}</t></is></c>')
         out.append(f'<row r="{ri}">' + "".join(cells) + "</row>")
-    out.append("</sheetData>" + (f'<autoFilter ref="A1:{col(len(head))}{len(data) + 1}"/>' if flt else "") + "</worksheet>")
+    out.append("</sheetData>" + (f'<autoFilter ref="A1:{col(len(head))}{len(data) + 1}"/>' if flt else ""))
+    if links:
+        out.append("<hyperlinks>" + "".join(f'<hyperlink ref="{ref}" location="{escape(loc, {chr(34): "&quot;"})}" display="{escape(clean(disp), {chr(34): "&quot;"})}"/>'
+                                            for ref, loc, disp in links) + "</hyperlinks>")
+    out.append("</worksheet>")
     return "".join(out)
 
 
@@ -280,6 +284,7 @@ STYLES = ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?><styleSheet xm
 
 
 def write_xlsx(path, tabs):
+    tabs = [t if len(t) == 6 else t + (None,) for t in tabs]
     n = len(tabs)
     with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED) as z:
         z.writestr("[Content_Types].xml", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">'
@@ -297,8 +302,8 @@ def write_xlsx(path, tabs):
                    + "".join(f'<Relationship Id="rId{i}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet" Target="worksheets/sheet{i}.xml"/>' for i in range(1, n + 1))
                    + f'<Relationship Id="rId{n + 1}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/></Relationships>')
         z.writestr("xl/styles.xml", STYLES)
-        for i, (name, head, data, widths, wrap) in enumerate(tabs, 1):
-            z.writestr(f"xl/worksheets/sheet{i}.xml", sheet_xml(head, data, widths, wrap, flt=name != "Read me"))
+        for i, (name, head, data, widths, wrap, links) in enumerate(tabs, 1):
+            z.writestr(f"xl/worksheets/sheet{i}.xml", sheet_xml(head, data, widths, wrap, flt=name != "Read me" and links is None, links=links))
 
 
 # ---------------------------------------------------------------- commands
@@ -308,11 +313,26 @@ def cmd_build(root, args):
     out = Path(args.out) if args.out else root / "exam-map"
     out.mkdir(parents=True, exist_ok=True)
     path = out / "Past exam bank.xlsx"
+    q_widths = [22, 24, 40, 8, 22, 6, 12, 80, 22, 40, 20, 70, 50, 34, 40, 50]
+    q_wrap = {3, 8, 10, 11, 12, 13, 14, 15, 16}
+    by_topic = collections.OrderedDict()
+    for r in q_rows:
+        by_topic.setdefault((r[0], r[1]), []).append(r)
+    names, topic_tabs, idx_rows, links = {}, [], [], []
+    for (system, topic), v in by_topic.items():
+        name = topic.replace("-", " ").capitalize()[:31]
+        names[(system, topic)] = name
+    for i, ((system, topic), v) in enumerate(by_topic.items(), 2):
+        name = names[(system, topic)]
+        idx_rows.append([system, topic.replace("-", " ").capitalize(), len(v), "Open tab: " + name])
+        links.append((f"D{i}", f"'{name}'!A1", "Open tab: " + name))
+        topic_tabs.append((name, q_head, v, q_widths, q_wrap))
     write_xlsx(path, [
         ("Read me", ["About this file"], [[x] for x in readme_lines(len(c_rows), len(q_rows), n_filled)], [130], {1}),
+        ("Topics", ["Organ system", "Topic", "Questions", "Go to its tab (click)"], idx_rows, [34, 34, 10, 40], set(), links),
         ("Concepts", c_head, c_rows, [22, 24, 44, 9, 22, 14, 70, 34, 50, 40], {3, 7, 8, 9, 10}),
-        ("All questions", q_head, q_rows, [22, 24, 40, 8, 22, 6, 12, 80, 22, 40, 20, 70, 50, 34, 40, 50], {3, 8, 10, 11, 12, 13, 14, 15, 16}),
-    ])
+        ("All questions", q_head, q_rows, q_widths, q_wrap),
+    ] + topic_tabs)
     print(f"{len(c_rows)} concepts, {len(q_rows)} questions ({n_filled} filled in) -> {path}")
     return 0
 
