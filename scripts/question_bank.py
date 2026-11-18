@@ -196,13 +196,13 @@ def sheets(root):
     for r in sorted(rows, key=lambda r: (r["q"]["system"], r["q"]["topic"], r["q"]["concept"],
                                          -int(r["q"]["cohort"]) if r["q"]["cohort"].isdigit() else 0, r["q"]["num"])):
         q = r["q"]
-        q_rows.append([q["system"], q["topic"], q["set"], r["paste"], r["key"],
+        q_rows.append([q["system"], q["topic"], r["paste"], r["key"],
                        ("Yes: " + ", ".join(r["added"]) + " filled in" if r["added"] else "No"),
-                       original_text(q), q["pics"]])
+                       original_text(q), q["pics"], q["set"]])
     c_head = ["Organ system", "Topic", "Concept", "Times asked", "Years asked", "Example question (copy this)",
               "All questions", "Picture"]
-    q_head = ["Organ system", "Topic", "Paper", "Question (copy this)",
-              "เฉลยรุ่นพี่", "Completed from recall", "Original recalled wording", "Picture"]
+    q_head = ["Organ system", "Topic", "Question (copy this)",
+              "เฉลยรุ่นพี่", "Completed from recall", "Original recalled wording", "Picture", "Source"]
     return rows, c_head, concept_rows, q_head, q_rows
 
 
@@ -216,7 +216,7 @@ def readme_lines(n_concepts, n_questions, n_filled):
             "- แท็บ Concepts (อยู่ท้ายสุด): หนึ่งแถวต่อหนึ่ง concept คัดลอกเซลล์ 'Example question' เพื่อได้ข้อสอบพร้อมตัวเลือกไปใช้ต่อ",
             "- แท็บ All questions (อยู่ท้ายสุด): ข้อสอบทุกข้อ เรียงรุ่นใหม่ก่อน คัดลอกเซลล์ 'Question (copy this)' ท้ายข้อมีบรรทัด 'Answer:' ว่างไว้ให้เติม",
             "- ท้ายทุกข้อมีบรรทัด 'Answer:' ว่างไว้ให้เติมคำตอบของตัวเอง ไม่มีเฉลยจาก AI",
-            "- ใช้ลูกศรตัวกรองที่แถวหัวตารางเพื่อกรองตามระบบอวัยวะ หัวข้อ หรือข้อสอบชุดนั้น (Paper)",
+            "- ใช้ลูกศรตัวกรองที่แถวหัวตารางเพื่อกรองตามระบบอวัยวะ หัวข้อ หรือข้อสอบชุดนั้น (Source)",
             "- ถ้าต้องการแก้ไข ให้ทำสำเนาของตัวเองก่อน: ไฟล์ > สร้างสำเนา",
             "",
             "อ่านก่อนเชื่อข้อมูลในไฟล์นี้",
@@ -311,8 +311,8 @@ def cmd_build(root, args):
     out = Path(args.out) if args.out else root / "exam-map"
     out.mkdir(parents=True, exist_ok=True)
     path = out / "Past exam bank.xlsx"
-    q_widths = [22, 24, 22, 80, 40, 20, 70, 40]
-    q_wrap = {4, 5, 6, 7, 8}
+    q_widths = [22, 24, 80, 40, 20, 70, 40, 22]
+    q_wrap = {3, 4, 5, 6, 7}
     by_topic = collections.OrderedDict()
     for r in q_rows:
         by_topic.setdefault((r[0], r[1]), []).append(r)
