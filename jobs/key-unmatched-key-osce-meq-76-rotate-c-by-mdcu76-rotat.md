@@ -4,16 +4,16 @@ title: "Unmatched key: Key OSCE MEQ 76 rotate C (By MDCU76 rotate D).pdf"
 kind: exam
 scope: gen
 priority: 7
-status: on-hold
+status: done
 owner:
 pages: 23
 scan_pages: 0
 files: "https://drive.google.com/drive/folders/1-EauC84Pjys0mQpkAkKH1PdWKgSgIj41"
 source: "Drive: Surgery Group/job-files/key-unmatched-key-osce-meq-76-rotate-c-by-mdcu76-rotat/key to match - Key OSCE MEQ 76 rotate C (By MDCU76 rotate D).pdf"
 key_sources: []
-output: (attach to the right exam job)
+output: exams/mdcu76-sx-c-osce/exam.md, exams/mdcu76-sx-c-meq/exam.md
 checkpoint:
-updated: 2026-10-13
+updated: 2026-11-25
 ---
 
 ## Notes
@@ -23,3 +23,4 @@ Answer key that matched no paper by name. Open it, find its paper, and add it to
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/key-unmatched-key-osce-meq-76-rotate-c-by-mdcu76-rotat/ (unzipped; see its READ ME)
 - 2026-10-13 owner: OSCE/MEQ combine General Surgery and subspecialty content; low priority for now (priority 7)
+- 2026-11-25 matched: this key was already used for the 76 rotate C OSCE and MEQ sets; nothing more to add
