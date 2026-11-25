@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu69-subspe-3-mcq-2
 exam_format: mcq
-exam_year: 2017
+exam_year: 2016
 exam_rotation: Subspecialty rotate 3
 answer_source: recalled
 ---
@@ -21,7 +21,7 @@ Source: "AC Subspecialty Surgery Rotate 3/2559" (file "AC MCQ Subspecialty Sx Ro
 The paper's own numbers Q1-Q38 are kept (the other numbers of the 90 are not in the paper). The topic heading is written in brackets at the start of the first question under it.
 Answers: no answer key was found for this paper and the paper marks no answers, so every answer is "not given in the source".
 Q19, Q20 and Q31 are only notes (Q19 and Q20: the topic is the same as the year-before exam; Q31: the stem only, marked as matching a past exam) with no choices. Q8 lists only two choices. Q9 and Q35 mention a picture that is not in the paper. The paper has no pictures. The Thai text of this PDF has a font problem (the vowel "า" is stored as "ำ"); it was corrected by reading the rendered pages.
-exam_year 2017 is inferred: the paper says academic year 2559 (2016-17) and the PDF was made in January 2017, but the exam date is not stated.
+exam_year 2016 is inferred: the paper says academic year 2559 (2016-17); the OSCE and MEQ paper of the same rotate, sat in the afternoon of the same day (file `mdcu69-gen-3-osce`, dated December 2016), points to late 2016; this PDF was made in January 2017; the exam date itself is not stated.
 The rotation number (3) is not mapped to a G.
 
 ## Q1 (original no. 1)
@@ -486,5 +486,5 @@ E. แม่ขาดโฟลิก
 
 ## Flagged for checking
 - No answer key exists for this paper in the files supplied.
-- exam_year 2017 is inferred from the PDF date (January 2017) and the academic year 2559; the exam could have been in late 2016.
+- exam_year 2016 is inferred from the academic year 2559 and the same-day OSCE/MEQ paper dated December 2016 (this PDF was made in January 2017); the exam could have been in early 2017.
 - Q19, Q20 and Q31 have no stem or choices to answer; Q9 and Q35 refer to pictures that are not in the paper.
