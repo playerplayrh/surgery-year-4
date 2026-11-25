@@ -4,16 +4,16 @@ title: Sx (Subspecialties) แอคเปล่า รวม 71-72.pdf pages 15
 kind: bank
 scope: subspe
 priority: 6
-status: on-hold
-owner:
+status: done
+owner: playerplayrh
 pages: 4
 scan_pages: 1
 files: "https://drive.google.com/drive/folders/1sYNBvNAmN7-leUbvJSvlve_MCs1ySaa_"
 source: "Drive: Surgery Group/job-files/bank-mdcu71-subspe-p151-154/paper - Sx (Subspecialties) แอคเปล่า รวม 71-72 (pages 151-154).pdf"
 key_sources: []
-output: exams/bank-mdcu71-subspe/
-checkpoint:
-updated: 2026-10-12
+output: exams/bank-mdcu65-subspe-r3-mcq
+checkpoint: "all done: pages 151-154 (MDCU65 R3: 18 q, with the section's header page 150)"
+updated: 2026-11-25
 ---
 
 ## Notes
@@ -22,3 +22,4 @@ Check first whether these questions already exist in a per-cohort exam job; reco
 ## Log
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/bank-mdcu71-subspe-p151-154/ (unzipped; see its READ ME)
+- 2026-11-25 playerplayrh with Claude: bank-mdcu65-subspe-r3-mcq (18 q; 15 unnumbered + Q125, 126, 130). validate 0 errors
