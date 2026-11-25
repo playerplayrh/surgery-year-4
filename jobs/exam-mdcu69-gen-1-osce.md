@@ -4,16 +4,16 @@ title: MDCU69 rotate 1 · General Sx · OSCE
 kind: exam
 scope: gen
 priority: 7
-status: todo
-owner:
+status: done
+owner: playerplayrh
 pages: 13
 scan_pages: 2
 files: "https://drive.google.com/drive/folders/1l5vmizz9nhuYWGGf5ONgjQZNLmKdqN6O"
 source: "Drive: Surgery Group/job-files/exam-mdcu69-gen-1-osce/paper - Copy of AC OSCE Sx Rotate 1 MDCU 69.pdf"
 key_sources: []
 output: exams/mdcu69-gen-1-osce/exam.md
-checkpoint:
-updated: 2026-10-13
+checkpoint: "all done: 12 stations, no key, 4 pictures"
+updated: 2026-11-25
 ---
 
 ## Notes
@@ -24,3 +24,4 @@ No answer key matched automatically; check the KEY zips by hand.
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu69-gen-1-osce/ (unzipped; see its READ ME)
 - 2026-10-12 released by owner playerplayrh (status todo)
 - 2026-10-13 owner: OSCE/MEQ combine General Surgery and subspecialty content; low priority for now (priority 7)
+- 2026-11-25 released and done (playerplayrh, with Claude): 12 stations, no key, 4 pictures; no key in the files supplied; validate 0 errors
