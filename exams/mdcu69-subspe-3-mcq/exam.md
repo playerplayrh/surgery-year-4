@@ -12,7 +12,7 @@ raw:
 references: []
 exam_set: mdcu69-subspe-3-mcq
 exam_format: mcq
-exam_year: 2017
+exam_year: 2016
 exam_rotation: Subspecialty rotate 3
 answer_source: recalled
 ---
@@ -21,7 +21,7 @@ Source: "AC Subspecialty Surgery R3/2559" (file "AC-Subspecialty-Surgery-R3"), q
 The paper's own numbers are kept (Q1, 13, 14, 15, 20, 23, 48, 62, 65, 69, 77, 90); the other numbers of the 90 are not in the paper. Twenty-two questions are written "XX" with no number. They are numbered Q201-Q222 in the order they appear, and their heading says "unnumbered question n" - there "original no." is only their order among the unnumbered questions, not a number printed in the paper.
 Answers: no answer key was found for this paper and the paper marks no answers, so every answer is "not given in the source".
 The paper numbers its choices 1, 2, 3 ...; they are given here as A, B, C ... in the same order (the bladder carcinoma question already uses letters). Many questions list only the choices the students remembered. Q219 and Q221 mention a picture that is not in the paper. Q218's stem is cut off in the paper. The paper has no pictures. Between Q20 and Q23 the page break ran two lines together ("metallic strip" and "23."); they are separated here.
-exam_year 2017 is inferred: the paper says academic year 2559 (2016-17) and the PDF was made in June 2017, but the exam date is not stated.
+exam_year 2016 is inferred: the paper says academic year 2559 (2016-17); the OSCE and MEQ paper of the same rotate, sat in the afternoon of the same day (file `mdcu69-gen-3-osce`, dated December 2016), points to late 2016; this PDF was made in June 2017; the exam date itself is not stated.
 The rotation number (3) is not mapped to a G.
 
 ## Q1 (original no. 1)
@@ -431,6 +431,6 @@ D. ชนิดMalignant พบมากกว่าชนิด Benign
 
 ## Flagged for checking
 - No answer key exists for this paper in the files supplied.
-- exam_year 2017 is inferred from the PDF date (June 2017) and the academic year 2559; the exam could have been in late 2016.
+- exam_year 2016 is inferred from the academic year 2559 and the same-day OSCE/MEQ paper dated December 2016 (this PDF was made in June 2017); the exam could have been in early 2017.
 - Q218 is cut off ("มี bleed ที่"); Q219 and Q221 refer to pictures that are not in the paper.
 - Q210 has a single choice.
