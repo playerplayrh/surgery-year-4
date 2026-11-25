@@ -4,16 +4,16 @@ title: MDCU75 rotate D · Subspecialty · MCQ
 kind: exam
 scope: subspe
 priority: 4
-status: on-hold
-owner:
+status: done
+owner: playerplayrh
 pages: 4
 scan_pages: 0
 files: "https://drive.google.com/drive/folders/1gLB8QkA9Ijs5O3zMZLBfMGkKarBdTmrL"
 source: "Drive: Surgery Group/job-files/exam-mdcu75-subspe-d-mcq/paper - AC MCQ Subspecialty Sx MDCU75 Rotate D.pdf"
 key_sources: ["Drive: Surgery Group/job-files/exam-mdcu75-subspe-d-mcq/key - Solution AC MCQ sub spe surgery MDCU75 rotate D by MDCU76 Maimai and Ig.pdf"]
 output: exams/mdcu75-subspe-d-mcq/exam.md
-checkpoint:
-updated: 2026-10-12
+checkpoint: "all done: 28 questions (paper unnumbered) with the student key"
+updated: 2026-11-25
 ---
 
 ## Notes
@@ -22,3 +22,4 @@ none
 ## Log
 - 2026-10-11 created from the inbox inventory (extraction on hold)
 - 2026-10-12 files ready in Drive Surgery Group/job-files/exam-mdcu75-subspe-d-mcq/ (unzipped; see its READ ME)
+- 2026-11-25 released and done (playerplayrh, with Claude): 28 unnumbered questions numbered in order, pink-highlighted student key, 1 picture kept; validate 0 errors
