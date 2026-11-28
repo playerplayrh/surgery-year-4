@@ -210,6 +210,7 @@ General Sx or OSCE/MEQ papers ask them: give them an organ-system heading, not a
 | chula-black-1 | textbook/chula-black-1/33-subspe-inguinal-scrotal-problems.md | 1011-1024 | subspecialty-ped | ai-generated |
 | chula-black-1 | textbook/chula-black-1/34-subspe-pediatric-surgical-oncology.md | 1025-1044 | subspecialty-ped | ai-generated |
 | chula-black-1 | textbook/chula-black-1/35-subspe-pediatric-trauma.md | 1045-1056 | subspecialty-ped | ai-generated |
+| chula-black-2 | textbook/chula-black-2/00-contents.md | 12-14 | textbook-contents | ai-generated |
 
 ## Yellow-form tracker (Docq)
 
